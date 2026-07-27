@@ -1,0 +1,59 @@
+{
+  "erstellt_am": "2026-07-27T16:48:32",
+  "reihen": {
+    "HY_OAS": {
+      "wert": "2.77",
+      "beobachtungsdatum": "2026-07-23"
+    },
+    "IG_OAS": {
+      "wert": "0.79",
+      "beobachtungsdatum": "2026-07-23"
+    },
+    "VIX": {
+      "wert": "18.58",
+      "beobachtungsdatum": "2026-07-24"
+    },
+    "VIX3M": {
+      "wert": "20.51",
+      "beobachtungsdatum": "2026-07-24"
+    },
+    "Zinskurve_10J_2J": {
+      "wert": "0.36",
+      "beobachtungsdatum": "2026-07-24"
+    },
+    "SOFR": {
+      "wert": "3.64",
+      "beobachtungsdatum": "2026-07-24"
+    },
+    "IORB": {
+      "wert": "3.6500000000",
+      "beobachtungsdatum": "2026-07-27"
+    },
+    "Initial_Claims": {
+      "wert": "187000",
+      "beobachtungsdatum": "2026-07-18"
+    },
+    "Brent_EIA_verzoegert": {
+      "wert": "86.99",
+      "beobachtungsdatum": "2026-07-20"
+    },
+    "Inflationserwartung_10J": {
+      "wert": "2.26",
+      "beobachtungsdatum": "2026-07-24"
+    },
+    "Realrendite_10J": {
+      "wert": "2.4300000000",
+      "beobachtungsdatum": "2026-07-23"
+    }
+  },
+  "berechnet": {
+    "SOFR_minus_IORB_bp": {
+      "wert": -1.0,
+      "beobachtungsdatum": "2026-07-24"
+    },
+    "VIX_VIX3M_Ratio": {
+      "wert": 0.9059,
+      "beobachtungsdatum": "2026-07-24"
+    }
+  }
+}
