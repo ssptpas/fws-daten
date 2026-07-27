@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-27T18:26:25",
+  "erstellt_am": "2026-07-27T22:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.79",
@@ -27,7 +27,7 @@
     },
     "IORB": {
       "wert": "3.6500000000",
-      "beobachtungsdatum": "2026-07-27"
+      "beobachtungsdatum": "2026-07-28"
     },
     "Initial_Claims": {
       "wert": "187000",
@@ -43,7 +43,7 @@
     },
     "Realrendite_10J": {
       "wert": "2.4300000000",
-      "beobachtungsdatum": "2026-07-23"
+      "beobachtungsdatum": "2026-07-24"
     }
   },
   "berechnet": {
