@@ -1,59 +1,100 @@
 {
-  "erstellt_am": "2026-07-28T14:02:55",
+  "erstellt_am": "2026-07-28T14:39:39",
   "reihen": {
     "HY_OAS": {
       "wert": "2.79",
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
     },
     "IG_OAS": {
       "wert": "0.80",
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
     },
     "VIX": {
       "wert": "18.58",
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
     },
     "VIX3M": {
       "wert": "20.51",
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
       "wert": "0.34",
-      "beobachtungsdatum": "2026-07-27"
+      "beobachtungsdatum": "2026-07-27",
+      "quelle": "FRED"
     },
     "SOFR": {
       "wert": "3.64",
-      "beobachtungsdatum": "2026-07-27"
+      "beobachtungsdatum": "2026-07-27",
+      "quelle": "FRED"
     },
     "IORB": {
       "wert": "3.6500000000",
-      "beobachtungsdatum": "2026-07-28"
+      "beobachtungsdatum": "2026-07-28",
+      "quelle": "FRED"
     },
     "Initial_Claims": {
       "wert": "187000",
-      "beobachtungsdatum": "2026-07-18"
+      "beobachtungsdatum": "2026-07-18",
+      "quelle": "FRED"
     },
     "Brent_EIA_verzoegert": {
       "wert": "86.99",
-      "beobachtungsdatum": "2026-07-20"
+      "beobachtungsdatum": "2026-07-20",
+      "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
       "wert": "2.21",
-      "beobachtungsdatum": "2026-07-27"
+      "beobachtungsdatum": "2026-07-27",
+      "quelle": "FRED"
     },
     "Realrendite_10J": {
       "wert": "2.4300000000",
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
+    },
+    "Rohoel_Lager_USA": {
+      "wert": "411675",
+      "beobachtungsdatum": "2026-07-17",
+      "quelle": "EIA",
+      "einheit": "MBBL"
+    },
+    "Hormus_Transit": {
+      "wert": 10,
+      "tanker": 2,
+      "beobachtungsdatum": "2026-07-23",
+      "quelle": "IMF PortWatch",
+      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
+    },
+    "BabelMandeb_Transit": {
+      "wert": 20,
+      "tanker": 6,
+      "beobachtungsdatum": "2026-07-26",
+      "quelle": "IMF PortWatch",
+      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
+    },
+    "Treasury_Auktion": {
+      "wert": "2.660000",
+      "beobachtungsdatum": "2026-07-27",
+      "auktion": "2-Year Note",
+      "high_yield": "4.3150",
+      "quelle": "US Treasury",
+      "einheit": "Bid-to-Cover"
     }
   },
   "berechnet": {
     "SOFR_minus_IORB_bp": {
       "wert": -1.0,
-      "beobachtungsdatum": "2026-07-27"
+      "beobachtungsdatum": "2026-07-27",
+      "quelle": "FRED (berechnet)"
     },
     "VIX_VIX3M_Ratio": {
       "wert": 0.9059,
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED (berechnet)"
     }
   }
 }
