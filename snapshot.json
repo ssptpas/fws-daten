@@ -1,24 +1,24 @@
 {
-  "erstellt_am": "2026-07-28T14:45:02",
+  "erstellt_am": "2026-07-28T22:45:01",
   "reihen": {
     "HY_OAS": {
-      "wert": "2.79",
-      "beobachtungsdatum": "2026-07-24",
+      "wert": "2.81",
+      "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED"
     },
     "IG_OAS": {
-      "wert": "0.80",
-      "beobachtungsdatum": "2026-07-24",
+      "wert": "0.81",
+      "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "18.58",
-      "beobachtungsdatum": "2026-07-24",
+      "wert": "18.67",
+      "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED"
     },
     "VIX3M": {
-      "wert": "20.51",
-      "beobachtungsdatum": "2026-07-24",
+      "wert": "20.2",
+      "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
@@ -33,7 +33,7 @@
     },
     "IORB": {
       "wert": "3.6500000000",
-      "beobachtungsdatum": "2026-07-28",
+      "beobachtungsdatum": "2026-07-29",
       "quelle": "FRED"
     },
     "Initial_Claims": {
@@ -52,8 +52,8 @@
       "quelle": "FRED"
     },
     "Realrendite_10J": {
-      "wert": "2.4300000000",
-      "beobachtungsdatum": "2026-07-24",
+      "wert": "2.4400000000",
+      "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED"
     },
     "Rohoel_Lager_USA": {
@@ -77,10 +77,10 @@
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "Treasury_Auktion": {
-      "wert": "2.660000",
-      "beobachtungsdatum": "2026-07-27",
-      "auktion": "2-Year Note",
-      "high_yield": "4.3150",
+      "wert": "2.490000",
+      "beobachtungsdatum": "2026-07-28",
+      "auktion": "7-Year Note",
+      "high_yield": "4.4730",
       "quelle": "US Treasury",
       "einheit": "Bid-to-Cover"
     }
@@ -92,8 +92,8 @@
       "quelle": "FRED (berechnet)"
     },
     "VIX_VIX3M_Ratio": {
-      "wert": 0.9059,
-      "beobachtungsdatum": "2026-07-24",
+      "wert": 0.9243,
+      "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED (berechnet)"
     }
   }
