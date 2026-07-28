@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-28T09:45:02",
+  "erstellt_am": "2026-07-28T14:02:55",
   "reihen": {
     "HY_OAS": {
       "wert": "2.79",
@@ -23,7 +23,7 @@
     },
     "SOFR": {
       "wert": "3.64",
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-27"
     },
     "IORB": {
       "wert": "3.6500000000",
@@ -49,7 +49,7 @@
   "berechnet": {
     "SOFR_minus_IORB_bp": {
       "wert": -1.0,
-      "beobachtungsdatum": "2026-07-24"
+      "beobachtungsdatum": "2026-07-27"
     },
     "VIX_VIX3M_Ratio": {
       "wert": 0.9059,
