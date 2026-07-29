@@ -1,140 +1,77 @@
 {
-  "erstellt_am": "2026-07-29T09:45:15",
+  "erstellt_am": "2026-07-29T14:45:19",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260729074500",
+  "gkg_stand": "20260729124500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-july-29-2026/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.6,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "wcoapensacola.com",
-      "url": "https://www.wcoapensacola.com/2026/07/29/iran-missile-attack-and-us-saudi-strikes-raise-regional-tensions/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "dailyexcelsior.com",
-      "url": "https://www.dailyexcelsior.com/jordan-intercepts-iranian-missiles-as-us-saudi-arabia-launch-strikes-against-militias-in-iraq/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "military strike"
-      ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/world/us-saudi-arabia-military-strike-iran-backed-militants-war-6284651"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://whp580.iheart.com/content/2026-07-29-fcc-bans-chinese-humanoid-robots-over-security-concerns/"
+      "domain": "newser.com",
+      "url": "https://www.newser.com/story/393690/zelensky-appears-to-gain-key-support-on-capitol-hill.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/891041/from-model-economy-to-industrial-crisis-germany-faces-severe-downturn"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -4.8,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "dailyexcelsior.com",
-      "url": "https://www.dailyexcelsior.com/jordan-intercepts-iranian-missiles-as-us-saudi-arabia-launch-strikes-against-militias-in-iraq-2/"
+      "domain": "kunm.org",
+      "url": "https://www.kunm.org/npr-news/2026-07-29/jordan-intercepts-iranian-missiles-as-u-s-and-saudi-arabia-strike-militias-in-iraq"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "thisisoxfordshire.co.uk",
-      "url": "https://www.thisisoxfordshire.co.uk/news/national/26418095.jordan-intercepts-iran-missiles-us-saudi-arabia-target-militias-iraq/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/arab-world/5301149-jordan-intercepts-iranian-missiles"
+      "domain": "enrsi.stvr.sk",
+      "url": "https://enrsi.stvr.sk/articles/news/454884/premier-neither-national-nor-local-governments-must-prepare-balanced-budgets"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.7,
       "treffer": [
         "mandeb",
-        "red sea"
+        "red sea",
+        "suez"
       ],
-      "domain": "nbcsandiego.com",
-      "url": "https://www.nbcsandiego.com/news/national-international/jordan-intercepts-iran-missiles-us-saudi-arabia-launch-strikes-iraq/4054559/"
+      "domain": "2duerighe.com",
+      "url": "https://www.2duerighe.com/esteri/201959-bab-el-mandeb-the-second-chokepoint-front.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
+      "tonalitaet": -3.7,
       "treffer": [
-        "tanker"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/india-is-world-s-second-largest-supplier-of-seafarers-how-serious-are-the-safety-concerns-article-13986831.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/business/5301151-oil-rises-us-iran-tension-escalates-after-iraq-strikes-missile-attack"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "kten.com",
-      "url": "https://www.kten.com/news/iran-launches-surprise-attack-on-u-s-forces-missiles-intercepted/article_6292335b-4de9-5e53-bce8-f0e13f5ddb90.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "tradearabia.com",
-      "url": "https://tradearabia.com:443/News/465742/Joint-US-Saudi-strikes-hit-Iraq-militias-Iran-missile-attack-thwarted"
+      "domain": "akronnewsreporter.com",
+      "url": "https://www.akronnewsreporter.com/2026/07/29/federal-reserve-meeting-interest-rates/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.4,
       "treffer": [
         "red sea"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279214480/houthi-group-says-it-shot-down-saudi-operated-drone"
+      "domain": "dunyanews.tv",
+      "url": "https://dunyanews.tv/en/World/965170-us-saudi-forces-conduct-joint-strikes-against-iranbacked-groups-in-i"
     }
   ],
   "gkg_alter_stunden": 0.0
