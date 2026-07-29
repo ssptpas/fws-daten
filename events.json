@@ -1,0 +1,129 @@
+{
+  "erstellt_am": "2026-07-29T07:57:08",
+  "quelle": "GDELT GKG",
+  "gdelt_verfuegbar": true,
+  "gkg_stand": "20260729060000",
+  "veraltet": false,
+  "anzahl": 13,
+  "ereignisse": [
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kaieteurnewsonline.com",
+      "url": "https://kaieteurnewsonline.com/2026/07/29/parliament-is-not-a-playground/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "bozemandailychronicle.com",
+      "url": "http://www.bozemandailychronicle.com/ap_news/business/us-thwarts-an-iranian-missile-attack-and-launches-strikes-with-saudi-arabia-against-militias-in/article_9b6cd48b-4402-5348-ae91-3d03ad96ec21.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "bozemandailychronicle.com",
+      "url": "http://www.bozemandailychronicle.com/ap_news/international/jordan-says-it-intercepted-missiles-launched-from-iran/article_48294851-b59f-5317-a212-d203331622f1.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260729/us-saudi-arabia-conduct-strikes-against-iran-aligned-terrorists-in-iraq---centcom-1124511238.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "rnz.co.nz",
+      "url": "https://www.rnz.co.nz/news/crime-and-justice/830146/cash-and-property-worth-800k-seized-from-drug-selling-wairoa-couple"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/2026/jul/29/biodiversity-superspreader-invasive-species-threat-ships-stuck-strait-hormuz-gulf"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newzimbabwe.com",
+      "url": "https://www.newzimbabwe.com/trump-administration-bans-new-chinese-humanoid-robots/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "internazionale.it",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/29/exclusive-boeings-identified-in-reuters-report-carried-weapons-for-sudanese-paramilitary-un-experts-find"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "stcatharinesstandard.ca",
+      "url": "https://www.stcatharinesstandard.ca/news/world/jordan-says-it-intercepted-missiles-launched-from-iran/article_83b3ca48-2836-58f8-af5b-5b1561639d3c.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dealstreetasia.com",
+      "url": "https://www.dealstreetasia.com/stories/metas-zuckerberg-against-chinese-ai-models-ban-490465"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "antiwar.com",
+      "url": "https://original.antiwar.com/worthington/2026/07/28/israels-ghoulish-settlers-eye-up-gaza-as-netanyahu-kills-trumps-board-of-peace/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260729/iranian-missiles-strike-us-base-in-jordan-1124511372.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-secretary-of-state-rubios-obsession-with-cuba-is-part-of-his-american-dream/articleshow/132701221.cms"
+    }
+  ],
+  "gkg_alter_stunden": -0.0
+}
