@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-29T08:09:34",
+  "erstellt_am": "2026-07-29T09:38:35",
   "reihen": {
     "HY_OAS": {
       "wert": "2.81",
@@ -54,6 +54,21 @@
     "Realrendite_10J": {
       "wert": "2.4400000000",
       "beobachtungsdatum": "2026-07-27",
+      "quelle": "FRED"
+    },
+    "USD_JPY": {
+      "wert": "163.7100000000",
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
+    },
+    "USD_CNY": {
+      "wert": "6.7719000000",
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
+    },
+    "USD_KRW": {
+      "wert": "1460.7600000000",
+      "beobachtungsdatum": "2026-07-24",
       "quelle": "FRED"
     },
     "Rohoel_Lager_USA": {

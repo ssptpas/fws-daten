@@ -1,121 +1,140 @@
 {
-  "erstellt_am": "2026-07-29T08:09:42",
+  "erstellt_am": "2026-07-29T09:38:45",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260729061500",
+  "gkg_stand": "20260729074500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 14,
   "ereignisse": [
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -10.5,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "ncr-iran.org",
+      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-july-29-2026/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "wcoapensacola.com",
+      "url": "https://www.wcoapensacola.com/2026/07/29/iran-missile-attack-and-us-saudi-strikes-raise-regional-tensions/"
+    },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -6.3,
       "treffer": [
         "missile"
       ],
-      "domain": "gulfnews.com",
-      "url": "https://gulfnews.com/world/mena/iran-fires-missile-at-us-base-in-jordan-us-saudi-forces-strike-iran-backed-militias-in-iraq-1.500623392"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wdio.com",
-      "url": "https://www.wdio.com/ap-top-news/us-thwarts-an-iranian-missile-attack-and-launches-strikes-with-saudi-arabia-against-militias-in-iraq/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "union-bulletin.com",
-      "url": "https://www.union-bulletin.com/news/world/us-thwarts-an-iranian-missile-attack-and-launches-strikes-with-saudi-arabia-against-militias-in/article_d859bab2-d99f-55de-887f-cd331ff4db2e.html"
+      "domain": "dailyexcelsior.com",
+      "url": "https://www.dailyexcelsior.com/jordan-intercepts-iranian-missiles-as-us-saudi-arabia-launch-strikes-against-militias-in-iraq/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.5,
+      "tonalitaet": -5.9,
       "treffer": [
-        "missile",
-        "ballistic"
+        "military strike"
       ],
-      "domain": "econotimes.com",
-      "url": "http://www.econotimes.com/US-Intercepts-Iranian-Ballistic-Missiles-as-Middle-East-Tensions-Escalate-1748010"
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/us-saudi-arabia-military-strike-iran-backed-militants-war-6284651"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://whp580.iheart.com/content/2026-07-29-fcc-bans-chinese-humanoid-robots-over-security-concerns/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.3,
       "treffer": [
-        "missile"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "union-bulletin.com",
-      "url": "https://www.union-bulletin.com/news/world/jordan-intercepts-iranian-missiles-as-us-and-saudi-arabia-launch-strikes-against-militias-in-iraq/article_64325a0a-f97d-59cf-880b-45684169e415.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/ds/law-our-rights/news/assessment-the-new-wetland-law-bangladesh-4235141"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/07/29/jordan-says-it-intercepted-missiles-launched-from-iran"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "the-star.co.ke",
-      "url": "https://www.the-star.co.ke/news/world/2026-07-29-trump-administration-bans-new-chinese-humanoid-robots"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hani.co.kr",
-      "url": "https://english.hani.co.kr/arti/english_edition/e_international/1270449.html"
+      "domain": "dailyexcelsior.com",
+      "url": "https://www.dailyexcelsior.com/jordan-intercepts-iranian-missiles-as-us-saudi-arabia-launch-strikes-against-militias-in-iraq-2/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "thisisoxfordshire.co.uk",
+      "url": "https://www.thisisoxfordshire.co.uk/news/national/26418095.jordan-intercepts-iran-missiles-us-saudi-arabia-target-militias-iraq/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/arab-world/5301149-jordan-intercepts-iranian-missiles"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "nbcsandiego.com",
+      "url": "https://www.nbcsandiego.com/news/national-international/jordan-intercepts-iran-missiles-us-saudi-arabia-launch-strikes-iraq/4054559/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/india-is-world-s-second-largest-supplier-of-seafarers-how-serious-are-the-safety-concerns-article-13986831.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.5,
       "treffer": [
-        "hormuz"
+        "missile"
       ],
-      "domain": "gulfnews.com",
-      "url": "https://gulfnews.com/world/mena/iran-warns-ships-accepting-compensation-from-its-frozen-assets-will-be-barred-from-transiting-hormuz-1.500623023"
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/business/5301151-oil-rises-us-iran-tension-escalates-after-iraq-strikes-missile-attack"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "kten.com",
+      "url": "https://www.kten.com/news/iran-launches-surprise-attack-on-u-s-forces-missiles-intercepted/article_6292335b-4de9-5e53-bce8-f0e13f5ddb90.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.3,
       "treffer": [
-        "cyberattack"
+        "missile"
       ],
-      "domain": "indiablooms.com",
-      "url": "https://www.indiablooms.com/life/coca-cola-owned-fairlife-resumes-production-after-cyberattack/details"
+      "domain": "tradearabia.com",
+      "url": "https://tradearabia.com:443/News/465742/Joint-US-Saudi-strikes-hit-Iraq-militias-Iran-missile-attack-thwarted"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
       "treffer": [
-        "insolvency"
+        "red sea"
       ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/uk-travel-company-collapses-liquidation-053500000.html"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279214480/houthi-group-says-it-shot-down-saudi-operated-drone"
     }
   ],
   "gkg_alter_stunden": -0.1
