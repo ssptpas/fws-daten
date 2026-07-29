@@ -1,24 +1,24 @@
 {
-  "erstellt_am": "2026-07-29T14:45:01",
+  "erstellt_am": "2026-07-29T16:11:23",
   "reihen": {
     "HY_OAS": {
-      "wert": "2.81",
-      "beobachtungsdatum": "2026-07-27",
+      "wert": "2.84",
+      "beobachtungsdatum": "2026-07-28",
       "quelle": "FRED"
     },
     "IG_OAS": {
       "wert": "0.81",
-      "beobachtungsdatum": "2026-07-27",
+      "beobachtungsdatum": "2026-07-28",
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "18.67",
-      "beobachtungsdatum": "2026-07-27",
+      "wert": "18.21",
+      "beobachtungsdatum": "2026-07-28",
       "quelle": "FRED"
     },
     "VIX3M": {
-      "wert": "20.2",
-      "beobachtungsdatum": "2026-07-27",
+      "wert": "19.86",
+      "beobachtungsdatum": "2026-07-28",
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
@@ -71,6 +71,11 @@
       "beobachtungsdatum": "2026-07-24",
       "quelle": "FRED"
     },
+    "Dollar_Index": {
+      "wert": "120.7105000000",
+      "beobachtungsdatum": "2026-07-24",
+      "quelle": "FRED"
+    },
     "Rohoel_Lager_USA": {
       "wert": "411675",
       "beobachtungsdatum": "2026-07-17",
@@ -107,8 +112,8 @@
       "quelle": "FRED (berechnet)"
     },
     "VIX_VIX3M_Ratio": {
-      "wert": 0.9243,
-      "beobachtungsdatum": "2026-07-27",
+      "wert": 0.9169,
+      "beobachtungsdatum": "2026-07-28",
       "quelle": "FRED (berechnet)"
     }
   }

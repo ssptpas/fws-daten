@@ -1,28 +1,77 @@
 {
-  "erstellt_am": "2026-07-29T14:45:19",
+  "erstellt_am": "2026-07-29T16:11:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260729124500",
+  "gkg_stand": "20260729141500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.0,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "newser.com",
-      "url": "https://www.newser.com/story/393690/zelensky-appears-to-gain-key-support-on-capitol-hill.html"
+      "domain": "haaretz.com",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-07-29/ty-article/.premium/u-s-saudi-strikes-hit-pro-iran-groups-in-iraq-iran-fires-missiles-at-u-s-base/0000019f-ac5a-d709-a39f-adfece630000"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.8,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/891041/from-model-economy-to-industrial-crisis-germany-faces-severe-downturn"
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279214544/ukrainian-missile-debris-kills-russian-woman-governor"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "tanker"
+      ],
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-military-action-against-houthis-iran.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "chicagotribune.com",
+      "url": "https://www.chicagotribune.com/2026/07/29/iran-resumes-missile-attacks/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/trump-vows-strong-response-iranian-missile-attack-1811344"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "pakobserver.net",
+      "url": "https://pakobserver.net/iran-rejects-omans-strait-of-hormuz-management-proposal/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "bostonherald.com",
+      "url": "https://www.bostonherald.com/2026/07/29/iranian-missiles-us-strikes/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -31,28 +80,29 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "kunm.org",
-      "url": "https://www.kunm.org/npr-news/2026-07-29/jordan-intercepts-iranian-missiles-as-u-s-and-saudi-arabia-strike-militias-in-iraq"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "enrsi.stvr.sk",
-      "url": "https://enrsi.stvr.sk/articles/news/454884/premier-neither-national-nor-local-governments-must-prepare-balanced-budgets"
+      "domain": "wcsufm.org",
+      "url": "https://www.wcsufm.org/latest-from-npr/2026-07-29/jordan-intercepts-iranian-missiles-as-u-s-and-saudi-arabia-strike-militias-in-iraq"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -4.8,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/ships-are-returning-to-bab-el-mandeb-despite-houthi-threats-here-s-why-shipping-firms-are-taking-the-risk-article-13987499.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
       "treffer": [
         "mandeb",
-        "red sea",
-        "suez"
+        "red sea"
       ],
-      "domain": "2duerighe.com",
-      "url": "https://www.2duerighe.com/esteri/201959-bab-el-mandeb-the-second-chokepoint-front.html"
+      "domain": "abc13.com",
+      "url": "https://abc13.com/post/federal-reserve-is-expected-keep-rates-unchanged-now-despite-high-prices/19595693/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -61,18 +111,18 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "akronnewsreporter.com",
-      "url": "https://www.akronnewsreporter.com/2026/07/29/federal-reserve-meeting-interest-rates/"
+      "domain": "republicanherald.com",
+      "url": "https://www.republicanherald.com/2026/07/29/federal-reserve-meeting-interest-rates/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.3,
       "treffer": [
         "red sea"
       ],
-      "domain": "dunyanews.tv",
-      "url": "https://dunyanews.tv/en/World/965170-us-saudi-forces-conduct-joint-strikes-against-iranbacked-groups-in-i"
+      "domain": "actionforex.com",
+      "url": "https://www.actionforex.com/action-insight/market-overview/648849-risk-appetite-faces-three-front-battle-as-oil-rebounds-ai-worries-deepen-and-fed-looms/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "gkg_alter_stunden": -0.1
 }
