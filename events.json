@@ -1,129 +1,122 @@
 {
-  "erstellt_am": "2026-07-29T07:57:08",
+  "erstellt_am": "2026-07-29T08:09:42",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260729060000",
+  "gkg_stand": "20260729061500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.0,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.3,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "kaieteurnewsonline.com",
-      "url": "https://kaieteurnewsonline.com/2026/07/29/parliament-is-not-a-playground/"
+      "domain": "gulfnews.com",
+      "url": "https://gulfnews.com/world/mena/iran-fires-missile-at-us-base-in-jordan-us-saudi-forces-strike-iran-backed-militias-in-iraq-1.500623392"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
+      "tonalitaet": -6.1,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "bozemandailychronicle.com",
-      "url": "http://www.bozemandailychronicle.com/ap_news/business/us-thwarts-an-iranian-missile-attack-and-launches-strikes-with-saudi-arabia-against-militias-in/article_9b6cd48b-4402-5348-ae91-3d03ad96ec21.html"
+      "domain": "wdio.com",
+      "url": "https://www.wdio.com/ap-top-news/us-thwarts-an-iranian-missile-attack-and-launches-strikes-with-saudi-arabia-against-militias-in-iraq/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "union-bulletin.com",
+      "url": "https://www.union-bulletin.com/news/world/us-thwarts-an-iranian-missile-attack-and-launches-strikes-with-saudi-arabia-against-militias-in/article_d859bab2-d99f-55de-887f-cd331ff4db2e.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.6,
+      "tonalitaet": -5.5,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "econotimes.com",
+      "url": "http://www.econotimes.com/US-Intercepts-Iranian-Ballistic-Missiles-as-Middle-East-Tensions-Escalate-1748010"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.3,
       "treffer": [
         "missile"
       ],
-      "domain": "bozemandailychronicle.com",
-      "url": "http://www.bozemandailychronicle.com/ap_news/international/jordan-says-it-intercepted-missiles-launched-from-iran/article_48294851-b59f-5317-a212-d203331622f1.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260729/us-saudi-arabia-conduct-strikes-against-iran-aligned-terrorists-in-iraq---centcom-1124511238.html"
+      "domain": "union-bulletin.com",
+      "url": "https://www.union-bulletin.com/news/world/jordan-intercepts-iranian-missiles-as-us-and-saudi-arabia-launch-strikes-against-militias-in-iraq/article_64325a0a-f97d-59cf-880b-45684169e415.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -5.2,
       "treffer": [
-        "coup"
+        "sanctions"
       ],
-      "domain": "rnz.co.nz",
-      "url": "https://www.rnz.co.nz/news/crime-and-justice/830146/cash-and-property-worth-800k-seized-from-drug-selling-wairoa-couple"
+      "domain": "thedailystar.net",
+      "url": "https://www.thedailystar.net/ds/law-our-rights/news/assessment-the-new-wetland-law-bangladesh-4235141"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/07/29/jordan-says-it-intercepted-missiles-launched-from-iran"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "the-star.co.ke",
+      "url": "https://www.the-star.co.ke/news/world/2026-07-29-trump-administration-bans-new-chinese-humanoid-robots"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hani.co.kr",
+      "url": "https://english.hani.co.kr/arti/english_edition/e_international/1270449.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
+      "tonalitaet": -3.5,
       "treffer": [
         "hormuz"
       ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/environment/2026/jul/29/biodiversity-superspreader-invasive-species-threat-ships-stuck-strait-hormuz-gulf"
+      "domain": "gulfnews.com",
+      "url": "https://gulfnews.com/world/mena/iran-warns-ships-accepting-compensation-from-its-frozen-assets-will-be-barred-from-transiting-hormuz-1.500623023"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newzimbabwe.com",
-      "url": "https://www.newzimbabwe.com/trump-administration-bans-new-chinese-humanoid-robots/"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Breite",
       "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "cyberattack"
       ],
-      "domain": "internazionale.it",
-      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/29/exclusive-boeings-identified-in-reuters-report-carried-weapons-for-sudanese-paramilitary-un-experts-find"
+      "domain": "indiablooms.com",
+      "url": "https://www.indiablooms.com/life/coca-cola-owned-fairlife-resumes-production-after-cyberattack/details"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "stcatharinesstandard.ca",
-      "url": "https://www.stcatharinesstandard.ca/news/world/jordan-says-it-intercepted-missiles-launched-from-iran/article_83b3ca48-2836-58f8-af5b-5b1561639d3c.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dealstreetasia.com",
-      "url": "https://www.dealstreetasia.com/stories/metas-zuckerberg-against-chinese-ai-models-ban-490465"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Finanzsystem",
       "tonalitaet": -3.2,
       "treffer": [
-        "sanctions"
+        "insolvency"
       ],
-      "domain": "antiwar.com",
-      "url": "https://original.antiwar.com/worthington/2026/07/28/israels-ghoulish-settlers-eye-up-gaza-as-netanyahu-kills-trumps-board-of-peace/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260729/iranian-missiles-strike-us-base-in-jordan-1124511372.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-secretary-of-state-rubios-obsession-with-cuba-is-part-of-his-american-dream/articleshow/132701221.cms"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/uk-travel-company-collapses-liquidation-053500000.html"
     }
   ],
-  "gkg_alter_stunden": -0.0
+  "gkg_alter_stunden": -0.1
 }
