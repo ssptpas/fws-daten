@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-29T16:11:23",
+  "erstellt_am": "2026-07-29T22:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.84",
@@ -33,7 +33,7 @@
     },
     "IORB": {
       "wert": "3.6500000000",
-      "beobachtungsdatum": "2026-07-29",
+      "beobachtungsdatum": "2026-07-30",
       "quelle": "FRED"
     },
     "Initial_Claims": {
@@ -42,8 +42,8 @@
       "quelle": "FRED"
     },
     "Brent_EIA_verzoegert": {
-      "wert": "86.99",
-      "beobachtungsdatum": "2026-07-20",
+      "wert": "91.82",
+      "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
@@ -52,8 +52,8 @@
       "quelle": "FRED"
     },
     "Realrendite_10J": {
-      "wert": "2.4400000000",
-      "beobachtungsdatum": "2026-07-27",
+      "wert": "2.4100000000",
+      "beobachtungsdatum": "2026-07-28",
       "quelle": "FRED"
     },
     "USD_JPY": {
@@ -77,8 +77,8 @@
       "quelle": "FRED"
     },
     "Rohoel_Lager_USA": {
-      "wert": "411675",
-      "beobachtungsdatum": "2026-07-17",
+      "wert": "404508",
+      "beobachtungsdatum": "2026-07-24",
       "quelle": "EIA",
       "einheit": "MBBL"
     },
@@ -97,10 +97,10 @@
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "Treasury_Auktion": {
-      "wert": "2.490000",
-      "beobachtungsdatum": "2026-07-28",
-      "auktion": "7-Year Note",
-      "high_yield": "4.4730",
+      "wert": "3.370000",
+      "beobachtungsdatum": "2026-07-29",
+      "auktion": "2-Year Note",
+      "high_yield": "null",
       "quelle": "US Treasury",
       "einheit": "Bid-to-Cover"
     }

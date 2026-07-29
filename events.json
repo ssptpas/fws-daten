@@ -1,128 +1,158 @@
 {
-  "erstellt_am": "2026-07-29T16:11:32",
+  "erstellt_am": "2026-07-29T22:45:14",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260729141500",
+  "gkg_stand": "20260729204500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 16,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.0,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -11.1,
       "treffer": [
-        "missile"
+        "hormuz"
       ],
-      "domain": "haaretz.com",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-07-29/ty-article/.premium/u-s-saudi-strikes-hit-pro-iran-groups-in-iraq-iran-fires-missiles-at-u-s-base/0000019f-ac5a-d709-a39f-adfece630000"
+      "domain": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/us-targets-iran-fresh-sanctions-over-strait-hormuz-240.htm"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.8,
+      "tonalitaet": -7.9,
       "treffer": [
         "missile"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279214544/ukrainian-missile-debris-kills-russian-woman-governor"
+      "domain": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/us-weapons-stockpiles-severely-depleted-as-trump-prolongs-725.htm"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
+      "tonalitaet": -7.6,
       "treffer": [
-        "mandeb",
-        "red sea",
+        "hormuz"
+      ],
+      "domain": "wimbledonguardian.co.uk",
+      "url": "https://www.wimbledonguardian.co.uk/news/national/26421523.strait-hormuz-shipping-hits-crisis-era-lows-conflict-risks-spreading/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.6,
+      "treffer": [
         "tanker"
       ],
-      "domain": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-military-action-against-houthis-iran.html"
+      "domain": "argentinastar.com",
+      "url": "http://www.argentinastar.com/news/279215450/drone-attack-triggers-explosion-on-us-owned-lng-tanker-at-egyptian-port"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "tonalitaet": -6.6,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "chicagotribune.com",
-      "url": "https://www.chicagotribune.com/2026/07/29/iran-resumes-missile-attacks/"
+      "domain": "laist.com",
+      "url": "https://laist.com/news/iran-resumes-missile-attacks-as-us-and-saudis-strike-tehran-backed-militias-in-iraq"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.5,
       "treffer": [
-        "missile"
+        "red sea"
       ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/trump-vows-strong-response-iranian-missile-attack-1811344"
+      "domain": "federalwaymirror.com",
+      "url": "https://www.federalwaymirror.com/2026/07/29/the-u-s-has-only-made-iran-stronger-in-focus/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "nikkei.com",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/iran-launches-renewed-missile-attacks-as-us-and-saudis-strike-in-iraq"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.5,
       "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/iran-launches-renewed-missile-attacks-as-us-and-saudis-strike-tehran-backed-militias-in-iraq/article_763324e5-bc6f-5dee-acec-07bbf578dd13.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nikkei.com",
+      "url": "https://asia.nikkei.com/business/companies/adani-group/india-s-adani-reports-loss-on-payment-to-us-over-alleged-sanctions-breach"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/fed-did-what-investors-anticipated-stocks-plunged-anyway-3805882"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
         "hormuz"
       ],
-      "domain": "pakobserver.net",
-      "url": "https://pakobserver.net/iran-rejects-omans-strait-of-hormuz-management-proposal/"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/us-military-support-helped-1-000-vessels-carry-500m-barrels-of-oil-via-hormuz-centcom/4012877"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -4.1,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "hormuz"
       ],
-      "domain": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/07/29/iranian-missiles-us-strikes/"
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/publicpolicy/u-s-war-with-iran-set-to-drag-on-for-months-over-hormuz-deadlock"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wcsufm.org",
-      "url": "https://www.wcsufm.org/latest-from-npr/2026-07-29/jordan-intercepts-iranian-missiles-as-u-s-and-saudi-arabia-strike-militias-in-iraq"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/ships-are-returning-to-bab-el-mandeb-despite-houthi-threats-here-s-why-shipping-firms-are-taking-the-risk-article-13987499.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "abc13.com",
-      "url": "https://abc13.com/post/federal-reserve-is-expected-keep-rates-unchanged-now-despite-high-prices/19595693/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -3.7,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "state of emergency"
       ],
-      "domain": "republicanherald.com",
-      "url": "https://www.republicanherald.com/2026/07/29/federal-reserve-meeting-interest-rates/"
+      "domain": "troyrecord.com",
+      "url": "https://www.troyrecord.com/2026/07/29/capital-region-slammed-by-flash-floods-state-of-emergency-declared-in-rensselaer-county/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "iheart.com",
+      "url": "https://55krc.iheart.com/content/2026-07-29-trump-us-will-hit-iran-very-hard-after-missile-attack/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.1,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "actionforex.com",
-      "url": "https://www.actionforex.com/action-insight/market-overview/648849-risk-appetite-faces-three-front-battle-as-oil-rebounds-ai-worries-deepen-and-fed-looms/"
+      "domain": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/us-accuses-irans-irgc-threatening-ships-strait-hormuz-435.htm"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "oklahomastar.com",
+      "url": "http://www.oklahomastar.com/news/279215460/wall-street-tumbles-after-federal-reserve-leaves-rates-unchanged"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }
