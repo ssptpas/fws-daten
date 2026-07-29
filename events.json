@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-29T09:38:45",
+  "erstellt_am": "2026-07-29T09:45:15",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
   "gkg_stand": "20260729074500",
@@ -137,5 +137,5 @@
       "url": "http://www.bignewsnetwork.com/news/279214480/houthi-group-says-it-shot-down-saudi-operated-drone"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }
