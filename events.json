@@ -1,188 +1,112 @@
 {
-  "erstellt_am": "2026-07-30T14:45:50",
+  "erstellt_am": "2026-07-30T22:45:15",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260730124500",
+  "gkg_stand": "20260730204500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -8.2,
+      "kategorie": "Policy",
+      "tonalitaet": -9.0,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "eenews.net",
-      "url": "https://www.eenews.net/articles/climate-change-is-turning-parts-of-europe-into-an-insurance-nightmare/"
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202607300579.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "chinamil.com.cn",
-      "url": "http://eng.chinamil.com.cn/2025xb/V_251452/16476767.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/nick-reiner-jail-update-rob-reiners-son-disciplined-following-hostile-shower-confrontation-1811541"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mondediplo.com",
-      "url": "https://mondediplo.com/2026/08/04ethiopia"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "jordantimes.com",
-      "url": "https://jordantimes.com/news/region/trump-says-us-to-hit-iran-hard"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "africanews.com",
-      "url": "https://www.africanews.com/2026/07/30/zambia-economic-test-looms-for-next-administration-business-africa/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/rke7bturzx"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "azernews.az",
-      "url": "https://www.azernews.az/nation/261771.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "red sea",
-        "suez"
-      ],
-      "domain": "africanews.com",
-      "url": "https://www.africanews.com/2026/07/30/egypt-confirms-unidentified-drone-caused-fire-at-mediterranean-port/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "nbcconnecticut.com",
-      "url": "https://www.nbcconnecticut.com/news/national-international/iran-strike-hits-chinese-firm-building-kuwait-jordan-downs-missiles/3759993/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mondediplo.com",
-      "url": "https://mondediplo.com/2026/08/02cuba"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "wgme.com",
-      "url": "https://wgme.com/news/nation-world/us-iran-exchange-new-missile-strikes-as-war-expands-across-the-middle-east-peace-kuwait-saudi-arabia-egypt-talks-negotiations-central-command-military-response-president-trump-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "calcuttanews.net",
-      "url": "http://www.calcuttanews.net/news/279216322/us-forces-launch-new-strikes-on-iran-as-conflict-widens"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "businessinsurance.com",
-      "url": "https://www.businessinsurance.com/war-risk-insurers-widen-high-risk-zone-for-red-sea/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/national/general-news/no-fir-registered-because-he-is-cabinet-minister-complainant-pankaj-singh-kshetri-on-vigilance-case-against-uttarakhand-minister-ganesh-joshi20260730174509/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
+      "tonalitaet": -7.7,
       "treffer": [
         "missile"
       ],
-      "domain": "moonofalabama.org",
-      "url": "https://www.moonofalabama.org/2026/07/war-on-iran-u-s-missile-defense-stock-is-severely-depleted.html/comment-page-3"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theartnewspaper.com",
-      "url": "https://www.theartnewspaper.com/2026/07/30/artist-starts-legal-case-against-meta-for-deleting-her-instagram-account"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "eenews.net",
-      "url": "https://www.eenews.net/articles/potential-roadblocks-ahead-for-graham-led-russia-sanctions-bill/"
+      "domain": "theindianawaaz.com",
+      "url": "https://theindianawaaz.com/us-iran-exchange-waves-of-missile-attacks/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -7.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "weeklyworker.co.uk",
+      "url": "https://weeklyworker.co.uk/worker/1596/oppose-both-imperialism-and-tyranny/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/2-yemeni-soldiers-killed-in-clashes-with-houthis/4014372"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/world/5301616-russian-missile-strike-destroys-family-home-10-feared-dead"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "idahopress.com",
+      "url": "http://www.idahopress.com/news/world/russian-strikes-across-ukraine-kill-10-and-nato-scrambles-jets-after-a-missile-falls-in/article_3292f110-f355-57f0-b504-4a894823fde4.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "knpr.org",
+      "url": "https://knpr.org/npr/2026-07-30/russian-strikes-across-ukraine-kill-10-and-a-missile-falls-in-poland"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
       "treffer": [
         "mandeb",
         "red sea",
-        "suez",
-        "malacca"
+        "suez"
       ],
-      "domain": "mondaq.com",
-      "url": "https://www.mondaq.com:443/unitedstates/international-trade-investment/1824116/waterways-canals-and-straits-and-what-clear-passage-means-to-global-trade-survival"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/analysisdrone-strike-in-egypt-sparks-security-concerns-about-suez-oil-exports-101785442159776.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "helsinkitimes.fi",
+      "url": "https://www.helsinkitimes.fi/world-int/29107-us-strike-kills-whole-family-in-iran-s-qeshm-island.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "nikkei.com",
+      "url": "https://asia.nikkei.com/politics/ukraine-war/russia-used-north-korean-missile-for-deadly-strike-zelenskyy-says"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/russia-ukraine-war/zelenskyy-claims-preliminary-data-indicates-russia-used-north-korean-ballistic-missile-to-strike-ukraine/4014269"
     }
   ],
   "gkg_alter_stunden": 0.0
