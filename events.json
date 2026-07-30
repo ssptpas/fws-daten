@@ -1,68 +1,188 @@
 {
-  "erstellt_am": "2026-07-30T09:45:12",
+  "erstellt_am": "2026-07-30T14:45:50",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260730074500",
+  "gkg_stand": "20260730124500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 19,
   "ereignisse": [
     {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -8.2,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "eenews.net",
+      "url": "https://www.eenews.net/articles/climate-change-is-turning-parts-of-europe-into-an-insurance-nightmare/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "chinamil.com.cn",
+      "url": "http://eng.chinamil.com.cn/2025xb/V_251452/16476767.html"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -8.1,
+      "tonalitaet": -6.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailystar.co.uk",
-      "url": "https://www.dailystar.co.uk/showbiz/us-showbiz/p-diddy-scores-huge-win-37493199"
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/nick-reiner-jail-update-rob-reiners-son-disciplined-following-hostile-shower-confrontation-1811541"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mondediplo.com",
+      "url": "https://mondediplo.com/2026/08/04ethiopia"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -6.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "jordantimes.com",
+      "url": "https://jordantimes.com/news/region/trump-says-us-to-hit-iran-hard"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.2,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "politicaldog101.com",
-      "url": "https://politicaldog101.com/2026/07/irantrumpwarmidday7-29-2026-attacks-resume-across-the-gulf/"
+      "domain": "africanews.com",
+      "url": "https://www.africanews.com/2026/07/30/zambia-economic-test-looms-for-next-administration-business-africa/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/article/rke7bturzx"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "tonalitaet": -5.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thejakartapost.com",
-      "url": "http://www.thejakartapost.com/world/2026/07/30/us-military-completes-heavy-wave-of-retaliatory-strikes-on-iran"
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/nation/261771.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
+      "tonalitaet": -5.1,
       "treffer": [
-        "hormuz",
         "red sea",
-        "suez",
-        "crude oil"
+        "suez"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/hormuz-red-sea-disruptions-indias-crude-oil-imports-from-russia-may-touch-new-record-of-3-million-barrels-per-day-heres-why-us-iran-war-middle-east-conflict/articleshow/132730751.cms"
+      "domain": "africanews.com",
+      "url": "https://www.africanews.com/2026/07/30/egypt-confirms-unidentified-drone-caused-fire-at-mediterranean-port/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -5.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "nbcconnecticut.com",
+      "url": "https://www.nbcconnecticut.com/news/national-international/iran-strike-hits-chinese-firm-building-kuwait-jordan-downs-missiles/3759993/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mondediplo.com",
+      "url": "https://mondediplo.com/2026/08/02cuba"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "wgme.com",
+      "url": "https://wgme.com/news/nation-world/us-iran-exchange-new-missile-strikes-as-war-expands-across-the-middle-east-peace-kuwait-saudi-arabia-egypt-talks-negotiations-central-command-military-response-president-trump-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
       "treffer": [
         "red sea"
       ],
-      "domain": "udn.com",
-      "url": "https://city.udn.com/2976/7272703?raid=7297448"
+      "domain": "calcuttanews.net",
+      "url": "http://www.calcuttanews.net/news/279216322/us-forces-launch-new-strikes-on-iran-as-conflict-widens"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "businessinsurance.com",
+      "url": "https://www.businessinsurance.com/war-risk-insurers-widen-high-risk-zone-for-red-sea/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/national/general-news/no-fir-registered-because-he-is-cabinet-minister-complainant-pankaj-singh-kshetri-on-vigilance-case-against-uttarakhand-minister-ganesh-joshi20260730174509/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.8,
       "treffer": [
         "missile"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/is-pakistan-facilitating-chinese-missile-shipments-to-iran-islamabad-responds/articleshow/132729463.cms"
+      "domain": "moonofalabama.org",
+      "url": "https://www.moonofalabama.org/2026/07/war-on-iran-u-s-missile-defense-stock-is-severely-depleted.html/comment-page-3"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theartnewspaper.com",
+      "url": "https://www.theartnewspaper.com/2026/07/30/artist-starts-legal-case-against-meta-for-deleting-her-instagram-account"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "eenews.net",
+      "url": "https://www.eenews.net/articles/potential-roadblocks-ahead-for-graham-led-russia-sanctions-bill/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez",
+        "malacca"
+      ],
+      "domain": "mondaq.com",
+      "url": "https://www.mondaq.com:443/unitedstates/international-trade-investment/1824116/waterways-canals-and-straits-and-what-clear-passage-means-to-global-trade-survival"
     }
   ],
   "gkg_alter_stunden": 0.0
