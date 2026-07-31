@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-31T15:58:44",
+  "erstellt_am": "2026-07-31T19:23:03",
   "reihen": {
     "HY_OAS": {
       "wert": "2.84",
@@ -131,6 +131,11 @@
       "beobachtungsdatum": "2026-07-27",
       "quelle": "FRED"
     },
+    "ECB_Einlagesatz": {
+      "wert": "2.25",
+      "beobachtungsdatum": "2026-07-31",
+      "quelle": "FRED"
+    },
     "Initial_Claims_Historie": {
       "werte": [
         {
@@ -230,16 +235,16 @@
   },
   "berechnet": {
     "Bank_Stress_KBE": {
-      "wert": 69.33,
+      "wert": 69.69,
       "hoch_60T": 71.29,
-      "drawdown_pct": -2.7,
+      "drawdown_pct": -2.2,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 75.7,
+      "wert": 76.15,
       "hoch_60T": 77.92,
-      "drawdown_pct": -2.8,
+      "drawdown_pct": -2.3,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
@@ -247,6 +252,20 @@
       "wert": 0.0,
       "beobachtungsdatum": "2026-07-30",
       "quelle": "FRED (berechnet)"
+    },
+    "EU_Funding_Spread_bp": {
+      "wert": -6.5,
+      "markt_datum": "2026-07-30",
+      "leitzins_datum": "2026-07-31",
+      "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
+      "quelle": "FRED/EZB/BoE (berechnet)"
+    },
+    "UK_Funding_Spread_bp": {
+      "wert": -1.9,
+      "markt_datum": "29 Jul 2026",
+      "leitzins_datum": "30 Jul 2026",
+      "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
+      "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "CP_minus_SOFR_bp": {
       "wert": 23.0,
@@ -271,7 +290,7 @@
       "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "RSP_SPY_Ratio": {
-      "wert": 0.2893,
+      "wert": 0.2886,
       "quelle": "Yahoo Finance (inoffiziell, selbst berechnet)",
       "formel": "Breadth_ETF_RSP / Breadth_ETF_SPY",
       "hinweis": "fallende Ratio = engere Marktfuehrung/Konzentrationsrisiko"
@@ -298,6 +317,11 @@
       "beobachtungsdatum": "29 Jul 2026",
       "quelle": "Bank of England IADB"
     },
+    "UK_Bank_Rate": {
+      "wert": "3.75",
+      "beobachtungsdatum": "30 Jul 2026",
+      "quelle": "Bank of England IADB"
+    },
     "Japan_Tagesgeldsatz": {
       "wert": 0.977,
       "beobachtungsdatum": "20260729",
@@ -306,17 +330,17 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 29.38,
-      "beobachtungsdatum": "2026-07-31",
+      "wert": 39.79,
+      "beobachtungsdatum": "2026-07-30",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 214.64,
+      "wert": 215.15,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 741.92,
+      "wert": 745.44,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
@@ -326,7 +350,7 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 13.56,
+      "wert": 13.35,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }

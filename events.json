@@ -1,113 +1,168 @@
 {
-  "erstellt_am": "2026-07-31T15:59:01",
+  "erstellt_am": "2026-07-31T19:23:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260731140000",
+  "gkg_stand": "20260731173000",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 17,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "sana.sy",
-      "url": "https://sana.sy/en/economic/2333315/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "spiked-online.com",
-      "url": "https://www.spiked-online.com/2026/07/31/the-invasion-of-ceuta-must-be-the-final-nail-in-the-coffin-of-globalism/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "tonalitaet": -7.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ariananews.af",
-      "url": "https://www.ariananews.af/un-updates-sanctions-list-for-five-iea-officials/"
+      "domain": "ncr-iran.org",
+      "url": "https://www.ncr-iran.org/en/news/human-rights/the-two-habits-irans-regime-cannot-quit/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "countercurrents.org",
+      "url": "https://countercurrents.org/2026/07/us-iran-conflict-widens-as-tehran-targets-us-base-in-kuwait-after-american-strikes/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "fox56.com",
+      "url": "https://fox56.com/news/local/pennsylvania-spared-as-cyberattacks-target-minnesota-water-systems"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "carolinajournal.com",
+      "url": "https://www.carolinajournal.com/unc-jacob-doe-object-to-partial-unsealing-of-lawsuit-settlement/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "crude oil",
+        "tanker"
+      ],
+      "domain": "marinelink.com",
+      "url": "https://www.marinelink.com/news/crude-oil-spills-shadow-fleet-tanker-off-541700"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "thedailystar.net",
+      "url": "https://www.thedailystar.net/news/world/news/oil-spill-shadow-fleet-tanker-spreading-oman-satellite-images-show-4237101"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279217792/heatwave-burning-europe-triggers-nuclear-powerdown"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.5,
       "treffer": [
-        "airstrike"
+        "invasion"
       ],
-      "domain": "foxla.com",
-      "url": "https://www.foxla.com/news/trump-claims-deal-reached-hamas-disarmament-israeli-military-withdrawal-from-gaza"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/singapore/pritam-singh-law-society-strike-off-rolls-court-of-three-judges"
+      "domain": "pjmedia.com",
+      "url": "https://pjmedia.com/catherinesalgado/2026/07/31/other-european-leaders-see-spains-invasion-and-panic-n4955649"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "tonalitaet": -5.4,
       "treffer": [
         "mandeb",
         "red sea",
-        "suez",
-        "tanker"
+        "suez"
       ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Six-Saudi-Oil-Tankers-Reroute-Around-Africa-to-Dodge-Houthi-Threat.html"
+      "domain": "jdnews.com",
+      "url": "https://www.jdnews.com/us-and-iran-missile-strikes-escalate-tensions-in-middle-east/article_10088bf5-6924-5875-af36-0836b8adff69.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/political/spains-border-invasion-optics-disaster-socialist-and-dsas-nation-killing-open-borders"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "dailykos.com",
+      "url": "https://www.dailykos.com/stories/2026/7/31/800077732/community/the-cover-up-has-begun-first-they-put-fauci-on-trial-then-they-put-history-on-trial/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "sott.net",
+      "url": "https://www.sott.net/article/507671-The-last-breath-of-a-dying-continent-Europes-freedom-is-ending"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.8,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "abc13.com",
-      "url": "https://abc13.com/story/feds-issue-warning-local-water-systems-increased-cyberattacks-following-minnesota-incident/19606049/"
+      "domain": "iheart.com",
+      "url": "https://1031wndh.iheart.com/content/2026-07-31-fbi-issues-warning-after-cyberattacks-on-water-utilities-in-seven-states/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "kategorie": "Breite",
+      "tonalitaet": -3.8,
       "treffer": [
-        "sanctions"
+        "cyber attack"
       ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/u-s-strategic-petroleum-reserve-faces-stress-as-emergency-releases-strain-old-infrastructure/"
+      "domain": "wabx.net",
+      "url": "https://wabx.net/2026/07/31/trump-says-iran-not-to-blame-for-minnesota-cyber-attack/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "minnpost.com",
+      "url": "https://www.minnpost.com/drinking-water/2026/07/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -4.1,
+      "tonalitaet": -3.1,
       "treffer": [
         "bailout"
       ],
-      "domain": "michigancapitolconfidential.com",
-      "url": "https://www.michigancapitolconfidential.com/news/counties-sought-taxpayer-bailout-after-keeping-excess-money-from-foreclosed-homes"
+      "domain": "thespec.com",
+      "url": "https://www.thespec.com/opinion/contributors/condo-bailout-is-crony-capitalism/article_ca8981f4-5397-56f2-ae54-68f75c55b2c6.html"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.6,
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
       "treffer": [
-        "insolvency"
+        "sanctions"
       ],
-      "domain": "bmmagazine.co.uk",
-      "url": "https://bmmagazine.co.uk/in-business/uk-millionaires-fall-442000-lowest-since-2008/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-Five-Supertankers-as-Hormuz-Crisis-Tightens-Shipping.html"
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279217750/china-supports-russian-militarism-by-stealth"
     }
   ],
-  "gkg_alter_stunden": -0.0
+  "gkg_alter_stunden": -0.1
 }
