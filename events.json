@@ -1,38 +1,76 @@
 {
-  "erstellt_am": "2026-07-31T09:45:12",
+  "erstellt_am": "2026-07-31T14:23:11",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260731074500",
+  "gkg_stand": "20260731123000",
   "veraltet": false,
-  "anzahl": 3,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.5,
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/07/31/world/russian-strikes-across-ukraine-kill-10-and-nato-scrambles-jets-after-a-missile-falls-in-poland/2395698"
+      "domain": "clevelandjewishnews.com",
+      "url": "https://www.clevelandjewishnews.com/news/world_news/danon-accuses-spain-of-hypocrisy-after-it-deploys-military-to-moroccan-enclave/article_a3401582-342d-5fd0-93f6-cbcaf898e500.html"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.4,
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "bkreader.com",
-      "url": "https://www.bkreader.com/in-other-brooklyn-news/victim-of-bushwick-home-invasion-sexual-assault-speaks-for-first-time-since-attack-12614764"
+      "domain": "punchng.com",
+      "url": "https://punchng.com/pcn-shuts-383-pharmacies-medicine-stores-in-ogun-over-violations/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/first-thing-top-democrats-accuse-republicans-gelatinous-blobs-iran-war"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "silverbirdtv.com",
+      "url": "http://silverbirdtv.com/trump-raises-tariffs-on-over-90-countries-as-trade-deal-deadline-passes/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/national/kerala/crime-branch-likely-to-expand-special-investigation-team-as-kerala-psc-exam-scam-probe-widens/article71290143.ece"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.5,
       "treffer": [
-        "red sea"
+        "mandeb",
+        "red sea",
+        "suez"
       ],
-      "domain": "clevelandstar.com",
-      "url": "http://www.clevelandstar.com/news/279215330/us-saudis-strike-iran-s-allies-in-iraq-as-fighting-resumes"
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/article/rjtj4akrfl"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newsghana.com.gh",
+      "url": "https://www.newsghana.com.gh/bank-of-ghana-to-consult-industry-on-crypto-rules/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "gkg_alter_stunden": -0.1
 }
