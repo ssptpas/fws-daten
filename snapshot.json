@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-31T19:23:03",
+  "erstellt_am": "2026-07-31T22:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.84",
@@ -33,7 +33,7 @@
     },
     "IORB": {
       "wert": "3.6500000000",
-      "beobachtungsdatum": "2026-07-31",
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "FRED"
     },
     "Initial_Claims": {
@@ -53,7 +53,7 @@
     },
     "Realrendite_10J": {
       "wert": "2.4100000000",
-      "beobachtungsdatum": "2026-07-29",
+      "beobachtungsdatum": "2026-07-30",
       "quelle": "FRED"
     },
     "USD_JPY": {
@@ -107,8 +107,8 @@
       "quelle": "FRED"
     },
     "Fed_Reverse_Repo_USD_Mrd": {
-      "wert": "1.076",
-      "beobachtungsdatum": "2026-07-30",
+      "wert": "2.151",
+      "beobachtungsdatum": "2026-07-31",
       "quelle": "FRED"
     },
     "CP_Financial_3M": {
@@ -235,16 +235,16 @@
   },
   "berechnet": {
     "Bank_Stress_KBE": {
-      "wert": 69.69,
+      "wert": 69.65,
       "hoch_60T": 71.29,
-      "drawdown_pct": -2.2,
+      "drawdown_pct": -2.3,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 76.15,
+      "wert": 76.06,
       "hoch_60T": 77.92,
-      "drawdown_pct": -2.3,
+      "drawdown_pct": -2.4,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
@@ -290,7 +290,7 @@
       "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "RSP_SPY_Ratio": {
-      "wert": 0.2886,
+      "wert": 0.2878,
       "quelle": "Yahoo Finance (inoffiziell, selbst berechnet)",
       "formel": "Breadth_ETF_RSP / Breadth_ETF_SPY",
       "hinweis": "fallende Ratio = engere Marktfuehrung/Konzentrationsrisiko"
@@ -335,22 +335,22 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 215.15,
+      "wert": 215.01,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 745.44,
+      "wert": 747.03,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
       "wert": 77.09,
-      "beobachtungsdatum": "2026-07-30",
+      "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 13.35,
+      "wert": 13.42,
       "beobachtungsdatum": "2026-07-31",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }
