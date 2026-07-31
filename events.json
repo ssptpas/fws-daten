@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-31T15:06:57",
+  "erstellt_am": "2026-07-31T15:15:18",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
   "gkg_stand": "20260731131500",
@@ -129,5 +129,5 @@
       "url": "https://aa.com.tr/en/middle-east/irans-irgc-says-it-hit-2-tankers-forced-4-others-to-turn-back-in-strait-of-hormuz/4014805"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }

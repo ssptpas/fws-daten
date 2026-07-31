@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-31T15:05:52",
+  "erstellt_am": "2026-07-31T15:14:40",
   "reihen": {
     "HY_OAS": {
       "wert": "2.87",
@@ -313,6 +313,16 @@
     },
     "Breadth_ETF_SPY": {
       "wert": 741.69,
+      "beobachtungsdatum": "2026-07-30",
+      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
+    },
+    "MOVE_Index": {
+      "wert": 77.09,
+      "beobachtungsdatum": "2026-07-30",
+      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
+    },
+    "Baltic_Dry_Proxy_BDRY": {
+      "wert": 13.36,
       "beobachtungsdatum": "2026-07-30",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }
