@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-07-30T22:45:02",
+  "erstellt_am": "2026-07-31T09:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "2.87",
@@ -23,7 +23,7 @@
     },
     "Zinskurve_10J_2J": {
       "wert": "0.45",
-      "beobachtungsdatum": "2026-07-29",
+      "beobachtungsdatum": "2026-07-30",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.26",
-      "beobachtungsdatum": "2026-07-29",
+      "wert": "2.27",
+      "beobachtungsdatum": "2026-07-30",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
