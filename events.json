@@ -1,76 +1,112 @@
 {
-  "erstellt_am": "2026-07-31T14:23:11",
+  "erstellt_am": "2026-07-31T14:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260731123000",
+  "gkg_stand": "20260731124500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 11,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "clevelandjewishnews.com",
-      "url": "https://www.clevelandjewishnews.com/news/world_news/danon-accuses-spain-of-hypocrisy-after-it-deploys-military-to-moroccan-enclave/article_a3401582-342d-5fd0-93f6-cbcaf898e500.html"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/putin-humiliated-collapsing-economy-forces-121100000.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/pcn-shuts-383-pharmacies-medicine-stores-in-ogun-over-violations/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/us-news/2026/jul/31/first-thing-top-democrats-accuse-republicans-gelatinous-blobs-iran-war"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "silverbirdtv.com",
-      "url": "http://silverbirdtv.com/trump-raises-tariffs-on-over-90-countries-as-trade-deal-deadline-passes/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/national/kerala/crime-branch-likely-to-expand-special-investigation-team-as-kerala-psc-exam-scam-probe-widens/article71290143.ece"
+      "domain": "thenextweb.com",
+      "url": "https://thenextweb.com/news/cisa-warns-hackers-targeting-water-utilities"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -6.4,
+      "treffer": [
+        "suez"
+      ],
+      "domain": "africanews.com",
+      "url": "https://www.africanews.com/2026/07/31/analysts-believe-us-iran-war-at-critical-point-with-potential-for-further-escalation/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
       "treffer": [
         "mandeb",
         "red sea",
         "suez"
       ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/rjtj4akrfl"
+      "domain": "wmal.com",
+      "url": "https://www.wmal.com/2026/07/31/middle-east-war-expands-to-egypt/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newsghana.com.gh",
-      "url": "https://www.newsghana.com.gh/bank-of-ghana-to-consult-industry-on-crypto-rules/"
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/singapore/law-society-seeks-strike-pritam-singh-rolls-6290936"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "collider.com",
+      "url": "https://collider.com/the-kinks-1965-us-tour/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/first-thing-top-democrats-accuse-121126000.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/891535/russian-generals-demand-total-victory-as-missile-strikes-batter-ukraine-into-submission"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279217516/iran-says-it-targeted-us-base-in-kuwait-with-drone"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "lasvegassun.com",
+      "url": "https://lasvegassun.com/news/2026/jul/31/test-your-knowledge-of-recent-news-events/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/big-story/gaza-genocide-has-turned-palestinian-question-israeli-problem"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }
