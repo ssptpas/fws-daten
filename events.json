@@ -1,84 +1,67 @@
 {
-  "erstellt_am": "2026-07-31T15:15:18",
+  "erstellt_am": "2026-07-31T15:59:01",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260731131500",
+  "gkg_stand": "20260731140000",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 11,
   "ereignisse": [
     {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "sana.sy",
+      "url": "https://sana.sy/en/economic/2333315/"
+    },
+    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.3,
+      "tonalitaet": -6.2,
       "treffer": [
         "invasion"
       ],
-      "domain": "kotaradio.com",
-      "url": "https://www.kotaradio.com/2026/07/31/suspect-arrested-after-alleged-home-invasion-assault-in-rapid-city/"
+      "domain": "spiked-online.com",
+      "url": "https://www.spiked-online.com/2026/07/31/the-invasion-of-ceuta-must-be-the-final-nail-in-the-coffin-of-globalism/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.5,
+      "tonalitaet": -6.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202607310223.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/kuwait-intercepts-iranian-drones-targeting-military-facilities-tehran-says-strike-aimed-at-us-air-base-article-13990448.html"
+      "domain": "ariananews.af",
+      "url": "https://www.ariananews.af/un-updates-sanctions-list-for-five-iea-officials/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.5,
       "treffer": [
-        "invasion"
+        "airstrike"
       ],
-      "domain": "independent.co.uk",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-stolen-children-russia-war-kidnapping-invasion-b3024008.html"
+      "domain": "foxla.com",
+      "url": "https://www.foxla.com/news/trump-claims-deal-reached-hamas-disarmament-israeli-military-withdrawal-from-gaza"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -5.1,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "dailycamera.com",
-      "url": "https://www.dailycamera.com/2026/07/31/trump-iran-war-strait-hormuz-midterm-election/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "red sea",
-        "suez"
-      ],
-      "domain": "hawaiitribune-herald.com",
-      "url": "https://www.hawaiitribune-herald.com/2026/07/31/nation-world-news/iran-war-is-entangling-a-growing-list-of-mideast-nations/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/iran-claims-kuwait-airbase-attack-strikes-pair-tankers-hormuz-despite-no-new-us"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "reason.com",
-      "url": "https://reason.com/2026/07/31/transaction-denied/"
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com/singapore/pritam-singh-law-society-strike-off-rolls-court-of-three-judges"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez",
+        "tanker"
+      ],
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Six-Saudi-Oil-Tankers-Reroute-Around-Africa-to-Dodge-Houthi-Threat.html"
     },
     {
       "kategorie": "Breite",
@@ -86,48 +69,45 @@
       "treffer": [
         "cyberattack"
       ],
-      "domain": "abc7ny.com",
-      "url": "https://abc7ny.com/story/feds-issue-warning-local-water-systems-increased-cyberattacks-following-minnesota-incident/19606049/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/iran-fm-accuses-israel-false-flag-after-mystery-drone-strike-egyptian-port"
+      "domain": "abc13.com",
+      "url": "https://abc13.com/story/feds-issue-warning-local-water-systems-increased-cyberattacks-following-minnesota-incident/19606049/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "propublica.org",
-      "url": "https://www.propublica.org/article/california-teacher-misconduct-database-bill-failed-al-muratsuchi"
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/u-s-strategic-petroleum-reserve-faces-stress-as-emergency-releases-strain-old-infrastructure/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.1,
       "treffer": [
-        "sanctions"
+        "bailout"
       ],
-      "domain": "digitaljournal.com",
-      "url": "https://www.digitaljournal.com/article/wildberries-russias-amazon-targeted-by-ukraine/"
+      "domain": "michigancapitolconfidential.com",
+      "url": "https://www.michigancapitolconfidential.com/news/counties-sought-taxpayer-bailout-after-keeping-excess-money-from-foreclosed-homes"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "bmmagazine.co.uk",
+      "url": "https://bmmagazine.co.uk/in-business/uk-millionaires-fall-442000-lowest-since-2008/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -3.6,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "hormuz"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/irans-irgc-says-it-hit-2-tankers-forced-4-others-to-turn-back-in-strait-of-hormuz/4014805"
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-Five-Supertankers-as-Hormuz-Crisis-Tightens-Shipping.html"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "gkg_alter_stunden": -0.0
 }
