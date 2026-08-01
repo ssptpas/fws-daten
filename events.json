@@ -1,200 +1,93 @@
 {
-  "erstellt_am": "2026-07-31T22:45:28",
+  "erstellt_am": "2026-08-01T09:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260731204500",
+  "gkg_stand": "20260801074500",
   "veraltet": false,
-  "anzahl": 21,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -12.9,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.3,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "hrw.org",
-      "url": "https://www.hrw.org/news/2026/07/31/israeli-defense-ministry-plan-suggests-potential-war-crimes"
+      "domain": "thejournal.ie",
+      "url": "https://www.thejournal.ie/at-least-nine-people-dead-as-russia-hits-ukrainian-capital-with-intense-barrage-of-missiles-7119362-Aug2026/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.1,
+      "tonalitaet": -6.2,
       "treffer": [
-        "nuclear weapon"
+        "missile",
+        "ballistic"
       ],
-      "domain": "morningstaronline.co.uk",
-      "url": "https://morningstaronline.co.uk/article/what-links-palestine-action-arrests-burnhams-nuclear-weapons-splurge"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newkerala.com",
-      "url": "https://www.newkerala.com/news/a/trump-says-icc-campaign-aimed-defending-netanyahu-not-316.htm"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "wjla.com",
-      "url": "https://wjla.com/news/local/minnesota-cyberattacks-water-plants-iran-fbi-utilities-josh-corman-institute-security-technology-utility-companies-nations-captiol-infrastructure"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279218093/trump-blames-minnesota-governor-not-iran-for-cyberattacks-on-state-water-systems"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/clashes-between-us-iran-continue-without-progress-trump-says-hes-losing-faith-tehran-3805960"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/arab-world/5302116-lebanon-detains-former-central-bank-chief-after-manhunt"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/india/sc-slaps-rs-1-lakh-fine-on-rajasthan-government-for-harassing-official/articleshow/132776669.cms"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aei.org",
-      "url": "https://www.aei.org/commentary/why-france-has-no-right-to-lecture-the-us-on-human-rights/"
+      "domain": "kilburntimes.co.uk",
+      "url": "https://www.kilburntimes.co.uk/news/national/26428540.least-nine-dead-russia-hits-ukrainian-capital-ballistic-missiles/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.4,
+      "tonalitaet": -6.2,
       "treffer": [
-        "invasion"
+        "missile"
       ],
-      "domain": "pjmedia.com",
-      "url": "https://pjmedia.com/catherinesalgado/2026/07/31/egregious-us-state-department-trump-speak-out-on-spanish-invasion-crisis-n4955666"
+      "domain": "oskaloosa.com",
+      "url": "https://www.oskaloosa.com/news/national_news/photos-show-russian-missile-and-drone-attack-on-ukrainian-capital-kyiv/article_444180d4-480d-5b6d-a074-eccc2bdfe86b.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.0,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/07/trump-jokes-that-he-is-not-yet-a-target-of-the-icc/"
+      "domain": "examiner.com.au",
+      "url": "https://www.examiner.com.au/story/9321900/russia-pounds-kyiv-with-missiles-killing-at-least-nine/"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -5.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.7,
       "treffer": [
-        "cyberattack"
+        "missile"
       ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/leaked-memo-links-iran-minnesota-water-utility-cyberattacks-dozens-systems-were-targeted-3805954"
+      "domain": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9321900/russia-pounds-kyiv-with-missiles-killing-at-least-nine/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "local12.com",
-      "url": "https://local12.com/news/nation-world/all-they-do-is-make-me-angry-trump-says-of-iranian-leaders-strait-hormuz-central-command-striking"
-    },
-    {
-      "kategorie": "Breite",
       "tonalitaet": -4.8,
       "treffer": [
-        "cyberattack"
+        "refinery"
       ],
-      "domain": "kten.com",
-      "url": "https://www.kten.com/news/politics/sweeping-cyberattack-on-water-systems-in-multiple-states-has-us-officials-on-edge/article_bcd01089-458a-50a8-acaf-61b17f8ea3fc.html"
+      "domain": "sentinelassam.com",
+      "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-floods-pioneer-foundation-extends-helping-hand-to-flood-hit-people-in-golaghat"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.2,
       "treffer": [
-        "mandeb",
+        "red sea",
         "suez"
       ],
-      "domain": "politifact.com",
-      "url": "https://politifact.com/article/2026/jul/31/trump-iran-war-extremely-well-military-gas-prices/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "iheart.com",
-      "url": "https://wflaorlando.iheart.com/content/2026-07-31-fbi-issues-warning-after-cyberattacks-on-water-utilities-in-seven-states/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/amazons-strong-earnings-buoy-market-stocks-climb-again-july-comes-close-3805962"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kten.com",
-      "url": "https://www.kten.com/news/politics/trump-further-muddies-blanche-negotiations-saying-he-wishes-anti-weaponization-fund-weren-t-dead/article_da8a3334-ecd3-5a0e-bef2-93d692ae727b.html"
+      "domain": "srilankasource.com",
+      "url": "http://www.srilankasource.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.9,
       "treffer": [
-        "suez"
+        "red sea"
       ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/arab-world/5302135-israel-rejects-new-hamas-deal-stays-silent-avoid-angering-trump"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-likely-to-hold-repo-rate-at-5-25-market-to-focus-on-policy-guidance-nuvama/articleshow/132783688.cms"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/news/u-s-news/stevens-says-el-sayed-wants-to-blame-all-of-your-problems-on-jewish-americans"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "bozemandailychronicle.com",
-      "url": "http://www.bozemandailychronicle.com/ap_news/politics/fact-focus-trump-blames-minnesota-governor-for-cyberattacks-against-the-state-cites-no-evidence/article_1ab1a96d-bedb-5bbc-8cd7-11b4d74de82e.html"
+      "domain": "vindy.com",
+      "url": "https://www.vindy.com/news/local-news/2026/08/judge-oks-sobe-receiver-to-kill-appeal-on-gasification-permit/"
     }
   ],
   "gkg_alter_stunden": 0.0
