@@ -1,93 +1,55 @@
 {
-  "erstellt_am": "2026-08-01T09:45:26",
+  "erstellt_am": "2026-08-01T14:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260801074500",
+  "gkg_stand": "20260801124500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 5,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.3,
+      "tonalitaet": -7.0,
       "treffer": [
         "missile"
       ],
-      "domain": "thejournal.ie",
-      "url": "https://www.thejournal.ie/at-least-nine-people-dead-as-russia-hits-ukrainian-capital-with-intense-barrage-of-missiles-7119362-Aug2026/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "kilburntimes.co.uk",
-      "url": "https://www.kilburntimes.co.uk/news/national/26428540.least-nine-dead-russia-hits-ukrainian-capital-ballistic-missiles/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "oskaloosa.com",
-      "url": "https://www.oskaloosa.com/news/national_news/photos-show-russian-missile-and-drone-attack-on-ukrainian-capital-kyiv/article_444180d4-480d-5b6d-a074-eccc2bdfe86b.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "examiner.com.au",
-      "url": "https://www.examiner.com.au/story/9321900/russia-pounds-kyiv-with-missiles-killing-at-least-nine/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "canberratimes.com.au",
-      "url": "https://www.canberratimes.com.au/story/9321900/russia-pounds-kyiv-with-missiles-killing-at-least-nine/"
+      "domain": "wesh.com",
+      "url": "https://www.wesh.com/article/russia-hits-ukrainian-capital-missiles-drones-killing/73322954"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "tonalitaet": -5.2,
       "treffer": [
-        "refinery"
+        "mandeb"
       ],
-      "domain": "sentinelassam.com",
-      "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-floods-pioneer-foundation-extends-helping-hand-to-flood-hit-people-in-golaghat"
+      "domain": "netscape.com",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20260801/e61e88c14d8aca48c1c56368650baea5"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "red sea",
-        "suez"
-      ],
-      "domain": "srilankasource.com",
-      "url": "http://www.srilankasource.com/news/279216755/attack-on-ship-in-egypt-s-damietta-port-signals-wider-us-iran-conflict"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-likely-to-hold-repo-rate-at-5-25-market-to-focus-on-policy-guidance-nuvama/articleshow/132783688.cms"
+      "domain": "salinapost.com",
+      "url": "https://salinapost.com/posts/97b4f0fb-5aaa-4a00-9abd-76b367583a0c"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.4,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "vindy.com",
-      "url": "https://www.vindy.com/news/local-news/2026/08/judge-oks-sobe-receiver-to-kill-appeal-on-gasification-permit/"
+      "domain": "delawarepublic.org",
+      "url": "https://www.delawarepublic.org/2026-08-01/trade-expert-scott-lincicome-breaks-down-legal-threats-to-trumps-latest-tariffs"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "wutc.org",
+      "url": "https://www.wutc.org/2026-08-01/lebanese-who-fled-the-israeli-invasion-visit-to-see-whats-left"
     }
   ],
   "gkg_alter_stunden": 0.0
