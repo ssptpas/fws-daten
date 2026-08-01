@@ -1,55 +1,28 @@
 {
-  "erstellt_am": "2026-08-01T14:45:22",
+  "erstellt_am": "2026-08-01T22:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260801124500",
+  "gkg_stand": "20260801204500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 2,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "wesh.com",
-      "url": "https://www.wesh.com/article/russia-hits-ukrainian-capital-missiles-drones-killing/73322954"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260801/e61e88c14d8aca48c1c56368650baea5"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "tonalitaet": -4.8,
       "treffer": [
         "red sea"
       ],
-      "domain": "salinapost.com",
-      "url": "https://salinapost.com/posts/97b4f0fb-5aaa-4a00-9abd-76b367583a0c"
+      "domain": "premiumtimesng.com",
+      "url": "https://www.premiumtimesng.com/news/top-news/900092-us-issues-fresh-warning-to-its-citizens-in-middle-east.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -4.1,
       "treffer": [
-        "tariffs"
+        "state of emergency"
       ],
-      "domain": "delawarepublic.org",
-      "url": "https://www.delawarepublic.org/2026-08-01/trade-expert-scott-lincicome-breaks-down-legal-threats-to-trumps-latest-tariffs"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "wutc.org",
-      "url": "https://www.wutc.org/2026-08-01/lebanese-who-fled-the-israeli-invasion-visit-to-see-whats-left"
+      "domain": "hopestandard.com",
+      "url": "https://hopestandard.com/2026/08/01/we-need-help-letter-petition-circulates-calling-on-eby-to-declare-state-of-emergency-due-to-cariboo-fires/"
     }
   ],
   "gkg_alter_stunden": 0.0
