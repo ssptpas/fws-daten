@@ -1,85 +1,55 @@
 {
-  "erstellt_am": "2026-08-02T14:45:51",
+  "erstellt_am": "2026-08-02T22:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260802124500",
+  "gkg_stand": "20260802204500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 5,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "suez"
-      ],
-      "domain": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1795530.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "suez"
-      ],
-      "domain": "ianslive.in",
-      "url": "https://ianslive.in/pakistan-bangladesh-face-mounting-economic-risks-as-prolonged-us-iran-conflict-fuels-oil-price-surge--20260802172618"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -6.4,
       "treffer": [
-        "tariffs"
+        "missile"
       ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
+      "kategorie": "Breite",
+      "tonalitaet": -5.2,
       "treffer": [
-        "sanctions"
+        "cyberattack"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2621658/two-police-personnel-injured-in-ied-blast-near-police-vehicle-in-peshawar"
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/trump-rejects-iranian-cyberattack-claims-blames-minnesota-1811955"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "kategorie": "Breite",
+      "tonalitaet": -4.8,
       "treffer": [
-        "sanctions"
+        "cyber attack"
       ],
-      "domain": "siasat.com",
-      "url": "https://www.siasat.com/iran-leaders-show-united-front-over-war-but-divided-over-the-goal-3517504/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/mid-east/us-israel-to-hold-back-fire-as-trump-hopes-for-quick-iran-deal"
+      "domain": "singletonargus.com.au",
+      "url": "https://www.singletonargus.com.au/story/9322354/cyber-attack-on-liechtenstein-steals-data-of-31000/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -4.0,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "dunyanews.tv",
-      "url": "https://dunyanews.tv/en/FakeNews/965913--iran-denies-reports-of-plans-to-reopen-strait-of-hormuz"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "mishpacha.com",
-      "url": "https://mishpacha.com/the-rebirth-of-ideology/"
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279219908/ukraine-claims-strikes-on-key-russian-military-energy-facilities-calls-for-tougher-sanctions"
     }
   ],
   "gkg_alter_stunden": 0.0
