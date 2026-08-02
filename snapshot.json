@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-02T09:45:01",
+  "erstellt_am": "2026-08-02T14:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "2.84",
@@ -254,14 +254,14 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.5,
-      "markt_datum": "2026-07-30",
-      "leitzins_datum": "2026-07-31",
-      "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
-      "quelle": "FRED/EZB/BoE (berechnet)"
+      "wert": "nicht berechenbar (Wert fehlt oder nicht numerisch)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": "nicht berechenbar (Wert fehlt oder nicht numerisch)"
+      "wert": -1.9,
+      "markt_datum": "29 Jul 2026",
+      "leitzins_datum": "30 Jul 2026",
+      "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
+      "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "CP_minus_SOFR_bp": {
       "wert": 23.0,
@@ -299,14 +299,14 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.185",
-      "beobachtungsdatum": "2026-07-30",
-      "quelle": "SDMX (EST)"
+      "wert": "nicht verfügbar",
+      "quelle": "SDMX",
+      "fehler": "The read operation timed out"
     },
     "UK_SONIA": {
-      "wert": "nicht verfügbar",
-      "quelle": "Bank of England IADB",
-      "fehler": "The read operation timed out"
+      "wert": "3.7313",
+      "beobachtungsdatum": "29 Jul 2026",
+      "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
       "wert": "5.0779",
@@ -314,9 +314,9 @@
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
-      "wert": "nicht verfügbar",
-      "quelle": "Bank of England IADB",
-      "fehler": "The read operation timed out"
+      "wert": "3.75",
+      "beobachtungsdatum": "30 Jul 2026",
+      "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
       "wert": 0.977,

@@ -1,85 +1,85 @@
 {
-  "erstellt_am": "2026-08-02T09:46:22",
+  "erstellt_am": "2026-08-02T14:45:51",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260802074500",
+  "gkg_stand": "20260802124500",
   "veraltet": false,
   "anzahl": 8,
   "ereignisse": [
     {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "suez"
+      ],
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1795530.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "suez"
+      ],
+      "domain": "ianslive.in",
+      "url": "https://ianslive.in/pakistan-bangladesh-face-mounting-economic-risks-as-prolonged-us-iran-conflict-fuels-oil-price-surge--20260802172618"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -12.0,
+      "tonalitaet": -6.4,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/2026/aug/02/trump-tariffs-weapon"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "juancole.com",
-      "url": "https://www.juancole.com/2026/08/israeli-ministry-indicates.html"
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2621658/two-police-personnel-injured-in-ied-blast-near-police-vehicle-in-peshawar"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/iran-leaders-show-united-front-over-war-but-divided-over-the-goal-3517504/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/sudan-protests-spread-over-crippling-power-cuts-water-shortages"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "refinery",
-        "oil field"
-      ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/publicpolicy/tehran-issues-ultimatum-iran-threatens-precision-missile-attacks-on-middle-easts-top-energy-hubs-in-event-of-us-israeli-strikes"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "thecable.ng",
-      "url": "https://www.thecable.ng/newspaper-headlines-families-recount-ordeal-as-bandits-raid-kwara-community/"
-    },
-    {
-      "kategorie": "Breite",
       "tonalitaet": -3.8,
       "treffer": [
-        "cyberattack"
-      ],
-      "domain": "digitaljournal.com",
-      "url": "https://www.digitaljournal.com/article/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
+        "hormuz",
         "mandeb",
         "red sea",
         "suez"
       ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/trump-suspends-fresh-iran-strike-cites-hope-reach-quick-deal"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/08/02/four-reportedly-killed-in-israeli-airstrikes-on-gaza-despite-reported-diplomatic-progress/"
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/mid-east/us-israel-to-hold-back-fire-as-trump-hopes-for-quick-iran-deal"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -3.4,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/news/headlines/900148-trump-cancels-planned-attack-on-iran-gives-reasons.html"
+      "domain": "dunyanews.tv",
+      "url": "https://dunyanews.tv/en/FakeNews/965913--iran-denies-reports-of-plans-to-reopen-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mishpacha.com",
+      "url": "https://mishpacha.com/the-rebirth-of-ideology/"
     }
   ],
   "gkg_alter_stunden": 0.0
