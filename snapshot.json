@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-01T22:45:01",
+  "erstellt_am": "2026-08-02T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.84",
@@ -261,11 +261,7 @@
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": -1.9,
-      "markt_datum": "29 Jul 2026",
-      "leitzins_datum": "30 Jul 2026",
-      "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
-      "quelle": "FRED/EZB/BoE (berechnet)"
+      "wert": "nicht berechenbar (Wert fehlt oder nicht numerisch)"
     },
     "CP_minus_SOFR_bp": {
       "wert": 23.0,
@@ -308,9 +304,9 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.7313",
-      "beobachtungsdatum": "29 Jul 2026",
-      "quelle": "Bank of England IADB"
+      "wert": "nicht verfügbar",
+      "quelle": "Bank of England IADB",
+      "fehler": "The read operation timed out"
     },
     "UK_Rendite_10J": {
       "wert": "5.0779",
@@ -318,9 +314,9 @@
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
-      "wert": "3.75",
-      "beobachtungsdatum": "30 Jul 2026",
-      "quelle": "Bank of England IADB"
+      "wert": "nicht verfügbar",
+      "quelle": "Bank of England IADB",
+      "fehler": "The read operation timed out"
     },
     "Japan_Tagesgeldsatz": {
       "wert": 0.977,

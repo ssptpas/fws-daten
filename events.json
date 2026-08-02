@@ -1,28 +1,85 @@
 {
-  "erstellt_am": "2026-08-01T22:45:22",
+  "erstellt_am": "2026-08-02T09:46:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260801204500",
+  "gkg_stand": "20260802074500",
   "veraltet": false,
-  "anzahl": 2,
+  "anzahl": 8,
   "ereignisse": [
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -12.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "juancole.com",
+      "url": "https://www.juancole.com/2026/08/israeli-ministry-indicates.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -10.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/sudan-protests-spread-over-crippling-power-cuts-water-shortages"
+    },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.8,
       "treffer": [
+        "refinery",
+        "oil field"
+      ],
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/publicpolicy/tehran-issues-ultimatum-iran-threatens-precision-missile-attacks-on-middle-easts-top-energy-hubs-in-event-of-us-israeli-strikes"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "thecable.ng",
+      "url": "https://www.thecable.ng/newspaper-headlines-families-recount-ordeal-as-bandits-raid-kwara-community/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "digitaljournal.com",
+      "url": "https://www.digitaljournal.com/article/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/trump-suspends-fresh-iran-strike-cites-hope-reach-quick-deal"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/08/02/four-reportedly-killed-in-israeli-airstrikes-on-gaza-despite-reported-diplomatic-progress/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
         "red sea"
       ],
       "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/news/top-news/900092-us-issues-fresh-warning-to-its-citizens-in-middle-east.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "hopestandard.com",
-      "url": "https://hopestandard.com/2026/08/01/we-need-help-letter-petition-circulates-calling-on-eby-to-declare-state-of-emergency-due-to-cariboo-fires/"
+      "url": "https://www.premiumtimesng.com/news/headlines/900148-trump-cancels-planned-attack-on-iran-gives-reasons.html"
     }
   ],
   "gkg_alter_stunden": 0.0
