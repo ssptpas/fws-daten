@@ -1,55 +1,84 @@
 {
-  "erstellt_am": "2026-08-02T22:45:31",
+  "erstellt_am": "2026-08-03T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260802204500",
+  "gkg_stand": "20260803074500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/trump-rejects-iranian-cyberattack-claims-blames-minnesota-1811955"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "singletonargus.com.au",
-      "url": "https://www.singletonargus.com.au/story/9322354/cyber-attack-on-liechtenstein-steals-data-of-31000/"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -9.2,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war/"
+      "domain": "juancole.com",
+      "url": "https://www.juancole.com/2026/08/escalation-regional-systemic.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20260803/4482539.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/08/03/kenyas-high-court-mandates-cbk-accountability-in-landmark-mobile-money-fraud-case/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/news-legal/pending-criminal-case-departmental-inquiry-can-still-go-on-rules-punjab-and-haryana-high-court/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.7,
       "treffer": [
-        "refinery"
+        "red sea",
+        "opec"
       ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279219908/ukraine-claims-strikes-on-key-russian-military-energy-facilities-calls-for-tougher-sanctions"
+      "domain": "worldoil.com",
+      "url": "https://worldoil.com/news/2026/8/2/opec-approves-final-production-quota-increase-of-2026/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "suez"
+      ],
+      "domain": "padovanews.it",
+      "url": "https://www.padovanews.it/2026/08/03/egitto-terremoto-magnitudo-5-6-oggi-a-nord-di-suez/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wdbo.com",
+      "url": "https://www.wdbo.com/news/politics/iran-dj-vu-trump/WWYWDNA24Q67XMIJOYLITSGASI/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "premiumtimesng.com",
+      "url": "https://www.premiumtimesng.com/news/top-news/900329-adeyemis-lawyers-detail-roles-of-key-federal-agencies-validating-fake-pfipc.html"
     }
   ],
   "gkg_alter_stunden": 0.0
