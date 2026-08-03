@@ -1,110 +1,127 @@
 {
-  "erstellt_am": "2026-08-03T14:45:42",
+  "erstellt_am": "2026-08-03T22:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260803124500",
+  "gkg_stand": "20260803204500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 13,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -12.6,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "fox5ny.com",
-      "url": "https://www.fox5ny.com/news/bronx-home-invasion-woman-blindfolded-highbridge"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "clevelandstar.com",
-      "url": "http://www.clevelandstar.com/news/279218742/deadly-strike-on-kyiv-kills-10-ukraine-runs-out-of-patriot-missiles"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "hormuz",
-        "mandeb"
-      ],
-      "domain": "financial-news.co.uk",
-      "url": "https://www.financial-news.co.uk/strait-of-hormuz-oil-crisis-drives-brent-toward-weekly-gain-of-12/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "breakingnews.ie",
-      "url": "https://www.breakingnews.ie/ireland/out-of-trumps-playbook-fuel-protests-brought-complaints-against-both-demonstrators-and-government-1934889.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "malaysiasun.com",
-      "url": "http://www.malaysiasun.com/news/279220647/column-japan-nuclear-ambition-a-perilous-challenge-to-post-war-order"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20260803/1b8d2ce07ef646f5851a2614001303de/c.html"
-    },
-    {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -5.0,
+      "tonalitaet": -6.4,
       "treffer": [
         "insolvency"
       ],
-      "domain": "israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431160"
+      "domain": "centralwesterndaily.com.au",
+      "url": "https://www.centralwesterndaily.com.au/story/9321126/mudgee-private-rehab-liquidates-with-147k-debts-records-missing/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -6.3,
       "treffer": [
         "red sea"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/trump-has-repeatedly-threatened-strikes-on-iran-then-called-them-off-here-s-a-timeline-article-13992603.html"
+      "domain": "ajot.com",
+      "url": "https://www.ajot.com/news/weekly-air-cargo-trends-july-20-to-26-2026"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "whdh.com",
-      "url": "https://whdh.com/news/iran-deja-vu-trump-once-again-threatens-massive-escalation-against-tehran-only-to-walk-back/"
+      "domain": "alternet.org",
+      "url": "https://www.alternet.org/trump-doj-todd-blanche-david-hearn/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "wiky.com",
+      "url": "https://wiky.com/2026/08/03/group-of-25-us-states-challenge-trumps-latest-tariffs/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cbs58.com",
+      "url": "https://www.cbs58.com/news/cuba-faces-sixth-nationwide-blackout-as-electrical-grid-collapses"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "americanbanker.com",
+      "url": "https://www.americanbanker.com/news/bank-of-americas-new-disclosure-highlights-compliance-risk"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "state of emergency"
+      ],
+      "domain": "cp24.com",
+      "url": "https://www.cp24.com/local/niagara/2026/08/03/state-of-emergency-declared-in-st-catharines-lincoln-due-to-flooding/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "delaware.gov",
+      "url": "https://news.delaware.gov/2026/08/03/ag-jennings-sues-trump-administration-again-to-stop-illegal-tariffs/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "enca.com",
+      "url": "https://www.enca.com/news-top-stories/water-tanker-becomes-centre-deadly-tragedy-kzn"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "4029tv.com",
+      "url": "https://www.4029tv.com/article/trump-iran-talks-last-chance-us-strikes/73336361"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "carlow-nationalist.ie",
+      "url": "https://www.carlow-nationalist.ie/news/national-news/russia-warns-ireland-of-serious-consequences-if-shadow-fleet-vessels-boarded-in-countrys-waters_arid-107189.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.6,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "wlky.com",
-      "url": "https://www.wlky.com/article/cuba-nationwide-blackout-electrical-grid-collapses/73329456"
+      "domain": "ktul.com",
+      "url": "https://ktul.com/news/nation-world/trump-faces-uphill-battle-in-new-push-for-iran-deal-strait-of-hormuz-middle-east-nuclear-program-enrichment"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "stiripesurse.ro",
-      "url": "https://www.stiripesurse.ro/romanian-competition-watchdog-fines-sugar-companies-eur-102-million-over-price-fixing_3909005"
+      "domain": "alternet.org",
+      "url": "https://www.alternet.org/world/trump-mary-china-iran-missiles/"
     }
   ],
   "gkg_alter_stunden": 0.0
