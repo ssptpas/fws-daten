@@ -1,66 +1,83 @@
 {
-  "erstellt_am": "2026-08-03T09:45:25",
+  "erstellt_am": "2026-08-03T14:45:42",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260803074500",
+  "gkg_stand": "20260803124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -12.6,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "invasion"
       ],
-      "domain": "juancole.com",
-      "url": "https://www.juancole.com/2026/08/escalation-regional-systemic.html"
+      "domain": "fox5ny.com",
+      "url": "https://www.fox5ny.com/news/bronx-home-invasion-woman-blindfolded-highbridge"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.4,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/India/20260803/4482539.html"
+      "domain": "clevelandstar.com",
+      "url": "http://www.clevelandstar.com/news/279218742/deadly-strike-on-kyiv-kills-10-ukraine-runs-out-of-patriot-missiles"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "hormuz",
+        "mandeb"
+      ],
+      "domain": "financial-news.co.uk",
+      "url": "https://www.financial-news.co.uk/strait-of-hormuz-oil-crisis-drives-brent-toward-weekly-gain-of-12/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "breakingnews.ie",
+      "url": "https://www.breakingnews.ie/ireland/out-of-trumps-playbook-fuel-protests-brought-complaints-against-both-demonstrators-and-government-1934889.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "malaysiasun.com",
+      "url": "http://www.malaysiasun.com/news/279220647/column-japan-nuclear-ambition-a-perilous-challenge-to-post-war-order"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "english.news.cn",
+      "url": "https://english.news.cn/20260803/1b8d2ce07ef646f5851a2614001303de/c.html"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -7.0,
+      "tonalitaet": -5.0,
       "treffer": [
-        "central bank"
+        "insolvency"
       ],
-      "domain": "ghanamma.com",
-      "url": "https://www.ghanamma.com/2026/08/03/kenyas-high-court-mandates-cbk-accountability-in-landmark-mobile-money-fraud-case/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/news-legal/pending-criminal-case-departmental-inquiry-can-still-go-on-rules-punjab-and-haryana-high-court/"
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431160"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -4.3,
       "treffer": [
-        "red sea",
-        "opec"
+        "red sea"
       ],
-      "domain": "worldoil.com",
-      "url": "https://worldoil.com/news/2026/8/2/opec-approves-final-production-quota-increase-of-2026/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "suez"
-      ],
-      "domain": "padovanews.it",
-      "url": "https://www.padovanews.it/2026/08/03/egitto-terremoto-magnitudo-5-6-oggi-a-nord-di-suez/"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/trump-has-repeatedly-threatened-strikes-on-iran-then-called-them-off-here-s-a-timeline-article-13992603.html"
     },
     {
       "kategorie": "Policy",
@@ -68,17 +85,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "wdbo.com",
-      "url": "https://www.wdbo.com/news/politics/iran-dj-vu-trump/WWYWDNA24Q67XMIJOYLITSGASI/"
+      "domain": "whdh.com",
+      "url": "https://whdh.com/news/iran-deja-vu-trump-once-again-threatens-massive-escalation-against-tehran-only-to-walk-back/"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/news/top-news/900329-adeyemis-lawyers-detail-roles-of-key-federal-agencies-validating-fake-pfipc.html"
+      "domain": "wlky.com",
+      "url": "https://www.wlky.com/article/cuba-nationwide-blackout-electrical-grid-collapses/73329456"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "stiripesurse.ro",
+      "url": "https://www.stiripesurse.ro/romanian-competition-watchdog-fines-sugar-companies-eur-102-million-over-price-fixing_3909005"
     }
   ],
   "gkg_alter_stunden": 0.0
