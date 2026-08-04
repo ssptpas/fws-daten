@@ -1,194 +1,122 @@
 {
-  "erstellt_am": "2026-08-04T14:45:27",
+  "erstellt_am": "2026-08-04T22:45:45",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260804124500",
+  "gkg_stand": "20260804204500",
   "veraltet": false,
-  "anzahl": 20,
+  "anzahl": 12,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -22.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "ksmu.org",
+      "url": "https://www.ksmu.org/2026-08-04/us-precision-missile-shortage"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -11.3,
+      "tonalitaet": -7.5,
       "treffer": [
         "sanctions"
+      ],
+      "domain": "dailypioneer.com",
+      "url": "https://dailypioneer.com/news/understanding-the-law-beyond-the-controversy"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "cyberattack"
       ],
       "domain": "iheart.com",
-      "url": "https://newstalk1230.iheart.com/content/2026-08-04-cuba-faces-sixth-nationwide-blackout-this-year/"
+      "url": "https://kprcradio.iheart.com/content/2026-08-04-water-systems-in-five-more-states-hit-by-cyberattacks/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
       "treffer": [
-        "drone strike"
+        "red sea"
       ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279221592/five-killed-in-ukrainian-drone-strike-in-moscow-region-governor"
+      "domain": "oilandgas360.com",
+      "url": "https://www.oilandgas360.com/goldman-sees-brent-at-80-90-until-us-iran-deal-or-major-escalation/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.1,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "itweb.co.za",
-      "url": "https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "wlky.com",
-      "url": "https://www.wlky.com/article/russia-ukraine-drone-strikes-beach/73342834"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "news4jax.com",
-      "url": "https://www.news4jax.com/news/world/2026/08/04/russian-and-ukrainian-drone-strikes-kill-at-least-5-in-each-country/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279221911/argo-ship-struck-in-hormuz-after-trumps-decapitation-threat"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279221045/ireland-fuel-protests-spark-backlash-against-both-sides"
+      "domain": "argentinastar.com",
+      "url": "http://www.argentinastar.com/news/279222507/laura-loomer-is-fighting-a-losing-war-against-reality-itself"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.8,
       "treffer": [
-        "malacca"
-      ],
-      "domain": "antaranews.com",
-      "url": "https://en.antaranews.com/news/425459/indonesia-bolsters-early-detection-to-curb-human-trafficking"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "digitalspy.com",
-      "url": "https://www.digitalspy.com/soaps/eastenders/a73342939/eastenders-heartbreaking-lauren-peter-outcome/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
         "mandeb",
         "red sea",
         "suez"
       ],
-      "domain": "mauritiustimes.com",
-      "url": "https://www.mauritiustimes.com/mt/the-iran-war-a-potential-triangular-choke-emerges/"
+      "domain": "nzcity.co.nz",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=451321"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tnledger.com",
-      "url": "http://www.tnledger.com/editorial/Article.aspx?id=206270"
+      "domain": "alternet.org",
+      "url": "https://www.alternet.org/trump-pirro-reflecting-pool/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/publicpolicy/ceo-plays-down-impact-of-attacks-on-aramco"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "inquirer.com",
-      "url": "https://www.inquirer.com/news/nation-world/trump-iran-ceasefire-talks-20260804.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.7,
       "treffer": [
         "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "krcgtv.com",
-      "url": "https://krcgtv.com/news/nation-world/cargo-ship-reportedly-struck-in-strait-of-hormuz-as-trump-states-us-iran-talks-ongoing-maritime-trade-projectile-oman-coast-negotiations-houthis-yemen-saudi-arabia"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/iran-and-oman-are-working-on-a-plan-to-reopen-the-strait-of-hormuz-and-other-mideast-developments-101785868808434.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.5,
+      "tonalitaet": -4.7,
       "treffer": [
         "missile"
       ],
-      "domain": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html"
+      "domain": "cnn.com",
+      "url": "https://edition.cnn.com/2026/08/04/politics/us-iran-key-missile-interceptors-low"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -4.4,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/08/04/status-of-us-iran-talks-uncertain-as-ship-struck-in-hormuz"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/qatar-sees-progress-us-iran-talks-despite-tehran%E2%80%99s-denial"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -3.3,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.2,
       "treffer": [
-        "cyberattack"
+        "insolvency"
       ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/tech/water-cyberattack-hits-least-7-states"
+      "domain": "1370wfea.com",
+      "url": "https://1370wfea.com/morning-update/nh-state-senator-dan-innis-downshifting-myth-ss-insolvency-democratic-socialsim/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -3.1,
       "treffer": [
-        "refinery"
-      ],
-      "domain": "hydrocarbonprocessing.com",
-      "url": "http://www.hydrocarbonprocessing.com/news/2026/08/motiva-plans-to-begin-fccu-restart-at-texas-us-refinery-on-wednesday/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "dailymaverick.co.za",
-      "url": "https://www.dailymaverick.co.za/article/2026-08-04-how-big-food-sues-governments-to-keep-unhealthy-products-on-shelves/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "digitalspy.com",
-      "url": "https://www.digitalspy.com/soaps/emmerdale/a73341355/emmerdale-billy-fletcher-coma-update-attack/"
+      "domain": "azerbaijannews.net",
+      "url": "http://www.azerbaijannews.net/news/279222481/taliban-officials-visit-to-moldova-triggers-political-storm"
     }
   ],
   "gkg_alter_stunden": 0.0
