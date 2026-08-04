@@ -1,109 +1,184 @@
 {
-  "erstellt_am": "2026-08-03T22:45:37",
+  "erstellt_am": "2026-08-04T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260803204500",
+  "gkg_stand": "20260804074500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 21,
   "ereignisse": [
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.4,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.4,
       "treffer": [
-        "insolvency"
+        "drone strike"
       ],
-      "domain": "centralwesterndaily.com.au",
-      "url": "https://www.centralwesterndaily.com.au/story/9321126/mudgee-private-rehab-liquidates-with-147k-debts-records-missing/"
+      "domain": "mexicostar.com",
+      "url": "http://www.mexicostar.com/news/279221592/five-killed-in-ukrainian-drone-strike-in-moscow-region-governor"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.9,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "thedailystar.net",
+      "url": "https://www.thedailystar.net/opinion/editorial/news/the-microplastic-invasion-demands-urgent-action-4239501"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "nuclear-news.net",
+      "url": "https://nuclear-news.net/2026/08/04/4-b1-what-links-palestine-action-arrests-with-burnhams-nuclear-weapons-splurge/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "en.people.cn",
+      "url": "http://en.people.cn/n3/2026/0804/c90000-20485128.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "tonalitaet": -7.2,
       "treffer": [
         "red sea"
       ],
-      "domain": "ajot.com",
-      "url": "https://www.ajot.com/news/weekly-air-cargo-trends-july-20-to-26-2026"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "alternet.org",
-      "url": "https://www.alternet.org/trump-doj-todd-blanche-david-hearn/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "wiky.com",
-      "url": "https://wiky.com/2026/08/03/group-of-25-us-states-challenge-trumps-latest-tariffs/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cbs58.com",
-      "url": "https://www.cbs58.com/news/cuba-faces-sixth-nationwide-blackout-as-electrical-grid-collapses"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "americanbanker.com",
-      "url": "https://www.americanbanker.com/news/bank-of-americas-new-disclosure-highlights-compliance-risk"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "cp24.com",
-      "url": "https://www.cp24.com/local/niagara/2026/08/03/state-of-emergency-declared-in-st-catharines-lincoln-due-to-flooding/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "delaware.gov",
-      "url": "https://news.delaware.gov/2026/08/03/ag-jennings-sues-trump-administration-again-to-stop-illegal-tariffs/"
+      "domain": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1402481"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
+      "tonalitaet": -6.8,
       "treffer": [
-        "tanker"
+        "hormuz"
       ],
-      "domain": "enca.com",
-      "url": "https://www.enca.com/news-top-stories/water-tanker-becomes-centre-deadly-tragedy-kzn"
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/iran-warns-against-new-hormuz-corridor-as-gulf-naval-tensions-rise/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "thedailystar.net",
+      "url": "https://www.thedailystar.net/business/news/democratic-us-states-sue-challenge-trumps-latest-tariffs-4239746"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/08/04/cuba-slowly-regains-power-latest-nationwide-blackout/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "birminghammail.co.uk",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/andy-burnham-government-considering-new-34399526"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/news/report/25-us-states-move-court-against-trumps-forced-labour-tariffs/20260804.htm"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/trump-gives-iran-last-chance-to-reach-nuclear-deal/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-04/trump-international-criminal-court-threats-and-us-politics/106971184"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "hot96.com",
+      "url": "https://hot96.com/2026/08/04/analysis-europes-wildfire-season-exposes-climate-insurance-gap/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "nwaonline.com",
+      "url": "https://www.nwaonline.com/news/2026/aug/04/25-states-sue-over-trumps-tariffs/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/opinion/analysis/2026/08/04/ticked-off-by-trumps-tantrums"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.2,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "4029tv.com",
-      "url": "https://www.4029tv.com/article/trump-iran-talks-last-chance-us-strikes/73336361"
+      "domain": "thedailystar.net",
+      "url": "https://www.thedailystar.net/business/news/oil-ticks-after-selloff-talks-end-us-iran-war-remain-uncertain-4239741"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
       "treffer": [
-        "sanctions"
+        "nuclear weapon"
       ],
-      "domain": "carlow-nationalist.ie",
-      "url": "https://www.carlow-nationalist.ie/news/national-news/russia-warns-ireland-of-serious-consequences-if-shadow-fleet-vessels-boarded-in-countrys-waters_arid-107189.html"
+      "domain": "nuclear-news.net",
+      "url": "https://nuclear-news.net/2026/08/04/4-a-climate-change-exacerbates-nuclear-risks-in-the-arctic-and-we-are-not-ready/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/node/2653316/business-economy"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/business/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -111,17 +186,18 @@
       "treffer": [
         "hormuz"
       ],
-      "domain": "ktul.com",
-      "url": "https://ktul.com/news/nation-world/trump-faces-uphill-battle-in-new-push-for-iran-deal-strait-of-hormuz-middle-east-nuclear-program-enrichment"
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/cargo-ship-reports-being-struck-in-strait-of-hormuz-as-us-iran-claims-about-talks/article_1af0b728-9f59-538b-bb3b-f16c34f85d0f.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.2,
       "treffer": [
-        "red sea"
+        "red sea",
+        "suez"
       ],
-      "domain": "alternet.org",
-      "url": "https://www.alternet.org/world/trump-mary-china-iran-missiles/"
+      "domain": "nwaonline.com",
+      "url": "https://www.nwaonline.com/news/2026/aug/04/production-up-in-july-despite-conflict/"
     }
   ],
   "gkg_alter_stunden": 0.0
