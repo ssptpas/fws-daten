@@ -1,10 +1,10 @@
 {
-  "erstellt_am": "2026-08-04T09:45:01",
+  "erstellt_am": "2026-08-04T14:45:01",
   "reihen": {
     "HY_OAS": {
-      "wert": "nicht verfügbar",
-      "quelle": "FRED",
-      "fehler": "HTTP Error 502: Bad Gateway"
+      "wert": "2.84",
+      "beobachtungsdatum": "2026-07-30",
+      "quelle": "FRED"
     },
     "IG_OAS": {
       "wert": "0.80",
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.66",
-      "beobachtungsdatum": "2026-07-31",
+      "wert": "3.65",
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "FRED"
     },
     "IORB": {
@@ -133,7 +133,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.25",
-      "beobachtungsdatum": "2026-08-03",
+      "beobachtungsdatum": "2026-08-04",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -235,35 +235,35 @@
   },
   "berechnet": {
     "Bank_Stress_KBE": {
-      "wert": 69.65,
+      "wert": 70.52,
       "hoch_60T": 71.29,
-      "drawdown_pct": -2.3,
-      "beobachtungsdatum": "2026-07-31",
+      "drawdown_pct": -1.1,
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 76.06,
+      "wert": 77.06,
       "hoch_60T": 77.92,
-      "drawdown_pct": -2.4,
-      "beobachtungsdatum": "2026-07-31",
+      "drawdown_pct": -1.1,
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": 1.0,
-      "beobachtungsdatum": "2026-07-31",
+      "wert": 0.0,
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -6.5,
       "markt_datum": "2026-08-03",
-      "leitzins_datum": "2026-08-03",
+      "leitzins_datum": "2026-08-04",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": -1.8,
-      "markt_datum": "30 Jul 2026",
-      "leitzins_datum": "31 Jul 2026",
+      "wert": -1.9,
+      "markt_datum": "31 Jul 2026",
+      "leitzins_datum": "03 Aug 2026",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -290,7 +290,7 @@
       "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "RSP_SPY_Ratio": {
-      "wert": 0.2878,
+      "wert": 0.2865,
       "quelle": "Yahoo Finance (inoffiziell, selbst berechnet)",
       "formel": "Breadth_ETF_RSP / Breadth_ETF_SPY",
       "hinweis": "fallende Ratio = engere Marktfuehrung/Konzentrationsrisiko"
@@ -298,8 +298,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.17",
-      "beobachtungsdatum": "2026-08-03",
+      "wert": "3.19",
+      "beobachtungsdatum": "2026-08-04",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -308,18 +308,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.732",
-      "beobachtungsdatum": "30 Jul 2026",
+      "wert": "3.7313",
+      "beobachtungsdatum": "31 Jul 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.078",
-      "beobachtungsdatum": "30 Jul 2026",
+      "wert": "5.104",
+      "beobachtungsdatum": "31 Jul 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "3.75",
-      "beobachtungsdatum": "31 Jul 2026",
+      "beobachtungsdatum": "03 Aug 2026",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
@@ -335,13 +335,13 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 215.01,
-      "beobachtungsdatum": "2026-07-31",
+      "wert": 217.11,
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 747.03,
-      "beobachtungsdatum": "2026-07-31",
+      "wert": 757.67,
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
@@ -350,8 +350,8 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 13.42,
-      "beobachtungsdatum": "2026-07-31",
+      "wert": 13.95,
+      "beobachtungsdatum": "2026-08-03",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }
   }

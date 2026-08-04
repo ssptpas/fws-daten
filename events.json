@@ -1,137 +1,82 @@
 {
-  "erstellt_am": "2026-08-04T09:45:25",
+  "erstellt_am": "2026-08-04T14:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260804074500",
+  "gkg_stand": "20260804124500",
   "veraltet": false,
-  "anzahl": 21,
+  "anzahl": 20,
   "ereignisse": [
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -11.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://newstalk1230.iheart.com/content/2026-08-04-cuba-faces-sixth-nationwide-blackout-this-year/"
+    },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -9.4,
       "treffer": [
         "drone strike"
       ],
-      "domain": "mexicostar.com",
-      "url": "http://www.mexicostar.com/news/279221592/five-killed-in-ukrainian-drone-strike-in-moscow-region-governor"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.9,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/opinion/editorial/news/the-microplastic-invasion-demands-urgent-action-4239501"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "nuclear-news.net",
-      "url": "https://nuclear-news.net/2026/08/04/4-b1-what-links-palestine-action-arrests-with-burnhams-nuclear-weapons-splurge/"
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279221592/five-killed-in-ukrainian-drone-strike-in-moscow-region-governor"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "tonalitaet": -9.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "en.people.cn",
-      "url": "http://en.people.cn/n3/2026/0804/c90000-20485128.html"
+      "domain": "itweb.co.za",
+      "url": "https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.1,
       "treffer": [
-        "red sea"
+        "drone strike"
       ],
-      "domain": "gdnonline.com",
-      "url": "https://www.gdnonline.com:443/Details/1402481"
+      "domain": "wlky.com",
+      "url": "https://www.wlky.com/article/russia-ukraine-drone-strikes-beach/73342834"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "news4jax.com",
+      "url": "https://www.news4jax.com/news/world/2026/08/04/russian-and-ukrainian-drone-strikes-kill-at-least-5-in-each-country/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
+      "tonalitaet": -6.6,
       "treffer": [
         "hormuz"
       ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/iran-warns-against-new-hormuz-corridor-as-gulf-naval-tensions-rise/"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279221911/argo-ship-struck-in-hormuz-after-trumps-decapitation-threat"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.2,
       "treffer": [
-        "tariffs"
+        "refinery"
       ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/business/news/democratic-us-states-sue-challenge-trumps-latest-tariffs-4239746"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279221045/ireland-fuel-protests-spark-backlash-against-both-sides"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
       "treffer": [
-        "sanctions"
+        "malacca"
       ],
-      "domain": "jamaicaobserver.com",
-      "url": "https://www.jamaicaobserver.com/2026/08/04/cuba-slowly-regains-power-latest-nationwide-blackout/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "birminghammail.co.uk",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/andy-burnham-government-considering-new-34399526"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "rediff.com",
-      "url": "https://www.rediff.com/news/report/25-us-states-move-court-against-trumps-forced-labour-tariffs/20260804.htm"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/trump-gives-iran-last-chance-to-reach-nuclear-deal/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "abc.net.au",
-      "url": "https://www.abc.net.au/news/2026-08-04/trump-international-criminal-court-threats-and-us-politics/106971184"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "hot96.com",
-      "url": "https://hot96.com/2026/08/04/analysis-europes-wildfire-season-exposes-climate-insurance-gap/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "nwaonline.com",
-      "url": "https://www.nwaonline.com/news/2026/aug/04/25-states-sue-over-trumps-tariffs/"
+      "domain": "antaranews.com",
+      "url": "https://en.antaranews.com/news/425459/indonesia-bolsters-early-detection-to-curb-human-trafficking"
     },
     {
       "kategorie": "Policy",
@@ -139,65 +84,111 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/opinion/analysis/2026/08/04/ticked-off-by-trumps-tantrums"
+      "domain": "digitalspy.com",
+      "url": "https://www.digitalspy.com/soaps/eastenders/a73342939/eastenders-heartbreaking-lauren-peter-outcome/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.5,
       "treffer": [
         "mandeb",
-        "red sea"
+        "red sea",
+        "suez"
       ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/business/news/oil-ticks-after-selloff-talks-end-us-iran-war-remain-uncertain-4239741"
+      "domain": "mauritiustimes.com",
+      "url": "https://www.mauritiustimes.com/mt/the-iran-war-a-potential-triangular-choke-emerges/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
       "treffer": [
-        "nuclear weapon"
+        "sanctions"
       ],
-      "domain": "nuclear-news.net",
-      "url": "https://nuclear-news.net/2026/08/04/4-a-climate-change-exacerbates-nuclear-risks-in-the-arctic-and-we-are-not-ready/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/node/2653316/business-economy"
+      "domain": "tnledger.com",
+      "url": "http://www.tnledger.com/editorial/Article.aspx?id=206270"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.9,
       "treffer": [
+        "red sea"
+      ],
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/publicpolicy/ceo-plays-down-impact-of-attacks-on-aramco"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "inquirer.com",
+      "url": "https://www.inquirer.com/news/nation-world/trump-iran-ceasefire-talks-20260804.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/business/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain/"
+      "domain": "krcgtv.com",
+      "url": "https://krcgtv.com/news/nation-world/cargo-ship-reportedly-struck-in-strait-of-hormuz-as-trump-states-us-iran-talks-ongoing-maritime-trade-projectile-oman-coast-negotiations-houthis-yemen-saudi-arabia"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.5,
       "treffer": [
         "hormuz"
       ],
-      "domain": "thegazette.com",
-      "url": "http://www.thegazette.com/news/world/cargo-ship-reports-being-struck-in-strait-of-hormuz-as-us-iran-claims-about-talks/article_1af0b728-9f59-538b-bb3b-f16c34f85d0f.html"
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/08/04/status-of-us-iran-talks-uncertain-as-ship-struck-in-hormuz"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/tech/water-cyberattack-hits-least-7-states"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.1,
       "treffer": [
-        "red sea",
-        "suez"
+        "refinery"
       ],
-      "domain": "nwaonline.com",
-      "url": "https://www.nwaonline.com/news/2026/aug/04/production-up-in-july-despite-conflict/"
+      "domain": "hydrocarbonprocessing.com",
+      "url": "http://www.hydrocarbonprocessing.com/news/2026/08/motiva-plans-to-begin-fccu-restart-at-texas-us-refinery-on-wednesday/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailymaverick.co.za",
+      "url": "https://www.dailymaverick.co.za/article/2026-08-04-how-big-food-sues-governments-to-keep-unhealthy-products-on-shelves/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "digitalspy.com",
+      "url": "https://www.digitalspy.com/soaps/emmerdale/a73341355/emmerdale-billy-fletcher-coma-update-attack/"
     }
   ],
   "gkg_alter_stunden": 0.0
