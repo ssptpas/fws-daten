@@ -1,66 +1,84 @@
 {
-  "erstellt_am": "2026-08-04T22:45:45",
+  "erstellt_am": "2026-08-05T09:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260804204500",
+  "gkg_stand": "20260805074500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 14,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/cubas-endless-blackouts/"
+    },
+    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -22.2,
+      "tonalitaet": -6.6,
       "treffer": [
         "missile"
       ],
-      "domain": "ksmu.org",
-      "url": "https://www.ksmu.org/2026-08-04/us-precision-missile-shortage"
+      "domain": "messenger-inquirer.com",
+      "url": "https://www.messenger-inquirer.com/ap/ap_international_news/russian-missile-and-drone-barrage-in-ukrainian-capital-region-kills-at-least-15/article_d5eff268-1c27-5f85-bf42-e4092c674932.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/massive-russian-strikes-kill-17-kyiv-zelenskyy-missiles/story?id=135376986"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "dunfermlinepress.com",
+      "url": "https://www.dunfermlinepress.com/news/national/26437327.russian-missile-drone-barrage-ukrainian-capital-region-kills-least-15/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.5,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailypioneer.com",
-      "url": "https://dailypioneer.com/news/understanding-the-law-beyond-the-controversy"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/node/2653449/world"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -6.5,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.9,
       "treffer": [
-        "cyberattack"
+        "missile"
       ],
-      "domain": "iheart.com",
-      "url": "https://kprcradio.iheart.com/content/2026-08-04-water-systems-in-five-more-states-hit-by-cyberattacks/"
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-in-kyiv-kills-several-august-5-2026/article71308514.ece"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.3,
       "treffer": [
-        "red sea"
-      ],
-      "domain": "oilandgas360.com",
-      "url": "https://www.oilandgas360.com/goldman-sees-brent-at-80-90-until-us-iran-deal-or-major-escalation/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "argentinastar.com",
-      "url": "http://www.argentinastar.com/news/279222507/laura-loomer-is-fighting-a-losing-war-against-reality-itself"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "mandeb",
+        "hormuz",
         "red sea",
         "suez"
       ],
-      "domain": "nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=451321"
+      "domain": "jacarandafm.com",
+      "url": "https://www.jacarandafm.com/news/news/us-eyes-hormuz-deal-as-ship-sinks-in-red-sea/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/05/us-and-iran-having-very-good-discussions-trump-says/"
     },
     {
       "kategorie": "Policy",
@@ -68,55 +86,55 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "alternet.org",
-      "url": "https://www.alternet.org/trump-pirro-reflecting-pool/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/iran-and-oman-are-working-on-a-plan-to-reopen-the-strait-of-hormuz-and-other-mideast-developments-101785868808434.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "cnn.com",
-      "url": "https://edition.cnn.com/2026/08/04/politics/us-iran-key-missile-interceptors-low"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/qatar-sees-progress-us-iran-talks-despite-tehran%E2%80%99s-denial"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "1370wfea.com",
-      "url": "https://1370wfea.com/morning-update/nh-state-senator-dan-innis-downshifting-myth-ss-insolvency-democratic-socialsim/"
+      "domain": "romania-insider.com",
+      "url": "https://www.romania-insider.com/timisoara-mayor-salary-cut-conflict-interest-august-2026"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "azerbaijannews.net",
-      "url": "http://www.azerbaijannews.net/news/279222481/taliban-officials-visit-to-moldova-triggers-political-storm"
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/trump-and-lula-on-collision-course/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "centralwesterndaily.com.au",
+      "url": "https://www.centralwesterndaily.com.au/story/9324092/us-and-iran-having-very-good-discussions-trump-says/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/opinion/2026/08/05/will-trump-call-to-the-aras-for-an-icy-courtesy-visit-with-catherine-connolly/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz",
+        "red sea",
+        "suez"
+      ],
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/trump-warns-iran-to-open-hormuz-or-get-hit-very-hard/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nuclear-news.net",
+      "url": "https://nuclear-news.net/2026/08/05/7-the-war-of-perception-the-wests-infowarfare-and-cognitive-warfare-against-russia/"
     }
   ],
   "gkg_alter_stunden": 0.0
