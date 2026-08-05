@@ -1,19 +1,47 @@
 {
-  "erstellt_am": "2026-08-05T09:45:26",
+  "erstellt_am": "2026-08-05T14:45:46",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260805074500",
+  "gkg_stand": "20260805124500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 24,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "tonalitaet": -7.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/cubas-endless-blackouts/"
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/international/china-announces-countermeasures-after-us-trade-sanctions/article71309251.ece"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/World/20260805/4483558.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "indiapost.com",
+      "url": "https://indiapost.com/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://radio.foxnews.com/2026/08/05/the-push-to-deport-fraudsters-cyberattacks-on-americas-water/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
@@ -21,26 +49,17 @@
       "treffer": [
         "missile"
       ],
-      "domain": "messenger-inquirer.com",
-      "url": "https://www.messenger-inquirer.com/ap/ap_international_news/russian-missile-and-drone-barrage-in-ukrainian-capital-region-kills-at-least-15/article_d5eff268-1c27-5f85-bf42-e4092c674932.html"
+      "domain": "wboc.com",
+      "url": "https://www.wboc.com/news/international/russian-missile-and-drone-barrage-in-ukrainian-capital-region-kills-at-least-15/article_6e0368d8-1019-598f-b005-e9b939addfff.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.2,
+      "tonalitaet": -6.1,
       "treffer": [
-        "missile"
+        "ballistic"
       ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/massive-russian-strikes-kill-17-kyiv-zelenskyy-missiles/story?id=135376986"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "dunfermlinepress.com",
-      "url": "https://www.dunfermlinepress.com/news/national/26437327.russian-missile-drone-barrage-ukrainian-capital-region-kills-least-15/"
+      "domain": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9324103/russia-kills-17-in-heavy-ballistic-hit-on-ukraine/"
     },
     {
       "kategorie": "Policy",
@@ -48,55 +67,83 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/node/2653449/world"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/head-drone-manufacturer-critically-injured-121021000.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
+      "tonalitaet": -5.8,
       "treffer": [
         "missile"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-in-kyiv-kills-several-august-5-2026/article71308514.ece"
+      "domain": "wncw.org",
+      "url": "https://www.wncw.org/2026-08-05/russian-missile-and-drone-barrage-in-ukrainian-capital-region-kills-17"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "theboltonnews.co.uk",
+      "url": "https://www.theboltonnews.co.uk/news/national/26437327.russian-missile-drone-barrage-ukrainian-capital-region-kills-least-17/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "northerndailyleader.com.au",
+      "url": "https://www.northerndailyleader.com.au/story/9324880/china-targets-us-firms-and-drone-exports-after-bans/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9324880/china-targets-us-firms-and-drone-exports-after-bans/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions",
+        "export controls"
+      ],
+      "domain": "ketv.com",
+      "url": "https://www.ketv.com/article/china-imposes-export-controls-us-response/73353094"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -4.7,
       "treffer": [
         "hormuz",
-        "red sea",
-        "suez"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "jacarandafm.com",
-      "url": "https://www.jacarandafm.com/news/news/us-eyes-hormuz-deal-as-ship-sinks-in-red-sea/"
+      "domain": "bostonherald.com",
+      "url": "https://www.bostonherald.com/2026/08/05/trump-deal-strait-of-hormuz/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "tonalitaet": -4.7,
       "treffer": [
         "red sea"
       ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/05/us-and-iran-having-very-good-discussions-trump-says/"
+      "domain": "bworldonline.com",
+      "url": "https://bworldonline.com/world/2026/08/05/768282/us-and-iran-having-very-good-discussions-pres-trump-says/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "romania-insider.com",
-      "url": "https://www.romania-insider.com/timisoara-mayor-salary-cut-conflict-interest-august-2026"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Finanzsystem",
       "tonalitaet": -4.6,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/trump-and-lula-on-collision-course/"
+      "domain": "politico.eu",
+      "url": "https://www.politico.eu/article/russia-central-bank-assets-eu-ukraine-war-vladimir-putin/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -104,37 +151,88 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "centralwesterndaily.com.au",
-      "url": "https://www.centralwesterndaily.com.au/story/9324092/us-and-iran-having-very-good-discussions-trump-says/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/opinion/2026/08/05/will-trump-call-to-the-aras-for-an-icy-courtesy-visit-with-catherine-connolly/"
+      "domain": "wcvb.com",
+      "url": "https://www.wcvb.com/article/trump-says-well-know-in-48-hours-regarding-possible-iran-war-announcement/73352711"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.4,
       "treffer": [
-        "hormuz",
-        "red sea",
-        "suez"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/trump-warns-iran-to-open-hormuz-or-get-hit-very-hard/"
+      "domain": "indiapost.com",
+      "url": "https://indiapost.com/active-danger-zones-forward-seamens-union-urges-pm-modi-to-deploy-indian-navy-after-vessel-sinks-in-red-sea/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "hawaiitribune-herald.com",
+      "url": "https://www.hawaiitribune-herald.com/2026/08/05/nation-world-news/qatar-says-progress-made-toward-us-iran-talks-on-ending-war/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "nuclear-news.net",
-      "url": "https://nuclear-news.net/2026/08/05/7-the-war-of-perception-the-wests-infowarfare-and-cognitive-warfare-against-russia/"
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-5-2026.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "myanmarnews.net",
+      "url": "http://www.myanmarnews.net/news/279223242/myanmar-central-bank-injects-over-64-mln-usd-into-forex-market-in-july"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "hormuz",
+        "red sea",
+        "suez",
+        "malacca"
+      ],
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-us-again-fabricates-talks-on-deal-is-nigh-as-reuters-reports-even-greater-weapons-depletion-iran-debunks-media-reports-on-oman-negotiations-v-opening.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "wcvb.com",
+      "url": "https://www.wcvb.com/article/trump-strait-of-hormuz-deal-iran-oman-shipping/73352195"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "theitem.com",
+      "url": "http://www.theitem.com/stories/trump-says-deal-to-reopen-strait-of-hormuz-could-come-as-early-as-wednesday,445781"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "myanmarnews.net",
+      "url": "http://www.myanmarnews.net/news/279223320/putin-signs-crypto-bill"
     }
   ],
   "gkg_alter_stunden": 0.0

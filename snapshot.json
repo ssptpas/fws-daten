@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-05T09:45:01",
+  "erstellt_am": "2026-08-05T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.78",
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.65",
-      "beobachtungsdatum": "2026-08-03",
+      "wert": "3.66",
+      "beobachtungsdatum": "2026-08-04",
       "quelle": "FRED"
     },
     "IORB": {
@@ -133,7 +133,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.25",
-      "beobachtungsdatum": "2026-08-04",
+      "beobachtungsdatum": "2026-08-05",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -249,21 +249,21 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": 0.0,
-      "beobachtungsdatum": "2026-08-03",
+      "wert": 1.0,
+      "beobachtungsdatum": "2026-08-04",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -6.5,
       "markt_datum": "2026-08-04",
-      "leitzins_datum": "2026-08-04",
+      "leitzins_datum": "2026-08-05",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": -1.9,
-      "markt_datum": "31 Jul 2026",
-      "leitzins_datum": "03 Aug 2026",
+      "wert": -1.8,
+      "markt_datum": "03 Aug 2026",
+      "leitzins_datum": "04 Aug 2026",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -298,8 +298,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.19",
-      "beobachtungsdatum": "2026-08-04",
+      "wert": "3.12",
+      "beobachtungsdatum": "2026-08-05",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -308,18 +308,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.7313",
-      "beobachtungsdatum": "31 Jul 2026",
+      "wert": "3.7321",
+      "beobachtungsdatum": "03 Aug 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.104",
-      "beobachtungsdatum": "31 Jul 2026",
+      "wert": "5.021",
+      "beobachtungsdatum": "03 Aug 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "3.75",
-      "beobachtungsdatum": "03 Aug 2026",
+      "beobachtungsdatum": "04 Aug 2026",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
