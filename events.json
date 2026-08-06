@@ -1,204 +1,118 @@
 {
-  "erstellt_am": "2026-08-06T14:45:46",
+  "erstellt_am": "2026-08-06T22:45:44",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260806124500",
+  "gkg_stand": "20260806204500",
   "veraltet": false,
-  "anzahl": 21,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -10.5,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.7,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260806/58e246abe5bda4d075bc61d31b7ffdfb"
+      "domain": "chicagotribune.com",
+      "url": "https://www.chicagotribune.com/2026/08/06/charges-darien-homer-glen-home-invasion/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -10.2,
+      "tonalitaet": -7.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/world/2026/08/06/israeli-prosecutors-charge-a-settler-for-killing-palestinian-activist-awdah-hathaleen-in-west-bank/"
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/cuba-experts-condemn-us-sanctions-amid-crisis-1723314/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-sanctions-pushing-cuba-into-full-blown-crisis-un-experts/articleshow/133003243.cms"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/oil-traders-double-down-iran-deal-bet-odds-worsen"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.0,
+      "tonalitaet": -5.7,
       "treffer": [
         "missile"
       ],
-      "domain": "iheart.com",
-      "url": "https://wmrn.iheart.com/content/2026-08-06-trump-denies-us-munitions-shortage-amid-iran-conflict/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202608060409.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260806/07074f3374339a34bc539f56d7d6287a"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/russia-expands-shadow-lng-fleet-ahead-of-tougher-eu-sanctions-on-gas-exports/"
+      "domain": "watoday.com.au",
+      "url": "https://www.watoday.com.au/world/north-america/us-military-was-testing-gps-jamming-on-night-of-fatal-air-ambulance-crash-20260806-p60m1h.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "watoday.com.au",
+      "url": "https://www.watoday.com.au/world/north-america/trouble-in-trumpland-with-hegseth-confronted-over-us-missile-shortages-20260806-p60lzp.html"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -5.3,
       "treffer": [
-        "drone strike"
+        "sanctions"
       ],
-      "domain": "yahoo.com",
-      "url": "https://www.yahoo.com/news/world/articles/zelensky-ukrainian-drone-strikes-hit-114858789.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/tensions-in-the-black-sea-and-regional-droughts-spark-rising-global-wheat-prices/"
+      "domain": "peoplesworld.org",
+      "url": "https://www.peoplesworld.org/article/cuban-foreign-minister-cuba-is-not-a-threat-to-the-united-states/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.5,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/opinion/irans-deepest-weakness-exposed-americas-maximum-pressure-campaign"
+      "domain": "dailytrust.com",
+      "url": "https://dailytrust.com/phantom-council-icpc-chair-submits-interim-report-to-tinubu/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/08/icpc-clears-gbajabiamila-says-adeniyis-appointment-letter-was-forged/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.3,
       "treffer": [
         "hormuz"
       ],
-      "domain": "kcra.com",
-      "url": "https://www.kcra.com/article/us-iran-near-deal-to-reopen-strait-of-hormuz/73364244"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "fortune.com",
-      "url": "https://fortune.com/article/price-of-oil-08-06-2026/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/08/06/hormuz-nearly-paralysed-as-just-two-ships-pass-in-24-hours"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/uae/2026/08/06/indian-seafarers-permitted-to-transit-strait-of-hormuz-with-security-measures-in-place/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "defenceweb.co.za",
-      "url": "https://defenceweb.co.za/security/liberia/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3676687"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/sources-say-proposed-hormuz-passage-deal-not-feasible-shipping-industry"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "missile",
-        "nuclear weapon"
-      ],
-      "domain": "consortiumnews.com",
-      "url": "https://consortiumnews.com/2026/08/06/hiroshima-the-looming-risk-of-nuclear-disaster/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "thecitizen.co.tz",
-      "url": "https://www.thecitizen.co.tz/tanzania/news/international/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say-5548324"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/06/north-korea-fires-ballistic-missile-says-south-korea-military"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/2026/08/06/north-korea-fires-at-least-one-ballistic-missile-into-sea-south-koreas-military-says"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.9,
       "treffer": [
         "missile"
       ],
-      "domain": "wjct.org",
-      "url": "https://news.wjct.org/2026-08-06/member-of-ukraines-parliament-on-the-countrys-need-for-more-missile-interceptors"
+      "domain": "independent.co.uk",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-hegseth-weapons-stockpile-b3028884.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "afghanistannews.net",
+      "url": "http://www.afghanistannews.net/news/279225405/kuwait-orders-closure-of-iranian-funded-school"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "vladtv.com",
+      "url": "https://www.vladtv.com/article/315693/nicholas-irving-the-media-and-public-cant-stomach-the-real-moral-costs"
     }
   ],
   "gkg_alter_stunden": 0.0
