@@ -1,191 +1,101 @@
 {
-  "erstellt_am": "2026-08-05T22:45:31",
+  "erstellt_am": "2026-08-06T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260805204500",
+  "gkg_stand": "20260806074500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.1,
+      "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "polishforums.com",
-      "url": "https://polishforums.com/news/poland-aid-ukraine-russia-invades-part-89155/29/"
+      "domain": "juancole.com",
+      "url": "https://www.juancole.com/2026/08/delaying-palestinian-ambulances.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.9,
+      "tonalitaet": -5.7,
       "treffer": [
-        "missile"
+        "nuclear weapon"
       ],
-      "domain": "fox4beaumont.com",
-      "url": "https://fox4beaumont.com/news/nation-world/reports-us-military-running-low-on-key-munitions-may-compromise-readiness-munitions-stockpiles-war-iran-pete-hegseth"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "taiwansun.com",
-      "url": "http://www.taiwansun.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/israel-ambulance-delays-endanger-west-bank-lives-1722504/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/breakingnews/2026/08/05/russian-missile-and-drone-barrage-in-ukrainian-capital-region-kills-at-least-15"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "red sea",
-        "tanker"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279224013/1st-ld-writethru-houthis-claim-missile-attack-on-saudi-oil-tanker-in-gulf-of-aden"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "eptrail.com",
-      "url": "https://www.eptrail.com/2026/08/05/mexico-cartel-us-rewards/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "muscatdaily.com",
-      "url": "https://www.muscatdaily.com/2026/08/05/grounded-tanker-triggers-major-spill-off-dhofar/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wdbo.com",
-      "url": "https://www.wdbo.com/news/politics/us-offers-25-million/VM3QHURA7A42JGV26KXNJ2R7DU/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/opinion/900907-of-palaces-and-ghost-kingdoms-by-zainab-suleiman-okino.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/business/iran-and-the-us-say-a-strait-of-hormuz-deal-is-close-but-one-or/article_162df5a4-e4a7-52c8-a525-310dec367f78.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez",
-        "tanker"
-      ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/attack-on-tanker-reported-in-the-gulf-of-aden"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions",
-        "export controls"
-      ],
-      "domain": "foxrochester.com",
-      "url": "https://foxrochester.com/news/nation-world/china-sanctions-us-on-drone-export-controls-bans-six-american-entities-from-trade-xi-jinping-september-visit-donald-trump-fcc-ccc-certification-humanoid-robots-power-inverters-national-security"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez",
-        "tanker"
-      ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/houthis-claim-eighth-saudi-tanker-attack-threatening-to-expand-blockade"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/swedish-supreme-court-upholds-seizure-of-shadowy-vessel-for-ukraine"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "reason.com",
-      "url": "https://reason.com/2026/08/05/the-american-fingerprints-on-the-genocide-in-sudan/"
+      "domain": "vietnamnews.vn",
+      "url": "https://vietnamnews.vn/world/1796965/hiroshima-urges-leaders-to-abolish-nuclear-weapons-on-81st-a-bomb-anniversary.html"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.6,
+      "tonalitaet": -4.5,
       "treffer": [
         "central bank"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/business/business-news/900916-ndic-says-over-n106bn-paid-to-heritage-bank-depositors.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "prnewswire.com",
-      "url": "https://www.prnewswire.com:443/news-releases/fair-exposes-how-states-gave-foreign-truck-drivers-a-license-to-kill-302844216.html"
+      "domain": "rte.ie",
+      "url": "https://www.rte.ie/brainstorm/2026/0806/1586387-irish-fiscal-advisory-council-explainer-warnings-advice-financial-crash/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-foreign-minister-un-envoy-discuss-houthi-attacks-red-sea-shipping"
+      "domain": "rte.ie",
+      "url": "https://www.rte.ie/news/world/2026/0806/1586694-iran-us/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "geo.tv",
+      "url": "https://www.geo.tv/latest/676385-oil-prices-slip-as-iran-oman-talks-fuel-hopes-for-us-iran-peace-deal"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202608060139.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "geo.tv",
+      "url": "https://www.geo.tv/latest/676382-iran-says-close-to-hormuz-plan-with-oman-but-reopening-depends-on-us"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "israelherald.com",
+      "url": "http://www.israelherald.com/news/279222505/us-weighs-ban-on-chinese-data-center-equipment-imports"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "africaleader.com",
+      "url": "http://www.africaleader.com/news/279222505/us-weighs-ban-on-chinese-data-center-equipment-imports"
     }
   ],
   "gkg_alter_stunden": 0.0
