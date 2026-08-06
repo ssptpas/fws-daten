@@ -1,74 +1,195 @@
 {
-  "erstellt_am": "2026-08-06T09:45:25",
+  "erstellt_am": "2026-08-06T14:45:46",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260806074500",
+  "gkg_stand": "20260806124500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 21,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "tonalitaet": -10.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "juancole.com",
-      "url": "https://www.juancole.com/2026/08/delaying-palestinian-ambulances.html"
+      "domain": "netscape.com",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20260806/58e246abe5bda4d075bc61d31b7ffdfb"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -10.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/world/2026/08/06/israeli-prosecutors-charge-a-settler-for-killing-palestinian-activist-awdah-hathaleen-in-west-bank/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -9.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-sanctions-pushing-cuba-into-full-blown-crisis-un-experts/articleshow/133003243.cms"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
+      "tonalitaet": -8.0,
       "treffer": [
-        "nuclear weapon"
+        "missile"
       ],
-      "domain": "vietnamnews.vn",
-      "url": "https://vietnamnews.vn/world/1796965/hiroshima-urges-leaders-to-abolish-nuclear-weapons-on-81st-a-bomb-anniversary.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "rte.ie",
-      "url": "https://www.rte.ie/brainstorm/2026/0806/1586387-irish-fiscal-advisory-council-explainer-warnings-advice-financial-crash/"
+      "domain": "iheart.com",
+      "url": "https://wmrn.iheart.com/content/2026-08-06-trump-denies-us-munitions-shortage-amid-iran-conflict/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -7.7,
       "treffer": [
         "red sea"
-      ],
-      "domain": "rte.ie",
-      "url": "https://www.rte.ie/news/world/2026/0806/1586694-iran-us/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "geo.tv",
-      "url": "https://www.geo.tv/latest/676385-oil-prices-slip-as-iran-oman-talks-fuel-hopes-for-us-iran-peace-deal"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "central bank"
       ],
       "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202608060139.html"
+      "url": "https://allafrica.com/stories/202608060409.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -6.7,
       "treffer": [
-        "hormuz",
         "red sea"
       ],
-      "domain": "geo.tv",
-      "url": "https://www.geo.tv/latest/676382-iran-says-close-to-hormuz-plan-with-oman-but-reopening-depends-on-us"
+      "domain": "netscape.com",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20260806/07074f3374339a34bc539f56d7d6287a"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/russia-expands-shadow-lng-fleet-ahead-of-tougher-eu-sanctions-on-gas-exports/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/world/articles/zelensky-ukrainian-drone-strikes-hit-114858789.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/tensions-in-the-black-sea-and-regional-droughts-spark-rising-global-wheat-prices/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/opinion/irans-deepest-weakness-exposed-americas-maximum-pressure-campaign"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "kcra.com",
+      "url": "https://www.kcra.com/article/us-iran-near-deal-to-reopen-strait-of-hormuz/73364244"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "fortune.com",
+      "url": "https://fortune.com/article/price-of-oil-08-06-2026/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/08/06/hormuz-nearly-paralysed-as-just-two-ships-pass-in-24-hours"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/uae/2026/08/06/indian-seafarers-permitted-to-transit-strait-of-hormuz-with-security-measures-in-place/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "defenceweb.co.za",
+      "url": "https://defenceweb.co.za/security/liberia/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3676687"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "missile",
+        "nuclear weapon"
+      ],
+      "domain": "consortiumnews.com",
+      "url": "https://consortiumnews.com/2026/08/06/hiroshima-the-looming-risk-of-nuclear-disaster/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "thecitizen.co.tz",
+      "url": "https://www.thecitizen.co.tz/tanzania/news/international/proposed-hormuz-deal-would-give-iran-control-of-inbound-traffic-sources-say-5548324"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/06/north-korea-fires-ballistic-missile-says-south-korea-military"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/08/06/north-korea-fires-at-least-one-ballistic-missile-into-sea-south-koreas-military-says"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
@@ -76,26 +197,8 @@
       "treffer": [
         "missile"
       ],
-      "domain": "cbsnews.com",
-      "url": "https://www.cbsnews.com/news/trump-us-munitions-shortages-iran-war/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "israelherald.com",
-      "url": "http://www.israelherald.com/news/279222505/us-weighs-ban-on-chinese-data-center-equipment-imports"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "africaleader.com",
-      "url": "http://www.africaleader.com/news/279222505/us-weighs-ban-on-chinese-data-center-equipment-imports"
+      "domain": "wjct.org",
+      "url": "https://news.wjct.org/2026-08-06/member-of-ukraines-parliament-on-the-countrys-need-for-more-missile-interceptors"
     }
   ],
   "gkg_alter_stunden": 0.0
