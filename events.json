@@ -1,91 +1,96 @@
 {
-  "erstellt_am": "2026-08-06T22:45:44",
+  "erstellt_am": "2026-08-07T09:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260806204500",
+  "gkg_stand": "20260807074500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 13,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.7,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "chicagotribune.com",
-      "url": "https://www.chicagotribune.com/2026/08/06/charges-darien-homer-glen-home-invasion/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -7.6,
+      "tonalitaet": -6.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/cuba-experts-condemn-us-sanctions-amid-crisis-1723314/"
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202608070089.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
+      "tonalitaet": -6.1,
       "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/08/07/hormuz-shipping-risks-persist-despite-iran-oman-understanding"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "hormuz",
         "red sea"
       ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/oil-traders-double-down-iran-deal-bet-odds-worsen"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "watoday.com.au",
-      "url": "https://www.watoday.com.au/world/north-america/us-military-was-testing-gps-jamming-on-night-of-fatal-air-ambulance-crash-20260806-p60m1h.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "watoday.com.au",
-      "url": "https://www.watoday.com.au/world/north-america/trouble-in-trumpland-with-hegseth-confronted-over-us-missile-shortages-20260806-p60lzp.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "peoplesworld.org",
-      "url": "https://www.peoplesworld.org/article/cuban-foreign-minister-cuba-is-not-a-threat-to-the-united-states/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailytrust.com",
-      "url": "https://dailytrust.com/phantom-council-icpc-chair-submits-interim-report-to-tinubu/"
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/08/07/oil-jumps-nearly-4percent-as-iran-reviews-hormuz-shipping-curbs"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -4.8,
+      "tonalitaet": -5.8,
       "treffer": [
         "central bank"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/08/icpc-clears-gbajabiamila-says-adeniyis-appointment-letter-was-forged/"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/81870"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -5.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/08/07/houthi-attack-on-saudi-arabia-injures-11-civilians/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
       "treffer": [
         "hormuz"
       ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/sources-say-proposed-hormuz-passage-deal-not-feasible-shipping-industry"
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/08/07/hormuz-fee-plan-faces-sanctions-and-insurance-obstacles"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/uae/2026/08/07/fireballs-near-misses-and-distress-calls-hormuz-sailor-recalls-horror-of-being-caught-in-us-iran-war/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/81871"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/07/deadly-houthi-strikes-in-yemen-stoke-fears-of-wider-war-saudi-arabia-warns-of-more-attacks/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
@@ -93,26 +98,38 @@
       "treffer": [
         "missile"
       ],
-      "domain": "independent.co.uk",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-hegseth-weapons-stockpile-b3028884.html"
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/international/article-904844"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/opinion/letters-to-the-editor/2026/08/07/letters-aug-7-7"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
-        "tanker"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "afghanistannews.net",
-      "url": "http://www.afghanistannews.net/news/279225405/kuwait-orders-closure-of-iranian-funded-school"
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/opinion/editorial/2026/08/07/hormuz-energy-middle-east-iran-us/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
       "treffer": [
-        "sanctions"
+        "hormuz",
+        "red sea",
+        "refinery"
       ],
-      "domain": "vladtv.com",
-      "url": "https://www.vladtv.com/article/315693/nicholas-irving-the-media-and-public-cant-stomach-the-real-moral-costs"
+      "domain": "indiatimes.com",
+      "url": "https://retail.economictimes.indiatimes.com/news/industry/hormuz-uncertainty-pushes-landed-costs-up-to-50-raising-risk-of-higher-consumer-prices/133025867"
     }
   ],
   "gkg_alter_stunden": 0.0
