@@ -1,135 +1,205 @@
 {
-  "erstellt_am": "2026-08-07T09:45:24",
+  "erstellt_am": "2026-08-07T14:45:55",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260807074500",
+  "gkg_stand": "20260807124500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 21,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.4,
+      "tonalitaet": -7.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202608070089.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/08/07/hormuz-shipping-risks-persist-despite-iran-oman-understanding"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/08/07/oil-jumps-nearly-4percent-as-iran-reviews-hormuz-shipping-curbs"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/81870"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/08/07/houthi-attack-on-saudi-arabia-injures-11-civilians/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/08/07/hormuz-fee-plan-faces-sanctions-and-insurance-obstacles"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/uae/2026/08/07/fireballs-near-misses-and-distress-calls-hormuz-sailor-recalls-horror-of-being-caught-in-us-iran-war/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/81871"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/07/deadly-houthi-strikes-in-yemen-stoke-fears-of-wider-war-saudi-arabia-warns-of-more-attacks/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/international/article-904844"
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/my-europe/2026/08/07/eu-sanctions-five-people-linked-to-russias-military-industry-after-ukraine-strikes"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -7.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/opinion/letters-to-the-editor/2026/08/07/letters-aug-7-7"
+      "domain": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/world/fresh-us-sanctions-hit-13-cuban-entities-individuals-over-military-links-cuba-slams-hostile-us-move-1977376"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -6.6,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thedailystar.net",
+      "url": "https://www.thedailystar.net/opinion/views/news/dhaka-university-and-the-enduring-cycle-partisan-control-4241856"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279226288/houthi-missiles-drones-strike-military-sites-in-yemen-marib-province"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ktsa.com",
+      "url": "https://www.ktsa.com/cruz-calls-for-trump-to-arm-iranians-our-objective-should-be-regime-collapse/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ktsa.com",
+      "url": "https://www.ktsa.com/as-blackouts-stretch-for-days-life-in-cuba-revolves-around-small-bursts-of-electricity/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/world/2026/08/07/as-blackouts-stretch-for-days-life-in-cuba-revolves-around-small-bursts-of-electricity/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/08/saudi-expects-imminent-two-pronged-attack-irans-allies-official-says"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/politics/articles/ukraines-zelenskyy-first-visit-russia-115754696.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "milwaukeesun.com",
+      "url": "http://www.milwaukeesun.com/news/279226127/trump-says-war-with-iran-will-end-pretty-soon"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "kcra.com",
+      "url": "https://www.kcra.com/article/trump-iran-strait-of-hormuz-deal/73374033"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea",
+        "oil terminal"
+      ],
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-heads-explode-over-iran-draft-terms-for-strait-of-hormuz-ansar-allah-strike-on-saudi-forces-killing-over-50.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "iheart.com",
+      "url": "https://800wvhu.iheart.com/content/2026-08-07-trump-says-deal-with-iran-to-open-hormuz-could-be-soon/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz",
+        "mandeb"
+      ],
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/announcement-reopen-strait-hormuz-remains-elusive-traffic-down-trickle-3806168"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279226143/enough-with-theater-diplomacy-irans-top-negotiator-to-trump"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "livelaw.in",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-hc-strikes-down-circular-clause-permanently-debarring-depanelled-auditors-544749"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
       "treffer": [
         "hormuz",
         "red sea"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/opinion/editorial/2026/08/07/hormuz-energy-middle-east-iran-us/"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279223732/in-new-deal-iran-could-gain-control-over-ships-in-strait-of-hormuz"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "cincinnatisun.com",
+      "url": "http://www.cincinnatisun.com/news/279223732/proposed-iran-oman-deal-may-make-iran-strait-shipping-authority"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "actionforex.com",
+      "url": "https://www.actionforex.com/contributors/fundamental-analysis/649895-the-dollar-wavers-but-climbs/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.1,
       "treffer": [
-        "hormuz",
-        "red sea",
-        "refinery"
+        "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://retail.economictimes.indiatimes.com/news/industry/hormuz-uncertainty-pushes-landed-costs-up-to-50-raising-risk-of-higher-consumer-prices/133025867"
+      "domain": "graphic.com.gh",
+      "url": "https://www.graphic.com.gh/news/general-news/gacl-introduces-mystery-shopping-to-curb-extortion-at-ghanas-airports.html"
     }
   ],
   "gkg_alter_stunden": 0.0
