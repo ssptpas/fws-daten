@@ -1,65 +1,19 @@
 {
-  "erstellt_am": "2026-08-07T14:45:55",
+  "erstellt_am": "2026-08-07T22:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260807124500",
+  "gkg_stand": "20260807204500",
   "veraltet": false,
-  "anzahl": 21,
+  "anzahl": 15,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.4,
+      "tonalitaet": -8.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/my-europe/2026/08/07/eu-sanctions-five-people-linked-to-russias-military-industry-after-ukraine-strikes"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "deccanchronicle.com",
-      "url": "https://www.deccanchronicle.com/world/fresh-us-sanctions-hit-13-cuban-entities-individuals-over-military-links-cuba-slams-hostile-us-move-1977376"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/opinion/views/news/dhaka-university-and-the-enduring-cycle-partisan-control-4241856"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279226288/houthi-missiles-drones-strike-military-sites-in-yemen-marib-province"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ktsa.com",
-      "url": "https://www.ktsa.com/cruz-calls-for-trump-to-arm-iranians-our-objective-should-be-regime-collapse/"
+      "domain": "independent.co.uk",
+      "url": "https://www.independent.co.uk/news/world/americas/cuba-blackouts-living-without-electricity-collapsing-grid-b3029510.html"
     },
     {
       "kategorie": "Policy",
@@ -67,26 +21,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ktsa.com",
-      "url": "https://www.ktsa.com/as-blackouts-stretch-for-days-life-in-cuba-revolves-around-small-bursts-of-electricity/"
+      "domain": "courant.com",
+      "url": "https://www.courant.com/2026/08/07/trump-finances-bbc-lawsuit/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/world/2026/08/07/as-blackouts-stretch-for-days-life-in-cuba-revolves-around-small-bursts-of-electricity/"
+      "domain": "kelownadailycourier.ca",
+      "url": "https://www.kelownadailycourier.ca/business_news/national_business/article_738ffa91-c2c2-5a62-b3a1-1092a045ce63.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -4.5,
       "treffer": [
-        "red sea"
+        "tanker"
       ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/08/saudi-expects-imminent-two-pronged-attack-irans-allies-official-says"
+      "domain": "firerescue1.com",
+      "url": "https://www.firerescue1.com/apparatus-crash/2-okla-firefighters-critically-injured-in-tanker-rollover"
     },
     {
       "kategorie": "Policy",
@@ -94,94 +48,73 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "yahoo.com",
-      "url": "https://www.yahoo.com/news/politics/articles/ukraines-zelenskyy-first-visit-russia-115754696.html"
+      "domain": "iheart.com",
+      "url": "https://wjno.iheart.com/content/2026-08-07-senate-passes-bill-on-russia-sanctions/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2622656/govt-reduces-petrol-price-by-rs220-hsd-by-rs150-for-next-three-days"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wcvb.com",
+      "url": "https://www.wcvb.com/article/senate-russia-sanctions-bill-lindsey-graham/73378262"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-senate-passes-russia-sanctions-bill-india-risks-tariffs-over-russian-oil-101786121328542.html"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.9,
       "treffer": [
-        "tanker"
+        "sanctions"
       ],
-      "domain": "milwaukeesun.com",
-      "url": "http://www.milwaukeesun.com/news/279226127/trump-says-war-with-iran-will-end-pretty-soon"
+      "domain": "dailycaller.com",
+      "url": "https://dailycaller.com/2026/08/07/lindsey-graham-russia-sanctions-bill-senate/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailyadvance.com",
+      "url": "http://www.dailyadvance.com/news/national/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham/article_c05ce997-f91c-57b3-a8f7-622cf287b542.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bellona.org",
+      "url": "https://bellona.org/news/nuclear-issues/2026-08-urenco-expands-europe-moves-unevenly-away-from-rosatom-and-the-future-of-zaporizhzhia-grows-increasingly-uncertain"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.6,
       "treffer": [
         "hormuz"
       ],
-      "domain": "kcra.com",
-      "url": "https://www.kcra.com/article/trump-iran-strait-of-hormuz-deal/73374033"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "oil terminal"
-      ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-heads-explode-over-iran-draft-terms-for-strait-of-hormuz-ansar-allah-strike-on-saudi-forces-killing-over-50.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "iheart.com",
-      "url": "https://800wvhu.iheart.com/content/2026-08-07-trump-says-deal-with-iran-to-open-hormuz-could-be-soon/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz",
-        "mandeb"
-      ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/announcement-reopen-strait-hormuz-remains-elusive-traffic-down-trickle-3806168"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279226143/enough-with-theater-diplomacy-irans-top-negotiator-to-trump"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-hc-strikes-down-circular-clause-permanently-debarring-depanelled-auditors-544749"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279223732/in-new-deal-iran-could-gain-control-over-ships-in-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "cincinnatisun.com",
-      "url": "http://www.cincinnatisun.com/news/279223732/proposed-iran-oman-deal-may-make-iran-strait-shipping-authority"
+      "domain": "afghanistannews.net",
+      "url": "http://www.afghanistannews.net/news/279226690/us-treasury-targets-currency-exchanges-shell-companies-tied-to-iran"
     },
     {
       "kategorie": "Policy",
@@ -189,8 +122,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "actionforex.com",
-      "url": "https://www.actionforex.com/contributors/fundamental-analysis/649895-the-dollar-wavers-but-climbs/"
+      "domain": "newarkadvertiser.co.uk",
+      "url": "https://www.newarkadvertiser.co.uk/national/meta-paying-price-for-cavalier-approach-to-online-safety-say-uk-campaigners-170313/"
     },
     {
       "kategorie": "Policy",
@@ -198,8 +131,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "graphic.com.gh",
-      "url": "https://www.graphic.com.gh/news/general-news/gacl-introduces-mystery-shopping-to-curb-extortion-at-ghanas-airports.html"
+      "domain": "rte.ie",
+      "url": "https://www.rte.ie/news/ukraine/2026/0807/1587013-us-sanctions-russia/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "surreycomet.co.uk",
+      "url": "https://www.surreycomet.co.uk/news/national/26447343.meta-paying-price-cavalier-approach-online-safety-say-uk-campaigners/"
     }
   ],
   "gkg_alter_stunden": 0.0
