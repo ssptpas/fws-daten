@@ -1,28 +1,55 @@
 {
-  "erstellt_am": "2026-08-07T22:45:26",
+  "erstellt_am": "2026-08-08T09:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260807204500",
+  "gkg_stand": "20260808074500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 12,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.0,
+      "tonalitaet": -17.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "independent.co.uk",
-      "url": "https://www.independent.co.uk/news/world/americas/cuba-blackouts-living-without-electricity-collapsing-grid-b3029510.html"
+      "domain": "globaltimes.cn",
+      "url": "https://www.globaltimes.cn/page/202608/1367780.shtml"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -9.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "courant.com",
-      "url": "https://www.courant.com/2026/08/07/trump-finances-bbc-lawsuit/"
+      "domain": "nottinghampost.com",
+      "url": "https://www.nottinghampost.com/news/uk-world-news/new-points-driving-licence-punishment-11093604"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9326370/houthis-strike-as-un-warns-yemen-nearing-wider-conflict/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "theadvocate.com.au",
+      "url": "https://www.theadvocate.com.au/story/9326370/houthis-strike-as-un-warns-yemen-nearing-wider-conflict/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/eurasia/russia-ukraine-exchange-overnight-strikes-killing-3-injuring-10/4021610"
     },
     {
       "kategorie": "Policy",
@@ -30,55 +57,36 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "kelownadailycourier.ca",
-      "url": "https://www.kelownadailycourier.ca/business_news/national_business/article_738ffa91-c2c2-5a62-b3a1-1092a045ce63.html"
+      "domain": "ibtimes.co.in",
+      "url": "https://www.ibtimes.co.in/india-faces-tariff-risk-us-senate-passes-sweeping-russia-sanctions-bill-904539"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.8,
       "treffer": [
-        "tanker"
+        "central bank"
       ],
-      "domain": "firerescue1.com",
-      "url": "https://www.firerescue1.com/apparatus-crash/2-okla-firefighters-critically-injured-in-tanker-rollover"
+      "domain": "dailytrust.com",
+      "url": "https://dailytrust.com/debts-how-nigeria-masks-fiscal-recklessness-as-economic-prudence/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Finanzsystem",
       "tonalitaet": -4.3,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "iheart.com",
-      "url": "https://wjno.iheart.com/content/2026-08-07-senate-passes-bill-on-russia-sanctions/"
+      "domain": "thedailystar.net",
+      "url": "https://www.thedailystar.net/news/world/usa/news/trump-renews-effort-fire-feds-cook-continuing-attacks-central-bank-4242626"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.0,
       "treffer": [
-        "hormuz",
-        "red sea"
+        "red sea",
+        "suez"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2622656/govt-reduces-petrol-price-by-rs220-hsd-by-rs150-for-next-three-days"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wcvb.com",
-      "url": "https://www.wcvb.com/article/senate-russia-sanctions-bill-lindsey-graham/73378262"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-senate-passes-russia-sanctions-bill-india-risks-tariffs-over-russian-oil-101786121328542.html"
+      "domain": "egyptindependent.com",
+      "url": "https://www.egyptindependent.com/dusty-weather-on-saturday-face-masks-advised-egyptian-meteorological-authority/"
     },
     {
       "kategorie": "Policy",
@@ -86,62 +94,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailycaller.com",
-      "url": "https://dailycaller.com/2026/08/07/lindsey-graham-russia-sanctions-bill-senate/"
+      "domain": "santamariatimes.com",
+      "url": "https://santamariatimes.com/ap/national/irans-leaders-think-they-have-trump-cornered-but-their-strategy-carries-great-risks/article_22d4a966-ad8d-50eb-a2d9-09c40a1e6a5e.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailyadvance.com",
-      "url": "http://www.dailyadvance.com/news/national/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham/article_c05ce997-f91c-57b3-a8f7-622cf287b542.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bellona.org",
-      "url": "https://bellona.org/news/nuclear-issues/2026-08-urenco-expands-europe-moves-unevenly-away-from-rosatom-and-the-future-of-zaporizhzhia-grows-increasingly-uncertain"
+      "domain": "egyptindependent.com",
+      "url": "https://www.egyptindependent.com/us-military-redirects-51-commercial-vessels-in-iran-blockade/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.7,
       "treffer": [
         "hormuz"
       ],
-      "domain": "afghanistannews.net",
-      "url": "http://www.afghanistannews.net/news/279226690/us-treasury-targets-currency-exchanges-shell-companies-tied-to-iran"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newarkadvertiser.co.uk",
-      "url": "https://www.newarkadvertiser.co.uk/national/meta-paying-price-for-cavalier-approach-to-online-safety-say-uk-campaigners-170313/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "rte.ie",
-      "url": "https://www.rte.ie/news/ukraine/2026/0807/1587013-us-sanctions-russia/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "surreycomet.co.uk",
-      "url": "https://www.surreycomet.co.uk/news/national/26447343.meta-paying-price-cavalier-approach-online-safety-say-uk-campaigners/"
+      "domain": "coast1009.com",
+      "url": "https://coast1009.com/uncategorized/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump/"
     }
   ],
   "gkg_alter_stunden": 0.0
