@@ -1,119 +1,141 @@
 {
-  "erstellt_am": "2026-08-08T09:45:24",
+  "erstellt_am": "2026-08-08T14:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260808074500",
+  "gkg_stand": "20260808124500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 14,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -17.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "globaltimes.cn",
-      "url": "https://www.globaltimes.cn/page/202608/1367780.shtml"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -9.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nottinghampost.com",
-      "url": "https://www.nottinghampost.com/news/uk-world-news/new-points-driving-licence-punishment-11093604"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "merimbulanewsweekly.com.au",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9326370/houthis-strike-as-un-warns-yemen-nearing-wider-conflict/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "theadvocate.com.au",
-      "url": "https://www.theadvocate.com.au/story/9326370/houthis-strike-as-un-warns-yemen-nearing-wider-conflict/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
+      "tonalitaet": -9.9,
       "treffer": [
         "refinery"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/eurasia/russia-ukraine-exchange-overnight-strikes-killing-3-injuring-10/4021610"
+      "domain": "news.az",
+      "url": "https://news.az/news/drone-attack-damages-libyas-zawiya-refinery-tank-triggering-a-leak"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279227426/yemeni-armed-forces-launch-multi-front-operation-against-houthis-warn-against-further-escalation"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9326418/russian-attacks-pound-kyiv-as-air-defences-fall-short/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "bridgwatermercury.co.uk",
+      "url": "https://www.bridgwatermercury.co.uk/news/national/26447604.russian-attacks-kill-four-ukrainian-air-defences-fall-short/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "eveningnews24.co.uk",
+      "url": "https://www.eveningnews24.co.uk/news/national/26447604.russian-attacks-kill-four-ukrainian-air-defences-fall-short/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "ianslive.in",
+      "url": "https://ianslive.in/iran-strikes-uaes-tanker-with-missiles-in-strait-of-hormuz--20260808163748"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "newkerala.com",
+      "url": "https://www.newkerala.com/news/a/iran-strikes-uaes-tanker-missiles-strait-hormuz-814.htm"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.1,
       "treffer": [
+        "tanker"
+      ],
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/world/2026/08/08/leaking-tanker-off-omani-coast-is-sinking-deeper-satellite-images-show"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
         "sanctions"
       ],
-      "domain": "ibtimes.co.in",
-      "url": "https://www.ibtimes.co.in/india-faces-tariff-risk-us-senate-passes-sweeping-russia-sanctions-bill-904539"
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279227251/india-needs-to-start-de-risking-from-us-foreign-affairs-experts-warn-of-permanent-shift-in-india-us-relations-after-russia-sanctions-bill"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.8,
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "dailytrust.com",
-      "url": "https://dailytrust.com/debts-how-nigeria-masks-fiscal-recklessness-as-economic-prudence/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/news/world/usa/news/trump-renews-effort-fire-feds-cook-continuing-attacks-central-bank-4242626"
+      "domain": "egyptindependent.com",
+      "url": "https://www.egyptindependent.com/us-intel-assesses-putin-could-launch-attack-aimed-at-testing-nato-unity/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -4.1,
       "treffer": [
-        "red sea",
-        "suez"
+        "tanker"
       ],
-      "domain": "egyptindependent.com",
-      "url": "https://www.egyptindependent.com/dusty-weather-on-saturday-face-masks-advised-egyptian-meteorological-authority/"
+      "domain": "therecord.com",
+      "url": "https://www.therecord.com/news/world/middle-east/leaking-tanker-off-omani-coast-is-sinking-deeper-satellite-images-show/article_fd323a2a-a11c-5101-814d-f53470021c96.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "santamariatimes.com",
-      "url": "https://santamariatimes.com/ap/national/irans-leaders-think-they-have-trump-cornered-but-their-strategy-carries-great-risks/article_22d4a966-ad8d-50eb-a2d9-09c40a1e6a5e.html"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.8,
       "treffer": [
-        "sanctions"
+        "red sea",
+        "oil terminal"
       ],
-      "domain": "egyptindependent.com",
-      "url": "https://www.egyptindependent.com/us-military-redirects-51-commercial-vessels-in-iran-blockade/"
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279227112/ukraine-promised-to-end-attacks-on-us-linked-oil-terminal-bloomberg"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.8,
       "treffer": [
-        "hormuz"
+        "red sea",
+        "oil terminal"
       ],
-      "domain": "coast1009.com",
-      "url": "https://coast1009.com/uncategorized/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump/"
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279227108/ukraine-promised-to-end-attacks-on-us-linked-oil-terminal-bloomberg"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/9-lakh-cyber-attacks-detected-in-indias-banking-and-healthcare-sectors/articleshow/133051968.cms"
     }
   ],
   "gkg_alter_stunden": 0.0
