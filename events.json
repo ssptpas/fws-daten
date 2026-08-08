@@ -1,141 +1,64 @@
 {
-  "erstellt_am": "2026-08-08T14:45:22",
+  "erstellt_am": "2026-08-08T22:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260808124500",
+  "gkg_stand": "20260808204500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.9,
+      "tonalitaet": -9.1,
       "treffer": [
-        "refinery"
+        "hormuz"
       ],
-      "domain": "news.az",
-      "url": "https://news.az/news/drone-attack-damages-libyas-zawiya-refinery-tank-triggering-a-leak"
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/gulf/5304797-vessel-owned-uae%E2%80%99s-adnoc-attacked-while-transiting-strait-hormuz"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
+      "tonalitaet": -7.0,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "hormuz"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279227426/yemeni-armed-forces-launch-multi-front-operation-against-houthis-warn-against-further-escalation"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "merimbulanewsweekly.com.au",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9326418/russian-attacks-pound-kyiv-as-air-defences-fall-short/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "bridgwatermercury.co.uk",
-      "url": "https://www.bridgwatermercury.co.uk/news/national/26447604.russian-attacks-kill-four-ukrainian-air-defences-fall-short/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "eveningnews24.co.uk",
-      "url": "https://www.eveningnews24.co.uk/news/national/26447604.russian-attacks-kill-four-ukrainian-air-defences-fall-short/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "ianslive.in",
-      "url": "https://ianslive.in/iran-strikes-uaes-tanker-with-missiles-in-strait-of-hormuz--20260808163748"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "newkerala.com",
-      "url": "https://www.newkerala.com/news/a/iran-strikes-uaes-tanker-missiles-strait-hormuz-814.htm"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/world/2026/08/08/leaking-tanker-off-omani-coast-is-sinking-deeper-satellite-images-show"
+      "domain": "fortune.com",
+      "url": "https://fortune.com/2026/08/08/iran-economic-collapse-us-naval-blockade-hormuz-sanctions-relief/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.9,
       "treffer": [
-        "sanctions"
+        "state of emergency"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279227251/india-needs-to-start-de-risking-from-us-foreign-affairs-experts-warn-of-permanent-shift-in-india-us-relations-after-russia-sanctions-bill"
+      "domain": "dailymirror.lk",
+      "url": "https://www.dailymirror.lk/breaking-news/British-Columbia-district-declares-state-of-emergency-issues-evacuation-orders-as-wildfire-rages/108-347727"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "egyptindependent.com",
-      "url": "https://www.egyptindependent.com/us-intel-assesses-putin-could-launch-attack-aimed-at-testing-nato-unity/"
+      "domain": "wsbradio.com",
+      "url": "https://www.wsbradio.com/news/russian-attacks-kill/Z22ISCBZUY6S5ADG24TYTCREF4/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "messengernewspapers.co.uk",
+      "url": "https://www.messengernewspapers.co.uk/news/national/26448120.iran-makes-new-strait-hormuz-demands-uae-says-ship-targeted/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
       "treffer": [
-        "tanker"
+        "refinery"
       ],
-      "domain": "therecord.com",
-      "url": "https://www.therecord.com/news/world/middle-east/leaking-tanker-off-omani-coast-is-sinking-deeper-satellite-images-show/article_fd323a2a-a11c-5101-814d-f53470021c96.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "red sea",
-        "oil terminal"
-      ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279227112/ukraine-promised-to-end-attacks-on-us-linked-oil-terminal-bloomberg"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "red sea",
-        "oil terminal"
-      ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279227108/ukraine-promised-to-end-attacks-on-us-linked-oil-terminal-bloomberg"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/9-lakh-cyber-attacks-detected-in-indias-banking-and-healthcare-sectors/articleshow/133051968.cms"
+      "domain": "nzcity.co.nz",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=451574"
     }
   ],
   "gkg_alter_stunden": 0.0
