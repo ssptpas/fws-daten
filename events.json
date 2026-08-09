@@ -1,64 +1,114 @@
 {
-  "erstellt_am": "2026-08-08T22:45:22",
+  "erstellt_am": "2026-08-09T09:45:21",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260808204500",
+  "gkg_stand": "20260809074500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 11,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.1,
+      "tonalitaet": -7.4,
       "treffer": [
         "hormuz"
       ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/gulf/5304797-vessel-owned-uae%E2%80%99s-adnoc-attacked-while-transiting-strait-hormuz"
+      "domain": "pakobserver.net",
+      "url": "https://pakobserver.net/iran-sets-additional-demands-for-strait-of-hormuz-reopening/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.0,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.5,
       "treffer": [
-        "hormuz"
+        "central bank"
       ],
-      "domain": "fortune.com",
-      "url": "https://fortune.com/2026/08/08/iran-economic-collapse-us-naval-blockade-hormuz-sanctions-relief/"
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279226678/ukraine-hits-russian-warehouses-of-wildberries-supply-chains-shaken"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.9,
+      "tonalitaet": -6.1,
       "treffer": [
-        "state of emergency"
+        "sanctions"
       ],
-      "domain": "dailymirror.lk",
-      "url": "https://www.dailymirror.lk/breaking-news/British-Columbia-district-declares-state-of-emergency-issues-evacuation-orders-as-wildfire-rages/108-347727"
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/%5Cqnd%5Crussia%5Carticles%5C202608086577.aspx"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
+      "tonalitaet": -6.0,
       "treffer": [
-        "refinery"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/russian-attacks-kill/Z22ISCBZUY6S5ADG24TYTCREF4/"
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279227943/iran-makes-new-hormuz-demands-as-missile-hits-emirati-ship"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279227942/houthis-behind-attack-on-gas-facility-in-saudi-jubail-region-reports-israeli-media"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "japantoday.com",
+      "url": "https://japantoday.com/category/national/update3-nagasaki-warns-of-risk-of-nuclear-war-on-81st-a-bomb-anniversary"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
       "treffer": [
         "hormuz"
       ],
-      "domain": "messengernewspapers.co.uk",
-      "url": "https://www.messengernewspapers.co.uk/news/national/26448120.iran-makes-new-strait-hormuz-demands-uae-says-ship-targeted/"
+      "domain": "nzherald.co.nz",
+      "url": "https://www.nzherald.co.nz/world/iran-sets-conditions-for-reopening-strait-of-hormuz-amid-attacks/SIF5BHI4FNEODMSNADGW2RFEIM/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.6,
       "treffer": [
+        "hormuz"
+      ],
+      "domain": "iheart.com",
+      "url": "https://960weli.iheart.com/content/2026-08-09-iran-demands-us-action-to-reopen-strait-of-hormuz/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "yumasun.com",
+      "url": "https://www.yumasun.com/news/national_news/ap-news-in-brief-at-12-04-a-m-edt/article_c45e41dc-39af-5097-98eb-70eba4150ff5.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "red sea",
         "refinery"
       ],
-      "domain": "nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=451574"
+      "domain": "albawaba.com",
+      "url": "https://www.albawaba.com/news/houthi-attacks-light-aramco-refinery-1634665"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "refinery"
+      ],
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279227930/fire-extinguished-in-saudi-aramco-facility-in-jazan-after-suspected-targeting-no-injuries-reported-says-energy-ministry"
     }
   ],
   "gkg_alter_stunden": 0.0
