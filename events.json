@@ -1,114 +1,66 @@
 {
-  "erstellt_am": "2026-08-09T09:45:21",
+  "erstellt_am": "2026-08-09T14:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260809074500",
+  "gkg_stand": "20260809124500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "pakobserver.net",
-      "url": "https://pakobserver.net/iran-sets-additional-demands-for-strait-of-hormuz-reopening/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279226678/ukraine-hits-russian-warehouses-of-wildberries-supply-chains-shaken"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "tonalitaet": -9.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "strategypage.com",
-      "url": "http://www.strategypage.com/%5Cqnd%5Crussia%5Carticles%5C202608086577.aspx"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
       "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279227943/iran-makes-new-hormuz-demands-as-missile-hits-emirati-ship"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279227942/houthis-behind-attack-on-gas-facility-in-saudi-jubail-region-reports-israeli-media"
+      "url": "http://www.arabherald.com/news/279226682/short-bursts-of-electricity-disrupt-routines-in-havana"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.8,
+      "tonalitaet": -6.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279228105/missiles-can-only-be-countered-with-missiles-iraqi-militia-vows-revenge-over-us-saudi-strikes"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.7,
       "treffer": [
         "nuclear weapon"
       ],
-      "domain": "japantoday.com",
-      "url": "https://japantoday.com/category/national/update3-nagasaki-warns-of-risk-of-nuclear-war-on-81st-a-bomb-anniversary"
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/nagasaki-marks-81st-atomic-bomb-anniversary-as-mayor-says-nuclear-deterrence-only-increases-risk,162377"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.7,
       "treffer": [
-        "hormuz"
+        "nuclear weapon"
       ],
-      "domain": "nzherald.co.nz",
-      "url": "https://www.nzherald.co.nz/world/iran-sets-conditions-for-reopening-strait-of-hormuz-amid-attacks/SIF5BHI4FNEODMSNADGW2RFEIM/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "iheart.com",
-      "url": "https://960weli.iheart.com/content/2026-08-09-iran-demands-us-action-to-reopen-strait-of-hormuz/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "yumasun.com",
-      "url": "https://www.yumasun.com/news/national_news/ap-news-in-brief-at-12-04-a-m-edt/article_c45e41dc-39af-5097-98eb-70eba4150ff5.html"
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/nagasaki-marks-81st-atomic-bomb-anniversary-as-mayor-says-nuclear-deterrence-only-increases-risk/article_dd48dd04-c888-56c1-ac75-faf29dac4f48.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.2,
       "treffer": [
-        "red sea",
-        "refinery"
-      ],
-      "domain": "albawaba.com",
-      "url": "https://www.albawaba.com/news/houthi-attacks-light-aramco-refinery-1634665"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
         "mandeb",
         "red sea",
         "refinery"
       ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279227930/fire-extinguished-in-saudi-aramco-facility-in-jazan-after-suspected-targeting-no-injuries-reported-says-energy-ministry"
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279228111/houthis-claim-responsibility-for-attack-on-saudi-aramco-facility-in-jazan"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "singletonargus.com.au",
+      "url": "https://www.singletonargus.com.au/story/9326830/nagasaki-marks-bombing-with-call-to-ban-nuclear-weapons/"
     }
   ],
   "gkg_alter_stunden": 0.0
