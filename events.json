@@ -1,66 +1,68 @@
 {
-  "erstellt_am": "2026-08-09T14:45:30",
+  "erstellt_am": "2026-08-09T22:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260809124500",
+  "gkg_stand": "20260809204500",
   "veraltet": false,
   "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
       "treffer": [
-        "sanctions"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279226682/short-bursts-of-electricity-disrupt-routines-in-havana"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279228105/missiles-can-only-be-countered-with-missiles-iraqi-militia-vows-revenge-over-us-saudi-strikes"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/nagasaki-marks-81st-atomic-bomb-anniversary-as-mayor-says-nuclear-deterrence-only-increases-risk,162377"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "reflector.com",
-      "url": "http://www.reflector.com/news/national/nagasaki-marks-81st-atomic-bomb-anniversary-as-mayor-says-nuclear-deterrence-only-increases-risk/article_dd48dd04-c888-56c1-ac75-faf29dac4f48.html"
+      "domain": "richmondandtwickenhamtimes.co.uk",
+      "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26449119.israel-rejects-trumps-gaza-plan-details-emerge-strait-hormuz/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -5.2,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "refinery"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279228111/houthis-claim-responsibility-for-attack-on-saudi-aramco-facility-in-jazan"
+      "domain": "stourbridgenews.co.uk",
+      "url": "https://www.stourbridgenews.co.uk/news/national/26449119.israel-rejects-trumps-gaza-plan-details-emerge-strait-hormuz/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
       "treffer": [
-        "nuclear weapon"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "singletonargus.com.au",
-      "url": "https://www.singletonargus.com.au/story/9326830/nagasaki-marks-bombing-with-call-to-ban-nuclear-weapons/"
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1194225/world/region/iran-issues-demands-for-reopening-of-hormuz"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "milwaukeesun.com",
+      "url": "http://www.milwaukeesun.com/news/279228397/pentagon-pushes-arms-makers-to-boost-output-as-iran-war-drains-stocks-wapo"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "wtvq.com",
+      "url": "https://www.wtvq.com/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "state of emergency"
+      ],
+      "domain": "bostonherald.com",
+      "url": "https://www.bostonherald.com/2026/08/09/severe-storms-hit-western-massachusetts-springfield-declares-state-of-emergency/"
     }
   ],
   "gkg_alter_stunden": 0.0
