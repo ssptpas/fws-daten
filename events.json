@@ -1,130 +1,77 @@
 {
-  "erstellt_am": "2026-08-10T14:46:00",
+  "erstellt_am": "2026-08-10T22:45:51",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260810124500",
+  "gkg_stand": "20260810204500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.5,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -9.1,
       "treffer": [
-        "drone strike"
+        "central bank"
       ],
-      "domain": "wmtw.com",
-      "url": "https://www.wmtw.com/article/ukraine-russia-deadly-drone-strike-august-2026/73390330"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
       "tonalitaet": -8.8,
       "treffer": [
-        "drone strike"
-      ],
-      "domain": "cnn.com",
-      "url": "https://edition.cnn.com/2026/08/10/europe/ukraine-russia-drone-strike-nizhnekamsk-intl"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.0,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "belfastlive.co.uk",
-      "url": "https://www.belfastlive.co.uk/news/uk-world-news/daniel-kinahans-life-alongside-killers-34431065"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "westhawaiitoday.com",
-      "url": "https://www.westhawaiitoday.com/2026/08/10/nation-world-news/germany-warns-of-daily-hybrid-warfare-after-suspected-drone-attack/"
+      "domain": "turnto23.com",
+      "url": "https://www.turnto23.com/us-news/iran-war/trump-now-seeks-compensation-from-iran-after-it-demanded-us-pay-for-cost-of-war"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/08/10/pope-leo-calls-for-immediate-ceasefire-in-sudan-after-al-burhans-army-vows-to-continue-war/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "orissapost.com",
-      "url": "https://www.orissapost.com/iran-ties-strait-of-hormuz-reopening-to-us-concessions/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
+      "tonalitaet": -6.2,
       "treffer": [
         "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "bridgwatermercury.co.uk",
-      "url": "https://www.bridgwatermercury.co.uk/news/national/26450462.iran-will-not-reopen-strait-hormuz-without-us-concessions/"
+      "domain": "breitbart.com",
+      "url": "https://www.breitbart.com/news/iran-wont-reopen-strait-of-hormuz-without-us-concessions-and-other-mideast-developments/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
       "treffer": [
-        "air strike"
+        "sanctions"
       ],
-      "domain": "cjr.org",
-      "url": "https://www.cjr.org/the_media_today/the-impunity-machine-israel-defense-forces-targeting-journalists-idf-killing-air-strikes-human-rights-watch-amnesty-international-reports-lebanon-international-criminal-court.php"
+      "domain": "wtkr.com",
+      "url": "https://www.wtkr.com/world/a-former-marine-is-near-death-in-russian-custody-his-family-says"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -5.5,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "bostonherald.com",
+      "url": "https://www.bostonherald.com/2026/08/10/trump-scoffs-at-demands-from-iran/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "salisburyjournal.co.uk",
+      "url": "https://www.salisburyjournal.co.uk/news/national/26452542.donald-trump-scoffs-irans-demand-war-reparations/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
       "treffer": [
         "hormuz"
       ],
-      "domain": "41nbc.com",
-      "url": "https://www.41nbc.com/iran-demands-strait-of-hormuz-us-war-negotiations/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mwnation.com",
-      "url": "https://mwnation.com/land-audit-exposes-double-allocations-missing-approvals/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279228964/nato-nation-rebuffs-ukraines-missile-plea"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wmtw.com",
-      "url": "https://www.wmtw.com/article/trump-economic-strategy-pressure-iran/73389726"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "naroomanewsonline.com.au",
-      "url": "https://www.naroomanewsonline.com.au/story/9326889/iran-ties-hormuz-reopening-to-us-concessions-on-demands/"
+      "domain": "wcyb.com",
+      "url": "https://wcyb.com/news/nation-world/trump-responds-to-list-of-iranian-demands-with-a-demand-of-his-own-strait-hormuz-president-combat-white-house"
     },
     {
       "kategorie": "Policy",
@@ -132,35 +79,36 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/who-is-mohsen-rezaei-and-how-significant-is-his-appointment/"
+      "domain": "jns.org",
+      "url": "https://www.jns.org/opinion/harold-rhode/the-strategic-illusion-whats-behind-the-saudi-turkish-pakistani-agreement"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/nigeria-was-near-collapse-says-colonel-accused-of-coup-plot-against-tinubu/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.7,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3678293"
+      "domain": "kcby.com",
+      "url": "https://kcby.com/news/nation-world/fact-check-team-are-us-missile-stockpiles-running-low-heres-what-we-know-supplies-pentagon"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.0,
       "treffer": [
-        "refinery"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "graphic.com.gh",
-      "url": "https://www.graphic.com.gh/news/general-news/osp-on-how-it-assisted-fbi-investigations-in-getting-kwaku-asante-berko-convicted-for-bribing-ghanaian-officials.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "english.pravda.ru",
-      "url": "https://english.pravda.ru/news/business/167791-jet-fuel-reserves/"
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279229684/iran-near-hormuz-deal-with-oman-sets-conditions-for-us"
     }
   ],
   "gkg_alter_stunden": 0.0
