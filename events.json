@@ -1,257 +1,138 @@
 {
-  "erstellt_am": "2026-08-11T14:46:12",
+  "erstellt_am": "2026-08-11T22:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260811124500",
+  "gkg_stand": "20260811204500",
   "veraltet": false,
-  "anzahl": 27,
+  "anzahl": 13,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -12.5,
+      "tonalitaet": -8.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260811-irna04.htm"
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279234527/syria-former-president-bashar-al-assad-is-sentenced-to-death-in-absentia-for-crimes-against-humanity"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "upi.com",
+      "url": "https://www.upi.com/Top_News/World-News/2026/08/11/yemen-houthis-kill-6-in-attack/1181786477788/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -11.2,
+      "tonalitaet": -6.0,
       "treffer": [
         "missile"
       ],
-      "domain": "news.az",
-      "url": "https://news.az/news/zelenskyy-claims-russia-fired-north-korean-missiles-in-ukraine-s-zaporizhzhia"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.0,
-      "treffer": [
-        "air strike"
-      ],
-      "domain": "theindianawaaz.com",
-      "url": "https://theindianawaaz.com/9-killed-in-overnight-russian-air-strikes-across-ukraine/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.0,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260810-sputnik01.htm"
+      "domain": "newrepublic.com",
+      "url": "https://newrepublic.com/post/214190/trump-biden-missile-weapons-stockpile-depleted"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "mendocinobeacon.com",
-      "url": "https://www.mendocinobeacon.com/2026/08/11/houthi-rebels-attacks-mideast-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "union-bulletin.com",
-      "url": "https://www.union-bulletin.com/news/national/iranian-backed-houthi-rebels-renew-attacks-on-key-port-and-other-developments-in-the-mideast/article_7ffbf7f7-d306-5974-a260-958980b6a1e7.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "timescall.com",
-      "url": "https://www.timescall.com/2026/08/11/houthi-rebels-attacks-mideast-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20260811/413bf530abf74d4bbdc9d66368333eb2/c.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260810-canada01.htm"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20260811/a4d4c57150d34128a3b11513f9635478/c.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/08/11/cargo-vessel-struck-off-yemens-coast-with-deaths-reported/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260811-pdo01.htm"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -5.5,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/us-court-ends-criminal-charges-against-gautam-adani-sagar-adani-senior-lawyers-laud-decision/articleshow/133153974.cms"
+      "domain": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/08/11/middle-east-war-still-convulses-oil-market/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
+      "tonalitaet": -5.5,
       "treffer": [
-        "refinery"
+        "red sea"
       ],
-      "domain": "illawarramercury.com.au",
-      "url": "https://www.illawarramercury.com.au/story/9328613/drone-strike-sparks-massive-blaze-at-libya-refinery/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "singletonargus.com.au",
-      "url": "https://www.singletonargus.com.au/story/9328613/drone-strike-sparks-massive-blaze-at-libya-refinery/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "goulburnpost.com.au",
-      "url": "https://www.goulburnpost.com.au/story/9328613/drone-strike-sparks-massive-blaze-at-libya-refinery/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ideastream.org",
-      "url": "https://www.ideastream.org/2026-08-11/trump-pivots-back-to-sanctions-for-iran-as-other-strategies-to-end-his-war-fizzle"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nbclosangeles.com",
-      "url": "https://www.nbclosangeles.com/news/national-international/trump-pivots-back-sanctions-iran-other-strategies-end-war-fizzle/3927991/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "news.az",
-      "url": "https://news.az/news/oil-prices-surge-above-one-week-high-amid-hormuz-tensions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "chimpreports.com",
-      "url": "https://chimpreports.com/uganda-orders-bars-malwa-joints-to-open-after-3-p-m-on-working-days/"
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/08/why-the-middle-east-war-still-convulses-the-oil-market-report/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.2,
+      "tonalitaet": -5.0,
       "treffer": [
-        "missile"
+        "invasion"
       ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/08/russia-260810-sputnik01.htm"
+      "domain": "newsweek.com",
+      "url": "https://www.newsweek.com/spain-to-return-every-last-person-to-morocco-after-migrant-invasion-12308717"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Strait-of-Hormuz-Traffic-Sank-To-Just-Six-Vessels-Monday.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/conflict/pakistan-says-us-and-iran-close-to-some-sort-of-deal-c-22710049"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com/stories/en/321766-trump-told-ukraine-it-had-no-cards-kyiv-took-the-war-to-russia"
+      "domain": "theadvocate.com.au",
+      "url": "https://www.theadvocate.com.au/story/9328626/pakistan-says-us-and-iran-close-to-some-sort-of-deal/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "postregister.com",
-      "url": "http://www.postregister.com/news/national/trump-told-ukraine-it-had-no-cards-then-kyiv-took-the-war-to-russia/article_2bc80b2d-8ed0-5df7-9034-5e85040a7755.html"
+      "domain": "maitlandmercury.com.au",
+      "url": "https://www.maitlandmercury.com.au/story/9328626/pakistan-says-us-and-iran-close-to-some-sort-of-deal/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "rediff.com",
-      "url": "https://www.rediff.com/news/report/hc-orders-father-up-govt-to-pay-rs-25-lakh-to-sisters-who-converted-to-islam/20260811.htm"
+      "domain": "eurekalert.org",
+      "url": "https://www.eurekalert.org:443/news-releases/1138622"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "hormuz",
+        "mandeb",
+        "red sea",
+        "refinery"
       ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260810-ukraine-mod02.htm"
+      "domain": "beijingbulletin.com",
+      "url": "http://www.beijingbulletin.com/news/279234474/four-killed-in-red-sea-shipping-attack"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "hormuz",
+        "mandeb",
+        "red sea",
+        "refinery"
       ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260810-prc-mofab01.htm"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/08/russia-260811-rferl01.htm"
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279234474/four-killed-in-red-sea-shipping-attack"
     }
   ],
   "gkg_alter_stunden": 0.0
