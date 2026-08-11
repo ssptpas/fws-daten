@@ -1,114 +1,174 @@
 {
-  "erstellt_am": "2026-08-10T22:45:51",
+  "erstellt_am": "2026-08-11T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260810204500",
+  "gkg_stand": "20260811074500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 18,
   "ereignisse": [
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -9.1,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -8.8,
+      "tonalitaet": -8.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "turnto23.com",
-      "url": "https://www.turnto23.com/us-news/iran-war/trump-now-seeks-compensation-from-iran-after-it-demanded-us-pay-for-cost-of-war"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/news/iran-wont-reopen-strait-of-hormuz-without-us-concessions-and-other-mideast-developments/"
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/us-senator-schumer-calls-trumps-iran-war-illegal-urges-end-to-conflict/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wtkr.com",
-      "url": "https://www.wtkr.com/world/a-former-marine-is-near-death-in-russian-custody-his-family-says"
+      "domain": "news.az",
+      "url": "https://news.az/news/us-judge-drops-criminal-charges-against-indian-billionaire-adani"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3678605"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -5.4,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/08/10/trump-scoffs-at-demands-from-iran/"
+      "domain": "rockymounttelegram.com",
+      "url": "http://www.rockymounttelegram.com/news/national/trump-scoffs-at-irans-demand-for-war-reparations-and-other-mideast-developments/article_b4a0a04e-7acc-5a44-92bc-12e720750f92.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "howestreet.com",
+      "url": "https://www.howestreet.com/2026/08/irans-economy-is-unraveling/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.2,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "drone strike"
       ],
-      "domain": "salisburyjournal.co.uk",
-      "url": "https://www.salisburyjournal.co.uk/news/national/26452542.donald-trump-scoffs-irans-demand-war-reparations/"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/heatwave-drone-strikes-europe-supply-map-2026/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "timeslive.co.za",
+      "url": "https://www.timeslive.co.za/news/2026-08-11-trump-returns-to-sanctions-for-iran-as-other-strategies-to-end-his-war-fizzle/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wpsu.org",
+      "url": "https://radio.wpsu.org/2026-08-11/trump-pivots-back-to-sanctions-for-iran-as-other-strategies-to-end-his-war-fizzle"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.9,
       "treffer": [
         "hormuz"
       ],
-      "domain": "wcyb.com",
-      "url": "https://wcyb.com/news/nation-world/trump-responds-to-list-of-iranian-demands-with-a-demand-of-his-own-strait-hormuz-president-combat-white-house"
+      "domain": "news.az",
+      "url": "https://news.az/news/us-israel-solely-to-blame-for-hormuz-insecurity-iran-fm-says"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/opinion/harold-rhode/the-strategic-illusion-whats-behind-the-saudi-turkish-pakistani-agreement"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/cis-countries/russian-oil-refinery-in-orsk-hit-by-uav-attack-fire-breaks-out-519845"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "livemint.com",
+      "url": "https://www.livemint.com/global/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-11786425488691.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "spacedaily.com",
+      "url": "https://spacedaily.com/sd-in-september-1983-a-soviet-lieutenant-colonel-named-stanislav-petrov-sat-in-a-bunker-south-of-moscow-watching-his-early-warning-screens-light-up-with-five-incoming-american-missiles-and-instead-of/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-compensation-negotiation/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.8,
       "treffer": [
         "coup"
       ],
       "domain": "punchng.com",
-      "url": "https://punchng.com/nigeria-was-near-collapse-says-colonel-accused-of-coup-plot-against-tinubu/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "kcby.com",
-      "url": "https://kcby.com/news/nation-world/fact-check-team-are-us-missile-stockpiles-running-low-heres-what-we-know-supplies-pentagon"
+      "url": "https://punchng.com/morning-recap-salahs-turkey-move-coup-plot-against-tinubu-opposition-talks-dominate-top-stories/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "mainemirror.com",
+      "url": "http://www.mainemirror.com/news/279233699/middle-east-conflict-fears-weigh-on-wall-street-as-energy-prices-surge"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "tradearabia.com",
+      "url": "https://tradearabia.com:443/News/466420/Oil-prices-surge-as-Trump-Iran-demands-cloud-Hormuz-deal"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "indiagazette.com",
+      "url": "http://www.indiagazette.com/news/279233800/indian-markets-open-lower-as-west-asia-tensions-and-rising-oil-prices-weigh-on-global-sentiment"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.0,
       "treffer": [
-        "hormuz",
-        "red sea"
+        "tariffs"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279229684/iran-near-hormuz-deal-with-oman-sets-conditions-for-us"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-august-11-2026/"
     }
   ],
   "gkg_alter_stunden": 0.0

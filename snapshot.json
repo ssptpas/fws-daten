@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-10T22:45:01",
+  "erstellt_am": "2026-08-11T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.70",
@@ -17,13 +17,13 @@
       "quelle": "FRED"
     },
     "VIX3M": {
-      "wert": "nicht verfügbar",
-      "quelle": "FRED",
-      "fehler": "HTTP Error 502: Bad Gateway"
+      "wert": "18.72",
+      "beobachtungsdatum": "2026-08-07",
+      "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.46",
-      "beobachtungsdatum": "2026-08-07",
+      "wert": "0.47",
+      "beobachtungsdatum": "2026-08-10",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.25",
-      "beobachtungsdatum": "2026-08-07",
+      "wert": "2.29",
+      "beobachtungsdatum": "2026-08-10",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -347,7 +347,28 @@
       "hinweis": "fuer die Alarm-Persistenzregel: ueber 50 bp an zwei Tagen noetig"
     },
     "VIX_VIX3M_Ratio_Historie": {
-      "werte": [],
+      "werte": [
+        {
+          "datum": "2026-08-07",
+          "wert": 0.7959
+        },
+        {
+          "datum": "2026-08-06",
+          "wert": 0.8106
+        },
+        {
+          "datum": "2026-08-05",
+          "wert": 0.8343
+        },
+        {
+          "datum": "2026-08-04",
+          "wert": 0.8532
+        },
+        {
+          "datum": "2026-08-03",
+          "wert": 0.8378
+        }
+      ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
       "hinweis": "fuer die Voralarm-Persistenzregel: Ratio > 1,00 an zwei Handelsschluessen, davon einmal > 1,02"
     },
@@ -371,8 +392,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.5,
-      "markt_datum": "2026-08-07",
+      "wert": -6.6,
+      "markt_datum": "2026-08-10",
       "leitzins_datum": "2026-08-10",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -390,7 +411,9 @@
       "quelle": "FRED (berechnet, SOFR als OIS-Naeherung)"
     },
     "VIX_VIX3M_Ratio": {
-      "wert": "nicht berechenbar (kein gemeinsames Datum)"
+      "wert": 0.7959,
+      "beobachtungsdatum": "2026-08-07",
+      "quelle": "FRED (berechnet)"
     },
     "Diesel_Crack_USD_bbl": {
       "wert": 80.5,
@@ -418,8 +441,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.185",
-      "beobachtungsdatum": "2026-08-07",
+      "wert": "2.184",
+      "beobachtungsdatum": "2026-08-10",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -445,8 +468,8 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 29.88,
-      "beobachtungsdatum": "2026-08-07",
+      "wert": 24.99,
+      "beobachtungsdatum": "2026-08-10",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -460,7 +483,7 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
-      "wert": 72.03,
+      "wert": 75.46,
       "beobachtungsdatum": "2026-08-10",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
