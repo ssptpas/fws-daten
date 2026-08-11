@@ -1,74 +1,158 @@
 {
-  "erstellt_am": "2026-08-11T09:45:28",
+  "erstellt_am": "2026-08-11T14:46:12",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260811074500",
+  "gkg_stand": "20260811124500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 27,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.2,
+      "tonalitaet": -12.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/us-senator-schumer-calls-trumps-iran-war-illegal-urges-end-to-conflict/"
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260811-irna04.htm"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -11.2,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
       "domain": "news.az",
-      "url": "https://news.az/news/us-judge-drops-criminal-charges-against-indian-billionaire-adani"
+      "url": "https://news.az/news/zelenskyy-claims-russia-fired-north-korean-missiles-in-ukraine-s-zaporizhzhia"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.0,
       "treffer": [
-        "sanctions"
+        "air strike"
       ],
-      "domain": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3678605"
+      "domain": "theindianawaaz.com",
+      "url": "https://theindianawaaz.com/9-killed-in-overnight-russian-air-strikes-across-ukraine/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.0,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260810-sputnik01.htm"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
+      "tonalitaet": -8.3,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "rockymounttelegram.com",
-      "url": "http://www.rockymounttelegram.com/news/national/trump-scoffs-at-irans-demand-for-war-reparations-and-other-mideast-developments/article_b4a0a04e-7acc-5a44-92bc-12e720750f92.html"
+      "domain": "mendocinobeacon.com",
+      "url": "https://www.mendocinobeacon.com/2026/08/11/houthi-rebels-attacks-mideast-news/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "union-bulletin.com",
+      "url": "https://www.union-bulletin.com/news/national/iranian-backed-houthi-rebels-renew-attacks-on-key-port-and-other-developments-in-the-mideast/article_7ffbf7f7-d306-5974-a260-958980b6a1e7.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "timescall.com",
+      "url": "https://www.timescall.com/2026/08/11/houthi-rebels-attacks-mideast-news/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "english.news.cn",
+      "url": "https://english.news.cn/20260811/413bf530abf74d4bbdc9d66368333eb2/c.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -6.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "howestreet.com",
-      "url": "https://www.howestreet.com/2026/08/irans-economy-is-unraveling/"
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260810-canada01.htm"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
       "treffer": [
-        "drone strike"
+        "red sea"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/heatwave-drone-strikes-europe-supply-map-2026/"
+      "domain": "english.news.cn",
+      "url": "https://english.news.cn/20260811/a4d4c57150d34128a3b11513f9635478/c.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/11/cargo-vessel-struck-off-yemens-coast-with-deaths-reported/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "timeslive.co.za",
-      "url": "https://www.timeslive.co.za/news/2026-08-11-trump-returns-to-sanctions-for-iran-as-other-strategies-to-end-his-war-fizzle/"
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260811-pdo01.htm"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/us-court-ends-criminal-charges-against-gautam-adani-sagar-adani-senior-lawyers-laud-decision/articleshow/133153974.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "illawarramercury.com.au",
+      "url": "https://www.illawarramercury.com.au/story/9328613/drone-strike-sparks-massive-blaze-at-libya-refinery/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "singletonargus.com.au",
+      "url": "https://www.singletonargus.com.au/story/9328613/drone-strike-sparks-massive-blaze-at-libya-refinery/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "goulburnpost.com.au",
+      "url": "https://www.goulburnpost.com.au/story/9328613/drone-strike-sparks-massive-blaze-at-libya-refinery/"
     },
     {
       "kategorie": "Policy",
@@ -76,99 +160,98 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "wpsu.org",
-      "url": "https://radio.wpsu.org/2026-08-11/trump-pivots-back-to-sanctions-for-iran-as-other-strategies-to-end-his-war-fizzle"
+      "domain": "ideastream.org",
+      "url": "https://www.ideastream.org/2026-08-11/trump-pivots-back-to-sanctions-for-iran-as-other-strategies-to-end-his-war-fizzle"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -4.9,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "news.az",
-      "url": "https://news.az/news/us-israel-solely-to-blame-for-hormuz-insecurity-iran-fm-says"
+      "domain": "nbclosangeles.com",
+      "url": "https://www.nbclosangeles.com/news/national-international/trump-pivots-back-sanctions-iran-other-strategies-end-war-fizzle/3927991/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.7,
       "treffer": [
-        "refinery"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/cis-countries/russian-oil-refinery-in-orsk-hit-by-uav-attack-fire-breaks-out-519845"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/global/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-11786425488691.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "spacedaily.com",
-      "url": "https://spacedaily.com/sd-in-september-1983-a-soviet-lieutenant-colonel-named-stanislav-petrov-sat-in-a-bunker-south-of-moscow-watching-his-early-warning-screens-light-up-with-five-incoming-american-missiles-and-instead-of/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
         "hormuz"
       ],
-      "domain": "cbsnews.com",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-compensation-negotiation/"
+      "domain": "news.az",
+      "url": "https://news.az/news/oil-prices-surge-above-one-week-high-amid-hormuz-tensions"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -4.7,
       "treffer": [
-        "coup"
+        "sanctions"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/morning-recap-salahs-turkey-move-coup-plot-against-tinubu-opposition-talks-dominate-top-stories/"
+      "domain": "chimpreports.com",
+      "url": "https://chimpreports.com/uganda-orders-bars-malwa-joints-to-open-after-3-p-m-on-working-days/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/08/russia-260810-sputnik01.htm"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.7,
       "treffer": [
-        "crude oil"
+        "sanctions"
       ],
-      "domain": "mainemirror.com",
-      "url": "http://www.mainemirror.com/news/279233699/middle-east-conflict-fears-weigh-on-wall-street-as-energy-prices-surge"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com/stories/en/321766-trump-told-ukraine-it-had-no-cards-kyiv-took-the-war-to-russia"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "tradearabia.com",
-      "url": "https://tradearabia.com:443/News/466420/Oil-prices-surge-as-Trump-Iran-demands-cloud-Hormuz-deal"
+      "domain": "postregister.com",
+      "url": "http://www.postregister.com/news/national/trump-told-ukraine-it-had-no-cards-then-kyiv-took-the-war-to-russia/article_2bc80b2d-8ed0-5df7-9034-5e85040a7755.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
       "treffer": [
-        "crude oil"
+        "sanctions"
       ],
-      "domain": "indiagazette.com",
-      "url": "http://www.indiagazette.com/news/279233800/indian-markets-open-lower-as-west-asia-tensions-and-rising-oil-prices-weigh-on-global-sentiment"
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/news/report/hc-orders-father-up-govt-to-pay-rs-25-lakh-to-sisters-who-converted-to-islam/20260811.htm"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260810-ukraine-mod02.htm"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260810-prc-mofab01.htm"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.0,
       "treffer": [
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-august-11-2026/"
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/08/russia-260811-rferl01.htm"
     }
   ],
   "gkg_alter_stunden": 0.0
