@@ -1,189 +1,176 @@
 {
-  "erstellt_am": "2026-08-12T14:46:02",
+  "erstellt_am": "2026-08-12T22:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260812124500",
+  "gkg_stand": "20260812204500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 18,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.0,
+      "tonalitaet": -11.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/321789-putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/321785-iranian-backed-houthis-kill-6-in-attack-on-vessel"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/world/us-forces-disable-iran-bound-ship-with-hellfire-missiles-6074217"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/08/12/houthi-double-tap-attack-on-red-sea-ship-how-it-unfolded/"
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279237650/we-will-respond-in-kind-putin-warns-europe-over-seizure-of-russian-vessels"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "tonalitaet": -8.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "independent.co.uk",
-      "url": "https://www.independent.co.uk/news/world/europe/putin-russia-shadow-fleet-eu-vessels-b3031783.html"
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279237656/india-showing-interest-in-northern-sea-route-cooperation-says-putin-as-he-warns-of-artificial-tensions-in-arctic"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279237656/india-showing-interest-in-northern-sea-route-cooperation-says-putin-as-he-warns-of-artificial-tensions-in-arctic"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -8.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "ncr-iran.org",
+      "url": "https://www.ncr-iran.org/en/news/iran-a-world/irans-war-of-survival-why-economic-pressure-may-matter-more-than-bombardment/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "tonalitaet": -7.2,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "hormuz"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/321791-three-pakistanis-among-6-killed-in-houthi-attack-on-ship"
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279237600/us-has-total-control-over-strait-of-hormuz-trump-says-iran-can-do-nothing"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/europe/20260812/a4ba53de342a49489eb432be101c005a/c.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20260812/93735d66529b46ec902d956760eead29/c.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "standard.net.au",
-      "url": "https://www.standard.net.au/story/9329376/putin-threatens-retaliation-is-russian-vessels-seized/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "westernadvocate.com.au",
-      "url": "https://www.westernadvocate.com.au/story/9329376/putin-threatens-retaliation-is-russian-vessels-seized/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
+      "tonalitaet": -6.7,
       "treffer": [
         "sanctions"
       ],
       "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/eurasia/putin-says-russia-to-respond-in-kind-to-seizure-of-its-vessels-by-eu-countries/4024997"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/prolong-war-until-trump-is-out-iran-says-it-wants-to-exhaust-us-claims-tehran-has-learnt-how-to-fight-america-article-14003481.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "airstrike",
-        "shelling"
-      ],
-      "domain": "organiser.org",
-      "url": "https://organiser.org/2026/08/12/374818/world/pakistan-airstrikes-hit-balochistan-again-30-civilians-reportedly-killed-in-sorab-amid-brutal-military-crackdowns/"
+      "url": "https://aa.com.tr/en/world/russia-warns-eu-is-bringing-great-dangers-upon-itself-by-seizing-vessels/4025693"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
+      "tonalitaet": -5.6,
       "treffer": [
-        "suez"
+        "red sea",
+        "oil field"
       ],
-      "domain": "hani.co.kr",
-      "url": "https://www.hani.co.kr/arti/english_edition/english_editorials/1272586.html"
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/08/12/774241/Yemeni-forces-will-hit-Saudi-oil-fields,-airports-if-comprehensive-war-breaks-out--Ansarullah-official"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.4,
       "treffer": [
-        "tanker"
+        "hormuz"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/russia-ukraine-war/ukraine-halts-strikes-on-oil-tankers-using-russian-black-sea-port-report/4024873"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/houthis-renew-ballistic-missile-attacks-on-yemen-s-mocha-port-state-media/4025120"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/08/12/drone-strike-cuts-power-near-libyas-zawiya-after-electricity-station-destroyed/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/business/russia-imports-gasoline-from-india-for-first-time-as-ukraine-strikes-trigger-fuel-shortages"
+      "domain": "newrepublic.com",
+      "url": "https://newrepublic.com/post/214243/donald-trump-iran-war-sailors-jump-overboard"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -5.4,
       "treffer": [
         "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "pakistantelegraph.com",
-      "url": "http://www.pakistantelegraph.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens"
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/production/iea-slashes-2026-supply-forecast-as-hormuz-reopening-remains-elusive"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-12-senator-says-hhs-staff-obstructing-kennedys-transparency-push.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "examiner.com.au",
+      "url": "https://www.examiner.com.au/story/9329391/iran-says-no-progress-on-reviving-interim-deal-with-us/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260812-solidarity-is-not-enough-why-the-world-must-force-accountability-on-gaza-now/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "oneindia.com",
+      "url": "https://www.oneindia.com/international/praise-be-to-allah-trump-says-us-has-total-control-over-strait-of-hormuz-iran-can-do-nothing-8174765.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/08/12/774232/Press-TV-news-headlines-"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "krcrtv.com",
+      "url": "https://krcrtv.com/news/nation-world/average-gas-price-hits-highest-record-for-end-of-year-gasbuddy-president-trump-iran-war-strait-of-hormuz-negotiations"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/osun-poll-lawyer-seeks-uk-sanctions-against-senator-over-incitement/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "reviewjournal.com",
+      "url": "https://www.reviewjournal.com/news/politics-and-government/iran-takes-more-aggressive-military-stance-with-us-talks-frozen-3862790/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "columbian.com",
+      "url": "https://www.columbian.com/news/2026/aug/12/north-korea-launches-another-missile-toward-sea-ahead-of-u-s-south-korean-military-drills/"
     }
   ],
   "gkg_alter_stunden": 0.0
