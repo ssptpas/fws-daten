@@ -1,138 +1,112 @@
 {
-  "erstellt_am": "2026-08-11T22:45:25",
+  "erstellt_am": "2026-08-12T09:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260811204500",
+  "gkg_stand": "20260812074500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.9,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.2,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279234527/syria-former-president-bashar-al-assad-is-sentenced-to-death-in-absentia-for-crimes-against-humanity"
+      "domain": "news24.com",
+      "url": "https://www.news24.com/world/us-helicopter-fired-on-ship-that-tried-to-break-iran-ports-blockade-20260812-0383"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.0,
+      "tonalitaet": -7.2,
       "treffer": [
         "red sea"
       ],
-      "domain": "upi.com",
-      "url": "https://www.upi.com/Top_News/World-News/2026/08/11/yemen-houthis-kill-6-in-attack/1181786477788/"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-ship-red-sea-kills-three-pakistani-nationals-wounds-another"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
+      "tonalitaet": -6.4,
       "treffer": [
         "missile"
       ],
-      "domain": "newrepublic.com",
-      "url": "https://newrepublic.com/post/214190/trump-biden-missile-weapons-stockpile-depleted"
+      "domain": "scmp.com",
+      "url": "https://www.scmp.com/news/china/military/article/3363754/after-chinas-missile-test-us-and-allies-demand-24-hour-warning-next-time"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -6.3,
       "treffer": [
         "red sea"
       ],
-      "domain": "jamaicaobserver.com",
-      "url": "https://www.jamaicaobserver.com/2026/08/11/middle-east-war-still-convulses-oil-market/"
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/pentagon-says-us-strikes-in-yemen-killed-153-civilians/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -5.8,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-601"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
       "treffer": [
         "red sea"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/08/why-the-middle-east-war-still-convulses-the-oil-market-report/"
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/893334/the-disastrous-mistake-in-the-persian-gulf-sends-aluminum-soaring-metlen-benefits-while-ukraine-got-burned-losing-its-ports"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "newsweek.com",
-      "url": "https://www.newsweek.com/spain-to-return-every-last-person-to-morocco-after-migrant-invasion-12308717"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Strait-of-Hormuz-Traffic-Sank-To-Just-Six-Vessels-Monday.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.3,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "missile",
+        "ballistic"
       ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/conflict/pakistan-says-us-and-iran-close-to-some-sort-of-deal-c-22710049"
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/north-korea-fires-ballistic-missile-ahead-of-us-south-korea-drills/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279236018/we-own-it-trump-reiterates-total-control-over-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/ukraine-says-russia-used-north-korean-missiles-in-deadly-strikes/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
-        "mandeb",
+        "hormuz",
         "red sea"
       ],
-      "domain": "theadvocate.com.au",
-      "url": "https://www.theadvocate.com.au/story/9328626/pakistan-says-us-and-iran-close-to-some-sort-of-deal/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "maitlandmercury.com.au",
-      "url": "https://www.maitlandmercury.com.au/story/9328626/pakistan-says-us-and-iran-close-to-some-sort-of-deal/"
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/893329/saudi-arabia-begs-the-houthis-iran-rules-in-hormuz-trump-misleads-prepares-lightning-attack"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "eurekalert.org",
-      "url": "https://www.eurekalert.org:443/news-releases/1138622"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "refinery"
-      ],
-      "domain": "beijingbulletin.com",
-      "url": "http://www.beijingbulletin.com/news/279234474/four-killed-in-red-sea-shipping-attack"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "refinery"
-      ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279234474/four-killed-in-red-sea-shipping-attack"
+      "domain": "metro.co.uk",
+      "url": "https://metro.co.uk/2026/08/12/putin-insists-ive-never-afraid-anything-29357060/"
     }
   ],
   "gkg_alter_stunden": 0.0
