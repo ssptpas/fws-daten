@@ -1,112 +1,189 @@
 {
-  "erstellt_am": "2026-08-12T09:45:23",
+  "erstellt_am": "2026-08-12T14:46:02",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260812074500",
+  "gkg_stand": "20260812124500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 19,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
+      "kategorie": "Policy",
+      "tonalitaet": -9.0,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "news24.com",
-      "url": "https://www.news24.com/world/us-helicopter-fired-on-ship-that-tried-to-break-iran-ports-blockade-20260812-0383"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/321789-putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
+      "tonalitaet": -7.5,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/321785-iranian-backed-houthis-kill-6-in-attack-on-vessel"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "theepochtimes.com",
+      "url": "https://www.theepochtimes.com/world/us-forces-disable-iran-bound-ship-with-hellfire-missiles-6074217"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/12/houthi-double-tap-attack-on-red-sea-ship-how-it-unfolded/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "independent.co.uk",
+      "url": "https://www.independent.co.uk/news/world/europe/putin-russia-shadow-fleet-eu-vessels-b3031783.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/321791-three-pakistanis-among-6-killed-in-houthi-attack-on-ship"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "english.news.cn",
+      "url": "https://english.news.cn/europe/20260812/a4ba53de342a49489eb432be101c005a/c.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-ship-red-sea-kills-three-pakistani-nationals-wounds-another"
+      "domain": "english.news.cn",
+      "url": "https://english.news.cn/20260812/93735d66529b46ec902d956760eead29/c.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "standard.net.au",
+      "url": "https://www.standard.net.au/story/9329376/putin-threatens-retaliation-is-russian-vessels-seized/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "westernadvocate.com.au",
+      "url": "https://www.westernadvocate.com.au/story/9329376/putin-threatens-retaliation-is-russian-vessels-seized/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/eurasia/putin-says-russia-to-respond-in-kind-to-seizure-of-its-vessels-by-eu-countries/4024997"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/prolong-war-until-trump-is-out-iran-says-it-wants-to-exhaust-us-claims-tehran-has-learnt-how-to-fight-america-article-14003481.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.4,
+      "tonalitaet": -5.3,
       "treffer": [
-        "missile"
+        "airstrike",
+        "shelling"
       ],
-      "domain": "scmp.com",
-      "url": "https://www.scmp.com/news/china/military/article/3363754/after-chinas-missile-test-us-and-allies-demand-24-hour-warning-next-time"
+      "domain": "organiser.org",
+      "url": "https://organiser.org/2026/08/12/374818/world/pakistan-airstrikes-hit-balochistan-again-30-civilians-reportedly-killed-in-sorab-amid-brutal-military-crackdowns/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "tonalitaet": -5.1,
       "treffer": [
-        "red sea"
+        "suez"
       ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/pentagon-says-us-strikes-in-yemen-killed-153-civilians/"
+      "domain": "hani.co.kr",
+      "url": "https://www.hani.co.kr/arti/english_edition/english_editorials/1272586.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -4.9,
       "treffer": [
-        "hormuz",
-        "red sea"
+        "tanker"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-601"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/russia-ukraine-war/ukraine-halts-strikes-on-oil-tankers-using-russian-black-sea-port-report/4024873"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
       "treffer": [
-        "red sea"
+        "missile",
+        "ballistic"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/893334/the-disastrous-mistake-in-the-persian-gulf-sends-aluminum-soaring-metlen-benefits-while-ukraine-got-burned-losing-its-ports"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/houthis-renew-ballistic-missile-attacks-on-yemen-s-mocha-port-state-media/4025120"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -4.3,
       "treffer": [
-        "missile",
-        "ballistic"
+        "drone strike"
       ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/north-korea-fires-ballistic-missile-ahead-of-us-south-korea-drills/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279236018/we-own-it-trump-reiterates-total-control-over-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/ukraine-says-russia-used-north-korean-missiles-in-deadly-strikes/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/893329/saudi-arabia-begs-the-houthis-iran-rules-in-hormuz-trump-misleads-prepares-lightning-attack"
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/12/drone-strike-cuts-power-near-libyas-zawiya-after-electricity-station-destroyed/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "metro.co.uk",
-      "url": "https://metro.co.uk/2026/08/12/putin-insists-ive-never-afraid-anything-29357060/"
+      "domain": "freepressjournal.in",
+      "url": "https://www.freepressjournal.in/business/russia-imports-gasoline-from-india-for-first-time-as-ukraine-strikes-trigger-fuel-shortages"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "pakistantelegraph.com",
+      "url": "http://www.pakistantelegraph.com/news/279236748/pakistan-condemns-houthi-attack-that-killed-three-of-its-citizens"
     }
   ],
   "gkg_alter_stunden": 0.0
