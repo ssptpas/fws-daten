@@ -1,82 +1,207 @@
 {
-  "erstellt_am": "2026-08-13T09:45:31",
+  "erstellt_am": "2026-08-13T14:45:55",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260813074500",
+  "gkg_stand": "20260813124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 21,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -10.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.7,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "law360.com",
-      "url": "https://www.law360.com:443/articles/2512881"
+      "domain": "mondaq.com",
+      "url": "https://www.mondaq.com:443/unitedstates/civil-law/1830234/recent-decisions-strengthen-the-defense-playbook-in-website-tracking-class-actions"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.9,
+      "tonalitaet": -9.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "rediff.com",
-      "url": "https://www.rediff.com/news/report/al-qaeda-behind-red-fort-terror-attack-that-killed-15-un-report/20260813.htm"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "inverelltimes.com.au",
-      "url": "https://www.inverelltimes.com.au/story/9330021/ex-militant-backs-agitator-crackdown-ideology-programs/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newcastleherald.com.au",
-      "url": "https://www.newcastleherald.com.au/story/9330021/ex-militant-backs-agitator-crackdown-ideology-programs/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribuneonlineng.com",
-      "url": "https://tribuneonlineng.com/oyo-govt-vows-to-prosecute-examination-malpractice-culprits/"
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/national/unsc-sanctions-report-says-red-fort-attack-officially-attributed-to-al-qaeda-in-indian-subcontinent/article71340905.ece"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -7.3,
       "treffer": [
         "red sea"
       ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/britain-food-crisis-government-summer-weather-war-stockpiles"
+      "domain": "finanznachrichten.de",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69303668-deadly-attack-on-red-sea-ship-adds-to-global-supply-chain-uncertainty-020.htm"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/ade/ap/national/iran-backed-houthi-rebels-clash-with-yemeni-government-forces-and-other-mideast-developments/article_05314f2f-55e1-5eb2-b5b5-1412f67f2053.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/321817-yemeni-soldier-killed-in-clashes-with-iranian-backed-houthi-rebels"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "afghanistansun.com",
+      "url": "http://www.afghanistansun.com/news/279239497/revelation-matter-of-satisfaction-for-india-ex-uttar-pradesh-dgp-on-unsc-linking-al-qaeda-to-nov-2025-red-fort-blast"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "iheart.com",
+      "url": "https://wmeq.iheart.com/content/2026-08-13-iran-contradicts-trump-says-hormuz-is-blocked/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/asia/different-heads-of-the-same-snake-former-j-k-top-cop-sp-vaid-on-unsc-linking-al-qaeda-to-red-fort-blast20260813174150/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "royalgazette.com",
+      "url": "https://www.royalgazette.com/reinsurance/business/article/20260813/red-sea-war-risks-cover-withdrawn-by-two-insurers/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "hormuz",
+        "mandeb"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/traffic-via-bab-al-mandeb-stays-at-lowest-level-since-2019-only-4-ships-passing-hormuz-every-day-article-14004473.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "independent.com",
+      "url": "https://www.independent.com/2026/08/13/the-naked-untruth/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "the-independent.com",
+      "url": "https://www.the-independent.com/tech/security/trump-cyber-attack-security-memo-b3032324.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.8,
       "treffer": [
-        "opec"
+        "hormuz"
       ],
-      "domain": "tribuneonlineng.com",
-      "url": "https://tribuneonlineng.com/again-nigeria-exceeds-opec-quota-as-production-hits-1-67mbpd-in-july/"
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279239615/worse-than-fake-is-fake-intelligence-araghchi-slams-trump-total-control-remark-over-hormuz"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279239615/worse-than-fake-is-fake-intelligence-araghchi-slams-trump-total-control-remark-over-hormuz"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/321820-ukraine-s-drones-hit-major-russian-refinery-sparking-a-fire"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished/"
+      "domain": "the-messenger.com",
+      "url": "https://www.the-messenger.com/news/world/article_4e150fcc-d974-57c8-8f37-06495bc62a95.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279237682/ecb-sees-no-grounds-to-block-unicredit-commerzbank-deal"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "morningstaronline.co.uk",
+      "url": "https://morningstaronline.co.uk/article/fidels-legacy-measured-action"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "techradar.com",
+      "url": "https://www.techradar.com/pro/security/trump-signs-memo-calling-for-cyber-privateers-to-conduct-cyberattacks-abroad-against-criminal-groups-targeting-americans-but-they-have-to-escrow-usd1-million-to-join"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "wellandtribune.ca",
+      "url": "https://www.wellandtribune.ca/news/world/europe/ukraines-drones-hit-a-major-russian-refinery-800-miles-from-the-border-sparking-a-fire/article_e14052c1-5eae-5223-895a-8a60b96047f4.html"
     }
   ],
   "gkg_alter_stunden": 0.0
