@@ -1,19 +1,28 @@
 {
-  "erstellt_am": "2026-08-12T22:45:26",
+  "erstellt_am": "2026-08-13T09:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260812204500",
+  "gkg_stand": "20260813074500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 8,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -11.3,
+      "tonalitaet": -10.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279237650/we-will-respond-in-kind-putin-warns-europe-over-seizure-of-russian-vessels"
+      "domain": "law360.com",
+      "url": "https://www.law360.com:443/articles/2512881"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/news/report/al-qaeda-behind-red-fort-terror-attack-that-killed-15-un-report/20260813.htm"
     },
     {
       "kategorie": "Policy",
@@ -21,8 +30,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279237656/india-showing-interest-in-northern-sea-route-cooperation-says-putin-as-he-warns-of-artificial-tensions-in-arctic"
+      "domain": "inverelltimes.com.au",
+      "url": "https://www.inverelltimes.com.au/story/9330021/ex-militant-backs-agitator-crackdown-ideology-programs/"
     },
     {
       "kategorie": "Policy",
@@ -30,147 +39,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279237656/india-showing-interest-in-northern-sea-route-cooperation-says-putin-as-he-warns-of-artificial-tensions-in-arctic"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -8.0,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/iran-a-world/irans-war-of-survival-why-economic-pressure-may-matter-more-than-bombardment/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279237600/us-has-total-control-over-strait-of-hormuz-trump-says-iran-can-do-nothing"
+      "domain": "newcastleherald.com.au",
+      "url": "https://www.newcastleherald.com.au/story/9330021/ex-militant-backs-agitator-crackdown-ideology-programs/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.7,
+      "tonalitaet": -7.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/russia-warns-eu-is-bringing-great-dangers-upon-itself-by-seizing-vessels/4025693"
+      "domain": "tribuneonlineng.com",
+      "url": "https://tribuneonlineng.com/oyo-govt-vows-to-prosecute-examination-malpractice-culprits/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -4.2,
       "treffer": [
-        "red sea",
-        "oil field"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/08/12/774241/Yemeni-forces-will-hit-Saudi-oil-fields,-airports-if-comprehensive-war-breaks-out--Ansarullah-official"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "newrepublic.com",
-      "url": "https://newrepublic.com/post/214243/donald-trump-iran-war-sailors-jump-overboard"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "hormuz",
-        "mandeb",
         "red sea"
       ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/production/iea-slashes-2026-supply-forecast-as-hormuz-reopening-remains-elusive"
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/britain-food-crisis-government-summer-weather-war-stockpiles"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "opec"
+      ],
+      "domain": "tribuneonlineng.com",
+      "url": "https://tribuneonlineng.com/again-nigeria-exceeds-opec-quota-as-production-hits-1-67mbpd-in-july/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-12-senator-says-hhs-staff-obstructing-kennedys-transparency-push.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "examiner.com.au",
-      "url": "https://www.examiner.com.au/story/9329391/iran-says-no-progress-on-reviving-interim-deal-with-us/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260812-solidarity-is-not-enough-why-the-world-must-force-accountability-on-gaza-now/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "oneindia.com",
-      "url": "https://www.oneindia.com/international/praise-be-to-allah-trump-says-us-has-total-control-over-strait-of-hormuz-iran-can-do-nothing-8174765.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/08/12/774232/Press-TV-news-headlines-"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "krcrtv.com",
-      "url": "https://krcrtv.com/news/nation-world/average-gas-price-hits-highest-record-for-end-of-year-gasbuddy-president-trump-iran-war-strait-of-hormuz-negotiations"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/osun-poll-lawyer-seeks-uk-sanctions-against-senator-over-incitement/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "reviewjournal.com",
-      "url": "https://www.reviewjournal.com/news/politics-and-government/iran-takes-more-aggressive-military-stance-with-us-talks-frozen-3862790/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "columbian.com",
-      "url": "https://www.columbian.com/news/2026/aug/12/north-korea-launches-another-missile-toward-sea-ahead-of-u-s-south-korean-military-drills/"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished/"
     }
   ],
   "gkg_alter_stunden": 0.0
