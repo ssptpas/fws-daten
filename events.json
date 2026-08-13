@@ -1,207 +1,101 @@
 {
-  "erstellt_am": "2026-08-13T14:45:55",
+  "erstellt_am": "2026-08-13T22:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260813124500",
+  "gkg_stand": "20260813204500",
   "veraltet": false,
-  "anzahl": 21,
+  "anzahl": 10,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -10.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ncr-iran.org",
+      "url": "https://www.ncr-iran.org/en/news/economy/fuel-shortages-and-soaring-misery-index-push-irans-clerical-regime-to-the-brink/"
+    },
+    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.7,
+      "tonalitaet": -7.8,
       "treffer": [
         "invasion"
       ],
-      "domain": "mondaq.com",
-      "url": "https://www.mondaq.com:443/unitedstates/civil-law/1830234/recent-decisions-strengthen-the-defense-playbook-in-website-tracking-class-actions"
+      "domain": "caledoncitizen.com",
+      "url": "https://caledoncitizen.com/arrest-following-2025-home-invasion/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.2,
+      "tonalitaet": -7.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/national/unsc-sanctions-report-says-red-fort-attack-officially-attributed-to-al-qaeda-in-indian-subcontinent/article71340905.ece"
+      "domain": "dailybreeze.com",
+      "url": "https://www.dailybreeze.com/2026/08/13/california-womens-prisons-failed-to-protect-inmates-from-sex-abuse-by-staff-doj-says/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
+      "tonalitaet": -6.8,
       "treffer": [
-        "red sea"
+        "tanker"
       ],
-      "domain": "finanznachrichten.de",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69303668-deadly-attack-on-red-sea-ship-adds-to-global-supply-chain-uncertainty-020.htm"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dailygazette.com",
-      "url": "https://www.dailygazette.com/ade/ap/national/iran-backed-houthi-rebels-clash-with-yemeni-government-forces-and-other-mideast-developments/article_05314f2f-55e1-5eb2-b5b5-1412f67f2053.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/321817-yemeni-soldier-killed-in-clashes-with-iranian-backed-houthi-rebels"
+      "domain": "cnn.com",
+      "url": "https://edition.cnn.com/2026/08/13/middleeast/oil-spill-oman-grounded-tanker-intl"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "afghanistansun.com",
-      "url": "http://www.afghanistansun.com/news/279239497/revelation-matter-of-satisfaction-for-india-ex-uttar-pradesh-dgp-on-unsc-linking-al-qaeda-to-nov-2025-red-fort-blast"
+      "domain": "thetelegraphandargus.co.uk",
+      "url": "https://www.thetelegraphandargus.co.uk/news/national/26463199.israeli-settlers-siege-palestinian-homes-draws-sharp-us-rebuke/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.4,
       "treffer": [
         "hormuz"
       ],
-      "domain": "iheart.com",
-      "url": "https://wmeq.iheart.com/content/2026-08-13-iran-contradicts-trump-says-hormuz-is-blocked/"
+      "domain": "ncr-iran.org",
+      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-august-13-2026-2/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.6,
       "treffer": [
-        "sanctions"
-      ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/world/asia/different-heads-of-the-same-snake-former-j-k-top-cop-sp-vaid-on-unsc-linking-al-qaeda-to-red-fort-blast20260813174150/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "mandeb",
-        "red sea",
         "suez"
       ],
-      "domain": "royalgazette.com",
-      "url": "https://www.royalgazette.com/reinsurance/business/article/20260813/red-sea-war-risks-cover-withdrawn-by-two-insurers/"
+      "domain": "kfgo.com",
+      "url": "https://kfgo.com/2026/08/13/salvors-work-to-secure-ship-leaking-oil-off-oman-risk-firm-ambrey-says/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "hormuz",
-        "mandeb"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/traffic-via-bab-al-mandeb-stays-at-lowest-level-since-2019-only-4-ships-passing-hormuz-every-day-article-14004473.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279239456/iran-trump-clash-over-who-controls-the-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "independent.com",
-      "url": "https://www.independent.com/2026/08/13/the-naked-untruth/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "the-independent.com",
-      "url": "https://www.the-independent.com/tech/security/trump-cyber-attack-security-memo-b3032324.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279239615/worse-than-fake-is-fake-intelligence-araghchi-slams-trump-total-control-remark-over-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279239615/worse-than-fake-is-fake-intelligence-araghchi-slams-trump-total-control-remark-over-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
       "treffer": [
         "refinery"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/321820-ukraine-s-drones-hit-major-russian-refinery-sparking-a-fire"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/world/article_4e150fcc-d974-57c8-8f37-06495bc62a95.html"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260813-houthis-claim-to-have-hit-saudi-aramco-refinery-in-jazan-with-drones/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.4,
+      "tonalitaet": -4.2,
       "treffer": [
-        "central bank"
+        "trading halt"
       ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279237682/ecb-sees-no-grounds-to-block-unicredit-commerzbank-deal"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "morningstaronline.co.uk",
-      "url": "https://morningstaronline.co.uk/article/fidels-legacy-measured-action"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "techradar.com",
-      "url": "https://www.techradar.com/pro/security/trump-signs-memo-calling-for-cyber-privateers-to-conduct-cyberattacks-abroad-against-criminal-groups-targeting-americans-but-they-have-to-escrow-usd1-million-to-join"
+      "domain": "montrealgazette.com",
+      "url": "https://montrealgazette.com/press-releases/pr-newswire/canadian-investment-regulatory-organization-trading-halt-nps/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.1,
       "treffer": [
-        "refinery"
+        "opec",
+        "oil terminal"
       ],
-      "domain": "wellandtribune.ca",
-      "url": "https://www.wellandtribune.ca/news/world/europe/ukraines-drones-hit-a-major-russian-refinery-800-miles-from-the-border-sparking-a-fire/article_e14052c1-5eae-5223-895a-8a60b96047f4.html"
+      "domain": "theeagleonline.com.ng",
+      "url": "https://theeagleonline.com.ng/nigeria-exceeds-opec-quota-for-third-month/"
     }
   ],
   "gkg_alter_stunden": 0.0

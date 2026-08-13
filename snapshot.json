@@ -1,24 +1,24 @@
 {
-  "erstellt_am": "2026-08-13T14:45:01",
+  "erstellt_am": "2026-08-13T22:45:01",
   "reihen": {
     "HY_OAS": {
-      "wert": "2.72",
-      "beobachtungsdatum": "2026-08-11",
+      "wert": "2.71",
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED"
     },
     "IG_OAS": {
       "wert": "0.79",
-      "beobachtungsdatum": "2026-08-11",
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "15.28",
-      "beobachtungsdatum": "2026-08-11",
+      "wert": "14.55",
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED"
     },
     "VIX3M": {
-      "wert": "18.91",
-      "beobachtungsdatum": "2026-08-11",
+      "wert": "18.53",
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
@@ -33,7 +33,7 @@
     },
     "IORB": {
       "wert": "3.6500000000",
-      "beobachtungsdatum": "2026-08-13",
+      "beobachtungsdatum": "2026-08-14",
       "quelle": "FRED"
     },
     "Initial_Claims": {
@@ -52,8 +52,8 @@
       "quelle": "FRED"
     },
     "Realrendite_10J": {
-      "wert": "2.4300000000",
-      "beobachtungsdatum": "2026-08-11",
+      "wert": "2.4200000000",
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED"
     },
     "USD_JPY": {
@@ -83,12 +83,12 @@
     },
     "EuroHY_OAS": {
       "wert": "2.57",
-      "beobachtungsdatum": "2026-08-11",
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED"
     },
     "EM_Corp_OAS": {
       "wert": "1.38",
-      "beobachtungsdatum": "2026-08-11",
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED"
     },
     "IT_Rendite_10J_Monatlich": {
@@ -107,8 +107,8 @@
       "quelle": "FRED"
     },
     "Fed_Reverse_Repo_USD_Mrd": {
-      "wert": "0.725",
-      "beobachtungsdatum": "2026-08-12",
+      "wert": "0.45",
+      "beobachtungsdatum": "2026-08-13",
       "quelle": "FRED"
     },
     "CP_Financial_3M": {
@@ -207,6 +207,10 @@
     "VIX_Historie": {
       "werte": [
         {
+          "datum": "2026-08-12",
+          "wert": 14.55
+        },
+        {
           "datum": "2026-08-11",
           "wert": 15.28
         },
@@ -221,10 +225,6 @@
         {
           "datum": "2026-08-06",
           "wert": 15.15
-        },
-        {
-          "datum": "2026-08-05",
-          "wert": 15.81
         }
       ],
       "quelle": "FRED (letzte 5 Handelstage)",
@@ -232,6 +232,10 @@
     },
     "HY_OAS_Historie": {
       "werte": [
+        {
+          "datum": "2026-08-12",
+          "wert": 2.71
+        },
         {
           "datum": "2026-08-11",
           "wert": 2.72
@@ -251,10 +255,6 @@
         {
           "datum": "2026-08-05",
           "wert": 2.75
-        },
-        {
-          "datum": "2026-08-04",
-          "wert": 2.73
         }
       ],
       "quelle": "FRED (letzte ca. 6 Handelstage)",
@@ -262,6 +262,10 @@
     },
     "IG_OAS_Historie": {
       "werte": [
+        {
+          "datum": "2026-08-12",
+          "wert": 0.79
+        },
         {
           "datum": "2026-08-11",
           "wert": 0.79
@@ -280,10 +284,6 @@
         },
         {
           "datum": "2026-08-05",
-          "wert": 0.78
-        },
-        {
-          "datum": "2026-08-04",
           "wert": 0.78
         }
       ],
@@ -311,10 +311,10 @@
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "Treasury_Auktion": {
-      "wert": "2.530000",
-      "beobachtungsdatum": "2026-08-12",
-      "auktion": "10-Year Note",
-      "high_yield": "4.6830",
+      "wert": "2.390000",
+      "beobachtungsdatum": "2026-08-13",
+      "auktion": "30-Year Bond",
+      "high_yield": "5.2160",
       "quelle": "US Treasury",
       "einheit": "Bid-to-Cover"
     }
@@ -349,6 +349,10 @@
     "VIX_VIX3M_Ratio_Historie": {
       "werte": [
         {
+          "datum": "2026-08-12",
+          "wert": 0.7852
+        },
+        {
           "datum": "2026-08-11",
           "wert": 0.808
         },
@@ -363,27 +367,23 @@
         {
           "datum": "2026-08-06",
           "wert": 0.8106
-        },
-        {
-          "datum": "2026-08-05",
-          "wert": 0.8343
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
       "hinweis": "fuer die Voralarm-Persistenzregel: Ratio > 1,00 an zwei Handelsschluessen, davon einmal > 1,02"
     },
     "Bank_Stress_KBE": {
-      "wert": 71.02,
-      "hoch_60T": 71.3,
-      "drawdown_pct": -0.4,
-      "beobachtungsdatum": "2026-08-12",
+      "wert": 71.41,
+      "hoch_60T": 71.41,
+      "drawdown_pct": 0.0,
+      "beobachtungsdatum": "2026-08-13",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 77.38,
+      "wert": 77.75,
       "hoch_60T": 77.92,
-      "drawdown_pct": -0.7,
-      "beobachtungsdatum": "2026-08-12",
+      "drawdown_pct": -0.2,
+      "beobachtungsdatum": "2026-08-13",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "SOFR_minus_IORB_bp": {
@@ -411,8 +411,8 @@
       "quelle": "FRED (berechnet, SOFR als OIS-Naeherung)"
     },
     "VIX_VIX3M_Ratio": {
-      "wert": 0.808,
-      "beobachtungsdatum": "2026-08-11",
+      "wert": 0.7852,
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "FRED (berechnet)"
     },
     "Diesel_Crack_USD_bbl": {
@@ -428,7 +428,7 @@
       "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "RSP_SPY_Ratio": {
-      "wert": 0.2862,
+      "wert": 0.2863,
       "quelle": "Yahoo Finance (inoffiziell, selbst berechnet)",
       "formel": "Breadth_ETF_RSP / Breadth_ETF_SPY",
       "hinweis": "fallende Ratio = engere Marktfuehrung/Konzentrationsrisiko"
@@ -468,28 +468,28 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 31.65,
-      "beobachtungsdatum": "2026-08-13",
+      "wert": 32.06,
+      "beobachtungsdatum": "2026-08-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 221.08,
-      "beobachtungsdatum": "2026-08-12",
+      "wert": 222.73,
+      "beobachtungsdatum": "2026-08-13",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 772.49,
-      "beobachtungsdatum": "2026-08-12",
+      "wert": 777.88,
+      "beobachtungsdatum": "2026-08-13",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
-      "wert": 72.09,
-      "beobachtungsdatum": "2026-08-12",
+      "wert": 69.23,
+      "beobachtungsdatum": "2026-08-13",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 13.67,
-      "beobachtungsdatum": "2026-08-12",
+      "wert": 13.89,
+      "beobachtungsdatum": "2026-08-13",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }
   }
