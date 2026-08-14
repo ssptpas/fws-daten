@@ -1,136 +1,113 @@
 {
-  "erstellt_am": "2026-08-14T09:45:23",
+  "erstellt_am": "2026-08-14T14:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260814074500",
+  "gkg_stand": "20260814124500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -10.8,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/settler-siege-in-west-bank-draws-rare-us-rebuke-225604"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/india/sc-quashes-criminal-defamation-complaint-summon-against-rahul-gandhi-for-remarks-against-savarkar/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/cis-countries/russian-drone-strike-kills-woman-and-9-year-old-child-in-ukraines-sumy-region-520310"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "indiagazette.com",
-      "url": "http://www.indiagazette.com/news/279240684/survival-lies-in-resistance-baloch-leaders-call-for-black-day-on-august-14-after-pakistani-airstrikes-in-surab"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "chronicle.lu",
-      "url": "https://www.chronicle.lu/category/international/62895-us-says-it-can-keep-naval-blockade-on-iran-indefinitely"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/us/deadly-connecticut-home-invasion-suspect-texted-make-her-life-hell-before-attack-report"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
+      "tonalitaet": -10.4,
       "treffer": [
-        "hormuz"
+        "tanker"
       ],
-      "domain": "baystreet.ca",
-      "url": "http://baystreet.ca/articles/commodities/122985/The-Hormuz-Shock-Is-Far-From-Over"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/america/us-plans-unprecedented-economic-isolation-measures-against-iran-520298"
+      "domain": "thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/uk-defends-seizing-shadow-fleet-tanker-after-putin-threat/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -9.8,
       "treffer": [
-        "hormuz"
+        "red sea",
+        "refinery"
       ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/us-threatens-iran-with-sweeping-economic-isolation-amid-hormuz-tensions-225603"
+      "domain": "i24news.tv",
+      "url": "https://www.i24news.tv/en/news/middle-east/artc-houthis-claim-drone-attack-on-saudi-aramco-refinery-as-tensions-with-riyadh-rise"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/337756"
+      "domain": "nvdaily.com",
+      "url": "https://www.nvdaily.com/associated_press_national/israeli-settlers-siege-of-palestinian-homes-draws-a-sharp-us-rebuke/article_056f2a38-283f-55bd-a18d-3f68234bc1c6.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/the_recorder/ap/business/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle/article_995894ea-3966-562a-955f-1e2317445a38.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "nvdaily.com",
+      "url": "https://www.nvdaily.com/associated_press_national/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle/article_44eec721-3fdb-506a-98bc-6adcfec5c028.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "stcatharinesstandard.ca",
+      "url": "https://www.stcatharinesstandard.ca/business/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle-east/article_6cd2ecfa-d040-5920-9a87-e5ae37a10533.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "leadership.ng",
+      "url": "https://leadership.ng/sec-orders-freeze-of-assets-linked-to-6-suspected-terrorist-financiers/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16052551/Morocco-deploys-hundreds-troops-border-fears-huge-migrant-invasion-Ceuta-imminent.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "dutchnews.nl",
+      "url": "https://www.dutchnews.nl/2026/08/mouse-invasion-plagues-friesland-farmers/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -5.5,
+      "tonalitaet": -3.0,
       "treffer": [
         "central bank"
       ],
-      "domain": "smh.com.au",
-      "url": "https://www.smh.com.au/business/the-economy/trump-is-steering-america-towards-a-financial-crisis-20260812-p60nhk.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "asianews.network",
-      "url": "https://asianews.network/taliban-support-fuels-deadlier-terrorist-attacks-in-pakistan-un-report/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/europe/russian-campaign-against-cargo-ships-disrupts-ukraines-black-sea-trade-nyt-520306"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/arab-world/5306780-grundberg-condemns-houthi-escalation-fears-war-yemen-could-return-any-point"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://1150wima.iheart.com/content/2026-08-14-vance-keeping-gas-prices-down-is-wars-number-one-goal/"
+      "domain": "thevermilion.com",
+      "url": "https://www.thevermilion.com/the-libyan-chaos-that-threatens-to-overwhelm-italy/article_19444/"
     }
   ],
   "gkg_alter_stunden": 0.0
