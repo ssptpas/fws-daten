@@ -1,113 +1,112 @@
 {
-  "erstellt_am": "2026-08-14T14:45:25",
+  "erstellt_am": "2026-08-14T22:45:55",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260814124500",
+  "gkg_stand": "20260814204500",
   "veraltet": false,
   "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.8,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/us/deadly-connecticut-home-invasion-suspect-texted-make-her-life-hell-before-attack-report"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.4,
+      "tonalitaet": -11.1,
       "treffer": [
+        "hormuz",
         "tanker"
       ],
-      "domain": "thechronicle.com.gh",
-      "url": "https://thechronicle.com.gh/uk-defends-seizing-shadow-fleet-tanker-after-putin-threat/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.8,
-      "treffer": [
-        "red sea",
-        "refinery"
-      ],
-      "domain": "i24news.tv",
-      "url": "https://www.i24news.tv/en/news/middle-east/artc-houthis-claim-drone-attack-on-saudi-aramco-refinery-as-tensions-with-riyadh-rise"
+      "domain": "columbian.com",
+      "url": "https://www.columbian.com/news/2026/aug/14/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle-east/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.7,
+      "tonalitaet": -9.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "nvdaily.com",
-      "url": "https://www.nvdaily.com/associated_press_national/israeli-settlers-siege-of-palestinian-homes-draws-a-sharp-us-rebuke/article_056f2a38-283f-55bd-a18d-3f68234bc1c6.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "dailygazette.com",
-      "url": "https://www.dailygazette.com/the_recorder/ap/business/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle/article_995894ea-3966-562a-955f-1e2317445a38.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "nvdaily.com",
-      "url": "https://www.nvdaily.com/associated_press_national/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle/article_44eec721-3fdb-506a-98bc-6adcfec5c028.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "stcatharinesstandard.ca",
-      "url": "https://www.stcatharinesstandard.ca/business/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle-east/article_6cd2ecfa-d040-5920-9a87-e5ae37a10533.html"
+      "domain": "natlawreview.com",
+      "url": "https://natlawreview.com/article/doj-fraud-division-issues-sweeping-enforcement-priorities-memorandum"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "leadership.ng",
-      "url": "https://leadership.ng/sec-orders-freeze-of-assets-linked-to-6-suspected-terrorist-financiers/"
+      "domain": "fcnl.org",
+      "url": "https://www.fcnl.org/updates/2026-08/week-world-quakers-sue-trump-over-attacks-human-rights-defenders"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "voiceofvienna.org",
+      "url": "https://voiceofvienna.org/strait-of-hormuz-becomes-new-flashpoint-in-us-iran-standoff/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279242343/zelensky-signs-decree-imposing-sanctions-over-illegal-export-of-ukrainian-grain"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/commodities/panama-canal-fees-hit-record-el-nino-hormuz-crisis-choke-global-shipping"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.6,
+      "tonalitaet": -4.0,
       "treffer": [
         "invasion"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16052551/Morocco-deploys-hundreds-troops-border-fears-huge-migrant-invasion-Ceuta-imminent.html"
+      "domain": "courant.com",
+      "url": "https://www.courant.com/2026/08/14/revenge-plot-for-firing-may-have-served-as-motive-in-deadly-ct-home-invasion/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "dutchnews.nl",
-      "url": "https://www.dutchnews.nl/2026/08/mouse-invasion-plagues-friesland-farmers/"
+      "domain": "voiceofvienna.org",
+      "url": "https://voiceofvienna.org/sanctions-on-paper-oil-in-practice-how-russian-crude-sneaks-into-the-eu/"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.0,
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "thevermilion.com",
-      "url": "https://www.thevermilion.com/the-libyan-chaos-that-threatens-to-overwhelm-italy/article_19444/"
+      "domain": "elciudadano.com",
+      "url": "https://www.elciudadano.com/en/chinese-ambassador-niu-qingbao-takes-a-stand-against-us-protectionism-urges-chile-to-resist-external-interference/08/14/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "brazilsun.com",
+      "url": "http://www.brazilsun.com/news/279241993/brazil-initiates-exploring-retaliatory-options-against-us-over-new-tariffs"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "medicinehatnews.com",
+      "url": "https://medicinehatnews.com/news/national-news/2026/08/14/canada-sanctions-five-iranian-officials-over-blockade-of-strait-of-hormuz/"
     }
   ],
   "gkg_alter_stunden": 0.0
