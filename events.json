@@ -1,10 +1,10 @@
 {
-  "erstellt_am": "2026-08-13T22:45:25",
+  "erstellt_am": "2026-08-14T09:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260813204500",
+  "gkg_stand": "20260814074500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
@@ -12,35 +12,35 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/economy/fuel-shortages-and-soaring-misery-index-push-irans-clerical-regime-to-the-brink/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.8,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "caledoncitizen.com",
-      "url": "https://caledoncitizen.com/arrest-following-2025-home-invasion/"
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/settler-siege-in-west-bank-draws-rare-us-rebuke-225604"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.4,
+      "tonalitaet": -8.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailybreeze.com",
-      "url": "https://www.dailybreeze.com/2026/08/13/california-womens-prisons-failed-to-protect-inmates-from-sex-abuse-by-staff-doj-says/"
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/india/sc-quashes-criminal-defamation-complaint-summon-against-rahul-gandhi-for-remarks-against-savarkar/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.1,
       "treffer": [
-        "tanker"
+        "drone strike"
       ],
-      "domain": "cnn.com",
-      "url": "https://edition.cnn.com/2026/08/13/middleeast/oil-spill-oman-grounded-tanker-intl"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/cis-countries/russian-drone-strike-kills-woman-and-9-year-old-child-in-ukraines-sumy-region-520310"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "indiagazette.com",
+      "url": "http://www.indiagazette.com/news/279240684/survival-lies-in-resistance-baloch-leaders-call-for-black-day-on-august-14-after-pakistani-airstrikes-in-surab"
     },
     {
       "kategorie": "Policy",
@@ -48,8 +48,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "thetelegraphandargus.co.uk",
-      "url": "https://www.thetelegraphandargus.co.uk/news/national/26463199.israeli-settlers-siege-palestinian-homes-draws-sharp-us-rebuke/"
+      "domain": "chronicle.lu",
+      "url": "https://www.chronicle.lu/category/international/62895-us-says-it-can-keep-naval-blockade-on-iran-indefinitely"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -57,45 +57,80 @@
       "treffer": [
         "hormuz"
       ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-august-13-2026-2/"
+      "domain": "baystreet.ca",
+      "url": "http://baystreet.ca/articles/commodities/122985/The-Hormuz-Shock-Is-Far-From-Over"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/america/us-plans-unprecedented-economic-isolation-measures-against-iran-520298"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.6,
       "treffer": [
-        "suez"
+        "hormuz"
       ],
-      "domain": "kfgo.com",
-      "url": "https://kfgo.com/2026/08/13/salvors-work-to-secure-ship-leaking-oil-off-oman-risk-firm-ambrey-says/"
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/us-threatens-iran-with-sweeping-economic-isolation-amid-hormuz-tensions-225603"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260813-houthis-claim-to-have-hit-saudi-aramco-refinery-in-jazan-with-drones/"
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/337756"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -4.2,
+      "tonalitaet": -5.5,
       "treffer": [
-        "trading halt"
+        "central bank"
       ],
-      "domain": "montrealgazette.com",
-      "url": "https://montrealgazette.com/press-releases/pr-newswire/canadian-investment-regulatory-organization-trading-halt-nps/"
+      "domain": "smh.com.au",
+      "url": "https://www.smh.com.au/business/the-economy/trump-is-steering-america-towards-a-financial-crisis-20260812-p60nhk.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "asianews.network",
+      "url": "https://asianews.network/taliban-support-fuels-deadlier-terrorist-attacks-in-pakistan-un-report/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.4,
       "treffer": [
-        "opec",
-        "oil terminal"
+        "red sea"
       ],
-      "domain": "theeagleonline.com.ng",
-      "url": "https://theeagleonline.com.ng/nigeria-exceeds-opec-quota-for-third-month/"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/europe/russian-campaign-against-cargo-ships-disrupts-ukraines-black-sea-trade-nyt-520306"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/arab-world/5306780-grundberg-condemns-houthi-escalation-fears-war-yemen-could-return-any-point"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://1150wima.iheart.com/content/2026-08-14-vance-keeping-gas-prices-down-is-wars-number-one-goal/"
     }
   ],
   "gkg_alter_stunden": 0.0
