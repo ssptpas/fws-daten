@@ -1,46 +1,102 @@
 {
-  "erstellt_am": "2026-08-15T09:45:31",
+  "erstellt_am": "2026-08-15T14:45:44",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260815074500",
+  "gkg_stand": "20260815124500",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "weny.com",
-      "url": "https://www.weny.com/wires/there-s-a-reason-why-israel-has-done-little-to-rein-in-settler-violence-it/article_08baf47d-bad0-5fac-8ad2-3ffd64fcde95.html"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -8.6,
       "treffer": [
+        "hormuz",
         "red sea"
       ],
-      "domain": "canberratimes.com.au",
-      "url": "https://www.canberratimes.com.au/story/9330863/iran-defiant-as-trump-tells-us-to-accept-dearer-petrol/"
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11068427/vessel-is-attacked-in-hormuz-israeli-strike-kills-7-in-lebanon-and-other-news-from-the-middle-east.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -8.0,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "rockymounttelegram.com",
+      "url": "http://www.rockymounttelegram.com/news/national/vessel-is-attacked-in-hormuz-israeli-strike-kills-9-in-lebanon-and-other-news-from/article_7bc15063-ff93-548b-a530-ecf0f73ec133.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.1,
       "treffer": [
         "hormuz"
       ],
-      "domain": "baystreet.ca",
-      "url": "http://baystreet.ca/articles/commodities/123025/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz"
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279243481/uae-strongly-condemns-targeting-of-adnoc-vessel-while-transiting-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/node/2654762/middle-east"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -5.9,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "thepeninsulaqatar.com",
+      "url": "http://thepeninsulaqatar.com/article/15/08/2026/uae-state-oil-company-says-vessel-attacked-in-hormuz-strait"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "politicalwire.com",
+      "url": "https://politicalwire.com/2026/08/15/the-iran-war-is-now-about-economic-pressure/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "rockymounttelegram.com",
+      "url": "http://www.rockymounttelegram.com/news/world/israeli-airstrikes-on-southern-lebanon-kill-9-people-health-ministry-says/article_72714e2c-c58b-502c-9cae-98acedd8001c.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "rferl.org",
+      "url": "https://www.rferl.org/a/ukraine-strikes-samara-rocket-facility-long-range-attacks-zelenskyy/33831016.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
       "treffer": [
         "tanker"
       ],
-      "domain": "baystreet.ca",
-      "url": "http://baystreet.ca/articles/commodities/123023/Tanker-Data-Contradicts-US-Claim-That-Middle-East-Oil-Flows-Have-Normalized"
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/08/15/nigerians-scoop-fuel-as-tanker-spills-content-on-lagos-ibadan-expressway/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279243333/netanyahu-hits-london-with-islamic-britain-jibe"
     }
   ],
   "gkg_alter_stunden": 0.0
