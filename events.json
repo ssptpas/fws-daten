@@ -1,112 +1,46 @@
 {
-  "erstellt_am": "2026-08-14T22:45:55",
+  "erstellt_am": "2026-08-15T09:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260814204500",
+  "gkg_stand": "20260815074500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 4,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -11.1,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "columbian.com",
-      "url": "https://www.columbian.com/news/2026/aug/14/2-uae-tankers-attacked-while-transiting-strait-of-hormuz-and-other-news-from-the-middle-east/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -9.7,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "natlawreview.com",
-      "url": "https://natlawreview.com/article/doj-fraud-division-issues-sweeping-enforcement-priorities-memorandum"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "fcnl.org",
-      "url": "https://www.fcnl.org/updates/2026-08/week-world-quakers-sue-trump-over-attacks-human-rights-defenders"
+      "domain": "weny.com",
+      "url": "https://www.weny.com/wires/there-s-a-reason-why-israel-has-done-little-to-rein-in-settler-violence-it/article_08baf47d-bad0-5fac-8ad2-3ffd64fcde95.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.0,
+      "tonalitaet": -5.0,
       "treffer": [
-        "hormuz",
-        "mandeb",
         "red sea"
       ],
-      "domain": "voiceofvienna.org",
-      "url": "https://voiceofvienna.org/strait-of-hormuz-becomes-new-flashpoint-in-us-iran-standoff/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279242343/zelensky-signs-decree-imposing-sanctions-over-illegal-export-of-ukrainian-grain"
+      "domain": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9330863/iran-defiant-as-trump-tells-us-to-accept-dearer-petrol/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "tonalitaet": -4.2,
       "treffer": [
         "hormuz"
       ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/commodities/panama-canal-fees-hit-record-el-nino-hormuz-crisis-choke-global-shipping"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "courant.com",
-      "url": "https://www.courant.com/2026/08/14/revenge-plot-for-firing-may-have-served-as-motive-in-deadly-ct-home-invasion/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "voiceofvienna.org",
-      "url": "https://voiceofvienna.org/sanctions-on-paper-oil-in-practice-how-russian-crude-sneaks-into-the-eu/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "elciudadano.com",
-      "url": "https://www.elciudadano.com/en/chinese-ambassador-niu-qingbao-takes-a-stand-against-us-protectionism-urges-chile-to-resist-external-interference/08/14/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "brazilsun.com",
-      "url": "http://www.brazilsun.com/news/279241993/brazil-initiates-exploring-retaliatory-options-against-us-over-new-tariffs"
+      "domain": "baystreet.ca",
+      "url": "http://baystreet.ca/articles/commodities/123025/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.6,
       "treffer": [
-        "hormuz"
+        "tanker"
       ],
-      "domain": "medicinehatnews.com",
-      "url": "https://medicinehatnews.com/news/national-news/2026/08/14/canada-sanctions-five-iranian-officials-over-blockade-of-strait-of-hormuz/"
+      "domain": "baystreet.ca",
+      "url": "http://baystreet.ca/articles/commodities/123023/Tanker-Data-Contradicts-US-Claim-That-Middle-East-Oil-Flows-Have-Normalized"
     }
   ],
   "gkg_alter_stunden": 0.0

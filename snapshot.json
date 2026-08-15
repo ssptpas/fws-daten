@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-14T22:45:01",
+  "erstellt_am": "2026-08-15T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.7100000000",
@@ -22,8 +22,8 @@
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.48",
-      "beobachtungsdatum": "2026-08-13",
+      "wert": "0.51",
+      "beobachtungsdatum": "2026-08-14",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.24",
-      "beobachtungsdatum": "2026-08-13",
+      "wert": "2.27",
+      "beobachtungsdatum": "2026-08-14",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -468,8 +468,8 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 31.65,
-      "beobachtungsdatum": "2026-08-13",
+      "wert": 30.96,
+      "beobachtungsdatum": "2026-08-14",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -483,7 +483,7 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
-      "wert": 69.23,
+      "wert": 69.58,
       "beobachtungsdatum": "2026-08-14",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
