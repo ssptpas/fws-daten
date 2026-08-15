@@ -1,102 +1,93 @@
 {
-  "erstellt_am": "2026-08-15T14:45:44",
+  "erstellt_am": "2026-08-15T22:45:35",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260815124500",
+  "gkg_stand": "20260815204500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 9,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.6,
+      "tonalitaet": -6.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279244119/houthis-launch-missile-attack-on-yemen-marib-pro-govt-media"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/region/262435.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
       "treffer": [
         "hormuz",
         "red sea"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11068427/vessel-is-attacked-in-hormuz-israeli-strike-kills-7-in-lebanon-and-other-news-from-the-middle-east.html"
+      "domain": "globalnews.ca",
+      "url": "https://globalnews.ca/news/12022985/trump-americans-fuel-iran/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
+      "tonalitaet": -5.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "hngnews.com",
+      "url": "http://www.hngnews.com/nation_world/iran-claims-qatar-is-holding-pilots-israeli-strikes-kill-11-in-lebanon-and-other-middle/article_20495e26-a775-5722-8ebe-edb45f70d1bb.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
       "treffer": [
         "hormuz",
         "red sea"
       ],
-      "domain": "rockymounttelegram.com",
-      "url": "http://www.rockymounttelegram.com/news/national/vessel-is-attacked-in-hormuz-israeli-strike-kills-9-in-lebanon-and-other-news-from/article_7bc15063-ff93-548b-a530-ecf0f73ec133.html"
+      "domain": "gazetteandherald.co.uk",
+      "url": "https://www.gazetteandherald.co.uk/news/national/26467922.iran-claims-qatar-holding-pilots-uae-says-ship-attacked-strait-hormuz/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
+      "tonalitaet": -4.3,
       "treffer": [
         "hormuz"
       ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279243481/uae-strongly-condemns-targeting-of-adnoc-vessel-while-transiting-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/node/2654762/middle-east"
+      "domain": "coloradostar.com",
+      "url": "http://www.coloradostar.com/news/279242101/attacks-nearly-halt-hormuz-strait-traffic-us-threatens-more-pressure"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
+      "tonalitaet": -4.1,
       "treffer": [
         "hormuz"
       ],
-      "domain": "thepeninsulaqatar.com",
-      "url": "http://thepeninsulaqatar.com/article/15/08/2026/uae-state-oil-company-says-vessel-attacked-in-hormuz-strait"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "politicalwire.com",
-      "url": "https://politicalwire.com/2026/08/15/the-iran-war-is-now-about-economic-pressure/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "rockymounttelegram.com",
-      "url": "http://www.rockymounttelegram.com/news/world/israeli-airstrikes-on-southern-lebanon-kill-9-people-health-ministry-says/article_72714e2c-c58b-502c-9cae-98acedd8001c.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "rferl.org",
-      "url": "https://www.rferl.org/a/ukraine-strikes-samara-rocket-facility-long-range-attacks-zelenskyy/33831016.html"
+      "domain": "newsweek.com",
+      "url": "https://www.newsweek.com/iran-blasts-trumps-plan-to-claim-strait-of-hormuz-as-us-territory-12327233"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -3.4,
       "treffer": [
-        "tanker"
+        "hormuz"
       ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/08/15/nigerians-scoop-fuel-as-tanker-spills-content-on-lagos-ibadan-expressway/"
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-strait-hormuz-u-200141620.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279243333/netanyahu-hits-london-with-islamic-britain-jibe"
+      "domain": "nrc.nl",
+      "url": "https://www.nrc.nl/nieuws/2026/08/15/a-bill-to-punish-putin-gives-too-much-power-to-donald-trump-a4934460"
     }
   ],
   "gkg_alter_stunden": 0.0
