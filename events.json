@@ -1,56 +1,66 @@
 {
-  "erstellt_am": "2026-08-16T09:45:37",
+  "erstellt_am": "2026-08-16T14:11:33",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260816074500",
+  "gkg_stand": "20260816121500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.0,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "el-balad.com",
-      "url": "https://www.el-balad.com/17042374"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "scmp.com",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3364177/how-us-could-squeeze-iran-economic-isolation-and-risks-involved"
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260815-rferl03.htm"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
+      "tonalitaet": -5.3,
       "treffer": [
-        "airstrike"
+        "missile",
+        "ballistic"
       ],
-      "domain": "dailypioneer.com",
-      "url": "https://dailypioneer.com/news/israeli-airstrikes-on-southern-lebanon-kills-11-health-ministry"
+      "domain": "sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260816/ukraine-fails-to-shoot-down-single-ballistic-hypersonic-missile-last-night---reports-1124587002.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "businessghana.com",
-      "url": "http://www.businessghana.com/site/news/politics/354167/Presidential-pardon-for-French-alleged-spy-accused-of-plotting-Mali-coup"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
+      "tonalitaet": -4.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ktvz.com",
-      "url": "https://ktvz.com/news/national-world/cnn-world/2026/08/15/what-the-death-sentence-for-former-syrian-dictator-bashar-al-assad-tells-us-about-the-future-of-the-country/"
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260815-rferl01.htm"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "koreatimes.co.kr",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260816/state-sponsored-cyberattacks-from-n-korea-china-russia-rise-75-in-1st-half-of-2026"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260815-rferl01.htm"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "terrorism-info.org.il",
+      "url": "https://www.terrorism-info.org.il/en/funding-terrorism-historical-review-and-future-trend/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "gkg_alter_stunden": -0.1
 }

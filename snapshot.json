@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-16T09:45:02",
+  "erstellt_am": "2026-08-16T14:11:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.7100000000",
@@ -383,6 +383,20 @@
       "wert": 77.93,
       "hoch_60T": 77.93,
       "drawdown_pct": 0.0,
+      "beobachtungsdatum": "2026-08-14",
+      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
+    },
+    "Privatkredit_ARCC": {
+      "wert": 19.87,
+      "hoch_60T": 20.19,
+      "drawdown_pct": -1.6,
+      "beobachtungsdatum": "2026-08-14",
+      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
+    },
+    "Privatkredit_PSEC": {
+      "wert": 2.3,
+      "hoch_60T": 2.46,
+      "drawdown_pct": -6.5,
       "beobachtungsdatum": "2026-08-14",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
