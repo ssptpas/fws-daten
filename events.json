@@ -1,65 +1,19 @@
 {
-  "erstellt_am": "2026-08-16T14:45:45",
+  "erstellt_am": "2026-08-16T22:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260816124500",
+  "gkg_stand": "20260816204500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 1,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.6,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.3,
       "treffer": [
-        "red sea"
+        "nuclear threat"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com/stories/en/321868-everyone-lives-in-fear-yemenis-worry-about-return-to-all-out-war"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com/stories/en/321855-uae-state-oil-company-says-vessel-attacked-in-hormuz-strait"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "1490wosh.com",
-      "url": "https://www.1490wosh.com/2026/08/16/trump-says-us-could-claim-strait-of-hormuz-as-iran-keeps-shipping-route-nearly-shut/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "mizonews.net",
-      "url": "https://mizonews.net/business/17585/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz",
-        "crude oil"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-outlook-crude-oil-strait-of-hormuz-and-fed-cues-to-drive-stock-market-this-week/articleshow/133274804.cms"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "cinaradio.com",
-      "url": "https://www.cinaradio.com/2026/08/16/how-iowans-feel-about-trumps-tariffs-canadas-treatment-as-republicans-vie-for-support/"
+      "domain": "americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/08/one-woman-learned-all-the-wrong-lessons-from-the-atomic-woman/"
     }
   ],
   "gkg_alter_stunden": 0.0
