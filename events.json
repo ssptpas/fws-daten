@@ -1,66 +1,66 @@
 {
-  "erstellt_am": "2026-08-16T14:11:33",
+  "erstellt_am": "2026-08-16T14:45:45",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260816121500",
+  "gkg_stand": "20260816124500",
   "veraltet": false,
   "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
+      "tonalitaet": -10.6,
       "treffer": [
         "red sea"
       ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260815-rferl03.htm"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com/stories/en/321868-everyone-lives-in-fear-yemenis-worry-about-return-to-all-out-war"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.3,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.3,
       "treffer": [
-        "missile",
-        "ballistic"
+        "hormuz"
       ],
-      "domain": "sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260816/ukraine-fails-to-shoot-down-single-ballistic-hypersonic-missile-last-night---reports-1124587002.html"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com/stories/en/321855-uae-state-oil-company-says-vessel-attacked-in-hormuz-strait"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "1490wosh.com",
+      "url": "https://www.1490wosh.com/2026/08/16/trump-says-us-could-claim-strait-of-hormuz-as-iran-keeps-shipping-route-nearly-shut/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "mizonews.net",
+      "url": "https://mizonews.net/business/17585/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "hormuz",
+        "crude oil"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-outlook-crude-oil-strait-of-hormuz-and-fed-cues-to-drive-stock-market-this-week/articleshow/133274804.cms"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -3.6,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260815-rferl01.htm"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "koreatimes.co.kr",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260816/state-sponsored-cyberattacks-from-n-korea-china-russia-rise-75-in-1st-half-of-2026"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260815-rferl01.htm"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "terrorism-info.org.il",
-      "url": "https://www.terrorism-info.org.il/en/funding-terrorism-historical-review-and-future-trend/"
+      "domain": "cinaradio.com",
+      "url": "https://www.cinaradio.com/2026/08/16/how-iowans-feel-about-trumps-tariffs-canadas-treatment-as-republicans-vie-for-support/"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }
