@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-16T22:45:01",
+  "erstellt_am": "2026-08-17T09:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "2.7100000000",
@@ -311,12 +311,9 @@
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "Treasury_Auktion": {
-      "wert": "2.390000",
-      "beobachtungsdatum": "2026-08-13",
-      "auktion": "30-Year Bond",
-      "high_yield": "5.2160",
+      "wert": "nicht verfügbar",
       "quelle": "US Treasury",
-      "einheit": "Bid-to-Cover"
+      "fehler": "The read operation timed out"
     }
   },
   "berechnet": {
@@ -406,8 +403,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.2,
-      "markt_datum": "2026-08-13",
+      "wert": -6.1,
+      "markt_datum": "2026-08-14",
       "leitzins_datum": "2026-08-14",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -455,8 +452,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.188",
-      "beobachtungsdatum": "2026-08-13",
+      "wert": "2.189",
+      "beobachtungsdatum": "2026-08-14",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -476,14 +473,14 @@
     },
     "Japan_Tagesgeldsatz": {
       "wert": 0.977,
-      "beobachtungsdatum": "20260812",
+      "beobachtungsdatum": "20260813",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 30.96,
-      "beobachtungsdatum": "2026-08-14",
+      "wert": 29.47,
+      "beobachtungsdatum": "2026-08-17",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {

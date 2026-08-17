@@ -1,19 +1,91 @@
 {
-  "erstellt_am": "2026-08-16T22:45:22",
+  "erstellt_am": "2026-08-17T09:46:01",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260816204500",
+  "gkg_stand": "20260817074500",
   "veraltet": false,
-  "anzahl": 1,
+  "anzahl": 9,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "arynews.tv",
+      "url": "https://arynews.tv/ukrainian-missile-strikes-kill-6-russias-belgorod"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.9,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202608170059.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://720thevoice.iheart.com/content/2026-08-17-us-iran-ceasefire-mou-set-to-expire-amid-tensions/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/world/articles/six-killed-ukrainian-missile-strikes-064826444.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "standardmedia.co.ke",
+      "url": "https://www.standardmedia.co.ke/world/article/2001555506/ukrainian-missile-strikes-kill-6-in-russias-belgorod"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/business/2026/08/17/ukraine-takes-aim-at-russias-economy-and-morale-by-attacking-online-retailer/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.3,
       "treffer": [
-        "nuclear threat"
+        "hormuz"
       ],
-      "domain": "americanthinker.com",
-      "url": "https://www.americanthinker.com/blog/2026/08/one-woman-learned-all-the-wrong-lessons-from-the-atomic-woman/"
+      "domain": "arynews.tv",
+      "url": "https://arynews.tv/oil-rises-as-us-iran-peace-talks-stall-hormuz-shipping-slows"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "businesstimes.com.sg",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-rises-us-iran-peace-talks-stall-hormuz-shipping-slows"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/business/2026/08/17/states-take-meta-to-trial-in-california-in-the-biggest-fight-yet-over-social-media-harms-to-children/"
     }
   ],
   "gkg_alter_stunden": 0.0
