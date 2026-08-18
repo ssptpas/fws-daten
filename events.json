@@ -1,73 +1,121 @@
 {
-  "erstellt_am": "2026-08-18T14:46:11",
+  "erstellt_am": "2026-08-18T22:45:48",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260818124500",
+  "gkg_stand": "20260818204500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 25,
   "ereignisse": [
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.9,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279249726/uae-claims-iran-fired-two-ballistic-missiles-at-it"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "burytimes.co.uk",
+      "url": "https://www.burytimes.co.uk/news/national/26475910.ukraine-aims-drone-blitz-moscow-russian-missiles-kill-10-village/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.2,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "channel4.com",
+      "url": "https://www.channel4.com/news/russia-threatens-uk-with-consequences-over-ukraine-drone-strikes"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.2,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "greekherald.com",
+      "url": "http://www.greekherald.com/news/279249608/greek-oil-tanker-attacked-in-black-sea-bloomberg"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "fox23.com",
+      "url": "https://fox23.com/news/nation-world/fact-check-team-whats-behind-south-americas-rightward-shift-communist-conservative-centrist"
+    },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -7.7,
       "treffer": [
-        "missile"
+        "airstrike"
       ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline-passes-trump-calls-white-flag-surrender"
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279249938/unnecessary-escalation-us-envoy-tom-barrack-condemns-confirmed-israeli-airstrikes-on-syria-abu-al-duhur-airbase"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279249938/unnecessary-escalation-us-envoy-tom-barrack-condemns-confirmed-israeli-airstrikes-on-syria-abu-al-duhur-airbase"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "public health emergency"
+      ],
+      "domain": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/08/18/dr-congo-ebola-outbreak-far-control-chief/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "kfoxtv.com",
+      "url": "https://kfoxtv.com/news/nation-world/uk-authorities-vessel-in-strait-of-hormuz-hit-by-projectile-one-casualty-strait-hormuz-blockade-president-donald-trump-territory"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "melbournefc.com.au",
-      "url": "https://www.melbournefc.com.au/news/2105083/tribunal-verdict-delivered-van-rooyen"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279248976/vessel-struck-by-projectile-while-transiting-strait-of-hormuz-report"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/world/us/trump-shares-ai-generated-image-declaring-strait-of-hormuz-new-us-territory-amid-tensions-with-iran20260818174602/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.1,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "timesofoman.com",
-      "url": "https://timesofoman.com/article/175773-iranian-parliament-speaker-ghalibaf-draws-red-line-for-us-amid-west-asia-crisis"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/why-trump-is-threatening-again-to-bomb-oman-101787039805672.html"
+      "domain": "euobserver.com",
+      "url": "https://euobserver.com/232726/russia-is-adapting-its-drone-warfare-strategy-with-faster-and-deadlier-shaheds-ukraine-battlefield-update-day-1636/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -4.8,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/iran-says-strait-of-hormuz-will-stay-closed-until-us-meets-mou-commitments-article-14009501.html"
+      "domain": "santamariatimes.com",
+      "url": "https://santamariatimes.com/ap/international/trump-threatened-to-bomb-oman-because-hes-unhappy-with-countrys-deal-with-iran-officials-say/article_5ea9c0fe-c7b0-590f-9bcc-a230700f553e.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "london-now.co.uk",
+      "url": "https://www.london-now.co.uk/news/26474903.royal-marsden-radiographer-filmed-colleagues-changing---tribunal/"
     },
     {
       "kategorie": "Policy",
@@ -75,81 +123,81 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "timesofearth.com",
-      "url": "https://www.timesofearth.com/2026/08/18/iran-threatens-new-offensive-while-us-rules-out-extending-ceasefire-deal/"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-flags-heritage-concerns-over-construction-around-ellerslie-building-in-shimla/articleshow/133331941.cms"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "fox56.com",
-      "url": "https://fox56.com/news/nation-world/marjorie-taylor-greene-mtg-warns-trump-officials-are-discussing-nuclear-weapons-in-iran-former-georgia-congresswoman-tehran-strait-of-hormuz-nuclear-threshold-hiroshima"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-08-17-the-us-is-about-to-hit-iran-with-an-economic-tsunami/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "constructionnews.co.uk",
-      "url": "https://www.constructionnews.co.uk/sections/data/construction-insolvencies-tick-up-for-second-consecutive-month-18-08-2026/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bostonglobe.com",
-      "url": "https://www.bostonglobe.com/2026/08/17/nation/states-take-meta-trial-california-biggest-fight-yet-over-social-media-harms-children/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailygazette.com",
-      "url": "https://www.dailygazette.com/hv360/ap/world/palestinian-american-returns-to-besieged-west-bank-home-but-israeli-settlers-remain/article_7c8ed387-caea-5a35-a9af-f9a6aa309493.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/trump-labels-strait-of-hormuz-new-us-territory-as-iran-refuses-to-open-waterway-without-us-concessions-article-14009474.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.3,
       "treffer": [
         "hormuz",
         "red sea"
       ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279249058/iran-says-hormuz-will-remain-closed-until-us-fulfills-commitments"
+      "domain": "courant.com",
+      "url": "https://www.courant.com/2026/08/18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on-6/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1194719/world/region/iran-says-hormuz-to-remain-shut-till-us-meets-conditions"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/08/18/trump-says-no-iran-talks-planned-claims-hormuz-new-us-territory/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "wellandtribune.ca",
+      "url": "https://www.wellandtribune.ca/business/impending-us-tariffs-worrying-small-businesses-even-more-than-past-threats-cfib/article_94210d8c-0056-5662-b623-e645651bbca0.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://wmmbam.iheart.com/featured/florida-news/content/2026-08-18-man-sought-in-arson-at-southwest-miami-dade-chevron-station/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279249957/uae-claims-air-defence-systems-detected-two-missiles-launched-from-iran-both-fell-into-sea"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279249935/trump-holds-off-iran-talks-until-tehran-is-ready-to-make-a-deal-reports"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279249935/trump-holds-off-iran-talks-until-tehran-is-ready-to-make-a-deal-reports"
     },
     {
       "kategorie": "Policy",
@@ -157,8 +205,36 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431879"
+      "domain": "americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/08/the-iran-deal-may-be-dead-but-we-re-still-at-a-net-positive/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279249534/trump-declares-hormuz-new-us-territory"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "kbtx.com",
+      "url": "https://www.kbtx.com/2026/08/18/us-canada-hold-last-minute-talks-stop-trumps-50-tariffs/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/3681676/worries-about-elevated-bond-yields-crude-oil-prices-weigh-on-wall-street.aspx"
     }
   ],
   "gkg_alter_stunden": 0.0
