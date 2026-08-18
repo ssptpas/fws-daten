@@ -1,39 +1,109 @@
 {
-  "erstellt_am": "2026-08-17T22:45:43",
+  "erstellt_am": "2026-08-18T09:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260817204500",
+  "gkg_stand": "20260818074500",
   "veraltet": false,
-  "anzahl": 3,
+  "anzahl": 11,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.3,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thisisoxfordshire.co.uk",
-      "url": "https://www.thisisoxfordshire.co.uk/news/national/26471269.no-tolerance-reckless-driving-irish-premier-says-horror-crash/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/War-and-Drought-Are-Choking-the-Worlds-Most-Vital-Trade-Routes.html"
+      "domain": "indiagazette.com",
+      "url": "http://www.indiagazette.com/news/279248396/truth-has-strange-way-of-coming-to-light-pawan-khera-says-savarkar-grand-nephew-told-court-godse-linked-to-rss"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "lrt.lt",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3025064/lithuania-is-not-considering-to-leave-the-icc-president-says"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1403715"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/08/trump-threatens-bomb-oman-if-it-gets-way-iran-deal"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "air strike"
+      ],
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279248626/4-air-strikes-hit-military-airport-in-syria-idlib-in-first-attack-since-al-assad-fall"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "arynews.tv",
+      "url": "https://arynews.tv/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "miningjournal.net",
+      "url": "https://www.miningjournal.net/news/front-page-news/2026/08/state-corrections-officers-altered-prisoners-id-with-racial-caricature-lawsuit-claims/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2624529/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "amnesty.org.au",
+      "url": "https://www.amnesty.org.au/toolkit-westbank-crisis/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "2news.com",
+      "url": "https://www.2news.com/news/local/gas-and-ethanol-tanker-flips-near-gerlach-causing-spill/article_99c5dbf8-7ba6-4c51-b641-7ebb305bf7dc.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.2,
       "treffer": [
-        "coup"
+        "nuclear weapon"
       ],
-      "domain": "newsregister.com",
-      "url": "https://newsregister.com/article?articleTitle=letters-to-the-editor-aug-14-2026--1786984165--56170--letters"
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279248441/trump-envoy-jared-kushner-reiterates-firm-stance-says-iran-cannot-have-a-nuclear-weapon"
     }
   ],
   "gkg_alter_stunden": 0.0
