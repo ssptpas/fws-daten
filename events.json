@@ -1,109 +1,164 @@
 {
-  "erstellt_am": "2026-08-18T09:45:36",
+  "erstellt_am": "2026-08-18T14:46:11",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260818074500",
+  "gkg_stand": "20260818124500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 17,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.7,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "indiagazette.com",
-      "url": "http://www.indiagazette.com/news/279248396/truth-has-strange-way-of-coming-to-light-pawan-khera-says-savarkar-grand-nephew-told-court-godse-linked-to-rss"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline-passes-trump-calls-white-flag-surrender"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.5,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "lrt.lt",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3025064/lithuania-is-not-considering-to-leave-the-icc-president-says"
+      "domain": "melbournefc.com.au",
+      "url": "https://www.melbournefc.com.au/news/2105083/tribunal-verdict-delivered-van-rooyen"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279248976/vessel-struck-by-projectile-while-transiting-strait-of-hormuz-report"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/us/trump-shares-ai-generated-image-declaring-strait-of-hormuz-new-us-territory-amid-tensions-with-iran20260818174602/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "timesofoman.com",
+      "url": "https://timesofoman.com/article/175773-iranian-parliament-speaker-ghalibaf-draws-red-line-for-us-amid-west-asia-crisis"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/why-trump-is-threatening-again-to-bomb-oman-101787039805672.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/iran-says-strait-of-hormuz-will-stay-closed-until-us-meets-mou-commitments-article-14009501.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "timesofearth.com",
+      "url": "https://www.timesofearth.com/2026/08/18/iran-threatens-new-offensive-while-us-rules-out-extending-ceasefire-deal/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "fox56.com",
+      "url": "https://fox56.com/news/nation-world/marjorie-taylor-greene-mtg-warns-trump-officials-are-discussing-nuclear-weapons-in-iran-former-georgia-congresswoman-tehran-strait-of-hormuz-nuclear-threshold-hiroshima"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -5.3,
+      "tonalitaet": -3.8,
       "treffer": [
         "central bank"
       ],
-      "domain": "gdnonline.com",
-      "url": "https://www.gdnonline.com:443/Details/1403715"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/08/trump-threatens-bomb-oman-if-it-gets-way-iran-deal"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "air strike"
-      ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279248626/4-air-strikes-hit-military-airport-in-syria-idlib-in-first-attack-since-al-assad-fall"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "arynews.tv",
-      "url": "https://arynews.tv/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks"
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "miningjournal.net",
-      "url": "https://www.miningjournal.net/news/front-page-news/2026/08/state-corrections-officers-altered-prisoners-id-with-racial-caricature-lawsuit-claims/"
+      "domain": "iheart.com",
+      "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-08-17-the-us-is-about-to-hit-iran-with-an-economic-tsunami/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.4,
       "treffer": [
-        "red sea"
+        "insolvency"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2624529/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks"
+      "domain": "constructionnews.co.uk",
+      "url": "https://www.constructionnews.co.uk/sections/data/construction-insolvencies-tick-up-for-second-consecutive-month-18-08-2026/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.5,
+      "tonalitaet": -3.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "amnesty.org.au",
-      "url": "https://www.amnesty.org.au/toolkit-westbank-crisis/"
+      "domain": "bostonglobe.com",
+      "url": "https://www.bostonglobe.com/2026/08/17/nation/states-take-meta-trial-california-biggest-fight-yet-over-social-media-harms-children/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "2news.com",
-      "url": "https://www.2news.com/news/local/gas-and-ethanol-tanker-flips-near-gerlach-causing-spill/article_99c5dbf8-7ba6-4c51-b641-7ebb305bf7dc.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
       "tonalitaet": -3.2,
       "treffer": [
-        "nuclear weapon"
+        "sanctions"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/hv360/ap/world/palestinian-american-returns-to-besieged-west-bank-home-but-israeli-settlers-remain/article_7c8ed387-caea-5a35-a9af-f9a6aa309493.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/trump-labels-strait-of-hormuz-new-us-territory-as-iran-refuses-to-open-waterway-without-us-concessions-article-14009474.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "hormuz",
+        "red sea"
       ],
       "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279248441/trump-envoy-jared-kushner-reiterates-firm-stance-says-iran-cannot-have-a-nuclear-weapon"
+      "url": "http://www.arabherald.com/news/279249058/iran-says-hormuz-will-remain-closed-until-us-fulfills-commitments"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431879"
     }
   ],
   "gkg_alter_stunden": 0.0

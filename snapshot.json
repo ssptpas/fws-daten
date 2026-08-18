@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-08-18T09:45:01",
+  "erstellt_am": "2026-08-18T14:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "2.6700000000",
@@ -7,9 +7,9 @@
       "quelle": "FRED"
     },
     "IG_OAS": {
-      "wert": "0.8000000000",
-      "beobachtungsdatum": "2026-08-14",
-      "quelle": "FRED"
+      "wert": "nicht verfügbar",
+      "quelle": "FRED",
+      "fehler": "HTTP Error 502: Bad Gateway"
     },
     "VIX": {
       "wert": "14.25",
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.62",
-      "beobachtungsdatum": "2026-08-14",
+      "wert": "3.66",
+      "beobachtungsdatum": "2026-08-17",
       "quelle": "FRED"
     },
     "IORB": {
@@ -133,7 +133,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.25",
-      "beobachtungsdatum": "2026-08-17",
+      "beobachtungsdatum": "2026-08-18",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -261,32 +261,7 @@
       "hinweis": "fuer die Trend-Alternative '+75 bp in 5 Handelstagen' (bislang nur konzipiert, siehe Spezifikation 4.3)"
     },
     "IG_OAS_Historie": {
-      "werte": [
-        {
-          "datum": "2026-08-14",
-          "wert": 0.8
-        },
-        {
-          "datum": "2026-08-13",
-          "wert": 0.79
-        },
-        {
-          "datum": "2026-08-12",
-          "wert": 0.79
-        },
-        {
-          "datum": "2026-08-11",
-          "wert": 0.79
-        },
-        {
-          "datum": "2026-08-10",
-          "wert": 0.78
-        },
-        {
-          "datum": "2026-08-07",
-          "wert": 0.78
-        }
-      ],
+      "werte": [],
       "quelle": "FRED (letzte ca. 6 Handelstage)",
       "hinweis": "fuer die Trend-Alternative '+40 bp in 5 Handelstagen' (bislang nur konzipiert, siehe Spezifikation 4.3)"
     },
@@ -298,17 +273,15 @@
     },
     "Hormus_Transit": {
       "wert": 1,
-      "tanker": 0,
-      "beobachtungsdatum": "2026-08-09",
+      "tanker": 1,
+      "beobachtungsdatum": "2026-08-16",
       "quelle": "IMF PortWatch",
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "BabelMandeb_Transit": {
-      "wert": 34,
-      "tanker": 9,
-      "beobachtungsdatum": "2026-08-09",
+      "wert": "nicht verfügbar",
       "quelle": "IMF PortWatch",
-      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
+      "fehler": "'features'"
     },
     "Treasury_Auktion": {
       "wert": "2.390000",
@@ -322,6 +295,10 @@
   "berechnet": {
     "SOFR_minus_IORB_Historie": {
       "werte": [
+        {
+          "datum": "2026-08-17",
+          "wert": 1.0
+        },
         {
           "datum": "2026-08-14",
           "wert": -3.0
@@ -337,10 +314,6 @@
         {
           "datum": "2026-08-11",
           "wert": -1.0
-        },
-        {
-          "datum": "2026-08-10",
-          "wert": -2.0
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
@@ -401,21 +374,21 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": -3.0,
-      "beobachtungsdatum": "2026-08-14",
+      "wert": 1.0,
+      "beobachtungsdatum": "2026-08-17",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -6.3,
       "markt_datum": "2026-08-17",
-      "leitzins_datum": "2026-08-17",
+      "leitzins_datum": "2026-08-18",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
       "wert": -1.9,
-      "markt_datum": "13 Aug 2026",
-      "leitzins_datum": "14 Aug 2026",
+      "markt_datum": "14 Aug 2026",
+      "leitzins_datum": "17 Aug 2026",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -450,8 +423,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.23",
-      "beobachtungsdatum": "2026-08-17",
+      "wert": "3.28",
+      "beobachtungsdatum": "2026-08-18",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -460,18 +433,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.7308",
-      "beobachtungsdatum": "13 Aug 2026",
+      "wert": "3.7307",
+      "beobachtungsdatum": "14 Aug 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.0269",
-      "beobachtungsdatum": "13 Aug 2026",
+      "wert": "5.0931",
+      "beobachtungsdatum": "14 Aug 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "3.75",
-      "beobachtungsdatum": "14 Aug 2026",
+      "beobachtungsdatum": "17 Aug 2026",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
