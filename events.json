@@ -1,218 +1,136 @@
 {
-  "erstellt_am": "2026-08-19T14:46:52",
+  "erstellt_am": "2026-08-19T22:46:01",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260819124500",
+  "gkg_stand": "20260819204500",
   "veraltet": false,
-  "anzahl": 23,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -13.2,
+      "tonalitaet": -8.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thenews.com.pk",
-      "url": "https://www.thenews.com.pk/latest/1412781-icc-condemns-us-sanctions-on-president-senior-prosecutor-calls-it-flagrant-attack"
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/us-sanctions-slammed-as-flagrant-attack-by-icc-1729954/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279252304/arab-parliament-speaker-condemns-israeli-airstrikes-on-syria"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -11.6,
+      "tonalitaet": -7.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/europe/germany-stands-by-international-criminal-court-president-as-us-steps-up-sanctions/4031737"
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/general/2587591/icc-slams-us-decision-to-sanction-the-courts-president-and-a-senior-prosecution-lawyer.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.1,
+      "tonalitaet": -7.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/europe/eu-leaders-voice-support-for-icc-after-new-us-sanctions/4031719"
+      "domain": "thepeninsulaqatar.com",
+      "url": "http://thepeninsulaqatar.com/article/19/08/2026/un-chief-voices-grave-concern-over-us-sanctions-on-top-icc-officials"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.0,
+      "tonalitaet": -6.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/19/icc-says-us-sanctions-flagrant-attack-on-court-independence"
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279252209/must-be-able-to-act-independently-eu-chief-ursula-von-der-leyen-extends-support-to-icc-following-us-sanctions"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -6.9,
       "treffer": [
-        "warplane"
+        "invasion"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/israeli-warplanes-target-home-in-southern-lebanon-despite-ceasefire-/4031424"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/asia-pacific/tokyo-calls-us-sanctions-on-japanese-international-criminal-court-chief-very-unfortunate/4031268"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "goulburnpost.com.au",
-      "url": "https://www.goulburnpost.com.au/story/9333770/uae-suspends-trade-with-iran-after-renewed-missile-fire/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "greeleytribune.com",
-      "url": "https://www.greeleytribune.com/2026/08/19/uae-iran-trade-missile-fire/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/diaspora/indian-student-injured-in-ukrainian-drone-strike-in-russias-ufa/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/338181"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/19/germany-s-merz-condemns-far-right-israeli-minister-s-gaza-remarks"
+      "domain": "fox7austin.com",
+      "url": "https://www.fox7austin.com/news/tennessee-most-wanted-man-tied-brutal-home-invasion-caught-georgia"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -6.8,
       "treffer": [
-        "crude oil"
+        "red sea"
       ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/business/nifty-falls-for-7th-day-sensex-down-326-points-as-rising-crude-oil-prices-unnerve-investors/"
+      "domain": "shafaqna.com",
+      "url": "https://en.shafaqna.com/472001/intensifying-fighting-floods-in-sudan-displaced-at-least-another-200000-people/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "nzcity.co.nz",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=452329&fm=psp,tst"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "oil terminal"
+      ],
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/08/19/kenyas-sh12bn-condemned-fuel-shipped-to-drc-south-sudan/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "newsday.com",
+      "url": "https://www.newsday.com/long-island/towns/rockaway-blvd-meadowmere-oil-tanker-spill-oshui07m"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "reviewjournal.com",
+      "url": "https://www.reviewjournal.com/news/politics-and-government/uae-suspends-trade-with-iran-after-coming-under-renewed-missile-fire-3866185/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.5,
       "treffer": [
-        "hormuz"
+        "refinery"
       ],
-      "domain": "ketv.com",
-      "url": "https://www.ketv.com/article/strait-of-hormuz-trump-trade-data/73472116"
+      "domain": "newvision.co.ug",
+      "url": "https://www.newvision.co.ug/category/world/yemens-houthis-target-refinery-in-southern-sa-NV_239122_082026"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.4,
+      "tonalitaet": -3.7,
       "treffer": [
-        "airstrike"
+        "invasion"
       ],
-      "domain": "raxanreeb.com",
-      "url": "https://raxanreeb.com/nisa-confirms-airstrike-on-al-shabaab-gathering-in-middle-shabelle/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279251173/allegations-lack-seriousness-turkiye-denies-israel-claims-over-syria-airstrikes"
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/cctv-released-in-flinders-home-invasion-1729989/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -3.5,
       "treffer": [
         "hormuz"
       ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279251216/russian-general-says-israel-could-cease-to-exist-as-a-state-amid-west-asia-conflict"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "ballistic"
-      ],
-      "domain": "thesource.com",
-      "url": "https://thesource.com/2026/08/19/call-of-duty-modern-warfare-4-beta-dates-platforms/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279251318/iran-again-warns-gulf-states-against-assisting-us-military"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "ckom.com",
-      "url": "https://www.ckom.com/2026/08/18/trump-says-u-s-and-canada-have-a-deal-pauses-tariffs-for-three-days/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/business/spicejet-bankruptcy-cases-to-be-heard-afresh-by-new-nclt-bench-after-lessor-settlement"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "investinglive.com",
-      "url": "https://investinglive.com/central-banks/rbi-minutes-show-different-inflation-concerns-and-a-case-for-a-rate-hike/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "opinionnigeria.com",
-      "url": "https://www.opinionnigeria.com/the-icpc-interim-report-on-the-pfipc-and-other-matters-by-hajia-hadiza-mohammed/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "timesofoman.com",
-      "url": "https://timesofoman.com/article/175812-in-drought-stricken-france-tankers-supply-drinking-water"
+      "domain": "argentinastar.com",
+      "url": "http://www.argentinastar.com/news/279249814/iran-sets-conditions-on-us-to-reopen-strait-of-hormuz"
     }
   ],
   "gkg_alter_stunden": 0.0
