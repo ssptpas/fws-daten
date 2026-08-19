@@ -1,28 +1,163 @@
 {
-  "erstellt_am": "2026-08-19T09:45:31",
+  "erstellt_am": "2026-08-19T14:46:52",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260819074500",
+  "gkg_stand": "20260819124500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 23,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "wohfradio.com",
-      "url": "https://wohfradio.com/national-news/trump-says-us-and-canada-have-reached-last-minute-deal-to-delay-50-us-tariffs-on-20-billion-worth-of-canadian-imports/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -13.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/08/19/2027-no-mercy-for-terrorist-politicians-seriake-dickson/"
+      "domain": "thenews.com.pk",
+      "url": "https://www.thenews.com.pk/latest/1412781-icc-condemns-us-sanctions-on-president-senior-prosecutor-calls-it-flagrant-attack"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -11.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/europe/germany-stands-by-international-criminal-court-president-as-us-steps-up-sanctions/4031737"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/europe/eu-leaders-voice-support-for-icc-after-new-us-sanctions/4031719"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/19/icc-says-us-sanctions-flagrant-attack-on-court-independence"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "warplane"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/israeli-warplanes-target-home-in-southern-lebanon-despite-ceasefire-/4031424"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/asia-pacific/tokyo-calls-us-sanctions-on-japanese-international-criminal-court-chief-very-unfortunate/4031268"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "goulburnpost.com.au",
+      "url": "https://www.goulburnpost.com.au/story/9333770/uae-suspends-trade-with-iran-after-renewed-missile-fire/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "greeleytribune.com",
+      "url": "https://www.greeleytribune.com/2026/08/19/uae-iran-trade-missile-fire/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/diaspora/indian-student-injured-in-ukrainian-drone-strike-in-russias-ufa/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/338181"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/08/19/germany-s-merz-condemns-far-right-israeli-minister-s-gaza-remarks"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/business/nifty-falls-for-7th-day-sensex-down-326-points-as-rising-crude-oil-prices-unnerve-investors/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "ketv.com",
+      "url": "https://www.ketv.com/article/strait-of-hormuz-trump-trade-data/73472116"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "raxanreeb.com",
+      "url": "https://raxanreeb.com/nisa-confirms-airstrike-on-al-shabaab-gathering-in-middle-shabelle/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279251173/allegations-lack-seriousness-turkiye-denies-israel-claims-over-syria-airstrikes"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279251216/russian-general-says-israel-could-cease-to-exist-as-a-state-amid-west-asia-conflict"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "ballistic"
+      ],
+      "domain": "thesource.com",
+      "url": "https://thesource.com/2026/08/19/call-of-duty-modern-warfare-4-beta-dates-platforms/"
     },
     {
       "kategorie": "Policy",
@@ -30,73 +165,54 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/08/19/building-collapses-abia-govt-warns-landlords-against-engaging-quack-contractors/"
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279251318/iran-again-warns-gulf-states-against-assisting-us-military"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -3.6,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "channelafrica.co.za",
-      "url": "https://www.channelafrica.co.za/channelafrica/news/oil-extends-climb-on-prolonged-hormuz-export-uncertainty/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
         "sanctions",
         "tariffs"
       ],
-      "domain": "tribtoday.com",
-      "url": "https://www.tribtoday.com/news/national-news-apwire/2026/08/us-canada-in-last-minute-talks-to-stop-tariffs/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-2-07-a-m-edt/article_c68b82cd-e60c-5414-b3e7-5285b7639b44.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-11-25-p-m-edt/article_531ed458-0588-5365-afc0-6096802ac7fd.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "wxyz.com",
-      "url": "https://www.wxyz.com/news/trump-says-us-and-canada-have-reached-last-minute-deal-to-delay-50-us-tariffs-on-canadian-imports"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/business/2026/Aug/19/markets-fall-in-early-trade-amid-rising-crude-oil-prices"
+      "domain": "ckom.com",
+      "url": "https://www.ckom.com/2026/08/18/trump-says-u-s-and-canada-have-a-deal-pauses-tariffs-for-three-days/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.5,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "freepressjournal.in",
+      "url": "https://www.freepressjournal.in/business/spicejet-bankruptcy-cases-to-be-heard-afresh-by-new-nclt-bench-after-lessor-settlement"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
       "treffer": [
         "central bank"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202608190130.html"
+      "domain": "investinglive.com",
+      "url": "https://investinglive.com/central-banks/rbi-minutes-show-different-inflation-concerns-and-a-case-for-a-rate-hike/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "opinionnigeria.com",
+      "url": "https://www.opinionnigeria.com/the-icpc-interim-report-on-the-pfipc-and-other-matters-by-hajia-hadiza-mohammed/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "timesofoman.com",
+      "url": "https://timesofoman.com/article/175812-in-drought-stricken-france-tankers-supply-drinking-water"
     }
   ],
   "gkg_alter_stunden": 0.0
