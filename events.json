@@ -1,136 +1,166 @@
 {
-  "erstellt_am": "2026-08-19T22:46:01",
+  "erstellt_am": "2026-08-20T09:45:41",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260819204500",
+  "gkg_stand": "20260820074500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 17,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.8,
+      "tonalitaet": -25.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/us-sanctions-slammed-as-flagrant-attack-by-icc-1729954/"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?update=4868436"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279252304/arab-parliament-speaker-condemns-israeli-airstrikes-on-syria"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/general/2587591/icc-slams-us-decision-to-sanction-the-courts-president-and-a-senior-prosecution-lawyer.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thepeninsulaqatar.com",
-      "url": "http://thepeninsulaqatar.com/article/19/08/2026/un-chief-voices-grave-concern-over-us-sanctions-on-top-icc-officials"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279252209/must-be-able-to-act-independently-eu-chief-ursula-von-der-leyen-extends-support-to-icc-following-us-sanctions"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "fox7austin.com",
-      "url": "https://www.fox7austin.com/news/tennessee-most-wanted-man-tied-brutal-home-invasion-caught-georgia"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "shafaqna.com",
-      "url": "https://en.shafaqna.com/472001/intensifying-fighting-floods-in-sudan-displaced-at-least-another-200000-people/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=452329&fm=psp,tst"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "oil terminal"
-      ],
-      "domain": "ghanamma.com",
-      "url": "https://www.ghanamma.com/2026/08/19/kenyas-sh12bn-condemned-fuel-shipped-to-drc-south-sudan/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "newsday.com",
-      "url": "https://www.newsday.com/long-island/towns/rockaway-blvd-meadowmere-oil-tanker-spill-oshui07m"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.0,
+      "tonalitaet": -8.4,
       "treffer": [
         "missile"
       ],
-      "domain": "reviewjournal.com",
-      "url": "https://www.reviewjournal.com/news/politics-and-government/uae-suspends-trade-with-iran-after-coming-under-renewed-missile-fire-3866185/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "newvision.co.ug",
-      "url": "https://www.newvision.co.ug/category/world/yemens-houthis-target-refinery-in-southern-sa-NV_239122_082026"
+      "domain": "kcci.com",
+      "url": "https://www.kcci.com/article/russian-missile-barrage-kyiv/73480753"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.7,
+      "tonalitaet": -7.9,
       "treffer": [
-        "invasion"
+        "missile",
+        "ballistic"
       ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/cctv-released-in-flinders-home-invasion-1729989/"
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/russia-investing-in-ballistic-missiles-and-escalation-zelensky-225835"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "kathmandupost.com",
+      "url": "https://kathmandupost.com/world/2026/08/20/russian-ballistic-missiles-kill-12-in-ukraine-s-kyiv-spark-fires"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "clactonandfrintongazette.co.uk",
+      "url": "https://www.clactonandfrintongazette.co.uk/news/national/26479751.12-killed-dozens-injured-russian-missile-barrage-hits-kyiv/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "dailyadvance.com",
+      "url": "http://www.dailyadvance.com/news/world/russian-missile-barrage-across-ukraines-capital-kills-at-least-12-and-wounds-33/article_bbe45954-c5a5-5604-99ed-f4ffde75ec96.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "pajhwok.com",
+      "url": "https://pajhwok.com/2026/08/20/5-killed-in-russian-missile-strikes-on-kyiv/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -6.0,
       "treffer": [
-        "hormuz"
+        "malacca"
       ],
-      "domain": "argentinastar.com",
-      "url": "http://www.argentinastar.com/news/279249814/iran-sets-conditions-on-us-to-reopen-strait-of-hormuz"
+      "domain": "icsf.net",
+      "url": "https://icsf.net/samudra/indonesia-disaster-response-in-the-why-of-the-storm/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newser.com",
+      "url": "https://www.newser.com/story/394966/trump-vows-most-crushing-sanctions-in-iran-war.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "philippinetimes.com",
+      "url": "http://www.philippinetimes.com/news/279253234/russia-strikes-drone-and-missile-plants-in-kiev-mod"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/india/2026/Aug/20/council-membership-must-not-be-used-to-legitimise-terrorists-through-political-listing-de-listing-india-at-unsc"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "dailypioneer.com",
+      "url": "https://dailypioneer.com/news/markets-fall-as-rising-crude-oil-prices-unnerve-investors"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279253160/unsc-must-not-be-used-to-legitimise-terrorists-by-de-listing-them-india"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailypioneer.com",
+      "url": "https://dailypioneer.com/news/tims-credit-war-escalates-as-brs-leaders-allege-congress-blocking-scrutiny"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "eaworldview.com",
+      "url": "https://eaworldview.com/2026/08/ukraine-kyiv-russia-ballistic-missiles-by-end-of-2026/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newser.com",
+      "url": "https://www.newser.com/story/394958/united-arab-emirates-suspends-trade-with-iran.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/world/2026/Aug/20/pentagon-weighs-reducing-gulf-troop-presence-as-iran-war-cost-hits-usd-375-bn-report"
     }
   ],
   "gkg_alter_stunden": 0.0
