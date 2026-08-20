@@ -1,102 +1,82 @@
 {
-  "erstellt_am": "2026-08-20T09:45:41",
+  "erstellt_am": "2026-08-20T14:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260820074500",
+  "gkg_stand": "20260820124500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 20,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -25.0,
+      "tonalitaet": -21.4,
       "treffer": [
         "sanctions"
       ],
       "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?update=4868436"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.4,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "kcci.com",
-      "url": "https://www.kcci.com/article/russian-missile-barrage-kyiv/73480753"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/russia-investing-in-ballistic-missiles-and-escalation-zelensky-225835"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "kathmandupost.com",
-      "url": "https://kathmandupost.com/world/2026/08/20/russian-ballistic-missiles-kill-12-in-ukraine-s-kyiv-spark-fires"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "clactonandfrintongazette.co.uk",
-      "url": "https://www.clactonandfrintongazette.co.uk/news/national/26479751.12-killed-dozens-injured-russian-missile-barrage-hits-kyiv/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "dailyadvance.com",
-      "url": "http://www.dailyadvance.com/news/world/russian-missile-barrage-across-ukraines-capital-kills-at-least-12-and-wounds-33/article_bbe45954-c5a5-5604-99ed-f4ffde75ec96.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "pajhwok.com",
-      "url": "https://pajhwok.com/2026/08/20/5-killed-in-russian-missile-strikes-on-kyiv/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "malacca"
-      ],
-      "domain": "icsf.net",
-      "url": "https://icsf.net/samudra/indonesia-disaster-response-in-the-why-of-the-storm/"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?update=4868987"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -10.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newser.com",
-      "url": "https://www.newser.com/story/394966/trump-vows-most-crushing-sanctions-in-iran-war.html"
+      "domain": "english.wafa.ps",
+      "url": "https://english.wafa.ps/Pages/Details/173922"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -10.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -9.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://wonw1280.iheart.com/content/2026-08-20-trump-declares-crushing-economic-operation-against-iran/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/08/trump-pledges-economic-warfare-iran-prompting-tehran-derision"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.6,
+      "tonalitaet": -7.6,
       "treffer": [
         "missile"
       ],
-      "domain": "philippinetimes.com",
-      "url": "http://www.philippinetimes.com/news/279253234/russia-strikes-drone-and-missile-plants-in-kiev-mod"
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/international/russian-missile-drone-barrage-kills-at-least-16-in-ukraines-kyiv-region/article71368973.ece"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/a-russian-missile-and-drone-barrage-kills-at-least-16-in-ukraines-kyiv-region/article_98f88d49-36eb-59c9-8d98-0e39d72dbafb.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "thisiswiltshire.co.uk",
+      "url": "https://www.thisiswiltshire.co.uk/news/national/26479751.russian-missile-drone-barrage-kills-least-16-ukraines-kyiv-region/"
     },
     {
       "kategorie": "Policy",
@@ -104,45 +84,35 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/india/2026/Aug/20/council-membership-must-not-be-used-to-legitimise-terrorists-through-political-listing-de-listing-india-at-unsc"
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/08/20/icc-separates-taliban-probe-from-us-case-as-afghan-womens-fate-stays-uncertain"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -5.5,
       "treffer": [
-        "crude oil"
+        "mandeb"
       ],
-      "domain": "dailypioneer.com",
-      "url": "https://dailypioneer.com/news/markets-fall-as-rising-crude-oil-prices-unnerve-investors"
+      "domain": "sandiegouniontribune.com",
+      "url": "https://www.sandiegouniontribune.com/2026/08/20/iran-trump-economic-threats-middle-east-news/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279253160/unsc-must-not-be-used-to-legitimise-terrorists-by-de-listing-them-india"
+      "domain": "sweetwaternow.com",
+      "url": "https://www.sweetwaternow.com/sweetwater-county-arrest-report-for-august-20-2026/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailypioneer.com",
-      "url": "https://dailypioneer.com/news/tims-credit-war-escalates-as-brs-leaders-allege-congress-blocking-scrutiny"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "eaworldview.com",
-      "url": "https://eaworldview.com/2026/08/ukraine-kyiv-russia-ballistic-missiles-by-end-of-2026/"
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/middle-east/article-906111"
     },
     {
       "kategorie": "Policy",
@@ -150,17 +120,72 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "newser.com",
-      "url": "https://www.newser.com/story/394958/united-arab-emirates-suspends-trade-with-iran.html"
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/08/israel-slams-uk-demand-halt-west-bank-settlement-project"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279253621/economic-d-day-diversion-from-america-own-crisis-says-iranian-fm-araghchi"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
+      "tonalitaet": -4.2,
       "treffer": [
+        "hormuz"
+      ],
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/iran-fm-dismisses-trumps-economic-d-day-as-failed-policy-3528048/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "businessday.co.za",
+      "url": "https://www.businessday.co.za/news/2026-08-20-ignoring-the-law-macpherson-exposes-failures-behind-building-collapses/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Aug/20/pentagon-weighs-reducing-gulf-troop-presence-as-iran-war-cost-hits-usd-375-bn-report"
+      "domain": "dailyexcelsior.com",
+      "url": "https://www.dailyexcelsior.com/bodies-of-2-pakistani-sailors-killed-in-houthi-attack-6-injured-arrive/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailyexcelsior.com",
+      "url": "https://www.dailyexcelsior.com/rupee-settles-on-flat-note-higher-by-3-paise-at-95-70-against-us-dollar/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/american-politics/article-906096"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/diaspora/article-906075"
     }
   ],
   "gkg_alter_stunden": 0.0
