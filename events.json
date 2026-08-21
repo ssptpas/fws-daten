@@ -1,65 +1,47 @@
 {
-  "erstellt_am": "2026-08-20T22:45:27",
+  "erstellt_am": "2026-08-21T09:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260820204500",
+  "gkg_stand": "20260821074500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -12.2,
+      "tonalitaet": -7.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kasu.org",
-      "url": "https://www.kasu.org/business-economy/2026-08-20/trump-declared-economic-warfare-on-iran-what-does-that-mean-for-americans"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/mid-east/uk-italy-france-germany-demand-israel-halt-west-bank-settlement-expansion"
+      "domain": "orissapost.com",
+      "url": "https://www.orissapost.com/iran-dismisses-us-economic-threats/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
+      "tonalitaet": -6.7,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "cbs6albany.com",
-      "url": "https://cbs6albany.com/news/nation-world/president-trump-threats-economic-warfare-in-latest-shift-in-strategy-with-iran-strait-hormuz-europe-us-debt-economic"
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/yemens-war-is-coming-back/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -6.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "justiceinfo.net",
-      "url": "https://www.justiceinfo.net/en/163588-us-pushes-allies-china-to-back-trumps-economic-war-on-iran.html"
+      "domain": "sconeadvocate.com.au",
+      "url": "https://www.sconeadvocate.com.au/story/9334529/iran-unfazed-by-us-threats-of-economic-d-day/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.7,
+      "tonalitaet": -6.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://960weli.iheart.com/featured/the-clay-travis-and-buck-sexton-show/content/2026-08-20-1119-the-clay-travis-and-buck-hour-2-vp-vance-calls-in-with-iran-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "red sea",
-        "tanker"
-      ],
-      "domain": "wardheernews.com",
-      "url": "https://wardheernews.com/a-fuel-tanker-seized-in-the-gulf-of-aden/"
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202608210089.html"
     },
     {
       "kategorie": "Policy",
@@ -67,80 +49,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://960weli.iheart.com/featured/the-clay-travis-and-buck-sexton-show/content/2026-08-20-1119-the-clay-travis-and-buck-daily-review-with-clay-and-buck-aug-20-2026/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "thenorthlines.com",
-      "url": "https://thenorthlines.com/water-wars-can-india-turn-indus-crisis-into-a-new-water-compact/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://960weli.iheart.com/featured/the-clay-travis-and-buck-sexton-show/content/2026-08-20-1119-the-clay-travis-and-buck-hour-1-data-centers-the-next-dot-com/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20260821/5363aa86ad36429ab140db719b83305f/c.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "parisguardian.com",
-      "url": "http://www.parisguardian.com/news/279254406/west-bank-village-siege-fuels-concern-over-growing-settler-violence"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2624965/govt-increases-petrol-by-27-paisas-hsd-by-rs164-for-aug-21"
+      "domain": "lankanewspapers.com",
+      "url": "https://www.lankanewspapers.com/2026/08/21/washington-pledges-unprecedented-iran-sanctions-calls-on-beijing-to-join-pressure-campaign"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.2,
       "treffer": [
-        "missile"
+        "invasion"
       ],
-      "domain": "defensenews.com",
-      "url": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "westernpeople.ie",
-      "url": "https://www.westernpeople.ie/teacher-who-admitted-forging-document-about-experience-avoids-suspension_arid-108920.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2624957/trump-threatens-to-isolate-iran-who-are-its-trading-partners"
+      "domain": "nbcwashington.com",
+      "url": "https://www.nbcwashington.com/news/local/suspect-kalorama-home-invasion-attempted-sex-assault-white-house/4144787/"
     }
   ],
   "gkg_alter_stunden": 0.0
