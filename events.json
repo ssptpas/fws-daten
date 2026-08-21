@@ -1,65 +1,183 @@
 {
-  "erstellt_am": "2026-08-21T09:45:27",
+  "erstellt_am": "2026-08-21T14:45:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260821074500",
+  "gkg_stand": "20260821124500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 19,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.2,
+      "tonalitaet": -7.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "orissapost.com",
-      "url": "https://www.orissapost.com/iran-dismisses-us-economic-threats/"
+      "domain": "austinglobe.com",
+      "url": "http://www.austinglobe.com/news/279255775/us-threats-unprecedented-economic-warfare-on-iran"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
+      "tonalitaet": -6.6,
       "treffer": [
-        "mandeb",
+        "hormuz"
+      ],
+      "domain": "wbap.com",
+      "url": "https://www.wbap.com/2026/08/21/trump-bets-on-sanctions-to-force-irans-hand-after-diplomacy-stalls/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.3,
+      "treffer": [
         "red sea"
       ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/yemens-war-is-coming-back/"
+      "domain": "newser.com",
+      "url": "https://www.newser.com/story/395032/somali-piracy-rebounds-with-hijackings-amid-wider-turmoil.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.2,
+      "tonalitaet": -6.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "sconeadvocate.com.au",
-      "url": "https://www.sconeadvocate.com.au/story/9334529/iran-unfazed-by-us-threats-of-economic-d-day/"
+      "domain": "austinglobe.com",
+      "url": "http://www.austinglobe.com/news/279255774/china-rejects-us-demand-to-join-toughest-ever-iran-sanctions"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.2,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202608210089.html"
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279255978/china-rejects-us-demand-on-iran"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "lankanewspapers.com",
-      "url": "https://www.lankanewspapers.com/2026/08/21/washington-pledges-unprecedented-iran-sanctions-calls-on-beijing-to-join-pressure-campaign"
+      "domain": "beijingbulletin.com",
+      "url": "http://www.beijingbulletin.com/news/279255772/china-rejects-us-demand-to-join-toughest-ever-iran-sanctions"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.2,
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "nbcwashington.com",
-      "url": "https://www.nbcwashington.com/news/local/suspect-kalorama-home-invasion-attempted-sex-assault-white-house/4144787/"
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/08/21/iranian-families-struggle-to-afford-the-basics-as-us-ratchets-up-economic-warfare/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com/money/oil-set-second-weekly-gain-us-ramps-pressure-iran"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newcastleherald.com.au",
+      "url": "https://www.newcastleherald.com.au/story/9334529/iran-vows-devastating-response-to-us-economic-threat/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "newrepublic.com",
+      "url": "https://newrepublic.com/article/214565/rhine-panama-canal-climate-shipping-routes-strait-hormuz-crisis"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kvnf.org",
+      "url": "https://www.kvnf.org/npr-news/2026-08-21/top-iran-official-says-us-focus-on-economic-warfare-shows-it-has-failed-militarily"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/middle-east/ghalibaf-pushes-for-trade-in-local-currency-to-bypass-cruel-sanctions-as-us-threatens-toughest-economic-action-on-iran20260821175232/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "vietnamtribune.com",
+      "url": "http://www.vietnamtribune.com/news/279254592/us-vows-toughest-sanctions-in-history-against-iran"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "northcountrypublicradio.org",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5940610/top-iran-official-says-us-focus-on-economic-warfare-shows-it-has-failed-militarily"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/my-europe/2026/08/21/we-are-guarding-germans-belgians-latvia-stops-28-migrants-from-belarus-after-tunnel-discov"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-end-flat-as-elevated-crude-oil-prices-cap-gains/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "thehayride.com",
+      "url": "https://thehayride.com/2026/08/how-david-letterman-failed-the-dangerous-laughter-test/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "tiranatimes.com",
+      "url": "https://www.tiranatimes.com/zelensky-visit-to-belgrade-what-could-he-learn-from-israeli-experience/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://finance.yahoo.com/energy/articles/chinese-refiners-snap-iraqi-oil-053000631.html"
     }
   ],
   "gkg_alter_stunden": 0.0
