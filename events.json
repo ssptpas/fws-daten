@@ -1,46 +1,46 @@
 {
-  "erstellt_am": "2026-08-21T14:45:32",
+  "erstellt_am": "2026-08-21T22:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260821124500",
+  "gkg_stand": "20260821204500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.4,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.2,
       "treffer": [
-        "sanctions"
+        "military strike"
       ],
-      "domain": "austinglobe.com",
-      "url": "http://www.austinglobe.com/news/279255775/us-threats-unprecedented-economic-warfare-on-iran"
+      "domain": "singletonargus.com.au",
+      "url": "https://www.singletonargus.com.au/story/9335182/myanmar-military-strike-kills-14-at-monastery-rebels/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.6,
       "treffer": [
-        "hormuz"
+        "drone strike"
       ],
-      "domain": "wbap.com",
-      "url": "https://www.wbap.com/2026/08/21/trump-bets-on-sanctions-to-force-irans-hand-after-diplomacy-stalls/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "newser.com",
-      "url": "https://www.newser.com/story/395032/somali-piracy-rebounds-with-hijackings-amid-wider-turmoil.html"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279256987/14-killed-over-100-injured-in-russian-drone-strike-on-kryvyi-rih-shopping-mall-zelenskyy"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -6.7,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "austinglobe.com",
-      "url": "http://www.austinglobe.com/news/279255774/china-rejects-us-demand-to-join-toughest-ever-iran-sanctions"
+      "domain": "news.az",
+      "url": "https://news.az/news/lula-and-trump-renew-talks-over-us-tariffs-on-brazil"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "venezuelastar.com",
+      "url": "http://www.venezuelastar.com/news/279256436/governments-should-protect-environmental-defenders-from-violence-and-repression"
     },
     {
       "kategorie": "Policy",
@@ -48,53 +48,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279255978/china-rejects-us-demand-on-iran"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "beijingbulletin.com",
-      "url": "http://www.beijingbulletin.com/news/279255772/china-rejects-us-demand-to-join-toughest-ever-iran-sanctions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/world/2026/08/21/iranian-families-struggle-to-afford-the-basics-as-us-ratchets-up-economic-warfare/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/money/oil-set-second-weekly-gain-us-ramps-pressure-iran"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newcastleherald.com.au",
-      "url": "https://www.newcastleherald.com.au/story/9334529/iran-vows-devastating-response-to-us-economic-threat/"
+      "domain": "bostonglobe.com",
+      "url": "https://www.bostonglobe.com/2026/08/21/world/iranians-struggle-to-afford-basics-us-ratchets-up-economic-warfare/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.0,
       "treffer": [
-        "hormuz"
+        "tanker"
       ],
-      "domain": "newrepublic.com",
-      "url": "https://newrepublic.com/article/214565/rhine-panama-canal-climate-shipping-routes-strait-hormuz-crisis"
+      "domain": "thenorthlines.com",
+      "url": "https://thenorthlines.com/lady-rider-killed-pillion-critical-in-ramban-tanker-crash/"
     },
     {
       "kategorie": "Policy",
@@ -102,8 +66,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "kvnf.org",
-      "url": "https://www.kvnf.org/npr-news/2026-08-21/top-iran-official-says-us-focus-on-economic-warfare-shows-it-has-failed-militarily"
+      "domain": "kclu.org",
+      "url": "https://www.kclu.org/politics/2026-08-21/top-iran-official-says-u-s-focus-on-economic-warfare-shows-it-has-failed-militarily"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow"
     },
     {
       "kategorie": "Policy",
@@ -111,73 +84,27 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/world/middle-east/ghalibaf-pushes-for-trade-in-local-currency-to-bypass-cruel-sanctions-as-us-threatens-toughest-economic-action-on-iran20260821175232/"
+      "domain": "greekherald.com",
+      "url": "http://www.greekherald.com/news/279256831/ghalibaf-pushes-for-trade-in-local-currency-to-bypass-cruel-sanctions-as-us-threatens-toughest-economic-action-on-iran"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
       "treffer": [
-        "tanker"
-      ],
-      "domain": "vietnamtribune.com",
-      "url": "http://www.vietnamtribune.com/news/279254592/us-vows-toughest-sanctions-in-history-against-iran"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "northcountrypublicradio.org",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5940610/top-iran-official-says-us-focus-on-economic-warfare-shows-it-has-failed-militarily"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/my-europe/2026/08/21/we-are-guarding-germans-belgians-latvia-stops-28-migrants-from-belarus-after-tunnel-discov"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
+        "hormuz",
         "crude oil"
       ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-end-flat-as-elevated-crude-oil-prices-cap-gains/"
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/3683281/crude-oil-advances-as-widening-u-s-iran-gap-leaves-strait-of-hormuz-shut.aspx"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Finanzsystem",
       "tonalitaet": -3.4,
       "treffer": [
-        "coup"
+        "central bank"
       ],
-      "domain": "thehayride.com",
-      "url": "https://thehayride.com/2026/08/how-david-letterman-failed-the-dangerous-laughter-test/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tiranatimes.com",
-      "url": "https://www.tiranatimes.com/zelensky-visit-to-belgrade-what-could-he-learn-from-israeli-experience/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "yahoo.com",
-      "url": "https://finance.yahoo.com/energy/articles/chinese-refiners-snap-iraqi-oil-053000631.html"
+      "domain": "time.com",
+      "url": "https://time.com/article/2026/08/21/el-nino-economic-business-disruption/"
     }
   ],
   "gkg_alter_stunden": 0.0
