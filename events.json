@@ -1,110 +1,136 @@
 {
-  "erstellt_am": "2026-08-21T22:45:25",
+  "erstellt_am": "2026-08-22T09:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260821204500",
+  "gkg_stand": "20260822074500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 14,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.2,
+      "kategorie": "Policy",
+      "tonalitaet": -14.6,
       "treffer": [
-        "military strike"
+        "sanctions"
       ],
-      "domain": "singletonargus.com.au",
-      "url": "https://www.singletonargus.com.au/story/9335182/myanmar-military-strike-kills-14-at-monastery-rebels/"
+      "domain": "droitwichstandard.co.uk",
+      "url": "https://droitwichstandard.co.uk/news/taxpayers-could-face-prosecution-under-proposed-new-hmrc-rules-national-news-63851/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -11.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "pajhwok.com",
+      "url": "https://pajhwok.com/2026/08/22/china-rejects-us-call-for-pressure-on-iran-opposes-unilateral-sanctions/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.6,
+      "tonalitaet": -8.8,
       "treffer": [
         "drone strike"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279256987/14-killed-over-100-injured-in-russian-drone-strike-on-kryvyi-rih-shopping-mall-zelenskyy"
+      "domain": "pajhwok.com",
+      "url": "https://pajhwok.com/2026/08/22/16-killed-over-130-wounded-in-russian-drone-strikes-in-ukraine/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.5,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/russian-attacks-on-ukraine-kill-2-people-a-day-after-deadly-shopping-mall-drone-strike,165584"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.0,
+      "treffer": [
+        "military strike"
+      ],
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com:443/asia/myanmar-military-strike-kills-14-people-buddhist-monastery-opposition-group-says"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "news.az",
-      "url": "https://news.az/news/lula-and-trump-renew-talks-over-us-tariffs-on-brazil"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "venezuelastar.com",
-      "url": "http://www.venezuelastar.com/news/279256436/governments-should-protect-environmental-defenders-from-violence-and-repression"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
+      "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bostonglobe.com",
-      "url": "https://www.bostonglobe.com/2026/08/21/world/iranians-struggle-to-afford-basics-us-ratchets-up-economic-warfare/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "thenorthlines.com",
-      "url": "https://thenorthlines.com/lady-rider-killed-pillion-critical-in-ramban-tanker-crash/"
+      "domain": "dunyanews.tv",
+      "url": "https://dunyanews.tv/en/World/969062-china-rejects-us-sanctions-pressure-on-iran"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "morungexpress.com",
+      "url": "https://morungexpress.com/complete-erosion-of-sovereignty-as-foundation-of-us-based-inter-state-system-iran-on-us-sanctions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "orissapost.com",
+      "url": "https://www.orissapost.com/iran-calls-new-us-sanctions-unlawful-says-they-violate-international-law/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dunyanews.tv",
+      "url": "https://dunyanews.tv/en/World/969137-iran-threatens-military-response-to-us-sanctions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "internationaltimes.it",
+      "url": "https://internationaltimes.it/registered/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20260822/4489636.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/World/20260822/4489587.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -4.7,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "kclu.org",
-      "url": "https://www.kclu.org/politics/2026-08-21/top-iran-official-says-u-s-focus-on-economic-warfare-shows-it-has-failed-militarily"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow"
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com:443/world/prince-harry-and-6-others-must-pay-initial-16-million-over-failed-invasion-privacy-case"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.5,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "greekherald.com",
-      "url": "http://www.greekherald.com/news/279256831/ghalibaf-pushes-for-trade-in-local-currency-to-bypass-cruel-sanctions-as-us-threatens-toughest-economic-action-on-iran"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz",
-        "crude oil"
-      ],
-      "domain": "rttnews.com",
-      "url": "https://www.rttnews.com/3683281/crude-oil-advances-as-widening-u-s-iran-gap-leaves-strait-of-hormuz-shut.aspx"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "time.com",
-      "url": "https://time.com/article/2026/08/21/el-nino-economic-business-disruption/"
+      "domain": "orissapost.com",
+      "url": "https://www.orissapost.com/hindupact-calls-uscirf-remarks-on-bhagwat-visit-ideological-attacks/"
     }
   ],
   "gkg_alter_stunden": 0.0
