@@ -1,56 +1,28 @@
 {
-  "erstellt_am": "2026-08-22T14:45:21",
+  "erstellt_am": "2026-08-22T22:45:21",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260822124500",
+  "gkg_stand": "20260822204500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 2,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/somali-pirates-hijack-oil-tanker-off-yemen-latest-135860915"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/2026/08/22/somali-pirates-hijack-oil-tanker-off-yemen-in-latest-attack/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -7.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "geo.tv",
-      "url": "https://www.geo.tv/latest/678758-us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions"
+      "domain": "pittsburghstar.com",
+      "url": "http://www.pittsburghstar.com/news/279256711/iran-threatens-tough-response-to-new-us-sanctions"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -6.2,
       "treffer": [
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "wxyz.com",
-      "url": "https://www.wxyz.com/news/us-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz",
-        "mandeb"
-      ],
-      "domain": "californiatelegraph.com",
-      "url": "http://www.californiatelegraph.com/news/279257720/iran-dismisses-unprecedented-sanctions-proposed-by-us"
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279258615/gcc-arab-islamic-nations-western-allies-condemn-israel-e1-settlement-plan-warn-of-threat-to-two-state-solution"
     }
   ],
   "gkg_alter_stunden": 0.0
