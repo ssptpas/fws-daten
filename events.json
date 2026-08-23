@@ -1,46 +1,91 @@
 {
-  "erstellt_am": "2026-08-23T09:45:23",
+  "erstellt_am": "2026-08-23T14:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260823074500",
+  "gkg_stand": "20260823124500",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "kategorie": "Breite",
+      "tonalitaet": -6.9,
       "treffer": [
-        "sanctions"
+        "cyber attack"
       ],
-      "domain": "cnn.com",
-      "url": "https://us.cnn.com/2026/08/23/world/live-news/iran-war-trump"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279259627/cyber-attack-shut-down-uk-power-plant-telegraph"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279259628/cyber-attack-shut-down-uk-power-plant-telegraph"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -6.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1803647.html"
+      "domain": "durangoherald.com",
+      "url": "https://www.durangoherald.com/articles/associated-press/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war-and-other-middle-east-news/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279259207/trump-shares-hormuz-image-as-us-territory-as-iran-faces-new-sanctions"
+      "domain": "clevelandjewishnews.com",
+      "url": "https://www.clevelandjewishnews.com/jns/iran-countries-joining-us-economic-campaign-will-be-considered-enemies/article_b777b3cb-6e2e-5db6-b985-777948e4ba94.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1803649.html"
+      "domain": "yourdemocracy.net.au",
+      "url": "https://www.yourdemocracy.net.au/drupal/node/60897"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-army-chief-asim-munir-heads-to-tehran-as-us-plans-toughest-iran-sanctions/articleshow/133439129.cms"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879438"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bworldonline.com",
+      "url": "https://bworldonline.com/economy/2026/08/23/771911/40-diesel-plants-face-suspension-after-failing-to-heed-doe-warnings/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "lobotero.com",
+      "url": "https://lobotero.com/2026/08/23/"
     }
   ],
   "gkg_alter_stunden": 0.0
