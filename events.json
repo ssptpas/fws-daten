@@ -1,91 +1,92 @@
 {
-  "erstellt_am": "2026-08-23T14:45:23",
+  "erstellt_am": "2026-08-23T22:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260823124500",
+  "gkg_stand": "20260823204500",
   "veraltet": false,
   "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Breite",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279259627/cyber-attack-shut-down-uk-power-plant-telegraph"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279259628/cyber-attack-shut-down-uk-power-plant-telegraph"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -7.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "durangoherald.com",
-      "url": "https://www.durangoherald.com/articles/associated-press/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war-and-other-middle-east-news/"
+      "domain": "iheart.com",
+      "url": "https://wspd.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -7.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "clevelandjewishnews.com",
-      "url": "https://www.clevelandjewishnews.com/jns/iran-countries-joining-us-economic-campaign-will-be-considered-enemies/article_b777b3cb-6e2e-5db6-b985-777948e4ba94.html"
+      "domain": "cbc.bb",
+      "url": "https://www.cbc.bb/news/international-news/zelensky-vows-response-after-russian-strike-on-shopping-mall-kills-16/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "yourdemocracy.net.au",
-      "url": "https://www.yourdemocracy.net.au/drupal/node/60897"
+      "domain": "wtvr.com",
+      "url": "https://www.wtvr.com/us-news/iran-war/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-army-chief-asim-munir-heads-to-tehran-as-us-plans-toughest-iran-sanctions/articleshow/133439129.cms"
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/iran-official-says-support-for-new-sanctions-would-be-an-act-of-war-and-other/article_4c490f00-65e9-568c-a94f-8043eb4dabe7.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -5.7,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879438"
+      "domain": "investinglive.com",
+      "url": "https://investinglive.com/news/us-canada-trade-talks-collapse-as-50-tariffs-take-effect-carney-vows-retaliation/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.7,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "bworldonline.com",
-      "url": "https://bworldonline.com/economy/2026/08/23/771911/40-diesel-plants-face-suspension-after-failing-to-heed-doe-warnings/"
+      "domain": "kiro7.com",
+      "url": "https://www.kiro7.com/news/local/new-us-canada-tariffs-spark-concerns-among-border-crossing-towns/LTRYGRLQEJCNZKPLDOXDDXOCPE/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "cincinnatisun.com",
+      "url": "http://www.cincinnatisun.com/news/279260279/turkish-sailor-killed-in-second-drone-strike-after-rescue-media"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "channelafrica.co.za",
+      "url": "https://www.channelafrica.co.za/channelafrica/news/israeli-airstrikes-in-gaza-kill-two-people-including-a-4-year-old-boy-medics/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.1,
       "treffer": [
-        "sanctions"
+        "sanctions",
+        "tariffs"
       ],
-      "domain": "lobotero.com",
-      "url": "https://lobotero.com/2026/08/23/"
+      "domain": "gazette.com",
+      "url": "https://gazette.com/2026/08/23/what-to-know-about-trumps-50-tariffs-on-canadian-goods-that-just-went-into-effect/"
     }
   ],
   "gkg_alter_stunden": 0.0
