@@ -1,28 +1,46 @@
 {
-  "erstellt_am": "2026-08-22T22:45:21",
+  "erstellt_am": "2026-08-23T09:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260822204500",
+  "gkg_stand": "20260823074500",
   "veraltet": false,
-  "anzahl": 2,
+  "anzahl": 4,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.6,
+      "tonalitaet": -5.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "pittsburghstar.com",
-      "url": "http://www.pittsburghstar.com/news/279256711/iran-threatens-tough-response-to-new-us-sanctions"
+      "domain": "cnn.com",
+      "url": "https://us.cnn.com/2026/08/23/world/live-news/iran-war-trump"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.2,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279258615/gcc-arab-islamic-nations-western-allies-condemn-israel-e1-settlement-plan-warn-of-threat-to-two-state-solution"
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1803647.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279259207/trump-shares-hormuz-image-as-us-territory-as-iran-faces-new-sanctions"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1803649.html"
     }
   ],
   "gkg_alter_stunden": 0.0
