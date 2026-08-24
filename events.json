@@ -1,37 +1,75 @@
 {
-  "erstellt_am": "2026-08-24T09:45:27",
+  "erstellt_am": "2026-08-24T14:45:43",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260824074500",
+  "gkg_stand": "20260824124500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 23,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.1,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16075617/Watch-Trumps-brutal-killing-two-suspected-drug-smugglers-chilling-details-US-INVASION-exposed.html"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -10.8,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newvision.co.ug",
-      "url": "https://www.newvision.co.ug/category/world/iran-president-admits-country-facing-many-pro-NV_239359_082026"
+      "domain": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4636098-iran-economic-d-day-preview-bessent-warning"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.7,
       "treffer": [
-        "drone strike"
+        "mandeb",
+        "red sea",
+        "tanker"
       ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279261357/ukrainian-drone-strike-on-childcare-center-kills-two-minors-governor"
+      "domain": "athens-times.com",
+      "url": "https://athens-times.com/oil-tanker-ablaze-off-saudi-arabia-after-strike-by-unknown-projectile/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.1,
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
       "treffer": [
-        "military strike"
+        "sanctions"
       ],
-      "domain": "cnn.com",
-      "url": "https://www.cnn.com/2026/08/24/politics/us-military-strike-alleged-drug-boat-intl-hnk"
+      "domain": "kgou.org",
+      "url": "https://www.kgou.org/2026-08-24/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "okaz.com.sa",
+      "url": "https://www.okaz.com.sa/economy/na/2262626"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/business/report/indian-stock-markets-decline-on-geopolitical-tensions-us-sanctions-on-iran/20260824.htm"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/irans-rial-currency-hits-new-record-low-us-135895333"
     },
     {
       "kategorie": "Policy",
@@ -39,53 +77,98 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "irishexaminer.com",
-      "url": "https://www.irishexaminer.com/world/arid-41900602.html"
+      "domain": "premiumtimesng.com",
+      "url": "https://www.premiumtimesng.com/news/headlines/905032-in-one-year-the-uk-medical-tribunal-sanctioned-16-nigerian-doctors-for-fraud-rape-theft-others.html"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.3,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "sydneysun.com",
-      "url": "http://www.sydneysun.com/news/279261348/there-rarely-accountability-for-the-deaths-of-aid-workers-it-time-that-changed-and-australia-can-help"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/iran-vows-retaliate-against-countries-115310000.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "dailypress.com",
+      "url": "https://www.dailypress.com/2026/08/24/iran-rial-currency-us-sanctions/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16075227/Barron-Trump-Iran-threat-reward-US.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kvia.com",
-      "url": "https://kvia.com/news/us-world/cnn-world/2026/08/23/trump-is-trying-to-tighten-the-screws-on-an-iran-numb-to-economic-pain/"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.5,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
       "treffer": [
-        "missile"
+        "red sea"
+      ],
+      "domain": "queanbeyanage.com.au",
+      "url": "https://www.queanbeyanage.com.au/story/9336591/mediator-to-hold-talks-in-iran-on-us-economic-d-day/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/895337/desperate-us-lies-in-hormuz-france-ready-to-shoot-down-russian-planes-but-musk-snubbed-her"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
       ],
       "domain": "britainnews.net",
-      "url": "http://www.britainnews.net/news/279261236/uk-to-give-ukraine-classified-data-for-long-range-missiles"
+      "url": "http://www.britainnews.net/news/279261648/zelenskyy-marks-independence-day-with-call-to-make-russia-howl"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "independent.com.mt",
-      "url": "https://www.independent.com.mt/articles/2026-08-24/blogs-opinions/Which-justice-6736292321"
+      "domain": "whec.com",
+      "url": "https://www.whec.com/ap-top-news/iran-warns-of-a-harsh-response-to-anticipated-us-sanctions-and-other-middle-east-news/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates"
+      "domain": "wgal.com",
+      "url": "https://www.wgal.com/article/economic-d-day-us-treasury-unveils-new-financial-pressure-iran/73508595"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mondaq.com",
+      "url": "https://www.mondaq.com:443/unitedstates/trials-appeals-compensation/1833606/protecting-litigation-skill-in-the-age-of-ai"
     },
     {
       "kategorie": "Policy",
@@ -93,26 +176,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "orissapost.com",
-      "url": "https://www.orissapost.com/mahua-moitra-moves-supreme-court-alleging-late-night-eviction-from-circuit-house/"
+      "domain": "yoursourceone.com",
+      "url": "https://www.yoursourceone.com/news/national_news/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/article_b789445b-4a37-5f1b-b501-7c151172be0b.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "starobserver.com.au",
-      "url": "https://www.starobserver.com.au/opinion/nsw-govt-rejects-sackars-key-recommendation-on-hate-laws-why-are-only-some-worthy-of-protections/243490"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-plans-first-tokenised-bond-issue-in-september-report/articleshow/133464895.cms"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "rockymounttelegram.com",
+      "url": "http://www.rockymounttelegram.com/news/world/us-futures-and-oil-prices-slip-with-pressure-on-treasurys-ongoing/article_cf9ffad2-2193-5100-96c6-110a336fd1ea.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "yourdemocracy.net.au",
+      "url": "https://www.yourdemocracy.net.au/drupal/node/60908"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279261437/pakistan-army-chief-to-visit-tehran-amid-mediation-efforts"
+      "domain": "delfi.lt",
+      "url": "https://www.delfi.lt/en/politics/edward-lucas-seize-the-moment-and-russia-s-money-120293986"
     }
   ],
   "gkg_alter_stunden": 0.0
