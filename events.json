@@ -1,166 +1,192 @@
 {
-  "erstellt_am": "2026-08-25T09:45:26",
+  "erstellt_am": "2026-08-25T14:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260825074500",
+  "gkg_stand": "20260825124500",
   "veraltet": false,
-  "anzahl": 20,
+  "anzahl": 25,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -14.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "irannewsupdate.com",
-      "url": "https://irannewsupdate.com/news/insider/why-is-irans-regime-increasingly-alarmed-by-the-younger-generation/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -12.8,
       "treffer": [
-        "missile"
-      ],
-      "domain": "irannewsupdate.com",
-      "url": "https://irannewsupdate.com/news/infightings/missiles-repression-and-military-posturing-signs-of-strength-or-a-dictatorship-fighting-for-survival/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.9,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/why-trump-may-have-to-target-china-to-make-its-iran-economic-d-day-work/articleshow/133498453.cms"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "athens-times.com",
-      "url": "https://athens-times.com/iran-at-the-brink-amid-u-s-threat-of-economic-war-inflation-hits-66-new-sanctions-loom/"
+      "domain": "wuwf.org",
+      "url": "https://www.wuwf.org/2026-08-25/trump-administration-unveils-new-iran-sanctions"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "athens-times.com",
-      "url": "https://athens-times.com/brent-crude-rises-toward-93-amid-u-s-iran-sanctions-uncertainty/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -8.7,
       "treffer": [
         "hormuz"
       ],
-      "domain": "athens-times.com",
-      "url": "https://athens-times.com/strait-of-hormuz-the-middle-east-wars-epicenter-20-dead-in-68-incidents/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/six-months-into-iran-war-hormuz-traffic-way-down-sailors-stranded-226021"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "red sea",
-        "tanker"
-      ],
-      "domain": "pakistantimes.com",
-      "url": "https://www.pakistantimes.com/yemens-houthis-claim-ballistic-missile-strike-on-saudi-oil-tanker-in-red-sea-14557/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "mirror.co.uk",
-      "url": "https://www.mirror.co.uk/news/world-news/bus-fuel-tanker-crash-turkey-37588989"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-hormuz-sanctions-august-25"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -8.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bostonstar.com",
-      "url": "http://www.bostonstar.com/news/279262629/us-targets-iran-with-new-sanctions-tells-countries-to-cut-ties"
+      "domain": "southcarolinapublicradio.org",
+      "url": "https://www.southcarolinapublicradio.org/news/2026-08-25/morning-news-brief"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.2,
+      "tonalitaet": -7.8,
       "treffer": [
-        "sanctions",
+        "sanctions"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/china-denounces-us-threat-sanctions-114314000.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
         "tariffs"
       ],
-      "domain": "mirror.co.uk",
-      "url": "https://www.mirror.co.uk/news/us-news/donald-trump-canada-tariffs-electricity-37588791"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/83038"
+      "domain": "krcrtv.com",
+      "url": "https://krcrtv.com/news/nation-world/president-donald-trump-floats-renaming-lake-ontario-lake-america-amid-escalating-canada-trade-tariffs-fight-united-states-french-speaking-prime-minister-mark-carney"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "siasat.com",
-      "url": "https://www.siasat.com/pezeshkian-urges-us-must-change-tone-approach-toward-iran-3530356/"
+      "domain": "conservativehq.com",
+      "url": "https://conservativehq.com/post/is-it-really-economic-d-day-for-iran"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -6.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2625736/oil-steadies-as-investors-weigh-impact-of-latest-us-sanctions-on-iran"
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/call-for-myanmar-junta-accountability-9-years-on-1732760/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "juneesoutherncross.com.au",
+      "url": "https://www.juneesoutherncross.com.au/story/9337431/iran-vows-to-retaliate-after-us-widens-sanctions/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sana.sy",
+      "url": "https://sana.sy/en/economic/2338428/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "cinaradio.com",
+      "url": "https://www.cinaradio.com/2026/08/25/how-will-the-new-tariffs-hit-canadas-economy/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/895544/markets-reveal-trump-s-bluff-oil-collapses-to-89-economic-d-day-against-iran-fails-to-convince"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "wyso.org",
+      "url": "https://www.wyso.org/npr-news/2026-08-25/can-trumps-economic-war-against-iran-do-what-airstrikes-and-negotiations-couldnt"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Import-Bill-Surges-as-Hormuz-Shipping-Rates-Soar.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "borsaitaliana.it",
+      "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/economia-e-finanza-dai-giornali-usa-nRC_25082026_1340_332497329.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "somdnews.com",
+      "url": "http://www.somdnews.com/ap/nation/ship-disabled-by-attack-in-strait-of-hormuz-and-other-news-from-around-the-middle/article_cd3ba4c6-bbf3-579a-8f13-48c67a5aa882.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.3,
       "treffer": [
-        "missile",
-        "ballistic"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/83027"
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/895554/hormuz-and-the-red-sea-mohammed-bin-salman-prepares-a-crushing-blow-to-the-houthis"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailypioneer.com",
-      "url": "https://dailypioneer.com/news/stock-markets-end-lower-amid-simmering-geopolitical-tensions"
+      "domain": "prospect.org",
+      "url": "https://prospect.org/2026/08/25/trump-economic-war-iran-war-canada-prices-oil-gasoline/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279263852/oil-tanker-struck-in-hormuz-strait-shipping-monitor-says"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "siasat.com",
-      "url": "https://www.siasat.com/bessent-warns-world-leaders-to-choose-between-iran-ties-us-sanctions-3530398/"
+      "domain": "britainnews.net",
+      "url": "http://www.britainnews.net/news/279263427/us-not-ruling-out-military-force-amid-economic-pressure-on-iran"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
@@ -168,26 +194,45 @@
       "treffer": [
         "missile"
       ],
-      "domain": "southcarolinapublicradio.org",
-      "url": "https://www.southcarolinapublicradio.org/news/2026-08-25/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
+      "domain": "kmxt.org",
+      "url": "https://www.kmxt.org/2026-08-24/u-k-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.6,
       "treffer": [
         "tariffs"
       ],
-      "domain": "businesstoday.in",
-      "url": "https://www.businesstoday.in/world/story/us-plans-7-5-percent-overcapacity-tariff-on-chinese-goods-to-take-overall-tariffs-to-about-20-percent-551130-2026-08-25"
+      "domain": "abc7chicago.com",
+      "url": "https://abc7chicago.com/story/canada-announce-retaliatory-tariffs-trump-tells-leaders-fall-line/19732323/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "morningstaronline.co.uk",
+      "url": "https://morningstaronline.co.uk/article/brazils-election-next-front-line-washingtons-war-against-multipolar-world"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.2,
       "treffer": [
-        "sanctions"
+        "sanctions",
+        "tariffs"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16077693/Russia-threatens-attack-British-factories-semi-military-response-UK-support-Ukraine-Putin-warns-Pandoras-box-opened.html"
+      "domain": "paradisepost.com",
+      "url": "https://www.paradisepost.com/2026/08/24/china-tariffs/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "somdnews.com",
+      "url": "http://www.somdnews.com/ap/nation/putin-decree-lets-russia-take-control-infrastructure-damaged-in-ukrainian-drone-attacks/article_6df8966e-e484-5536-836b-8e010e2d60bb.html"
     }
   ],
   "gkg_alter_stunden": 0.0
