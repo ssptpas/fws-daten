@@ -1,145 +1,73 @@
 {
-  "erstellt_am": "2026-08-26T14:45:50",
+  "erstellt_am": "2026-08-26T22:45:44",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260826124500",
+  "gkg_stand": "20260826204500",
   "veraltet": false,
-  "anzahl": 23,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.6,
+      "tonalitaet": -8.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "i24news.tv",
-      "url": "https://www.i24news.tv/en/news/international/europe/artc-uk-s-burnham-set-to-impose-trade-ban-on-israeli-settlements-report"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/international-criminal-court-must-not-be-dismantled-says-us-sanctioned-top-judge-akane/4037929"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "prospectmagazine.co.uk",
-      "url": "https://www.prospectmagazine.co.uk/politics/the-insider/74527/trump-is-losing-the-half-wars-he-has-started"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/business/trump-tightens-pressure-on-iran-heres-why-indias-basmati-rice-trade-could-pay-the-price"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/world/2026/08/26/sanctioned-international-court-president-says-she-asked-japan-to-help-de-escalate-tensions-with-us"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/news/world/2026/08/26/iran-warns-of-military-ship-ban-in-hormuz-under-potential-deal-with-oman-and-other-middle-east-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "siasat.com",
-      "url": "https://www.siasat.com/iran-oman-discuss-managing-traffic-through-strait-of-hormuz-3531197/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260826-axios-rubio-rules-out-new-strikes-on-iran-for-now/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/arab-world/5311305-netanyahu-vows-more-west-bank-settlements-defying-international-pressure"
+      "domain": "businessinsurance.com",
+      "url": "https://www.businessinsurance.com/washington-court-reinstates-verdict-for-tacoma-in-firefighter-comp-dispute/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -4.9,
+      "tonalitaet": -6.9,
       "treffer": [
         "central bank"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/turkiye/turkiye-s-credit-default-swap-sees-lowest-in-65-months/4038073"
+      "domain": "taipeitimes.com",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/27/2003863183"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279266201/no-new-iran-strikes-for-now-rubio-tells-allies-as-us-tightens-economic-pressure"
+      "domain": "globes.co.il",
+      "url": "https://en.globes.co.il/en/article-uk-plans-trade-ban-on-judea-and-samaria-settlements-1001553494"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -4.6,
+      "tonalitaet": -4.8,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/russia-china-iran-drive-cyberattacks-on-german-businesses-report/4038024"
+      "domain": "govinfosecurity.com",
+      "url": "https://www.govinfosecurity.com/cyberattack-disrupts-boston-scientifics-global-operations-a-32660"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.5,
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260826-us-cannot-achieve-its-goals-through-economic-pressure-iranian-president/"
+      "domain": "livelaw.in",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-delhi-police-bail-pleas-sharjeel-imam-umar-khalid-delhi-riots-larger-conspiracy-case-547508"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Breite",
       "tonalitaet": -4.5,
       "treffer": [
-        "central bank"
+        "cyberattack"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/us-cannot-achieve-its-goals-through-economic-pressure-iranian-president/4037836"
+      "domain": "govinfosecurity.com",
+      "url": "https://www.govinfosecurity.com/german-industry-reports-escalating-nation-state-cyberattacks-a-32657"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.3,
       "treffer": [
-        "suez"
+        "hormuz"
       ],
-      "domain": "highlandcountypress.com",
-      "url": "https://highlandcountypress.com/opinions/taiwans-ohio-problem"
+      "domain": "iheart.com",
+      "url": "https://koacolorado.iheart.com/content/2026-08-26-oil-prices-slide-for-third-day-as-strait-of-hormuz-optimism-grows/"
     },
     {
       "kategorie": "Policy",
@@ -147,71 +75,62 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "thecork.ie",
-      "url": "https://www.thecork.ie/2026/08/26/staffing-crisis-in-cork-university-hospital/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "foodbev.com",
-      "url": "https://www.foodbev.com/news/mondel%C4%93z-international-facility-in-ukraine-damaged-by-russian-drone-strikes-minister-says"
+      "domain": "californiatelegraph.com",
+      "url": "http://www.californiatelegraph.com/news/279264803/iran-rejects-new-us-economic-pressure"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thejc.com",
-      "url": "https://www.thejc.com/news/politics/left-wing-labour-factions-conference-motion-gaza-genocide-israel-arms-embargo-kfj2rk2i"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/should-cms-remarks-on-corruption-at-dpcs-be-treated-like-film-dialogues-that-have-no-value-asks-dhinakaran/article71392408.ece"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/node/2655916/middle-east"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/world/5311261-netanyahu-says-no-diplomatic-deal-possible-iran-%E2%80%98savages%E2%80%99"
+      "domain": "asiabulletin.com",
+      "url": "http://www.asiabulletin.com/news/279264803/iran-rejects-new-us-economic-pressure"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.1,
       "treffer": [
         "hormuz"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260826-report-us-offers-iran-sanctions-relief-in-exchange-for-reopening-strait-of-hormuz/"
+      "domain": "investinglive.com",
+      "url": "https://investinglive.com/commodities/oil-catch-up-russia-ukraine-war-keeps-a-floor-under-oil-despite-hormuz-optimism/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/local/2026/08/26/intruder-ided-in-fatal-shooting-during-potential-leesburg-home-invasion/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "nigerianeye.com",
+      "url": "https://www.nigerianeye.com/2026/08/efcc-recovered-over-500m-in-cash-assets.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.4,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "wbaltv.com",
+      "url": "https://www.wbaltv.com/article/us-economy-canada-trump-tariffs/73535152"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cityam.com",
-      "url": "https://www.cityam.com/interpath-chief-fined-for-breaching-confidentiality-rules-before-kpmg-spin-off/"
+      "domain": "globes.co.il",
+      "url": "https://en.globes.co.il/en/article-regulator-boosts-enforcement-on-parallel-imports-1001553484"
     }
   ],
   "gkg_alter_stunden": 0.0
