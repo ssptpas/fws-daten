@@ -1,37 +1,127 @@
 {
-  "erstellt_am": "2026-08-27T09:45:36",
+  "erstellt_am": "2026-08-27T14:45:57",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260827074500",
+  "gkg_stand": "20260827124500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 16,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -12.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -9.8,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-us-owes-full-compensation-damages-caused-unilateral"
+      "domain": "dabangasudan.org",
+      "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-prisoners-suspend-hunger-strike-until-sunday"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.4,
+      "tonalitaet": -6.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/cia-director-visited-moscow-to-warn-russia-against-nato-attack-us-media/"
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com/entertainment/selena-gomez-filed-dismiss-frivolous-lawsuit-against-her"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/live-news/iran-war-us-strait-hormuz-oman-oil-tensions-08-27-26"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/oil-extends-declines-on-hopes-mideast-diplomacy-could-ease-supply-constraints/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/08/27/qatar-pm-visits-tehran-to-pursue-mediation-efforts"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/world/2026/08/27/regional-powers-seek-off-ramp-from-iran-war-and-other-middle-east-developments/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/895954/tehran-calls-on-islamic-nations-to-form-mutual-defense-bloc-and-ban-us-base-use%20title="
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wral.com",
+      "url": "https://www.wral.com/news/ap/c457c-regional-powers-seek-off-ramp-from-iran-war-and-other-middle-east-developments/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/08/27/atiku-dares-tinubu-govt-to-prosecute-him-over-alleged-16bn-spent-on-power-under-obasanjo/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/895955/us-foreign-policy-dilemma-trump-escalates-iran-economic-war-while-courting-north-korea"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "wrfalp.com",
+      "url": "https://www.wrfalp.com/u-s-tariffs-against-canada-affects-jamestown-public-schools-project/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/why-is-russia-deliberately-weakening-its-currency-101787814810627.html"
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/article-oil-gains-as-traders-weigh-prospects-of-hormuz-reopening/"
     },
     {
       "kategorie": "Policy",
@@ -39,17 +129,27 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dw.com",
-      "url": "https://www.dw.com/en/india-news-india-steps-up-efforts-as-hundreds-missing-in-nepal-floods/live-78519583"
+      "domain": "durangoherald.com",
+      "url": "https://www.durangoherald.com/articles/associated-press/republicans-face-a-midterm-verdict-as-iran-war-drags-on-months-longer-than-trump-promised/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.2,
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
       "treffer": [
-        "air strike"
+        "sanctions"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-rain-down-over-southern-lebanon"
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/politics/2026/08/27/republicans-face-a-midterm-verdict-as-iran-war-drags-on-months-longer-than-trump-promised/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "hormuz",
+        "crude oil"
+      ],
+      "domain": "freepressjournal.in",
+      "url": "https://www.freepressjournal.in/business/indias-fossil-fuel-import-bill-rises-by-225-billion-amid-hormuz-crisis"
     }
   ],
   "gkg_alter_stunden": 0.0
