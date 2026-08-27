@@ -1,136 +1,55 @@
 {
-  "erstellt_am": "2026-08-26T22:45:44",
+  "erstellt_am": "2026-08-27T09:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260826204500",
+  "gkg_stand": "20260827074500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 5,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.9,
+      "tonalitaet": -12.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "businessinsurance.com",
-      "url": "https://www.businessinsurance.com/washington-court-reinstates-verdict-for-tacoma-in-firefighter-comp-dispute/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "taipeitimes.com",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/27/2003863183"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-us-owes-full-compensation-damages-caused-unilateral"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -6.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "globes.co.il",
-      "url": "https://en.globes.co.il/en/article-uk-plans-trade-ban-on-judea-and-samaria-settlements-1001553494"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "govinfosecurity.com",
-      "url": "https://www.govinfosecurity.com/cyberattack-disrupts-boston-scientifics-global-operations-a-32660"
+      "domain": "punchng.com",
+      "url": "https://punchng.com/cia-director-visited-moscow-to-warn-russia-against-nato-attack-us-media/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -3.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-delhi-police-bail-pleas-sharjeel-imam-umar-khalid-delhi-riots-larger-conspiracy-case-547508"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "govinfosecurity.com",
-      "url": "https://www.govinfosecurity.com/german-industry-reports-escalating-nation-state-cyberattacks-a-32657"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "iheart.com",
-      "url": "https://koacolorado.iheart.com/content/2026-08-26-oil-prices-slide-for-third-day-as-strait-of-hormuz-optimism-grows/"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/why-is-russia-deliberately-weakening-its-currency-101787814810627.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "californiatelegraph.com",
-      "url": "http://www.californiatelegraph.com/news/279264803/iran-rejects-new-us-economic-pressure"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "asiabulletin.com",
-      "url": "http://www.asiabulletin.com/news/279264803/iran-rejects-new-us-economic-pressure"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "investinglive.com",
-      "url": "https://investinglive.com/commodities/oil-catch-up-russia-ukraine-war-keeps-a-floor-under-oil-despite-hormuz-optimism/"
+      "domain": "dw.com",
+      "url": "https://www.dw.com/en/india-news-india-steps-up-efforts-as-hundreds-missing-in-nepal-floods/live-78519583"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.2,
       "treffer": [
-        "invasion"
+        "air strike"
       ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/local/2026/08/26/intruder-ided-in-fatal-shooting-during-potential-leesburg-home-invasion/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "nigerianeye.com",
-      "url": "https://www.nigerianeye.com/2026/08/efcc-recovered-over-500m-in-cash-assets.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "wbaltv.com",
-      "url": "https://www.wbaltv.com/article/us-economy-canada-trump-tariffs/73535152"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "globes.co.il",
-      "url": "https://en.globes.co.il/en/article-regulator-boosts-enforcement-on-parallel-imports-1001553484"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-rain-down-over-southern-lebanon"
     }
   ],
   "gkg_alter_stunden": 0.0
