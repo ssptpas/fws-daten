@@ -1,100 +1,64 @@
 {
-  "erstellt_am": "2026-08-27T14:45:57",
+  "erstellt_am": "2026-08-27T22:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260827124500",
+  "gkg_stand": "20260827204500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "dabangasudan.org",
-      "url": "https://www.dabangasudan.org/en/all-news/article/port-sudan-prisoners-suspend-hunger-strike-until-sunday"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.9,
+      "tonalitaet": -9.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/entertainment/selena-gomez-filed-dismiss-frivolous-lawsuit-against-her"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/live-news/iran-war-us-strait-hormuz-oman-oil-tensions-08-27-26"
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/international/article-906843"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/oil-extends-declines-on-hopes-mideast-diplomacy-could-ease-supply-constraints/"
+      "domain": "comingsoon.net",
+      "url": "https://www.comingsoon.net/tv/news/2183237-selena-gomez-wondermind-fraud-lawsuit-dismissal"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/08/27/qatar-pm-visits-tehran-to-pursue-mediation-efforts"
+      "domain": "nbcchicago.com",
+      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/selena-gomez-asks-judge-dismiss-absurd-fraud-claims-over-mental-health-startup/3981303/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/world/2026/08/27/regional-powers-seek-off-ramp-from-iran-war-and-other-middle-east-developments/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/895954/tehran-calls-on-islamic-nations-to-form-mutual-defense-bloc-and-ban-us-base-use%20title="
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wral.com",
-      "url": "https://www.wral.com/news/ap/c457c-regional-powers-seek-off-ramp-from-iran-war-and-other-middle-east-developments/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "ghanamma.com",
-      "url": "https://www.ghanamma.com/2026/08/27/atiku-dares-tinubu-govt-to-prosecute-him-over-alleged-16bn-spent-on-power-under-obasanjo/"
+      "domain": "news24.com",
+      "url": "https://www.news24.com/world/kremlin-trump-and-eu-dismiss-nato-attack-reports-after-cia-chiefs-rare-moscow-visit-20260827-1091"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.9,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit/"
+      "domain": "cheknews.ca",
+      "url": "https://cheknews.ca/champagne-defends-reversal-on-seafood-tariffs-against-u-s-1344511/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "gleninnesexaminer.com.au",
+      "url": "https://www.gleninnesexaminer.com.au/story/9338300/key-home-invasion-witness-quizzed-on-memory-sentence-deal/"
     },
     {
       "kategorie": "Policy",
@@ -102,54 +66,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/895955/us-foreign-policy-dilemma-trump-escalates-iran-economic-war-while-courting-north-korea"
+      "domain": "wsbradio.com",
+      "url": "https://www.wsbradio.com/news/world/regional-powers-seek/Z37UF7WFJEZHDHDGQB6WXOIKZ4/"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.4,
       "treffer": [
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "wrfalp.com",
-      "url": "https://www.wrfalp.com/u-s-tariffs-against-canada-affects-jamestown-public-schools-project/"
+      "domain": "jewishpress.com",
+      "url": "https://jewishpress.com/turkey-in-nato-a-mockery-of-the-alliance-a-menace-to-israel/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-gains-as-traders-weigh-prospects-of-hormuz-reopening/"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.2,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "durangoherald.com",
-      "url": "https://www.durangoherald.com/articles/associated-press/republicans-face-a-midterm-verdict-as-iran-war-drags-on-months-longer-than-trump-promised/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/politics/2026/08/27/republicans-face-a-midterm-verdict-as-iran-war-drags-on-months-longer-than-trump-promised/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "hormuz",
-        "crude oil"
-      ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/business/indias-fossil-fuel-import-bill-rises-by-225-billion-amid-hormuz-crisis"
+      "domain": "cheknews.ca",
+      "url": "https://cheknews.ca/victoria-police-make-several-arrests-following-reported-home-invasion-in-vic-west-1344465/"
     }
   ],
   "gkg_alter_stunden": 0.0
