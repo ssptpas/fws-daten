@@ -1,91 +1,118 @@
 {
-  "erstellt_am": "2026-08-27T22:45:28",
+  "erstellt_am": "2026-08-28T09:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260827204500",
+  "gkg_stand": "20260828074500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 12,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.1,
+      "tonalitaet": -8.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/international/article-906843"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/the-economist/the-long-arm-of-the-chinese-state/articleshow/133585503.cms"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "travelextra.ie",
+      "url": "https://www.travelextra.ie/english-airports-cyber-attack-exposes-data-of-8-7m-customers/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "bmmagazine.co.uk",
+      "url": "https://bmmagazine.co.uk/news/ico-nuisance-calls-fine-call-blocker-firm/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "comingsoon.net",
-      "url": "https://www.comingsoon.net/tv/news/2183237-selena-gomez-wondermind-fraud-lawsuit-dismissal"
+      "domain": "wsls.com",
+      "url": "https://www.wsls.com/news/politics/2026/08/28/trump-used-to-say-he-saw-a-quick-end-to-his-iran-war-six-months-later-he-claims-hes-in-no-hurry/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "nbcchicago.com",
-      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/selena-gomez-asks-judge-dismiss-absurd-fraud-claims-over-mental-health-startup/3981303/"
+      "domain": "wdbo.com",
+      "url": "https://www.wdbo.com/news/politics/trump-used-say-he/6B7NR4NNMQ4C7KAWBKVLKLGIKA/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "news24.com",
-      "url": "https://www.news24.com/world/kremlin-trump-and-eu-dismiss-nato-attack-reports-after-cia-chiefs-rare-moscow-visit-20260827-1091"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260828-can-the-economic-blockade-on-iran-succeed-this-time/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/us-to-push-economic-pressure-on-iran-at-g20-finance-talks-226169"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "cairnspost.com.au",
+      "url": "https://www.cairnspost.com.au/news/queensland/angus-beaumonts-killer-has-attempted-murder-charge-dropped-over-zillmere-home-invasion/news-story/2c04aca32efe47ed4106b3bdee3a71c0&memtype=anonymous&mode=premium&nk=c7effb8f3f368794a91fa9c6b77c711d-1787902332"
+    },
+    {
+      "kategorie": "Finanzsystem",
       "tonalitaet": -3.9,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-august-28-2026/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279270561/military-action-against-iran-not-over-trump"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/five-summers-over-buckle-062801000.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
       "treffer": [
         "tariffs"
       ],
-      "domain": "cheknews.ca",
-      "url": "https://cheknews.ca/champagne-defends-reversal-on-seafood-tariffs-against-u-s-1344511/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "gleninnesexaminer.com.au",
-      "url": "https://www.gleninnesexaminer.com.au/story/9338300/key-home-invasion-witness-quizzed-on-memory-sentence-deal/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/world/regional-powers-seek/Z37UF7WFJEZHDHDGQB6WXOIKZ4/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jewishpress.com",
-      "url": "https://jewishpress.com/turkey-in-nato-a-mockery-of-the-alliance-a-menace-to-israel/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "cheknews.ca",
-      "url": "https://cheknews.ca/victoria-police-make-several-arrests-following-reported-home-invasion-in-vic-west-1344465/"
+      "domain": "eteknix.com",
+      "url": "https://www.eteknix.com/trump-considers-new-chip-tariffs-console-prices-could-rise-even-further/"
     }
   ],
   "gkg_alter_stunden": 0.0
