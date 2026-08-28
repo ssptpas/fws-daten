@@ -1,55 +1,28 @@
 {
-  "erstellt_am": "2026-08-28T14:45:27",
+  "erstellt_am": "2026-08-28T22:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260828124500",
+  "gkg_stand": "20260828204500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -8.5,
       "treffer": [
-        "sanctions"
+        "bailout"
       ],
-      "domain": "iheart.com",
-      "url": "https://600wmtradio.iheart.com/content/2026-08-28-selena-gomez-pushes-back-on-fraud-claims/"
+      "domain": "chinanationalnews.com",
+      "url": "http://www.chinanationalnews.com/news/279271800/key-zelensky-staff-arrested-over-money-laundering-to-bailout-ex-minister"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.2,
+      "tonalitaet": -7.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://wiba.iheart.com/content/2026-08-28-iran-war-reaches-six-months/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "defensenews.com",
-      "url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "natlawreview.com",
-      "url": "https://natlawreview.com/article/ofac-general-v-specific-licenses-explained-us-sanctions-authorization-compliance"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "air strike"
-      ],
-      "domain": "timesofearth.com",
-      "url": "https://www.timesofearth.com/2026/08/28/chad-accuses-sudan-of-air-strike-near-shared-border-that-killed-12/"
+      "domain": "kotaradio.com",
+      "url": "https://www.kotaradio.com/2026/08/28/antifa-linked-sites-go-dark-after-state-department-terror-designation-of-tech-collective/"
     },
     {
       "kategorie": "Policy",
@@ -57,8 +30,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "clevelandjewishnews.com",
-      "url": "https://www.clevelandjewishnews.com/news/world_news/six-months-on-the-iran-war-has-changed-the-middle-east-but-not-in-the/article_6ec45a93-fae8-5b8b-824d-4b932db730dc.html"
+      "domain": "wysu.org",
+      "url": "https://wysu.org/npr-national-news/2026-08-28/after-6-months-of-war-irans-battered-regime-remains-entrenched"
     },
     {
       "kategorie": "Policy",
@@ -66,26 +39,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "leadership.ng",
-      "url": "https://leadership.ng/analysts-warn-of-global-refined-fuel-shortages-following-sustained-middle-east-russia-ukraine-war/"
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16087123/Seattles-mayor-Katie-Wilson-job-recall-silly-mistake-bid-unseat.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-end-lower-as-us-china-tensions-weigh-on-sentiment-126082800912_1.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "inquirer.com",
-      "url": "https://www.inquirer.com/news/nation-world/donald-trump-iran-war-ending-20260828.html"
+      "domain": "walb.com",
+      "url": "https://www.walb.com/2026/08/28/trump-says-hes-not-hurry-end-iran-war/"
     },
     {
       "kategorie": "Policy",
@@ -93,62 +57,62 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "abc7.com",
-      "url": "https://abc7.com/story/us-marks-6-months-war-iran-heres-what-means-americans-whats-ahead/19750855/"
+      "domain": "nationalpost.com",
+      "url": "https://nationalpost.com/news/canada/9-11-widow-on-cbc-policy"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "krmg.com",
+      "url": "https://krmg.com/2026/08/28/uk-warns-against-israel-removing-it-from-gaza-ceasefire-center-and-other-news-in-the-middle-east/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/blogs/rai-of-hope/when-the-mountain-fell-did-china-cause-nepals-deadly-flash-flood/"
+      "domain": "gazettelive.co.uk",
+      "url": "https://www.gazettelive.co.uk/news/teesside-news/king-charles-contacts-families-cleveland-34536669"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -3.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260828-dialogue-only-viable-way-out-of-us-iran-conflict-china-says-amid-sanctions-threats/"
+      "domain": "bilkulonline.com",
+      "url": "https://bilkulonline.com/2026/08/28/daily-news-wrap-bilkulonline-71/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
       "treffer": [
-        "drone strike"
+        "hormuz"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260828-3-palestinians-from-same-family-killed-in-israeli-drone-strike-in-southern-gaza/"
+      "domain": "wpde.com",
+      "url": "https://wpde.com/news/nation-world/white-house-says-us-has-momentum-with-strait-of-hormuz-6-months-iran-war-economy-oil-gas-prices-sanctions-energy-mines-military-conflict-middle-east-midterms"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/consumption/oil-prices-head-for-a-weekly-loss-despite-escalating-iran-tensions"
+      "domain": "wchstv.com",
+      "url": "https://wchstv.com/news/nation-world/white-house-says-us-has-momentum-with-strait-of-hormuz-6-months-iran-war-economy-oil-gas-prices-sanctions-energy-mines-military-conflict-middle-east-midterms"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
       "treffer": [
-        "tariffs"
+        "red sea"
       ],
-      "domain": "bnnbloomberg.ca",
-      "url": "https://www.bnnbloomberg.ca/tariffs/2026/08/28/why-fishers-asked-ottawa-to-spare-seafood-from-us-tariff-war/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thefederalist.com",
-      "url": "https://thefederalist.com/2026/08/28/antifa-networks-panic-after-trump-administration-just-sanctioned-their-servers/"
+      "domain": "yahoo.com",
+      "url": "https://finance.yahoo.com/energy/articles/qatar-kuwait-restore-70-pre-110000147.html"
     }
   ],
   "gkg_alter_stunden": 0.0
