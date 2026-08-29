@@ -1,83 +1,55 @@
 {
-  "erstellt_am": "2026-08-29T14:45:30",
+  "erstellt_am": "2026-08-29T22:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260829124500",
+  "gkg_stand": "20260829204500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 5,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.1,
+      "tonalitaet": -8.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/world/2026/08/29/a-russian-attack-hits-ukraines-kyiv-region-killing-at-least-27/"
+      "domain": "jns.org",
+      "url": "https://www.jns.org/news/u-s-news/seven-charged-with-vandalizing-trump-resort-in-scotland-could-face-longer-sentences"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "littleapplepost.com",
-      "url": "https://littleapplepost.com/posts/d2fb3787-9255-4260-a769-bf652cb94fb2"
+      "domain": "houstonpublicmedia.org",
+      "url": "https://www.houstonpublicmedia.org/npr/2026/08/29/nx-s1-5948714/russian-strike-near-kyiv-kills-37-in-one-of-the-years-deadliest-attacks/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "tonalitaet": -7.6,
       "treffer": [
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "kccu.org",
-      "url": "https://www.kccu.org/u-s/2026-08-29/canada-drops-lobster-tariffs-saving-maine-supply-chain"
+      "domain": "prairiepublic.org",
+      "url": "https://news.prairiepublic.org/news-from-npr/2026-08-29/russian-strike-near-kyiv-kills-37-in-one-of-the-years-deadliest-attacks"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
       "tonalitaet": -5.2,
       "treffer": [
-        "drone strike"
+        "sanctions"
       ],
-      "domain": "scmp.com",
-      "url": "https://www.scmp.com/news/world/europe/article/3365705/russian-drone-strike-near-kyiv-kills-least-27"
+      "domain": "britainnews.net",
+      "url": "http://www.britainnews.net/news/279273448/eu-enters-winter-panic-mode-as-gas-storage-hits-record-low-guardian"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1195238/business/economy/sanctions-impacting-economy-says-irans-president"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1195231/scitech/science/an-invasive-mosquito-is-threatening-africas-cities"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/business/2026/08/29/untested-in-court-trumps-new-tariffs-on-canada-raise-legal-questions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279272826/six-months-into-the-iran-war-these-4-issues-could-shape-what-next"
+      "domain": "arka.am",
+      "url": "https://arka.am:443/en/news/economy/russian-deputy-foreign-minister-calls-yerevan-s-sanctions-statements-manipulative/"
     }
   ],
   "gkg_alter_stunden": 0.0
