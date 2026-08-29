@@ -1,73 +1,19 @@
 {
-  "erstellt_am": "2026-08-28T22:45:23",
+  "erstellt_am": "2026-08-29T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260828204500",
+  "gkg_stand": "20260829074500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 4,
   "ereignisse": [
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -8.5,
-      "treffer": [
-        "bailout"
-      ],
-      "domain": "chinanationalnews.com",
-      "url": "http://www.chinanationalnews.com/news/279271800/key-zelensky-staff-arrested-over-money-laundering-to-bailout-ex-minister"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kotaradio.com",
-      "url": "https://www.kotaradio.com/2026/08/28/antifa-linked-sites-go-dark-after-state-department-terror-designation-of-tech-collective/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wysu.org",
-      "url": "https://wysu.org/npr-national-news/2026-08-28/after-6-months-of-war-irans-battered-regime-remains-entrenched"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16087123/Seattles-mayor-Katie-Wilson-job-recall-silly-mistake-bid-unseat.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "walb.com",
-      "url": "https://www.walb.com/2026/08/28/trump-says-hes-not-hurry-end-iran-war/"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.0,
       "treffer": [
-        "sanctions"
+        "crude oil"
       ],
-      "domain": "nationalpost.com",
-      "url": "https://nationalpost.com/news/canada/9-11-widow-on-cbc-policy"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "krmg.com",
-      "url": "https://krmg.com/2026/08/28/uk-warns-against-israel-removing-it-from-gaza-ceasefire-center-and-other-news-in-the-middle-east/"
+      "domain": "chennaionline.com",
+      "url": "https://www.chennaionline.com/news/crude-oil-prices-drop-during-intraday-trading/"
     },
     {
       "kategorie": "Policy",
@@ -75,44 +21,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "gazettelive.co.uk",
-      "url": "https://www.gazettelive.co.uk/news/teesside-news/king-charles-contacts-families-cleveland-34536669"
+      "domain": "thehitavada.com",
+      "url": "https://www.thehitavada.com/Encyc/2026/8/29/rs-23-crore-fake-gold-loan-scam.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bilkulonline.com",
-      "url": "https://bilkulonline.com/2026/08/28/daily-news-wrap-bilkulonline-71/"
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_45f288f2-aaa8-5d70-b0f6-cc7cc6ccc78d.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "wpde.com",
-      "url": "https://wpde.com/news/nation-world/white-house-says-us-has-momentum-with-strait-of-hormuz-6-months-iran-war-economy-oil-gas-prices-sanctions-energy-mines-military-conflict-middle-east-midterms"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "wchstv.com",
-      "url": "https://wchstv.com/news/nation-world/white-house-says-us-has-momentum-with-strait-of-hormuz-6-months-iran-war-economy-oil-gas-prices-sanctions-energy-mines-military-conflict-middle-east-midterms"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "yahoo.com",
-      "url": "https://finance.yahoo.com/energy/articles/qatar-kuwait-restore-70-pre-110000147.html"
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_aa62eb4a-9407-57dc-8332-1f13a637fefd.html"
     }
   ],
   "gkg_alter_stunden": 0.0
