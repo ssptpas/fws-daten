@@ -1,46 +1,83 @@
 {
-  "erstellt_am": "2026-08-29T09:45:28",
+  "erstellt_am": "2026-08-29T14:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260829074500",
+  "gkg_stand": "20260829124500",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 8,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/world/2026/08/29/a-russian-attack-hits-ukraines-kyiv-region-killing-at-least-27/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "littleapplepost.com",
+      "url": "https://littleapplepost.com/posts/d2fb3787-9255-4260-a769-bf652cb94fb2"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "kccu.org",
+      "url": "https://www.kccu.org/u-s/2026-08-29/canada-drops-lobster-tariffs-saving-maine-supply-chain"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "scmp.com",
+      "url": "https://www.scmp.com/news/world/europe/article/3365705/russian-drone-strike-near-kyiv-kills-least-27"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1195238/business/economy/sanctions-impacting-economy-says-irans-president"
+    },
+    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -3.7,
       "treffer": [
-        "crude oil"
+        "red sea"
       ],
-      "domain": "chennaionline.com",
-      "url": "https://www.chennaionline.com/news/crude-oil-prices-drop-during-intraday-trading/"
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1195231/scitech/science/an-invasive-mosquito-is-threatening-africas-cities"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.6,
       "treffer": [
-        "sanctions"
+        "sanctions",
+        "tariffs"
       ],
-      "domain": "thehitavada.com",
-      "url": "https://www.thehitavada.com/Encyc/2026/8/29/rs-23-crore-fake-gold-loan-scam.html"
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/business/2026/08/29/untested-in-court-trumps-new-tariffs-on-canada-raise-legal-questions"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_45f288f2-aaa8-5d70-b0f6-cc7cc6ccc78d.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_aa62eb4a-9407-57dc-8332-1f13a637fefd.html"
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279272826/six-months-into-the-iran-war-these-4-issues-could-shape-what-next"
     }
   ],
   "gkg_alter_stunden": 0.0
