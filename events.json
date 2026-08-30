@@ -1,55 +1,46 @@
 {
-  "erstellt_am": "2026-08-29T22:45:23",
+  "erstellt_am": "2026-08-30T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260829204500",
+  "gkg_stand": "20260830074500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 4,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.9,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.9,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/news/u-s-news/seven-charged-with-vandalizing-trump-resort-in-scotland-could-face-longer-sentences"
+      "domain": "dailykos.com",
+      "url": "https://www.dailykos.com/stories/2026/8/29/800091268/community/1648/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "houstonpublicmedia.org",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/08/29/nx-s1-5948714/russian-strike-near-kyiv-kills-37-in-one-of-the-years-deadliest-attacks/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "prairiepublic.org",
-      "url": "https://news.prairiepublic.org/news-from-npr/2026-08-29/russian-strike-near-kyiv-kills-37-in-one-of-the-years-deadliest-attacks"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.2,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "britainnews.net",
-      "url": "http://www.britainnews.net/news/279273448/eu-enters-winter-panic-mode-as-gas-storage-hits-record-low-guardian"
+      "domain": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407053.ece"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
       "treffer": [
-        "sanctions"
+        "drone strike"
       ],
-      "domain": "arka.am",
-      "url": "https://arka.am:443/en/news/economy/russian-deputy-foreign-minister-calls-yerevan-s-sanctions-statements-manipulative/"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/india-sends-nearly-1-million-barrels-of-petrol-to-russia-as-drone-strikes-hit-refineries-article-14018282.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/business/banking/2026/08/30/uae-central-bank-orders-urgent-probe-into-banque-misr-branches-after-us-warning/"
     }
   ],
   "gkg_alter_stunden": 0.0
