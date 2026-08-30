@@ -1,56 +1,55 @@
 {
-  "erstellt_am": "2026-08-30T14:45:23",
+  "erstellt_am": "2026-08-30T22:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260830124500",
+  "gkg_stand": "20260830204500",
   "veraltet": false,
   "anzahl": 5,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "knau.org",
-      "url": "https://www.knau.org/2026-08-30/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting"
-    },
-    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.6,
+      "tonalitaet": -7.8,
       "treffer": [
-        "ballistic"
+        "drone strike"
       ],
-      "domain": "delcotimes.com",
-      "url": "https://www.delcotimes.com/2026/08/30/philly-man-gets-6%C2%BD-to-13-years-in-springfield-township-shooting/"
+      "domain": "malaysiasun.com",
+      "url": "http://www.malaysiasun.com/news/279271857/russian-drone-strikes-disrupt-life-in-kyiv"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.2,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ahram.org.eg",
-      "url": "https://english.ahram.org.eg/NewsContent/58/1262/575442/War-on-Gaza/War-on-Gaza/UK-warns-Israel-against-removing-British-officials.aspx"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "ballistic"
-      ],
-      "domain": "lasvegassun.com",
-      "url": "https://lasvegassun.com/news/2026/aug/30/tupac-shakur-murder-trial-takeaways-from-week-2/"
+      "domain": "caribbeanherald.com",
+      "url": "http://www.caribbeanherald.com/news/279274952/china-repression-draws-global-scrutiny-as-uyghur-advocates-warn-of-transnational-pressure"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -5.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/business/business-news/906309-minister-challenges-atiku-says-nigerias-land-borders-not-closed.html"
+      "domain": "blueprint.ng",
+      "url": "https://blueprint.ng/serap-nge-raise-the-alarm-over-n20m-foreign-aid-bill-penalty/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nypost.com",
+      "url": "https://nypost.com/2026/08/30/world-news/putin-could-be-in-danger-of-losing-his-grip-on-russia-spymaster-says-as-moscow-tests-nato-countries/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "ibtimes.co.in",
+      "url": "https://www.ibtimes.co.in/trump-says-venezuelan-oil-will-be-used-refill-us-strategic-petroleum-reserve-905163"
     }
   ],
   "gkg_alter_stunden": 0.0
