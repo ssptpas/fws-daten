@@ -1,46 +1,56 @@
 {
-  "erstellt_am": "2026-08-30T09:45:25",
+  "erstellt_am": "2026-08-30T14:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260830074500",
+  "gkg_stand": "20260830124500",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 5,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.9,
+      "kategorie": "Policy",
+      "tonalitaet": -8.3,
       "treffer": [
-        "missile"
+        "sanctions",
+        "tariffs"
       ],
-      "domain": "dailykos.com",
-      "url": "https://www.dailykos.com/stories/2026/8/29/800091268/community/1648/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/india-emerges-as-key-petrol-supplier-to-russia-as-refinery-attacks-disrupt-fuel-supplies/article71407053.ece"
+      "domain": "knau.org",
+      "url": "https://www.knau.org/2026-08-30/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
+      "tonalitaet": -7.6,
       "treffer": [
-        "drone strike"
+        "ballistic"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/india-sends-nearly-1-million-barrels-of-petrol-to-russia-as-drone-strikes-hit-refineries-article-14018282.html"
+      "domain": "delcotimes.com",
+      "url": "https://www.delcotimes.com/2026/08/30/philly-man-gets-6%C2%BD-to-13-years-in-springfield-township-shooting/"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.8,
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/business/banking/2026/08/30/uae-central-bank-orders-urgent-probe-into-banque-misr-branches-after-us-warning/"
+      "domain": "ahram.org.eg",
+      "url": "https://english.ahram.org.eg/NewsContent/58/1262/575442/War-on-Gaza/War-on-Gaza/UK-warns-Israel-against-removing-British-officials.aspx"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "ballistic"
+      ],
+      "domain": "lasvegassun.com",
+      "url": "https://lasvegassun.com/news/2026/aug/30/tupac-shakur-murder-trial-takeaways-from-week-2/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "premiumtimesng.com",
+      "url": "https://www.premiumtimesng.com/business/business-news/906309-minister-challenges-atiku-says-nigerias-land-borders-not-closed.html"
     }
   ],
   "gkg_alter_stunden": 0.0
