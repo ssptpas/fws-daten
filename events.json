@@ -1,127 +1,110 @@
 {
-  "erstellt_am": "2026-08-31T09:45:28",
+  "erstellt_am": "2026-08-31T14:45:33",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260831074500",
+  "gkg_stand": "20260831124500",
   "veraltet": false,
-  "anzahl": 22,
+  "anzahl": 17,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -12.1,
+      "kategorie": "Policy",
+      "tonalitaet": -7.5,
       "treffer": [
-        "missile"
+        "state of emergency"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/31/jordan-intercepts-iranian-missiles-co-ordinated-settler-attacks-in-west-bank-and-iraqi-officials-sentenced/"
+      "domain": "fox56.com",
+      "url": "https://fox56.com/news/local/stroudsburg-mayor-declares-state-of-emergency-imposes-overnight-main-street-curfew"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "tonalitaet": -7.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/foreign/906396-us-bombs-irans-larak-island.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiancooperative.com",
-      "url": "https://www.indiancooperative.com/co-op-news-snippets/mysurus-co-op-bank-faces-loan-irregularity-allegations/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "thearabianpost.com",
-      "url": "https://thearabianpost.com/boston-scientific-cyberattack-disrupts-global-device-shipments/"
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1806853.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.4,
       "treffer": [
         "hormuz"
       ],
-      "domain": "thearabianpost.com",
-      "url": "https://thearabianpost.com/us-iran-strikes-revive-confrontation-across-hormuz-and-jordan/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2626677/irans-pezeshkian-says-tehran-not-looking-for-war-after-us-attack-on-larak-island"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thearabianpost.com",
-      "url": "https://thearabianpost.com/lawmakers-press-trump-as-iran-war-reaches-six-months/"
+      "domain": "nbcmontana.com",
+      "url": "https://nbcmontana.com/news/nation-world/iran-fires-missiles-at-us-sites-in-jordan-uae-united-arab-emirates-intercepts-iranian-drone-after-strikes-strait-of-hormuz-rocket-launchers-intercepted-mines-central-command-global-energy-oil-gas-prices"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -6.1,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "dailypakistan.com.pk",
+      "url": "https://en.dailypakistan.com.pk/31-Aug-2026/oil-tanker-bursts-into-flames-after-striking-naval-mines-in-hormuz"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11105282/united-arab-emirates-says-it-has-intercepted-an-iranian-drone-over-its-territorial-waters.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
       "treffer": [
         "hormuz"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/896558/iran-launches-strikes-on-us-bases-in-middle-east-after-strait-of-hormuz-clash"
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-31-2026.html"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
-      ],
-      "domain": "informationng.com",
-      "url": "https://www.informationng.com/2026/08/governor-mutfwang-criminalises-hisbah-activities-in-plateau.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "missile"
       ],
       "domain": "gulfnews.com",
-      "url": "https://gulfnews.com/uae/no-missile-attacks-at-al-minhad-air-base-says-uae-1.500657785"
+      "url": "https://gulfnews.com/world/mena/iran-us-trade-fire-why-tehran-s-hardliners-think-they-can-outlast-trump-1.500658002"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2626680/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island"
+      "domain": "koat.com",
+      "url": "https://www.koat.com/article/us-iran-exchange-fire-breaking-lull-fighting/73567264"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "greekherald.com",
-      "url": "http://www.greekherald.com/news/279275818/iran-cannot-have-a-nuclear-weapon-trump-reiterates-tehran-navy-air-force-and-leaders-as-gone"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.7,
+      "tonalitaet": -5.1,
       "treffer": [
         "missile"
       ],
-      "domain": "thearabianpost.com",
-      "url": "https://thearabianpost.com/jordan-downs-eight-missiles-as-iran-targets-us-bases/"
+      "domain": "timescall.com",
+      "url": "https://www.timescall.com/2026/08/31/iran-war-us-missile-attack/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/new-us-missile-appears-to-have-killed-iranian-civilians-far-from-its-blast-site-expert-report-says,167672"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11105296/new-us-missile-appears-to-have-killed-iranian-civilians-far-from-its-blast-site-expert-report-says.html"
     },
     {
       "kategorie": "Policy",
@@ -129,82 +112,53 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "lasvegassun.com",
-      "url": "https://lasvegassun.com/news/2026/aug/30/us-plans-to-sanction-another-bank-in-effort-to-cla/"
+      "domain": "wvxu.org",
+      "url": "https://www.wvxu.org/news-from-npr/2026-08-31/attacks-flare-between-the-u-s-and-iran-after-a-monthlong-pause"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -4.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailykos.com",
-      "url": "https://www.dailykos.com/stories/2026/8/30/800091494/community/iww27-3/"
+      "domain": "wfdd.org",
+      "url": "https://www.wfdd.org/national/2026-08-31/attacks-flare-between-the-u-s-and-iran-after-a-monthlong-pause"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -4.5,
       "treffer": [
-        "coup"
+        "sanctions"
       ],
-      "domain": "brudirect.com",
-      "url": "https://brudirect.com/post/Niger-attempted-coup:-Russia-says-it-helped-to-repel-attack"
+      "domain": "koat.com",
+      "url": "https://www.koat.com/article/uae-drone-iran-us-war/73566705"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "npr.org",
+      "url": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -3.9,
       "treffer": [
         "hormuz"
       ],
-      "domain": "greekherald.com",
-      "url": "http://www.greekherald.com/news/279275816/us-centcom-rejects-irgc-claim-of-strikes-in-strait-of-hormuz-as-act-of-aggression"
+      "domain": "oklahomacitysun.com",
+      "url": "http://www.oklahomacitysun.com/news/279276379/pezeshkians-son-says-iranians-will-not-die-without-enriching-uranium"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
       "treffer": [
-        "sanctions",
-        "tariffs"
+        "hormuz"
       ],
-      "domain": "kxl.com",
-      "url": "https://www.kxl.com/bessent-heads-to-the-g20-to-rally-allies-on-iran-as-tariffs-strain-ties/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/bessent-heads-to-the-g20-to-rally-allies-on-iran-as-tariffs-strain-ties,167643"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/node/2656395/business-economy"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cbs58.com",
-      "url": "https://www.cbs58.com/news/us-and-iran-trade-attacks-marking-first-major-military-escalation-in-a-month"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "lasvegassun.com",
-      "url": "https://lasvegassun.com/news/2026/aug/30/us-treasury-blocks-certain-journalists-from-g20-me/"
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-retaliates-disproportionately-to-us-attack-on-larak-island-as-wapo-detailed-pentagon-leak-shows-navy-incapacity-top-level-opposition.html"
     }
   ],
   "gkg_alter_stunden": 0.0
