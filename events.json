@@ -1,164 +1,157 @@
 {
-  "erstellt_am": "2026-08-31T14:45:33",
+  "erstellt_am": "2026-08-31T22:45:41",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260831124500",
+  "gkg_stand": "20260831204500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 16,
   "ereignisse": [
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.8,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "brisbanetimes.com.au",
+      "url": "https://www.brisbanetimes.com.au/national/nsw/man-killed-in-violent-home-invasion-in-sydney-20260901-p60t89.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.2,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "fox13news.com",
+      "url": "https://www.fox13news.com/news/illegal-immigrant-arrested-polk-county-sexual-battery-home-invasion"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -9.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nzcity.co.nz",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=453117"
+    },
     {
       "kategorie": "Policy",
       "tonalitaet": -7.5,
       "treffer": [
-        "state of emergency"
+        "sanctions"
       ],
-      "domain": "fox56.com",
-      "url": "https://fox56.com/news/local/stroudsburg-mayor-declares-state-of-emergency-imposes-overnight-main-street-curfew"
+      "domain": "theconversation.com",
+      "url": "https://theconversation.com/how-the-trump-administrations-icc-sanctions-reveal-the-power-of-international-law-290452"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "politicalwire.com",
+      "url": "https://politicalwire.com/2026/08/31/new-u-s-missile-wreaked-destruction-on-iranian-city/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.2,
+      "tonalitaet": -5.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1806853.html"
+      "domain": "nebraska.tv",
+      "url": "https://nebraska.tv/news/entertainment/bachelor-star-clayton-echard-reacts-to-paternity-accusers-plea-deal"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "nbcmontana.com",
-      "url": "https://nbcmontana.com/news/nation-world/iran-fires-missiles-at-us-sites-in-jordan-uae-united-arab-emirates-intercepts-iranian-drone-after-strikes-strait-of-hormuz-rocket-launchers-intercepted-mines-central-command-global-energy-oil-gas-prices"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "dailypakistan.com.pk",
-      "url": "https://en.dailypakistan.com.pk/31-Aug-2026/oil-tanker-bursts-into-flames-after-striking-naval-mines-in-hormuz"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11105282/united-arab-emirates-says-it-has-intercepted-an-iranian-drone-over-its-territorial-waters.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-31-2026.html"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -5.3,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "gulfnews.com",
-      "url": "https://gulfnews.com/world/mena/iran-us-trade-fire-why-tehran-s-hardliners-think-they-can-outlast-trump-1.500658002"
+      "domain": "blueprint.ng",
+      "url": "https://blueprint.ng/strait-of-hormuz-us-resumes-strikes-on-iran/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -5.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "koat.com",
-      "url": "https://www.koat.com/article/us-iran-exchange-fire-breaking-lull-fighting/73567264"
+      "domain": "elpais.com",
+      "url": "https://english.elpais.com/international/2026-08-31/cia-chiefs-visit-to-moscow-is-shrouded-in-lies-and-half-truths-amid-war-of-russian-espionage-in-europe.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.1,
       "treffer": [
-        "missile"
+        "invasion"
       ],
-      "domain": "timescall.com",
-      "url": "https://www.timescall.com/2026/08/31/iran-war-us-missile-attack/"
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/fatal-shooting-in-glen-alpine-home-invasion-1736139/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/world/5312884-trump-vows-hit-iran-hard-after-first-exchanges-fire-month"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.9,
+      "tonalitaet": -4.6,
       "treffer": [
         "missile"
       ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/new-us-missile-appears-to-have-killed-iranian-civilians-far-from-its-blast-site-expert-report-says,167672"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11105296/new-us-missile-appears-to-have-killed-iranian-civilians-far-from-its-blast-site-expert-report-says.html"
+      "domain": "ktvz.com",
+      "url": "https://ktvz.com/news/national-world/cnn-world/2026/08/31/ukraine-racing-to-develop-new-interceptors-as-russian-drones-and-missiles-ravage-the-country/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wvxu.org",
-      "url": "https://www.wvxu.org/news-from-npr/2026-08-31/attacks-flare-between-the-u-s-and-iran-after-a-monthlong-pause"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wfdd.org",
-      "url": "https://www.wfdd.org/national/2026-08-31/attacks-flare-between-the-u-s-and-iran-after-a-monthlong-pause"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "koat.com",
-      "url": "https://www.koat.com/article/uae-drone-iran-us-war/73566705"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "npr.org",
-      "url": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran"
+      "domain": "myanmarnews.net",
+      "url": "http://www.myanmarnews.net/news/279273581/war-us-sanctions-hit-iran-s-economy-as-trade-falls-inflation-rises"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.9,
       "treffer": [
-        "hormuz"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "oklahomacitysun.com",
-      "url": "http://www.oklahomacitysun.com/news/279276379/pezeshkians-son-says-iranians-will-not-die-without-enriching-uranium"
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279277512/at-g20-bessent-vows-to-intensify-economic-pressure-on-iran"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.9,
       "treffer": [
-        "hormuz"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-iran-retaliates-disproportionately-to-us-attack-on-larak-island-as-wapo-detailed-pentagon-leak-shows-navy-incapacity-top-level-opposition.html"
+      "domain": "myanmarnews.net",
+      "url": "http://www.myanmarnews.net/news/279277512/at-g20-bessent-vows-to-intensify-economic-pressure-on-iran"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279276923/iran-claims-drone-strikes-at-us-airbase-in-uae"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "pilotonline.com",
+      "url": "https://www.pilotonline.com/2026/08/31/scott-bessent-g20-iran-tariffs/"
     }
   ],
   "gkg_alter_stunden": 0.0
