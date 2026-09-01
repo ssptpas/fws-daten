@@ -1,157 +1,65 @@
 {
-  "erstellt_am": "2026-08-31T22:45:41",
+  "erstellt_am": "2026-09-01T09:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260831204500",
+  "gkg_stand": "20260901074500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.8,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "brisbanetimes.com.au",
-      "url": "https://www.brisbanetimes.com.au/national/nsw/man-killed-in-violent-home-invasion-in-sydney-20260901-p60t89.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.2,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "fox13news.com",
-      "url": "https://www.fox13news.com/news/illegal-immigrant-arrested-polk-county-sexual-battery-home-invasion"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -9.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=453117"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theconversation.com",
-      "url": "https://theconversation.com/how-the-trump-administrations-icc-sanctions-reveal-the-power-of-international-law-290452"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
+      "tonalitaet": -9.9,
       "treffer": [
         "missile"
       ],
-      "domain": "politicalwire.com",
-      "url": "https://politicalwire.com/2026/08/31/new-u-s-missile-wreaked-destruction-on-iranian-city/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nebraska.tv",
-      "url": "https://nebraska.tv/news/entertainment/bachelor-star-clayton-echard-reacts-to-paternity-accusers-plea-deal"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "blueprint.ng",
-      "url": "https://blueprint.ng/strait-of-hormuz-us-resumes-strikes-on-iran/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "elpais.com",
-      "url": "https://english.elpais.com/international/2026-08-31/cia-chiefs-visit-to-moscow-is-shrouded-in-lies-and-half-truths-amid-war-of-russian-espionage-in-europe.html"
+      "domain": "heraldseries.co.uk",
+      "url": "https://www.heraldseries.co.uk/news/national/26510025.russian-barrage-drones-missiles-ukraines-capital-kills-least-11/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/fatal-shooting-in-glen-alpine-home-invasion-1736139/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/world/5312884-trump-vows-hit-iran-hard-after-first-exchanges-fire-month"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.6,
+      "tonalitaet": -9.7,
       "treffer": [
         "missile"
       ],
-      "domain": "ktvz.com",
-      "url": "https://ktvz.com/news/national-world/cnn-world/2026/08/31/ukraine-racing-to-develop-new-interceptors-as-russian-drones-and-missiles-ravage-the-country/"
+      "domain": "newsday.com",
+      "url": "https://www.newsday.com/news/nation/russia-ukraine-war-drones-missiles-kyiv-odesa-c13439"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.9,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "myanmarnews.net",
-      "url": "http://www.myanmarnews.net/news/279273581/war-us-sanctions-hit-iran-s-economy-as-trade-falls-inflation-rises"
+      "domain": "straitstimes.com",
+      "url": "https://www.straitstimes.com/world/middle-east/iran-says-it-has-enough-foreign-currency-despite-us-sanctions"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -5.5,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202609010058.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
       "treffer": [
         "hormuz",
         "tanker"
       ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279277512/at-g20-bessent-vows-to-intensify-economic-pressure-on-iran"
+      "domain": "calcuttanews.net",
+      "url": "http://www.calcuttanews.net/news/279278337/oil-tanker-struck-by-projectiles-in-strait-of-hormuz-says-ukmto"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.2,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "central bank"
       ],
-      "domain": "myanmarnews.net",
-      "url": "http://www.myanmarnews.net/news/279277512/at-g20-bessent-vows-to-intensify-economic-pressure-on-iran"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279276923/iran-claims-drone-strikes-at-us-airbase-in-uae"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "pilotonline.com",
-      "url": "https://www.pilotonline.com/2026/08/31/scott-bessent-g20-iran-tariffs/"
+      "domain": "afr.com",
+      "url": "https://www.afr.com/markets/currencies/rba-cuts-us-dollar-reserves-as-central-banks-hedge-against-trump-20260831-p60t4c"
     }
   ],
   "gkg_alter_stunden": 0.0
