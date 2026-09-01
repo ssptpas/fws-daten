@@ -1,65 +1,182 @@
 {
-  "erstellt_am": "2026-09-01T09:45:23",
+  "erstellt_am": "2026-09-01T14:46:09",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260901074500",
+  "gkg_stand": "20260901124500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 19,
   "ereignisse": [
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "heraldseries.co.uk",
-      "url": "https://www.heraldseries.co.uk/news/national/26510025.russian-barrage-drones-missiles-ukraines-capital-kills-least-11/"
-    },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -9.7,
       "treffer": [
         "missile"
       ],
-      "domain": "newsday.com",
-      "url": "https://www.newsday.com/news/nation/russia-ukraine-war-drones-missiles-kyiv-odesa-c13439"
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/headlines-breaking-stories/2592225/russian-barrage-of-drones-and-missiles-on-ukraines-capital-region-kills-at-least-11.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aero-news.net",
+      "url": "https://aero-news.net/index.cfm?do=main.textpost&id=5094484E-7011-4A3A-89C7-9F9DA410D2EB"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/europe/eu-foreign-policy-chief-urges-countries-to-give-ukraine-interceptor-missiles-nearing-expiry20260901170147/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_7d52284c-f3dd-5ee0-9bbb-00dfc1590f05.html"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -5.9,
+      "tonalitaet": -5.3,
       "treffer": [
-        "central bank"
+        "insolvency"
       ],
-      "domain": "straitstimes.com",
-      "url": "https://www.straitstimes.com/world/middle-east/iran-says-it-has-enough-foreign-currency-despite-us-sanctions"
+      "domain": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/time-is-running-out-to-submit-a-claim-in-the-asbestos-corporation-limited-insolvency-proceedings-302865451.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "leaderpost.com",
+      "url": "https://leaderpost.com/press-releases/pr-newswire/time-is-running-out-to-submit-a-claim-in-the-asbestos-corporation-limited-insolvency-proceedings/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thestar.com.my",
+      "url": "https://www.thestar.com.my/news/world/2026/09/01/germany-set-to-blame-russia-for-attempted-airport-drone-attack"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/ai-cyber-attacks-are-now-the-biggest-threat-to-the-financial-system-warns-bank-of-england-governor.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -4.8,
       "treffer": [
-        "refinery"
+        "red sea"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202609010058.html"
+      "domain": "geographical.co.uk",
+      "url": "https://geographical.co.uk/news/why-aid-work-is-becoming-more-dangerous-than-ever"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "jcpost.com",
+      "url": "https://jcpost.com/posts/4c1d9178-8c44-4e09-b91e-b2768bfe71e1"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/general/2592222/united-arab-emirates-says-it-intercepted-an-iranian-drone-over-its-territorial-waters.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "breakingdefense.com",
+      "url": "https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/irans-president-says-iran-would-return-to-ceasefire-agreement-if-us-does-and-other-mideast/article_f2920221-62f7-5108-a2ff-084c14b21fa1.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/why-japans-30-year-high-bond-yields-should-worry-indian-stock-market-investors/articleshow/133680711.cms"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "leadertelegram.com",
+      "url": "http://www.leadertelegram.com/news/nation-world/postal-service-work-to-comply-with-trumps-executive-order-is-rushed-sloppy-whistleblower-contends/article_8b216ee3-cd64-5289-abbe-9c22a3bfd1ea.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kxl.com",
+      "url": "https://www.kxl.com/postal-service-work-to-comply-with-trumps-executive-order-is-rushed-sloppy-whistleblower-contends/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -4.0,
       "treffer": [
         "hormuz",
-        "tanker"
+        "red sea"
       ],
-      "domain": "calcuttanews.net",
-      "url": "http://www.calcuttanews.net/news/279278337/oil-tanker-struck-by-projectiles-in-strait-of-hormuz-says-ukmto"
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-1-2026.html"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "afr.com",
-      "url": "https://www.afr.com/markets/currencies/rba-cuts-us-dollar-reserves-as-central-banks-hedge-against-trump-20260831-p60t4c"
+      "domain": "dailylocal.com",
+      "url": "https://www.dailylocal.com/2026/09/01/postal-service-trump-executive-order-mail-voting/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "rferl.org",
+      "url": "https://www.rferl.org/a/russia-ukraine-refineries-fuel-shortage-kazakhstan/33843970.html"
     }
   ],
   "gkg_alter_stunden": 0.0
