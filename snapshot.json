@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-09-01T22:45:01",
+  "erstellt_am": "2026-09-02T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.63",
@@ -22,8 +22,8 @@
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.41",
-      "beobachtungsdatum": "2026-08-31",
+      "wert": "0.4",
+      "beobachtungsdatum": "2026-09-01",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.31",
-      "beobachtungsdatum": "2026-08-31",
+      "wert": "2.35",
+      "beobachtungsdatum": "2026-09-01",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -406,8 +406,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.5,
-      "markt_datum": "2026-08-31",
+      "wert": -6.2,
+      "markt_datum": "2026-09-01",
       "leitzins_datum": "2026-09-01",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -455,8 +455,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.185",
-      "beobachtungsdatum": "2026-08-31",
+      "wert": "2.188",
+      "beobachtungsdatum": "2026-09-01",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -476,14 +476,14 @@
     },
     "Japan_Tagesgeldsatz": {
       "wert": 0.977,
-      "beobachtungsdatum": "20260828",
+      "beobachtungsdatum": "20260831",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 27.83,
-      "beobachtungsdatum": "2026-08-31",
+      "wert": 25.55,
+      "beobachtungsdatum": "2026-09-02",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -497,7 +497,7 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
-      "wert": 75.32,
+      "wert": 77.88,
       "beobachtungsdatum": "2026-09-01",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
