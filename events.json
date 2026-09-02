@@ -1,28 +1,28 @@
 {
-  "erstellt_am": "2026-09-02T09:45:31",
+  "erstellt_am": "2026-09-02T14:45:51",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260902074500",
+  "gkg_stand": "20260902124500",
   "veraltet": false,
-  "anzahl": 20,
+  "anzahl": 19,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -8.4,
+      "tonalitaet": -12.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kdhnews.com",
-      "url": "https://kdhnews.com/news/world/eus-kallas-calls-alleged-russian-drone-plot-state-sponsored-terrorism-as-europe-mulls-a-response/article_bc386f32-5dca-5280-9cbf-9a00def987e8.html"
+      "domain": "news.az",
+      "url": "https://news.az/news/jailed-hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/iran-accuses-us-war-crime-115600000.html"
     },
     {
       "kategorie": "Policy",
@@ -30,53 +30,98 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260902/8a0054face48cc56f6cb6bcf9a8f4b51"
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/the_recorder/ap/business/what-to-know-about-the-ap-frontline-investigation-into-scam-victims/article_a256d614-ff05-53b7-9146-4bec552e8aa7.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -7.3,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "messenger-inquirer.com",
-      "url": "https://www.messenger-inquirer.com/ap/elections/iran-fires-on-gulf-neighbors-after-us-military-strikes-iranian-military-targets/article_4f64edee-2cdd-58f8-947d-03eebc252556.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "hormuz"
+        "sanctions"
       ],
       "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260902/cc891e22860d7a53bf7ade9a3d74c0ae"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "thisiswiltshire.co.uk",
-      "url": "https://www.thisiswiltshire.co.uk/news/national/26513864.iran-fires-gulf-neighbours-despite-trumps-threats-escalate-us-attacks/"
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20260902/117ececb1e1fa4b4084fa0938ce9943d"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/the_recorder/ap/business/scams-in-the-us-are-at-a-record-high-yet-most-victims-get-no-help/article_4e34ef38-bece-5b25-bdae-8a2a2a43b5c2.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/ade/ap/business/scams-in-the-us-are-at-a-record-high-yet-most-victims-get-no-help/article_4e34ef38-bece-5b25-bdae-8a2a2a43b5c2.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "easternriverinachronicle.com.au",
+      "url": "https://www.easternriverinachronicle.com.au/story/9341967/iran-targets-us-allies-in-gulf-after-latest-attacks/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "union-bulletin.com",
+      "url": "https://www.union-bulletin.com/news/world/iran-fires-on-its-gulf-neighbors-retaliating-for-us-military-strikes-after-a-monthlong-lull/article_2443f341-4e8d-567f-9051-791b639e5d0a.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bordermail.com.au",
+      "url": "https://www.bordermail.com.au/story/9341967/iran-targets-us-allies-in-gulf-after-latest-attacks/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.1,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16098149/Its-military-secret-Putin-taunts-Britain-possible-plan-target-UK-defence-plants-support-Ukraine.html"
+      "domain": "capitalgazette.com",
+      "url": "https://www.capitalgazette.com/2026/09/02/iran-attacks-gulf-neighbors-us-strikes/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
+      "tonalitaet": -5.8,
       "treffer": [
         "hormuz"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/896972/iran-with-13-missiles-killed-dozens-of-us-commandos-bases-turned-to-ash-in-jordan-kuwait-73-casualties-at-a-wedding"
+      "domain": "kathmandupost.com",
+      "url": "https://kathmandupost.com/world/2026/09/02/us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-exchange-since-july"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wkms.org",
+      "url": "https://www.wkms.org/npr-news/2026-09-02/germany-blames-russia-for-last-months-attempted-drone-attack-at-leipzig-airport"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/articles/eu-eu-states-summon-russian-081939401.html"
     },
     {
       "kategorie": "Policy",
@@ -84,107 +129,53 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "kdhnews.com",
-      "url": "https://kdhnews.com/news/world/prominent-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case/article_f9fad04c-4386-5931-b724-1a40a4177bb4.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "mondaq.com",
-      "url": "https://www.mondaq.com:443/unitedstates/privacy-protection/1837694/will-cipa-litigation-come-to-a-halt-key-takeaways-from-california-sb-690"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/896972/iran-with-13-missiles-killed-dozens-of-us-commandos-bases-turned-to-ash-in-jordan-kuwait-73-casualties-at-a-wedding%20title="
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/eu-russia-germany-drone-attack-sanctions-6357291"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -4.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/china/prominent-hong-kong-activist-joshua-wong-pleads-guilty-second-national-security-case"
+      "domain": "easternriverinachronicle.com.au",
+      "url": "https://www.easternriverinachronicle.com.au/story/9341971/eu-sees-leipzig-attack-as-state-sponsored-terrorism/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "kuaf.com",
-      "url": "https://www.kuaf.com/npr-news/2026-09-02/u-s-military-strikes-iran-while-trump-vows-more-for-tehrans-retaliation"
+      "domain": "bordermail.com.au",
+      "url": "https://www.bordermail.com.au/story/9341971/eu-sees-leipzig-attack-as-state-sponsored-terrorism/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "wnyc.org",
-      "url": "https://wnyc.org/npr/g-s1-141500"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -4.2,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "iheart.com",
-      "url": "https://newstalk1130.iheart.com/content/2026-09-02-bessent-strait-of-hormuz-will-be-worthless-in-two-years/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "shafaqna.com",
-      "url": "https://en.shafaqna.com/474746/top-oil-producers-wary-of-us-venezuela-deal/"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-aides-fearing-a-midterm-elections-rout-push-to-keep-iran-war-quiet-for-now/articleshow/133709788.cms"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.0,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/supreme-court/cbi-failed-miserably-supreme-court-acquits-former-indian-bank-manager-in-loan-fraud-case-548208"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "legallyindia.com",
-      "url": "https://www.legallyindia.com/views/entry/one-ignorantly-given-sc-judgment-is-wreaking-havoc-across-india/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "klkntv.com",
-      "url": "https://www.klkntv.com/dan-osborn-and-sen-pete-ricketts-meet-in-heated-debate-ahead-of-election/"
+      "domain": "proactiveinvestors.co.uk",
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1097969/us-traders-bet-on-95-oil-as-hormuz-conflict-escalates-1097969.html"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.8,
       "treffer": [
         "central bank"
       ],
-      "domain": "enca.com",
-      "url": "https://www.enca.com/business/global-bond-sell-surging-oil-prices-send-markets-red"
+      "domain": "qatarliving.com",
+      "url": "https://www.qatarliving.com/en/article/car-insurance-claims-qatar-process-timeline"
     }
   ],
   "gkg_alter_stunden": 0.0
