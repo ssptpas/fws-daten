@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-09-03T09:45:01",
+  "erstellt_am": "2026-09-03T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.65",
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.66",
-      "beobachtungsdatum": "2026-09-01",
+      "wert": "3.65",
+      "beobachtungsdatum": "2026-09-02",
       "quelle": "FRED"
     },
     "IORB": {
@@ -37,8 +37,8 @@
       "quelle": "FRED"
     },
     "Initial_Claims": {
-      "wert": "203000",
-      "beobachtungsdatum": "2026-08-22",
+      "wert": "206000",
+      "beobachtungsdatum": "2026-08-29",
       "quelle": "FRED"
     },
     "Brent_EIA_verzoegert": {
@@ -133,14 +133,18 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.25",
-      "beobachtungsdatum": "2026-09-02",
+      "beobachtungsdatum": "2026-09-03",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
       "werte": [
         {
+          "datum": "2026-08-29",
+          "wert": 206000.0
+        },
+        {
           "datum": "2026-08-22",
-          "wert": 203000.0
+          "wert": 204000.0
         },
         {
           "datum": "2026-08-15",
@@ -149,10 +153,6 @@
         {
           "datum": "2026-08-08",
           "wert": 212000.0
-        },
-        {
-          "datum": "2026-08-01",
-          "wert": 200000.0
         }
       ],
       "quelle": "FRED (letzte 4 Wochenwerte, aeltester zuerst pruefen fuer Trend)",
@@ -323,6 +323,10 @@
     "SOFR_minus_IORB_Historie": {
       "werte": [
         {
+          "datum": "2026-09-02",
+          "wert": 0.0
+        },
+        {
           "datum": "2026-09-01",
           "wert": 1.0
         },
@@ -336,10 +340,6 @@
         },
         {
           "datum": "2026-08-27",
-          "wert": -1.0
-        },
-        {
-          "datum": "2026-08-26",
           "wert": -1.0
         }
       ],
@@ -401,21 +401,21 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": 1.0,
-      "beobachtungsdatum": "2026-09-01",
+      "wert": 0.0,
+      "beobachtungsdatum": "2026-09-02",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -6.2,
       "markt_datum": "2026-09-02",
-      "leitzins_datum": "2026-09-02",
+      "leitzins_datum": "2026-09-03",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": -1.9,
-      "markt_datum": "28 Aug 2026",
-      "leitzins_datum": "01 Sep 2026",
+      "wert": -2.0,
+      "markt_datum": "01 Sep 2026",
+      "leitzins_datum": "02 Sep 2026",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -450,8 +450,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.41",
-      "beobachtungsdatum": "2026-09-02",
+      "wert": "3.38",
+      "beobachtungsdatum": "2026-09-03",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -460,18 +460,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.7308",
-      "beobachtungsdatum": "28 Aug 2026",
+      "wert": "3.7302",
+      "beobachtungsdatum": "01 Sep 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.141",
-      "beobachtungsdatum": "28 Aug 2026",
+      "wert": "5.2068",
+      "beobachtungsdatum": "01 Sep 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "3.75",
-      "beobachtungsdatum": "01 Sep 2026",
+      "beobachtungsdatum": "02 Sep 2026",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {

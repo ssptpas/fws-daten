@@ -1,46 +1,29 @@
 {
-  "erstellt_am": "2026-09-03T09:45:23",
+  "erstellt_am": "2026-09-03T14:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260903074500",
+  "gkg_stand": "20260903124500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 13,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11109951/russian-strikes-kill-2-ukrainian-civilians-as-moscow-and-kyiv-threaten-to-raise-the-stakes.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
       "tonalitaet": -7.1,
       "treffer": [
-        "central bank"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://naharnet.com/stories/en/322231-central-bank-says-new-audit-to-scrutinize-transactions-for-graft"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "bournemouthecho.co.uk",
-      "url": "https://www.bournemouthecho.co.uk/news/national/26517560.russia-close-german-cultural-centres-row-airport-drone-attack/"
+      "domain": "inquirer.com",
+      "url": "https://www.inquirer.com/news/nation-world/russia-germany-cultural-centers-closed-ukraine-20260903.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
       "treffer": [
-        "sanctions"
+        "missile",
+        "drone strike"
       ],
-      "domain": "whbl.com",
-      "url": "https://whbl.com/2026/09/03/foreign-support-drones-fuel-sudan-war-and-possible-war-crimes-un-probe-says/"
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/iran-claims-missile-drone-strikes-on-us-bases-in-kuwait-uae-3535687/"
     },
     {
       "kategorie": "Policy",
@@ -48,107 +31,101 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/international/russia-to-close-german-cultural-centres-after-berlin-blames-moscow-for-airport-drone-plot/article71422742.ece"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ktbb.com",
+      "url": "https://ktbb.com/post/?p=1538318"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "nigerianeye.com",
+      "url": "https://www.nigerianeye.com/2026/09/trump-proposes-renaming-strait-of.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/ordinary-traffic-is-where-military-and-criminal-threats-hide/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/tensions-between-moscow-europe-continue-escalate-norway-just-seized-russian-ship-3807091"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/us-oil-prices-drop-hormuz-control-claims-1817678"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
       "domain": "israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432637"
+      "url": "https://www.israelnationalnews.com/news/432658"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "https://www.jpost.com/middle-east/article-907404"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-18/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/un-external-networks-fuel-sudan-conflict-civil-1738140/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "https://www.jpost.com/international/article-907407"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11110658/what-to-know-about-a-reported-us-airstrike-that-hit-a-wedding-in-iran.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "thebftonline.com",
-      "url": "https://thebftonline.com/article/advans-pays-courtesy-call-on-ga-mantse"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
       "treffer": [
         "hormuz"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2627203/iran-claims-new-naval-mines-laid-in-strait-of-hormuz"
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/oil-slips-after-three-session-rally-as-trump-downplays-iran-war-hormuz-flows-rise/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/european-stocks-stabilize-from-1-month-lows-as-weak-payrolls-data-check-rate-bets/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.3,
       "treffer": [
-        "refinery"
+        "hormuz",
+        "crude oil"
       ],
-      "domain": "thebftonline.com",
-      "url": "https://thebftonline.com/article/miif-targets-gh-9bn-in-royalties-for-2026"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-broadcom-snowflake-stock-price-news-3rd-september-2026/liveblog/133735998.cms"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "thebftonline.com",
-      "url": "https://thebftonline.com/article/2026-national-cyber-security-awareness-month-launched"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "africabusiness.com",
-      "url": "https://africabusiness.com/2026/09/03/cyberattacks-african-smbs/"
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/germany-took-diplomatic-measures-against-russia-over-attempted-act-sabotage-moscow-retaliating-3807089"
     }
   ],
   "gkg_alter_stunden": 0.0
