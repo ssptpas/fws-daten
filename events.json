@@ -1,56 +1,100 @@
 {
-  "erstellt_am": "2026-09-03T14:45:36",
+  "erstellt_am": "2026-09-03T22:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260903124500",
+  "gkg_stand": "20260903204500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.1,
+      "tonalitaet": -20.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "inquirer.com",
-      "url": "https://www.inquirer.com/news/nation-world/russia-germany-cultural-centers-closed-ukraine-20260903.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "missile",
-        "drone strike"
-      ],
-      "domain": "siasat.com",
-      "url": "https://www.siasat.com/iran-claims-missile-drone-strikes-on-us-bases-in-kuwait-uae-3535687/"
+      "domain": "inewsgr.com",
+      "url": "https://www.inewsgr.com/330/Russias-Quiet-Win-How-Two-EU-Roadblocks-Are-Undermining-Europes-Sanctions-War.htm"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "tonalitaet": -10.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jns.org",
+      "url": "https://www.jns.org/opinion/column/melanie-phillips/the-new-libel-to-destroy-israel"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "news.az",
+      "url": "https://news.az/news/37-killed-by-toxic-fumes-during-nigeria-oil-theft"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-03-watchdog-us-prsm-munition-killed-civilians-iran.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/3/houthi-fighters-clash-with-yemeni-government-forces-in-countrys-southwest"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "10news.com",
+      "url": "https://www.10news.com/us-news/iran-war/bipartisan-lawmakers-call-on-rubio-to-address-iran-executions-and-arrests"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
       "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine"
+      "url": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.7,
+      "tonalitaet": -5.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ktbb.com",
-      "url": "https://ktbb.com/post/?p=1538318"
+      "domain": "internazionale.it",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/03/german-police-probe-arson-attack-on-defence-tech-firm-in-munich"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "nigerianeye.com",
-      "url": "https://www.nigerianeye.com/2026/09/trump-proposes-renaming-strait-of.html"
+      "domain": "foreignpolicy.com",
+      "url": "https://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/"
     },
     {
       "kategorie": "Policy",
@@ -58,65 +102,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/ordinary-traffic-is-where-military-and-criminal-threats-hide/"
+      "domain": "newsminer.com",
+      "url": "https://www.newsminer.com/opinion/at-6-months-there-is-no-clear-winner-in-the-iran-war/article_ffeb35bf-90e6-44ef-b15b-0fb5926e0424.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/tensions-between-moscow-europe-continue-escalate-norway-just-seized-russian-ship-3807091"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/us-oil-prices-drop-hormuz-control-claims-1817678"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432658"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/oil-slips-after-three-session-rally-as-trump-downplays-iran-war-hormuz-flows-rise/"
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/politics/2026/09/03/trump-turns-to-a-dual-economic-and-military-approach-in-latest-attempt-to-squeeze-iran/"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Policy",
       "tonalitaet": -3.7,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/european-stocks-stabilize-from-1-month-lows-as-weak-payrolls-data-check-rate-bets/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "hormuz",
-        "crude oil"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-broadcom-snowflake-stock-price-news-3rd-september-2026/liveblog/133735998.cms"
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/world/articles/moscow-summons-norwegian-envoy-over-200357371.html"
     },
     {
       "kategorie": "Policy",
@@ -124,8 +129,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/germany-took-diplomatic-measures-against-russia-over-attempted-act-sabotage-moscow-retaliating-3807089"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel"
     }
   ],
   "gkg_alter_stunden": 0.0
