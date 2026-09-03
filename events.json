@@ -1,10 +1,155 @@
 {
-  "erstellt_am": "2026-09-02T22:45:32",
+  "erstellt_am": "2026-09-03T09:45:23",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": false,
-  "gkg_stand": null,
-  "veraltet": null,
-  "anzahl": 0,
-  "ereignisse": [],
-  "fehler": "HTTP Error 404: Not Found"
+  "gdelt_verfuegbar": true,
+  "gkg_stand": "20260903074500",
+  "veraltet": false,
+  "anzahl": 16,
+  "ereignisse": [
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11109951/russian-strikes-kill-2-ukrainian-civilians-as-moscow-and-kyiv-threaten-to-raise-the-stakes.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://naharnet.com/stories/en/322231-central-bank-says-new-audit-to-scrutinize-transactions-for-graft"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bournemouthecho.co.uk",
+      "url": "https://www.bournemouthecho.co.uk/news/national/26517560.russia-close-german-cultural-centres-row-airport-drone-attack/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "whbl.com",
+      "url": "https://whbl.com/2026/09/03/foreign-support-drones-fuel-sudan-war-and-possible-war-crimes-un-probe-says/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/international/russia-to-close-german-cultural-centres-after-berlin-blames-moscow-for-airport-drone-plot/article71422742.ece"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432637"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "https://www.jpost.com/middle-east/article-907404"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-18/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/un-external-networks-fuel-sudan-conflict-civil-1738140/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "https://www.jpost.com/international/article-907407"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11110658/what-to-know-about-a-reported-us-airstrike-that-hit-a-wedding-in-iran.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "thebftonline.com",
+      "url": "https://thebftonline.com/article/advans-pays-courtesy-call-on-ga-mantse"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2627203/iran-claims-new-naval-mines-laid-in-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "thebftonline.com",
+      "url": "https://thebftonline.com/article/miif-targets-gh-9bn-in-royalties-for-2026"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "thebftonline.com",
+      "url": "https://thebftonline.com/article/2026-national-cyber-security-awareness-month-launched"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "africabusiness.com",
+      "url": "https://africabusiness.com/2026/09/03/cyberattacks-african-smbs/"
+    }
+  ],
+  "gkg_alter_stunden": 0.0
 }
