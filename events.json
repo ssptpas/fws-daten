@@ -1,136 +1,91 @@
 {
-  "erstellt_am": "2026-09-03T22:45:34",
+  "erstellt_am": "2026-09-04T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260903204500",
+  "gkg_stand": "20260904074500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 9,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -20.0,
+      "tonalitaet": -8.6,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "inewsgr.com",
-      "url": "https://www.inewsgr.com/330/Russias-Quiet-Win-How-Two-EU-Roadblocks-Are-Undermining-Europes-Sanctions-War.htm"
+      "domain": "wgme.com",
+      "url": "https://wgme.com/news/local/maine-governor-janet-mills-blasts-president-donald-trump-administrations-tariffs-on-canadian-products-canada"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -10.5,
+      "tonalitaet": -7.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/opinion/column/melanie-phillips/the-new-libel-to-destroy-israel"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "news.az",
-      "url": "https://news.az/news/37-killed-by-toxic-fumes-during-nigeria-oil-theft"
+      "domain": "wsws.org",
+      "url": "https://www.wsws.org/en/articles/2026/09/04/njzk-s04.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "zimbabwestar.com",
+      "url": "http://www.zimbabwestar.com/news/279285593/russias-political-system-not-proof-of-corporate-control-eu-court"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279285603/russia-political-system-not-proof-of-corporate-control-eu-court"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "thesun.ng",
+      "url": "https://thesun.ng/fg-rejects-claims-nigeria-backed-failed-niger-coup/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279285510/ready-to-supply-as-much-oil-as-india-needs-russian-envoy-slams-western-sanctions-as-pressure-tactics"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-03-watchdog-us-prsm-munition-killed-civilians-iran.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/3/houthi-fighters-clash-with-yemeni-government-forces-in-countrys-southwest"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "10news.com",
-      "url": "https://www.10news.com/us-news/iran-war/bipartisan-lawmakers-call-on-rubio-to-address-iran-executions-and-arrests"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "internazionale.it",
-      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/03/german-police-probe-arson-attack-on-defence-tech-firm-in-munich"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "foreignpolicy.com",
-      "url": "https://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newsminer.com",
-      "url": "https://www.newsminer.com/opinion/at-6-months-there-is-no-clear-winner-in-the-iran-war/article_ffeb35bf-90e6-44ef-b15b-0fb5926e0424.html"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -4.1,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/politics/2026/09/03/trump-turns-to-a-dual-economic-and-military-approach-in-latest-attempt-to-squeeze-iran/"
+      "domain": "geelongadvertiser.com.au",
+      "url": "https://www.geelongadvertiser.com.au/news/geelong/two-men-arrested-after-alleged-belmont-home-invasion/news-story/abad6f3755e42b92f71bee320917ccff&memtype=anonymous&mode=premium&nk=2f7f6ae360de9e4278e6a338f32d015b-1788507108"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "yahoo.com",
-      "url": "https://www.yahoo.com/news/world/articles/moscow-summons-norwegian-envoy-over-200357371.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/argentina-falklands-oil-sanctions-naval-base-2026/"
     }
   ],
   "gkg_alter_stunden": 0.0
