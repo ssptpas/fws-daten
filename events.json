@@ -1,174 +1,83 @@
 {
-  "erstellt_am": "2026-09-04T14:45:47",
+  "erstellt_am": "2026-09-04T22:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260904124500",
+  "gkg_stand": "20260904204500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 8,
   "ereignisse": [
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "independent.co.uk",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-diesel-fuel-prices-b3044706.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "raxanreeb.com",
-      "url": "https://raxanreeb.com/somalia-opposition-figure-injured-in-doolow-airstrike-as-tensions-surge/"
-    },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -6.2,
       "treffer": [
         "missile"
       ],
-      "domain": "businessghana.com",
-      "url": "http://www.businessghana.com/site/news/politics/355542/US-investigating-if-missile-hit-Iran-wedding,-Vance-says"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "niagarafallsreview.ca",
-      "url": "https://www.niagarafallsreview.ca/news/world/europe/serbia-faces-eu-scrutiny-over-upcoming-funeral-of-convicted-war-criminal-ratko-mladic/article_9a7c5f15-2677-51f0-9ebf-7ae240a34086.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "zimbabwestar.com",
-      "url": "http://www.zimbabwestar.com/news/279285758/economic-watch-inflation-fiscal-risks-pressure-europe-sovereign-bond-markets"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/sambisa-as-big-as-belgium-security-forces-overwhelmed-defence-minister/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ualrpublicradio.org",
-      "url": "https://www.ualrpublicradio.org/npr-news/2026-09-04/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ictsd.org",
-      "url": "https://ictsd.org/anti-dumping-duties-explained/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/andy-burnham-more-leftwing-keir-starmer"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279285897/venice-biennale-chief-defends-russian-pavilion-return"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "horseedmedia.net",
-      "url": "https://horseedmedia.net/former-somali-prisons-chief-injured-in-airstrike-in-gedo/425356/"
+      "domain": "brudirect.com",
+      "url": "https://brudirect.com/post/US-investigating-if-missile-hit-Iran-wedding,-Vance-says"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -5.3,
       "treffer": [
-        "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "reporterherald.com",
-      "url": "https://www.reporterherald.com/2026/09/04/israeli-release-strait-of-hormuz-shipping-mideast-news/"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands/"
+      "domain": "dw.com",
+      "url": "https://www.dw.com/en/how-should-germany-respond-to-russian-hybrid-attacks/a-78784262"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "greekherald.com",
+      "url": "http://www.greekherald.com/news/279286836/trouble-brewing-in-global-bond-markets-what-to-know"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "oilandgasonline.com",
-      "url": "https://www.oilandgasonline.com/doc/subsea-awarded-offshore-0001"
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/the-latest-us-tightens-economic-squeeze-on-iran-after-a-week-of-renewed-strikes/article_c116e56d-a879-53d6-a2dd-17c5007763b9.html"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
       "treffer": [
-        "airstrike"
+        "bank failure"
       ],
-      "domain": "horseedmedia.net",
-      "url": "https://horseedmedia.net/jubbaland-condemns-alleged-turkish-airstrike-in-somalias-gedo-region/425365/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "abc7ny.com",
-      "url": "https://abc7ny.com/story/us-diesel-prices-hit-record-high-585-average-iran-war-disrupts-flow-fuel/19789077/"
+      "domain": "americanbanker.com",
+      "url": "https://www.americanbanker.com/news/gao-flags-disclosure-gaps-exposed-by-2023-bank-failures"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.0,
+      "tonalitaet": -3.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "times-standard.com",
-      "url": "https://www.times-standard.com/2026/09/04/us-diesel-prices-record-high/"
+      "domain": "americanbanker.com",
+      "url": "https://www.americanbanker.com/list/intl-banks-plan-stablecoin-openpayd-enters-us-market"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.0,
+      "tonalitaet": -3.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wral.com",
-      "url": "https://www.wral.com/news/ap/ebd01-us-diesel-prices-hit-a-record-high-of-5-85-on-average-as-the-iran-war-disrupts-the-flow-of-fuel/"
+      "domain": "texarkanagazette.com",
+      "url": "https://www.texarkanagazette.com/news/2026/sep/04/us-diesel-prices-hit-a-record-high-pushing-up/"
     }
   ],
   "gkg_alter_stunden": 0.0
