@@ -1,91 +1,174 @@
 {
-  "erstellt_am": "2026-09-04T09:45:28",
+  "erstellt_am": "2026-09-04T14:45:47",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260904074500",
+  "gkg_stand": "20260904124500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 18,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.6,
+      "tonalitaet": -7.7,
       "treffer": [
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "wgme.com",
-      "url": "https://wgme.com/news/local/maine-governor-janet-mills-blasts-president-donald-trump-administrations-tariffs-on-canadian-products-canada"
+      "domain": "independent.co.uk",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-diesel-fuel-prices-b3044706.html"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -7.4,
       "treffer": [
-        "sanctions"
+        "airstrike"
       ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions/"
+      "domain": "raxanreeb.com",
+      "url": "https://raxanreeb.com/somalia-opposition-figure-injured-in-doolow-airstrike-as-tensions-surge/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "businessghana.com",
+      "url": "http://www.businessghana.com/site/news/politics/355542/US-investigating-if-missile-hit-Iran-wedding,-Vance-says"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.4,
+      "tonalitaet": -6.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wsws.org",
-      "url": "https://www.wsws.org/en/articles/2026/09/04/njzk-s04.html"
+      "domain": "niagarafallsreview.ca",
+      "url": "https://www.niagarafallsreview.ca/news/world/europe/serbia-faces-eu-scrutiny-over-upcoming-funeral-of-convicted-war-criminal-ratko-mladic/article_9a7c5f15-2677-51f0-9ebf-7ae240a34086.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.1,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
       "domain": "zimbabwestar.com",
-      "url": "http://www.zimbabwestar.com/news/279285593/russias-political-system-not-proof-of-corporate-control-eu-court"
+      "url": "http://www.zimbabwestar.com/news/279285758/economic-watch-inflation-fiscal-risks-pressure-europe-sovereign-bond-markets"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/sambisa-as-big-as-belgium-security-forces-overwhelmed-defence-minister/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279285603/russia-political-system-not-proof-of-corporate-control-eu-court"
+      "domain": "ualrpublicradio.org",
+      "url": "https://www.ualrpublicradio.org/npr-news/2026-09-04/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "thesun.ng",
-      "url": "https://thesun.ng/fg-rejects-claims-nigeria-backed-failed-niger-coup/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279285510/ready-to-supply-as-much-oil-as-india-needs-russian-envoy-slams-western-sanctions-as-pressure-tactics"
+      "domain": "ictsd.org",
+      "url": "https://ictsd.org/anti-dumping-duties-explained/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/andy-burnham-more-leftwing-keir-starmer"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279285897/venice-biennale-chief-defends-russian-pavilion-return"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -4.1,
       "treffer": [
-        "invasion"
+        "airstrike"
       ],
-      "domain": "geelongadvertiser.com.au",
-      "url": "https://www.geelongadvertiser.com.au/news/geelong/two-men-arrested-after-alleged-belmont-home-invasion/news-story/abad6f3755e42b92f71bee320917ccff&memtype=anonymous&mode=premium&nk=2f7f6ae360de9e4278e6a338f32d015b-1788507108"
+      "domain": "horseedmedia.net",
+      "url": "https://horseedmedia.net/former-somali-prisons-chief-injured-in-airstrike-in-gedo/425356/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "reporterherald.com",
+      "url": "https://www.reporterherald.com/2026/09/04/israeli-release-strait-of-hormuz-shipping-mideast-news/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/argentina-falklands-oil-sanctions-naval-base-2026/"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "oilandgasonline.com",
+      "url": "https://www.oilandgasonline.com/doc/subsea-awarded-offshore-0001"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "horseedmedia.net",
+      "url": "https://horseedmedia.net/jubbaland-condemns-alleged-turkish-airstrike-in-somalias-gedo-region/425365/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "abc7ny.com",
+      "url": "https://abc7ny.com/story/us-diesel-prices-hit-record-high-585-average-iran-war-disrupts-flow-fuel/19789077/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "times-standard.com",
+      "url": "https://www.times-standard.com/2026/09/04/us-diesel-prices-record-high/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wral.com",
+      "url": "https://www.wral.com/news/ap/ebd01-us-diesel-prices-hit-a-record-high-of-5-85-on-average-as-the-iran-war-disrupts-the-flow-of-fuel/"
     }
   ],
   "gkg_alter_stunden": 0.0
