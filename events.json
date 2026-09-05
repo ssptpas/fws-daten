@@ -1,82 +1,110 @@
 {
-  "erstellt_am": "2026-09-05T09:45:30",
+  "erstellt_am": "2026-09-05T14:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260905074500",
+  "gkg_stand": "20260905124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 11,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -10.5,
+      "tonalitaet": -9.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "econotimes.com",
-      "url": "http://www.econotimes.com/US-Issues-Cuba-Health-Alert-as-Illnesses-Rise-1751323"
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/09/05/775706/Judiciary-chief-BRICS-prosecute-perpetrators-of-war-crimes-Iran"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.5,
+      "tonalitaet": -7.0,
       "treffer": [
         "tanker"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/asia/iranian-tanker-targeted-on-kharg-island-522976"
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/09/05/775716/US-forces-strike-Iranian-oil-tanker-near-Kharg-Island,-escalating-aggression-against-Iran"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -7.0,
       "treffer": [
-        "missile"
+        "airstrike"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/cis-countries/russian-forces-launch-missile-strikes-on-plant-in-ukraine-killing-4-522965"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279287490/drone-hysteria-kiev-gunfights-and-aviation-threats-rt-stories-that-shaped-the-week"
+      "domain": "turnto23.com",
+      "url": "https://www.turnto23.com/politics/russia/zelenskyy-offers-pause-in-airstrikes-during-us-envoys-moscow-trip"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "tonalitaet": -6.9,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/05/iran-accuses-the-us-of-targeting-a-tanker-near-kharg-island-and-other-mideast-news/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/trump-downplays-us-iran-conflict-1818016"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
       "treffer": [
         "hormuz"
       ],
-      "domain": "econotimes.com",
-      "url": "http://www.econotimes.com/Irans-Hormuz-Oil-Pressure-Fades-as-Gulf-Crude-Flows-Continue-1751319"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-05-26"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.5,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/america/argentina-initiates-sanction-process-against-45-entities-over-falklands-oil-exploration-522963"
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/sep/05/israel-releases-4-held-after-troops-detained-them/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/iran-accuses-us-of-striking-tanker-near-kharg-island-126090500530_1.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/09/02/775528/how-us-israeli-war-machine-used-ai-flawed-intel-target-civilian-infrastructure-iran"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "wxyz.com",
-      "url": "https://www.wxyz.com/weather/weather-news/state-of-emergency-declared-on-detroits-east-side-after-ef-2-tornado-causes-widespread-damage"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "harringayonline.com",
-      "url": "https://harringayonline.com/forum/topics/you-have-the-evidence-haringey-council-now-will-you-enforce?commentId=844301%3AComment%3A1671338"
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/09/05/775710/Iran-VP--"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/sep/05/russian-drone-strikes-ukraine-security-service/"
     }
   ],
   "gkg_alter_stunden": 0.0
