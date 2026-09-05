@@ -1,110 +1,82 @@
 {
-  "erstellt_am": "2026-09-05T14:45:25",
+  "erstellt_am": "2026-09-05T22:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260905124500",
+  "gkg_stand": "20260905204500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/09/05/775706/Judiciary-chief-BRICS-prosecute-perpetrators-of-war-crimes-Iran"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.0,
+      "tonalitaet": -10.6,
       "treffer": [
         "tanker"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/09/05/775716/US-forces-strike-Iranian-oil-tanker-near-Kharg-Island,-escalating-aggression-against-Iran"
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1195661/world/americas/us-military-says-destroys-iranian-oil-tankers-after-missile-attacks"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "kesq.com",
+      "url": "https://kesq.com/news/national-world/cnn-world/2026/09/05/us-military-says-three-iranian-tankers-struck-in-gulf/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "turnto23.com",
-      "url": "https://www.turnto23.com/politics/russia/zelenskyy-offers-pause-in-airstrikes-during-us-envoys-moscow-trip"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/world/2026/09/05/iran-accuses-the-us-of-targeting-a-tanker-near-kharg-island-and-other-mideast-news/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/trump-downplays-us-iran-conflict-1818016"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-05-26"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "arkansasonline.com",
-      "url": "https://www.arkansasonline.com/news/2026/sep/05/israel-releases-4-held-after-troops-detained-them/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/iran-accuses-us-of-striking-tanker-near-kharg-island-126090500530_1.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
+      "tonalitaet": -6.2,
       "treffer": [
         "missile"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/09/02/775528/how-us-israeli-war-machine-used-ai-flawed-intel-target-civilian-infrastructure-iran"
+      "domain": "thevermilion.com",
+      "url": "https://www.thevermilion.com/iran-attacks-us-bases-in-the-gulf-missiles-and-drones-against-crimes-committed-by-america/article_20240/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "wtop.com",
+      "url": "https://wtop.com/national/2026/09/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/09/05/775710/Iran-VP--"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/us/no-room-to-be-kind-us-immigration-judges-told-to-reduce-time-for-people-awaiting-green-card-before-being-deported/articleshow/133814916.cms"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.5,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
       "treffer": [
-        "drone strike"
+        "hormuz"
       ],
-      "domain": "arkansasonline.com",
-      "url": "https://www.arkansasonline.com/news/2026/sep/05/russian-drone-strikes-ukraine-security-service/"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279288705/flash-iran-irgc-says-targeted-3-vessels-on-unauthorized-routes-through-hormuz-strait-3-us-vessels-in-other-areas-media"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279288707/11-killed-in-fuel-tanker-explosion-in-w-iran-state-media"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hottalkradio.com",
+      "url": "https://www.hottalkradio.com/news/2026/09/06/"
     }
   ],
   "gkg_alter_stunden": 0.0
