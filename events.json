@@ -1,83 +1,82 @@
 {
-  "erstellt_am": "2026-09-04T22:45:31",
+  "erstellt_am": "2026-09-05T09:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260904204500",
+  "gkg_stand": "20260905074500",
   "veraltet": false,
   "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.2,
+      "kategorie": "Policy",
+      "tonalitaet": -10.5,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "brudirect.com",
-      "url": "https://brudirect.com/post/US-investigating-if-missile-hit-Iran-wedding,-Vance-says"
+      "domain": "econotimes.com",
+      "url": "http://www.econotimes.com/US-Issues-Cuba-Health-Alert-as-Illnesses-Rise-1751323"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -7.5,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "tanker"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue/"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/asia/iranian-tanker-targeted-on-kharg-island-522976"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/cis-countries/russian-forces-launch-missile-strikes-on-plant-in-ukraine-killing-4-522965"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dw.com",
-      "url": "https://www.dw.com/en/how-should-germany-respond-to-russian-hybrid-attacks/a-78784262"
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279287490/drone-hysteria-kiev-gunfights-and-aviation-threats-rt-stories-that-shaped-the-week"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.3,
       "treffer": [
-        "central bank"
+        "hormuz"
       ],
-      "domain": "greekherald.com",
-      "url": "http://www.greekherald.com/news/279286836/trouble-brewing-in-global-bond-markets-what-to-know"
+      "domain": "econotimes.com",
+      "url": "http://www.econotimes.com/Irans-Hormuz-Oil-Pressure-Fades-as-Gulf-Crude-Flows-Continue-1751319"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/the-latest-us-tightens-economic-squeeze-on-iran-after-a-week-of-renewed-strikes/article_c116e56d-a879-53d6-a2dd-17c5007763b9.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "bank failure"
-      ],
-      "domain": "americanbanker.com",
-      "url": "https://www.americanbanker.com/news/gao-flags-disclosure-gaps-exposed-by-2023-bank-failures"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "americanbanker.com",
-      "url": "https://www.americanbanker.com/list/intl-banks-plan-stablecoin-openpayd-enters-us-market"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/america/argentina-initiates-sanction-process-against-45-entities-over-falklands-oil-exploration-522963"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.2,
       "treffer": [
+        "state of emergency"
+      ],
+      "domain": "wxyz.com",
+      "url": "https://www.wxyz.com/weather/weather-news/state-of-emergency-declared-on-detroits-east-side-after-ef-2-tornado-causes-widespread-damage"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
         "sanctions"
       ],
-      "domain": "texarkanagazette.com",
-      "url": "https://www.texarkanagazette.com/news/2026/sep/04/us-diesel-prices-hit-a-record-high-pushing-up/"
+      "domain": "harringayonline.com",
+      "url": "https://harringayonline.com/forum/topics/you-have-the-evidence-haringey-council-now-will-you-enforce?commentId=844301%3AComment%3A1671338"
     }
   ],
   "gkg_alter_stunden": 0.0
