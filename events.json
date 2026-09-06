@@ -1,82 +1,110 @@
 {
-  "erstellt_am": "2026-09-06T09:45:24",
+  "erstellt_am": "2026-09-06T14:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260906074500",
+  "gkg_stand": "20260906124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 11,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -16.0,
+      "tonalitaet": -8.2,
       "treffer": [
         "tanker"
       ],
-      "domain": "deccanchronicle.com",
-      "url": "https://www.deccanchronicle.com/world/fuel-tanker-explodes-in-western-iran-killing-11-1985249"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/322291-iran-retaliates-after-us-strikes-oil-tankers"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -15.7,
+      "tonalitaet": -7.3,
       "treffer": [
         "tanker"
       ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/fuel-tanker-explosion-west-iran-kills-11-injures-136236457"
+      "domain": "egyptindependent.com",
+      "url": "https://www.egyptindependent.com/us-military-strikes-three-iranian-tankers-in-retaliation-for-missile-attacks/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.0,
+      "tonalitaet": -7.1,
       "treffer": [
-        "tanker"
+        "red sea"
       ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/iran-tanker-explosion-kills-11-after-fire-spreads-to-vehicles-on-highway/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/israel-launches-airstrikes-on-southern-lebanon-despite-ongoing-ceasefire-talks/"
+      "domain": "americanthinker.com",
+      "url": "https://www.americanthinker.com/articles/2026/09/iran-s-ring-of-fire-now-ashes/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
+      "tonalitaet": -6.6,
       "treffer": [
         "hormuz"
       ],
-      "domain": "wral.com",
-      "url": "https://www.wral.com/news/ap/a52be-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/"
+      "domain": "wesh.com",
+      "url": "https://www.wesh.com/article/iran-us-war-strait-of-hormuz-ship/73624224"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -6.3,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "theindianawaaz.com",
+      "url": "https://theindianawaaz.com/iran-strikes-on-us-linked-oil-tankers-and-vessels-in-strait-of-hormuz/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wysu.org",
+      "url": "https://wysu.org/npr-national-news/2026-09-05/u-s-and-iran-trade-attacks-on-ships-as-fighting-flares-up-again"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/us-ambassador-visits-west-bank-town-hit-settler-violence"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/who-decides-iran%E2%80%99s-war-rouhani-calls-referendum"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
       "treffer": [
         "hormuz"
       ],
-      "domain": "somdnews.com",
-      "url": "http://www.somdnews.com/ap/world/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/article_128f02e9-b0f1-59f3-86d0-43842bebc19e.html"
+      "domain": "wohfradio.com",
+      "url": "https://wohfradio.com/national-news/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "clevelandjewishnews.com",
+      "url": "https://www.clevelandjewishnews.com/jns/despite-sanctions-iran-funnels-billions-through-us-banks/article_0f9cc6b8-70b5-5570-b2b3-5ad234df9657.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.2,
       "treffer": [
-        "refinery"
+        "hormuz"
       ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/explosions-across-russia-ukraine-drone-070656000.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "citizensvoice.com",
-      "url": "https://www.citizensvoice.com/2026/09/06/chris-kelly-opinion-the-data-center-invasion-has-no-borders/"
+      "domain": "cinaradio.com",
+      "url": "https://www.cinaradio.com/2026/09/06/iran-claims-strike-on-u-s-ship-in-strait-of-hormuz-as-fighting-escalates/"
     }
   ],
   "gkg_alter_stunden": 0.0
