@@ -1,82 +1,82 @@
 {
-  "erstellt_am": "2026-09-05T22:45:31",
+  "erstellt_am": "2026-09-06T09:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260905204500",
+  "gkg_stand": "20260906074500",
   "veraltet": false,
   "anzahl": 8,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.6,
+      "tonalitaet": -16.0,
       "treffer": [
         "tanker"
       ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1195661/world/americas/us-military-says-destroys-iranian-oil-tankers-after-missile-attacks"
+      "domain": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/world/fuel-tanker-explodes-in-western-iran-killing-11-1985249"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
+      "tonalitaet": -15.7,
       "treffer": [
         "tanker"
       ],
-      "domain": "kesq.com",
-      "url": "https://kesq.com/news/national-world/cnn-world/2026/09/05/us-military-says-three-iranian-tankers-struck-in-gulf/"
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/fuel-tanker-explosion-west-iran-kills-11-injures-136236457"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -9.0,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/iran-tanker-explosion-kills-11-after-fire-spreads-to-vehicles-on-highway/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/israel-launches-airstrikes-on-southern-lebanon-despite-ongoing-ceasefire-talks/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.2,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "thevermilion.com",
-      "url": "https://www.thevermilion.com/iran-attacks-us-bases-in-the-gulf-missiles-and-drones-against-crimes-committed-by-america/article_20240/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "wtop.com",
-      "url": "https://wtop.com/national/2026/09/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/us/no-room-to-be-kind-us-immigration-judges-told-to-reduce-time-for-people-awaiting-green-card-before-being-deported/articleshow/133814916.cms"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
       "treffer": [
         "hormuz"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279288705/flash-iran-irgc-says-targeted-3-vessels-on-unauthorized-routes-through-hormuz-strait-3-us-vessels-in-other-areas-media"
+      "domain": "wral.com",
+      "url": "https://www.wral.com/news/ap/a52be-iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "somdnews.com",
+      "url": "http://www.somdnews.com/ap/world/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/article_128f02e9-b0f1-59f3-86d0-43842bebc19e.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.8,
       "treffer": [
-        "tanker"
+        "refinery"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279288707/11-killed-in-fuel-tanker-explosion-in-w-iran-state-media"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/explosions-across-russia-ukraine-drone-070656000.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.1,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "hottalkradio.com",
-      "url": "https://www.hottalkradio.com/news/2026/09/06/"
+      "domain": "citizensvoice.com",
+      "url": "https://www.citizensvoice.com/2026/09/06/chris-kelly-opinion-the-data-center-invasion-has-no-borders/"
     }
   ],
   "gkg_alter_stunden": 0.0
