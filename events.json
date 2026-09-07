@@ -1,37 +1,109 @@
 {
-  "erstellt_am": "2026-09-06T22:45:28",
+  "erstellt_am": "2026-09-07T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260906204500",
+  "gkg_stand": "20260907074500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 18,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.5,
+      "tonalitaet": -10.4,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "yahoo.com",
-      "url": "https://www.yahoo.com/news/world/articles/more-140-killed-latest-yemen-161554448.html"
+      "domain": "businesstoday.in",
+      "url": "https://www.businesstoday.in/world/story/how-long-can-iran-hold-the-hormuz-leverage-over-the-us-553594-2026-09-07"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -8.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2594431/falklands-flashpoint-argentina-moves-to-sanction-israeli-linked-oil-companies-as-dispute-with-britain-heats-up.html"
+      "domain": "wral.com",
+      "url": "https://www.wral.com/news/ap/c9b76-body-of-war-criminal-mladic-lies-in-state-in-serbian-capital-ahead-of-funeral/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "lankabusinessonline.com",
+      "url": "https://www.lankabusinessonline.com/2026/08/18/cabinet-approves-amendment-to-foreign-exchange-act-to-criminalize-unauthorized-outward-fund-transfers/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/us-squeeze-tests-tehran%E2%80%99s-ability-outlast-war"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -7.2,
       "treffer": [
-        "tanker"
+        "hormuz"
       ],
-      "domain": "1290wlby.com",
-      "url": "https://www.1290wlby.com/2026/09/06/u-s-strikes-three-iranian-oil-tankers-after-missile-attack-on-navy-ships/"
+      "domain": "jowhar.com",
+      "url": "https://jowhar.com/iran-to-announce-restricted-zone-near-the-strait-of-hormuz/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "arynews.tv",
+      "url": "https://arynews.tv/toll-yemen-clashes-passes-300-civilians-flee-homes"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "stcatharinesstandard.ca",
+      "url": "https://www.stcatharinesstandard.ca/news/world/germany-fights-gaza-genocide-claims-at-the-un-s-top-court/article_9fe58761-2e61-5101-b1c6-defeadb7948d.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/iran-vows-harsher-response-to-any-new-us-attack-steps-up-efforts-to-counter-sanctions/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/yemeni-forces-step-offensive-against-houthis-western-fronts"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/897789/strait-of-hormuz-iran-declares-new-exclusion-zone-after-missile-test%20title="
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/897789/strait-of-hormuz-iran-declares-new-exclusion-zone-after-missile-test"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -39,26 +111,63 @@
       "treffer": [
         "hormuz"
       ],
-      "domain": "kob.com",
-      "url": "https://www.kob.com/ap-top-news/ap-top-news-business/iran-claims-a-strike-on-a-us-ship-in-the-strait-of-hormuz-but-the-us-denies-it/"
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2627889/irans-rezaei-says-restricted-zone-to-be-announced-around-strait-of-hormuz"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.7,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2594456/secret-operation-u-s-navy-seals-spent-four-months-clearing-iranian-mines-from-strait-of-hormuz.html"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/ship-fuel-shortage-looms-refiners-favour-higher-value-products"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/deutsche-bank-expects-ecb-extend-055039000.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -4.0,
       "treffer": [
         "hormuz"
       ],
-      "domain": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/world/iran-nuclear-deal-might-be-delayed-until-regime-change-in-tehran-energy-secretary-says-6084096"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/the-moon-is-ours-to-bye-bye-kharg-trump-s-cryptic-truth-social-post-spree-article-14024079.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/tanker-strikes-drive-hormuz-shipping-lowest-level-may"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-slams-iran-destabilizing-actions-says-it-will-maintain"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/iran-raises-petrol-prices-heavy-users-amid-mounting-economic-pain"
     }
   ],
   "gkg_alter_stunden": 0.0
