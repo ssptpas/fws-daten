@@ -1,28 +1,37 @@
 {
-  "erstellt_am": "2026-09-07T14:46:02",
+  "erstellt_am": "2026-09-07T22:45:48",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260907124500",
+  "gkg_stand": "20260907204500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.7,
+      "tonalitaet": -9.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "campaignlive.co.uk",
-      "url": "https://www.campaignlive.co.uk/article/wpp-accuses-foster-of-misconduct-and-seeks-monetary-sanctions/4kh51vzrdg5emz2h8cj68r82x2"
+      "domain": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/09/07/cuba-denounces-record-economic-damage-us-embargo/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "silverbirdtv.com",
+      "url": "http://silverbirdtv.com/attack-on-mykolav-russian-missile-strike-kills-one-injures-16-people/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.1,
+      "tonalitaet": -7.3,
       "treffer": [
-        "coup"
+        "sanctions"
       ],
-      "domain": "campaignlive.co.uk",
-      "url": "https://www.campaignlive.co.uk/article/pepsi-publicis-coup-will-change-how-other-brands-and-agency-groups-behave/4pxhmxxm2eh0w757e8bb783nw6"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade"
     },
     {
       "kategorie": "Policy",
@@ -30,135 +39,62 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/world/germany-fights-gaza-genocide-claims-uns-top-court"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/business/2026/Sep/07/sensex-nifty-fall-05-as-crude-surges-to-usd-97-strait-of-hormuz-tensions-weigh-on-sentiment"
+      "domain": "jcpost.com",
+      "url": "https://jcpost.com/posts/371f3e69-2794-4026-b069-6ea9ab059979"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.5,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/national/parliament-panel-questions-delay-in-response-to-baiga-child-deaths-in-madhya-pradesh/article71438348.ece"
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432860"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.4,
+      "tonalitaet": -5.7,
       "treffer": [
         "airstrike"
       ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/asia/israeli-airstrikes-village-southern-lebanon-kill-9-people-wound-13"
+      "domain": "nbcphiladelphia.com",
+      "url": "https://www.nbcphiladelphia.com/news/national-international/israeli-airstrikes-southern-lebanon-kill-12-including-children/4459206/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -5.1,
       "treffer": [
-        "tanker"
+        "sanctions"
       ],
-      "domain": "pakistantelegraph.com",
-      "url": "http://www.pakistantelegraph.com/news/279291291/iranian-security-personnel-reportedly-killed-near-pakistan-border"
+      "domain": "kcby.com",
+      "url": "https://kcby.com/news/nation-world/trump-backs-data-centers-as-voter-concerns-grow-ahead-of-midterm-elections-armstrong-williams-republicans-democrats-artificial-intelligence-china-politics-energy-technology"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "ohiostandard.com",
-      "url": "http://www.ohiostandard.com/news/279291291/iranian-security-personnel-reportedly-killed-near-pakistan-border"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Breite",
       "tonalitaet": -4.9,
       "treffer": [
-        "red sea"
+        "cyberattack"
       ],
-      "domain": "cairoscene.com",
-      "url": "https://cairoscene.com/News/Egypt-Sends-Legal-Team-to-Saudi-Arabia-After-Umrah-Bus-Crash"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "wmur.com",
-      "url": "https://www.wmur.com/article/iran-announces-plan-strait-of-hormuz-exclusion-zone/73628966"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/money/ship-fuel-shortage-looms-refiners-strained-war-favour-other-products"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "nypost.com",
-      "url": "https://nypost.com/2026/09/07/world-news/iran-says-it-plans-to-create-new-restricted-zone-near-strait-of-hormuz-as-it-desperately-tries-to-control-chokepoint/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/state_national_news/israeli-airstrikes-hit-a-lebanese-village-killing-9-and-other-mideast-developments/article_bab08053-24f0-5a21-b286-e3f9f384f45e.html"
+      "domain": "newsbytes.ph",
+      "url": "https://newsbytes.ph/2026/09/08/hackers-claim-access-to-dmw-network-as-dict-probes-govt-cyberattacks/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/books/this-book-by-a-senior-civil-servant-recounts-a-14-year-fight-for-justice/article71427963.ece"
+      "domain": "eng.kavkaz-uzel.eu",
+      "url": "https://www.eng.kavkaz-uzel.eu/articles/78376"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "news.az",
-      "url": "https://news.az/news/us-terror-designation-forces-italian-tech-group-to-shut-down"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "yahoo.com",
-      "url": "https://finance.yahoo.com/energy/articles/india-crude-oil-benchmark-tops-110000096.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "ohiostandard.com",
-      "url": "http://www.ohiostandard.com/news/279286577/property-prices-in-ireland-17-above-economic-conditions"
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/opinion/2026/Sep/07/the-limits-of-grandstanding-in-diplomacy"
     }
   ],
   "gkg_alter_stunden": 0.0
