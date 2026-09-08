@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-09-07T22:45:01",
+  "erstellt_am": "2026-09-08T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.65",
@@ -406,8 +406,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.1,
-      "markt_datum": "2026-09-04",
+      "wert": -6.2,
+      "markt_datum": "2026-09-07",
       "leitzins_datum": "2026-09-07",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -455,8 +455,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.189",
-      "beobachtungsdatum": "2026-09-04",
+      "wert": "2.188",
+      "beobachtungsdatum": "2026-09-07",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -475,15 +475,15 @@
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
-      "wert": 0.978,
-      "beobachtungsdatum": "20260903",
+      "wert": 0.977,
+      "beobachtungsdatum": "20260904",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 27.19,
-      "beobachtungsdatum": "2026-09-04",
+      "wert": 32.05,
+      "beobachtungsdatum": "2026-09-08",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
