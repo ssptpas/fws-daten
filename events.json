@@ -1,259 +1,235 @@
 {
-  "erstellt_am": "2026-09-08T14:45:30",
+  "erstellt_am": "2026-09-08T22:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260908124500",
+  "gkg_stand": "20260908204500",
   "veraltet": false,
-  "anzahl": 27,
+  "anzahl": 25,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.0,
+      "kategorie": "Policy",
+      "tonalitaet": -18.5,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "kwit.org",
-      "url": "https://www.kwit.org/2026-09-08/houthi-attacks-on-saudi-arabia-ignite-fires-at-oil-facilities-and-wound-73-people"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.0,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "ifj.org",
-      "url": "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/lebanon-israeli-airstrike-hits-two-journalists"
+      "domain": "channel4.com",
+      "url": "https://www.channel4.com/news/heightened-west-bank-violence-the-backdrop-to-new-uk-sanctions"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.0,
+      "tonalitaet": -9.5,
       "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wwno.org",
-      "url": "https://www.wwno.org/npr-news/2026-09-08/houthi-attacks-on-saudi-arabia-ignite-fires-at-oil-facilities-and-wound-73-people"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/business/article-huawei-heads-to-trial-in-us-over-its-business-dealings-in-iran/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087356452-uk-announces-trade-ban-on-goods-from-israeli-settlements-in-west-bank"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "reviewjournal.com",
-      "url": "https://www.reviewjournal.com/news/politics-and-government/houthi-strikes-set-fire-to-saudi-oil-sites-and-wound-73-3883442/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "advocate-news.com",
-      "url": "https://www.advocate-news.com/2026/09/08/houthi-strikes-mideast-news/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-modi-putin-bilateral-meet-on-friday-gun-carrying-man-held-at-pms-mumbai-event-rijiju-slams-rahul/articleshow/133924375.cms"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/08/uk-expected-to-announce-sanctions-on-israeli-settlements-in-west-bank"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "sana.sy",
-      "url": "https://sana.sy/en/middle-east/2341288/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/pf/story/0001/20260908/b4d7354221bfe0c48e4bfce7a3b7624b"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/uk-government-ban-goods-israeli-settlements-west-bank-136266371"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newhamrecorder.co.uk",
-      "url": "https://www.newhamrecorder.co.uk/news/national/26530250.uk-facing-backlash-sanctions-israeli-west-bank-settlements/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/business/uk-government-will/S2KWDOV6AY6XRI4B5VTXYDVRZ4/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-8-2026.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/left-wing-pro-palestine-british-news-website-the-canary-halts-operations-after-being-debanked-by-second-lender.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "whec.com",
-      "url": "https://www.whec.com/top-news/what-to-know-about-canadas-retaliatory-tariffs-that-are-now-in-effect/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "stcatharinesstandard.ca",
-      "url": "https://www.stcatharinesstandard.ca/business/carney-warns-of-tough-times-ahead-in-national-address-as-retaliatory-tariffs-kick-in/article_a6744de9-2884-5568-9757-20b18099d5c1.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "advocate-news.com",
-      "url": "https://www.advocate-news.com/2026/09/08/carney-tariffs-us-canada-trade-war/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "eastbaytimes.com",
-      "url": "https://www.eastbaytimes.com/2026/09/08/carney-tariffs-us-canada-trade-war/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz",
         "tanker"
       ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-iran-working-to-speed-retaliation-tempo-as-it-fires-on-tankers-at-us-warships-and-ansar-allah-escalates-against-saudi-oil-facilities-brent-flirts-with-100-as-trump-hand-waves.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "kmbc.com",
-      "url": "https://www.kmbc.com/article/gas-prices-global-conflicts-refinery-strain/73638157"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "hormuz",
-        "crude oil"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-intel-coinbase-stock-price-news-8th-september-2026/liveblog/133925001.cms"
+      "domain": "iheart.com",
+      "url": "https://1061fmtalk.iheart.com/content/2026-09-08-us-strikes-iranian-oil-tanker-off-kharg-island/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "eastbaytimes.com",
-      "url": "https://www.eastbaytimes.com/2026/09/08/data-brokers-delete-californians-data-poor-compliance-record/"
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279294402/israel-targets-uk-diplomats-over-west-bank-trade-ban"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/09/08/iran-threatens-to-attack-us-bases-if-tankers-hit"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279294195/trump-envoys-brought-kiev-worse-peace-terms-ukrainian-mp"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/europe/eu-condemns-houthi-attacks-on-saudi-arabia-urges-immediate-halt/4051446"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ejpress.org",
+      "url": "https://ejpress.org/ban-on-products-from-judea-and-samaria-israel-hits-back-at-the-uk/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202609080683.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "antiwar.com",
+      "url": "https://news.antiwar.com/2026/09/08/ansar-allah-launches-major-attack-across-southwestern-saudi-arabia-setting-oil-sites-ablaze-and-wounding-dozens/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "finanzen.ch",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/u-s-stocks-move-mostly-lower-as-crude-oil-prices-surge-1036530136"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ejpress.org",
+      "url": "https://ejpress.org/uk-bans-judea-and-samaria-products-prompting-calls-for-reprisals/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/government-forces-announce-control-of-2-areas-in-yemens-taiz/4051428"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "thenationonlineng.net",
+      "url": "https://thenationonlineng.net/cbn-tightens-watch-on-banks-over-terrorism-financing/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/iran-media-says-us-missile-struck-iranian-tanker-off-kharg-island-3000974"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279294172/trumps-envoys-brought-kiev-worse-peace-terms-ukrainian-mp"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ideastream.org",
+      "url": "https://www.ideastream.org/2026-09-08/u-k-accuses-israeli-settlers-of-ethnic-cleansing-in-west-bank-and-bans-their-goods"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ejpress.org",
+      "url": "https://ejpress.org/france-leads-11-other-nations-calling-for-sanctions-against-settlement-goods/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "irishnews.com",
+      "url": "https://www.irishnews.com/news/northern-ireland/northern-ireland-law-society-chief-guilty-of-gross-misconduct-over-reference-for-paedophile-cousin-M34PF7EMUBGSZHVNLM4JI4UWLI/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/world/uk-france-canada-say-sanctions-turning-point-in-approach-to-protecting-2-state-solution/4051278"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bostonherald.com",
+      "url": "https://www.bostonherald.com/2026/09/08/sudan-aid-funding-cuts/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/-beginning-of-serious-outside-pressure-experts-say-new-sanctions-raise-stakes-for-israel/4051439"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "bostonglobe.com",
+      "url": "https://www.bostonglobe.com/2026/09/08/metro/massachusetts-companies-tariffs-chaos/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.1,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "qatar-tribune.com",
-      "url": "https://www.qatar-tribune.com/article/252760/latest-news/qatar-condemns-houthi-targeting-of-civilian-economic-sites-in-saudi-arabia"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/donald-trump-launches-strikes-irans-195500000.html"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.1,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.0,
       "treffer": [
-        "missile"
+        "central bank"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built"
+      "domain": "neworleanssun.com",
+      "url": "http://www.neworleanssun.com/news/279294749/wall-street-ends-sharply-lower-tuesday-in-broad-selloff"
     }
   ],
   "gkg_alter_stunden": 0.0
