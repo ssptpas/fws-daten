@@ -1,235 +1,264 @@
 {
-  "erstellt_am": "2026-09-08T22:45:29",
+  "erstellt_am": "2026-09-09T09:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260908204500",
+  "gkg_stand": "20260909074500",
   "veraltet": false,
-  "anzahl": 25,
+  "anzahl": 27,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -18.5,
+      "tonalitaet": -10.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "channel4.com",
-      "url": "https://www.channel4.com/news/heightened-west-bank-violence-the-backdrop-to-new-uk-sanctions"
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/national/india-condemns-houthi-attacks-on-saudi-oil-installations/article71446021.ece"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.4,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "miningjournal.net",
+      "url": "https://www.miningjournal.net/news/front-page-news/2026/09/california-man-arrested-following-multiple-felony-offenses/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.5,
+      "tonalitaet": -8.3,
       "treffer": [
-        "tanker"
+        "red sea"
       ],
-      "domain": "iheart.com",
-      "url": "https://1061fmtalk.iheart.com/content/2026-09-08-us-strikes-iranian-oil-tanker-off-kharg-island/"
+      "domain": "sandiegosun.com",
+      "url": "http://www.sandiegosun.com/news/279294396/scores-injured-in-houthi-attacks-on-saudi-arabia-s-4-cities"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Breite",
+      "tonalitaet": -8.3,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "lynnnews.co.uk",
+      "url": "https://www.lynnnews.co.uk/national/flight-disruption-not-caused-by-cyber-attack-says-air-traffic-control-boss-171449/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -7.7,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279294402/israel-targets-uk-diplomats-over-west-bank-trade-ban"
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/india-condemns-houthi-attacks-on-saudi-arabia-as-unacceptable-3538964/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "tonalitaet": -7.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/asia/undermining-regional-security-unacceptable-india-condemns-houthi-attacks-on-saudi-arabia20260909125112/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "stourbridgenews.co.uk",
+      "url": "https://www.stourbridgenews.co.uk/news/national/26533823.flight-disruption-not-caused-cyber-attack-says-air-traffic-control-boss/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2595995/israel-prepares-retaliatory-sanctions-against-europe.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "hormuz",
+        "red sea",
+        "tanker"
+      ],
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com/world/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "hormuz",
+        "red sea",
+        "tanker"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/09/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/09/latest-developments-in-the-us-iran-war"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "red sea",
+        "suez"
+      ],
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/houthis-helped-iraqi-militias-plan-drone-attacks-on-saudi-arabia-3538904/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "red sea",
+        "suez"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/iran-forging-new-ring-proxies-threaten-us-allies-136292836"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "red sea",
+        "tanker"
+      ],
+      "domain": "jamaicantimes.com",
+      "url": "http://www.jamaicantimes.com/news/279295545/us-destroys-5-iranian-tankers-as-tehran-strikes-back-across-gulf"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
       "treffer": [
         "tanker"
       ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/09/08/iran-threatens-to-attack-us-bases-if-tankers-hit"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279294195/trump-envoys-brought-kiev-worse-peace-terms-ukrainian-mp"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/europe/eu-condemns-houthi-attacks-on-saudi-arabia-urges-immediate-halt/4051446"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ejpress.org",
-      "url": "https://ejpress.org/ban-on-products-from-judea-and-samaria-israel-hits-back-at-the-uk/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202609080683.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "antiwar.com",
-      "url": "https://news.antiwar.com/2026/09/08/ansar-allah-launches-major-attack-across-southwestern-saudi-arabia-setting-oil-sites-ablaze-and-wounding-dozens/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "finanzen.ch",
-      "url": "https://www.finanzen.ch/nachrichten/aktien/u-s-stocks-move-mostly-lower-as-crude-oil-prices-surge-1036530136"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ejpress.org",
-      "url": "https://ejpress.org/uk-bans-judea-and-samaria-products-prompting-calls-for-reprisals/"
+      "domain": "salemnews.net",
+      "url": "https://www.salemnews.net/news/local-news/2026/09/us-military-says-it-destroyed-5-more-iranian-oil-tankers-after-missile-attacks-on-navy-warship/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.1,
       "treffer": [
-        "red sea"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/government-forces-announce-control-of-2-areas-in-yemens-taiz/4051428"
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price/"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Policy",
       "tonalitaet": -5.0,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "thenationonlineng.net",
-      "url": "https://thenationonlineng.net/cbn-tightens-watch-on-banks-over-terrorism-financing/"
+      "domain": "lynnnews.co.uk",
+      "url": "https://www.lynnnews.co.uk/national/ed-miliband-rejects-notion-that-israel-sanctions-put-british-jews-at-risk-171447/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
+      "tonalitaet": -4.9,
       "treffer": [
         "tanker"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/iran-media-says-us-missile-struck-iranian-tanker-off-kharg-island-3000974"
+      "domain": "ualrpublicradio.org",
+      "url": "https://www.ualrpublicradio.org/npr-news/2026-09-09/u-s-military-says-it-destroyed-5-iranian-oil-tankers-after-attacks-on-navy-warship"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279294172/trumps-envoys-brought-kiev-worse-peace-terms-ukrainian-mp"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ideastream.org",
-      "url": "https://www.ideastream.org/2026-09-08/u-k-accuses-israeli-settlers-of-ethnic-cleansing-in-west-bank-and-bans-their-goods"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ejpress.org",
-      "url": "https://ejpress.org/france-leads-11-other-nations-calling-for-sanctions-against-settlement-goods/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "irishnews.com",
-      "url": "https://www.irishnews.com/news/northern-ireland/northern-ireland-law-society-chief-guilty-of-gross-misconduct-over-reference-for-paedophile-cousin-M34PF7EMUBGSZHVNLM4JI4UWLI/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/uk-france-canada-say-sanctions-turning-point-in-approach-to-protecting-2-state-solution/4051278"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/09/08/sudan-aid-funding-cuts/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/-beginning-of-serious-outside-pressure-experts-say-new-sanctions-raise-stakes-for-israel/4051439"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.6,
       "treffer": [
         "tariffs"
       ],
-      "domain": "bostonglobe.com",
-      "url": "https://www.bostonglobe.com/2026/09/08/metro/massachusetts-companies-tariffs-chaos/"
+      "domain": "beijingbulletin.com",
+      "url": "http://www.beijingbulletin.com/news/279295356/us-hits-canada-with-new-import-bans-and-tariffs-in-trade-stand-off"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "eadt.co.uk",
+      "url": "https://www.eadt.co.uk/news/national/26533756.ed-miliband-rejects-notion-israel-sanctions-put-british-jews-risk/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/09/slovenia-turns-israeli-ally-new-embassy"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/09/slovenia-turns-israeli-ally-with-new-embassy"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.4,
       "treffer": [
         "hormuz"
       ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/donald-trump-launches-strikes-irans-195500000.html"
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/09/iran-us-trade-blows-hormuz-impasse-deepens"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.0,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.0,
       "treffer": [
-        "central bank"
+        "missile"
       ],
-      "domain": "neworleanssun.com",
-      "url": "http://www.neworleanssun.com/news/279294749/wall-street-ends-sharply-lower-tuesday-in-broad-selloff"
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/general/2595998/miracle-traveling-to-uman-russian-missile-lands-just-meters-from-yidden-on-way-to-uman.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "news.az",
+      "url": "https://news.az/news/jordan-intercepts-18-ballistic-missiles-fired-from-iran"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/ed-miliband-just-dug-hole-070000000.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16116679/Ed-Miliband-Israel-sanctions-Labour-Jewish-votes.html"
     }
   ],
   "gkg_alter_stunden": 0.0
