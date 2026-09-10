@@ -1,223 +1,123 @@
 {
-  "erstellt_am": "2026-09-10T14:46:03",
+  "erstellt_am": "2026-09-10T22:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260910124500",
+  "gkg_stand": "20260910204500",
   "veraltet": false,
-  "anzahl": 23,
+  "anzahl": 12,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-10-trump-predicts-end-iran-war-after-midterms.html"
+    },
+    {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -8.7,
+      "tonalitaet": -6.7,
       "treffer": [
         "central bank"
       ],
-      "domain": "thegazette.com",
-      "url": "http://www.thegazette.com/news/world/european-central-bank-raises-interest-rates-a-quarter-point-to-quell-inflation-as-iran-war/article_39d1753d-7c66-52ca-82e3-5142d661f5f5.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-steals-show"
+      "domain": "tucsonpost.com",
+      "url": "http://www.tucsonpost.com/news/279299154/ecb-hikes-interest-rates-25-bps-to-25-as-regional-tension-fuels-inflation-risk"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/news/iranian-press-review-cheers-erupt-us-warships-come-under-fire"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ch-aviation.com",
-      "url": "https://www.ch-aviation.com/news/171646-easyjet-readies-defence-against-73mn-russian-lease-claim"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/iranian-missiles-damage-us-aircraft-jordan-1875315"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -6.6,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/world/article_12294cea-dcaa-5690-93f6-1967ac2ffe59.html"
+      "domain": "lasvegassun.com",
+      "url": "https://lasvegassun.com/news/2026/sep/10/an-israeli-strike-in-gaza-kills-at-least-4-includi/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -6.2,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "jpost.com",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-908277"
+      "domain": "wsbradio.com",
+      "url": "https://www.wsbradio.com/news/world/israeli-strike-gaza/S6GPLYAD7QY2RBQUSJXNQFZMNE/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "air strike"
+      ],
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-injure-several-people-gaza"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "opec"
+      ],
+      "domain": "foreignpolicy.com",
+      "url": "https://foreignpolicy.com/2026/09/10/carlos-jackal-terrorism-palestine-opec-bombing-book-review/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/world/article-china-huawei-trial-opening-statements-us-prosecutors/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hawaiitribune-herald.com",
-      "url": "https://www.hawaiitribune-herald.com/2026/09/10/nation-world-news/federal-trial-against-huawei-begins-after-8-years/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "kisscasper.com",
-      "url": "https://kisscasper.com/ixp/102/p/hilltop-bank-casper-cyberattack-response/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
       "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/opinion/uk-settlement-trade-ban-lifts-decades-old-taboo"
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-uk-settlement-trade-ban-offers-lifeline-palestine-and-israel"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.9,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "azernews.az",
-      "url": "https://www.azernews.az/region/263683.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach/"
+      "domain": "wxow.com",
+      "url": "https://www.wxow.com/news/top-stories/global-oil-hits-105-per-barrel-and-bond-yields-surge/article_86376062-4247-5691-b2de-e303cc3185b1.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.8,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/693343"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mirror.co.uk",
-      "url": "https://www.mirror.co.uk/news/politics/donald-trump-had-up-here-37647250"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3689982"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
       "treffer": [
         "mandeb",
         "red sea",
         "suez"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/defence/yemens-houthis-close-in-on-stranglehold-over-strategic-bab-el-mandeb-strait/articleshow/134009046.cms"
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/region/263705.html"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Policy",
       "tonalitaet": -3.5,
       "treffer": [
-        "central bank"
-      ],
-      "domain": "lankanewspapers.com",
-      "url": "https://www.lankanewspapers.com/2026/09/10/sri-lanka-must-build-reserves-wisely-not-at-any-price-central-bank-warns"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://wgy.iheart.com/content/2026-09-10-iaea-board-refers-iran-to-un-security-council/"
+      "domain": "pymnts.com",
+      "url": "https://www.pymnts.com/legal/2026/dojs-new-fraud-division-puts-data-at-center-of-corporate-enforcement/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "outlookindia.com",
-      "url": "https://www.outlookindia.com/international/why-perim-island-matters-as-houthis-push-to-capture-yemens-mocha-port"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ch-aviation.com",
-      "url": "https://www.ch-aviation.com/news/115105-easyjet-returns-a319s-leased-from-russias-gtlk"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "kkoh.com",
-      "url": "https://www.kkoh.com/2026/09/10/yemens-perim-island-gains-new-strategic-importance-as-u-s-and-regional-tensions-rise/"
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/world/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea/article_f7b5c0d2-a0ab-56a5-bd67-982705891848.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
       "treffer": [
-        "hormuz",
-        "crude oil"
+        "tariffs"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-apple-oracle-tsmc-stock-price-news-10th-september-2026/liveblog/134009466.cms"
+      "domain": "orlandosentinel.com",
+      "url": "https://www.orlandosentinel.com/2026/09/10/canada-us-tariffs-doug-ford-election-2026/"
     }
   ],
   "gkg_alter_stunden": 0.0
