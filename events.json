@@ -1,128 +1,101 @@
 {
-  "erstellt_am": "2026-09-10T09:45:25",
+  "erstellt_am": "2026-09-10T14:46:03",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260910074500",
+  "gkg_stand": "20260910124500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 23,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -11.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com/stories/en/322350-yemen-rebels-report-fresh-saudi-strikes-as-conflict-deepens"
-    },
-    {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -10.3,
+      "tonalitaet": -8.7,
       "treffer": [
-        "insolvency"
+        "central bank"
       ],
-      "domain": "indiagazette.com",
-      "url": "http://www.indiagazette.com/news/279297563/ibbi-alerts-insolvency-professionals-against-misuse-of-ibc-framework-for-tax-avoidance-and-evading-investigations"
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/european-central-bank-raises-interest-rates-a-quarter-point-to-quell-inflation-as-iran-war/article_39d1753d-7c66-52ca-82e3-5142d661f5f5.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.9,
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
       "treffer": [
-        "red sea",
-        "tanker"
+        "sanctions"
       ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/brent-holds-above-100-tanker-012354000.html"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-steals-show"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.9,
       "treffer": [
-        "red sea"
+        "tanker"
       ],
-      "domain": "2news.com",
-      "url": "https://www.2news.com/news/national/israeli-strike-in-gaza-kills-4-including-children-and-other-mideast-developments/article_afc3da8a-899b-5a3a-b085-1c057a4c7a8a.html"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/iranian-press-review-cheers-erupt-us-warships-come-under-fire"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ch-aviation.com",
+      "url": "https://www.ch-aviation.com/news/171646-easyjet-readies-defence-against-73mn-russian-lease-claim"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/iranian-missiles-damage-us-aircraft-jordan-1875315"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
+      "tonalitaet": -5.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "the-messenger.com",
+      "url": "https://www.the-messenger.com/news/world/article_12294cea-dcaa-5690-93f6-1967ac2ffe59.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
       "treffer": [
         "red sea"
       ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/israeli-strike-in-gaza-kills-4-including-children-and-other-mideast-developments,169798"
+      "domain": "jpost.com",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-908277"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1195925/business/markets/oil-prices-flare-as-iran-tightens-grip-on-hormuz"
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/world/article-china-huawei-trial-opening-statements-us-prosecutors/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -5.1,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "bssnews.net",
-      "url": "https://www.bssnews.net/business/423013"
+      "domain": "hawaiitribune-herald.com",
+      "url": "https://www.hawaiitribune-herald.com/2026/09/10/nation-world-news/federal-trial-against-huawei-begins-after-8-years/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
+      "kategorie": "Breite",
+      "tonalitaet": -4.5,
       "treffer": [
-        "red sea"
+        "cyberattack"
       ],
-      "domain": "westernadvocate.com.au",
-      "url": "https://www.westernadvocate.com.au/story/9347382/trump-says-iran-war-will-end-after-us-midterm-elections/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9347382/trump-says-iran-war-will-end-after-us-midterm-elections/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1195927/world/region/trump-says-iran-war-to-end-after-us-midterm-elections"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "bssnews.net",
-      "url": "https://www.bssnews.net/business/423017"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/world/trump-iran-war-midterm-elections-pickaxe-mountain-6375171"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "globalvoices.org",
-      "url": "https://globalvoices.org/2026/09/10/south-korean-civil-society-says-no-to-military-deployment-to-hormuz/"
+      "domain": "kisscasper.com",
+      "url": "https://kisscasper.com/ixp/102/p/hilltop-bank-casper-cyberattack-response/"
     },
     {
       "kategorie": "Policy",
@@ -130,17 +103,121 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16119893/UK-US-forces-confront-Russian-vessels-foil-Moscow-plot-unleash-secret-new-weapon-disable-undersea-cables.html"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/opinion/uk-settlement-trade-ban-lifts-decades-old-taboo"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/region/263683.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "annahar.com",
-      "url": "https://www.annahar.com/articles/voices/345914/ankara-tehran-a-rivalry-without-warhow-does-it-maintain-it"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/693343"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mirror.co.uk",
+      "url": "https://www.mirror.co.uk/news/politics/donald-trump-had-up-here-37647250"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3689982"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/defence/yemens-houthis-close-in-on-stranglehold-over-strategic-bab-el-mandeb-strait/articleshow/134009046.cms"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "lankanewspapers.com",
+      "url": "https://www.lankanewspapers.com/2026/09/10/sri-lanka-must-build-reserves-wisely-not-at-any-price-central-bank-warns"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://wgy.iheart.com/content/2026-09-10-iaea-board-refers-iran-to-un-security-council/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "outlookindia.com",
+      "url": "https://www.outlookindia.com/international/why-perim-island-matters-as-houthis-push-to-capture-yemens-mocha-port"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ch-aviation.com",
+      "url": "https://www.ch-aviation.com/news/115105-easyjet-returns-a319s-leased-from-russias-gtlk"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "kkoh.com",
+      "url": "https://www.kkoh.com/2026/09/10/yemens-perim-island-gains-new-strategic-importance-as-u-s-and-regional-tensions-rise/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "hormuz",
+        "crude oil"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-apple-oracle-tsmc-stock-price-news-10th-september-2026/liveblog/134009466.cms"
     }
   ],
   "gkg_alter_stunden": 0.0
