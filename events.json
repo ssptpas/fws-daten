@@ -1,200 +1,146 @@
 {
-  "erstellt_am": "2026-09-09T22:45:51",
+  "erstellt_am": "2026-09-10T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260909204500",
+  "gkg_stand": "20260910074500",
   "veraltet": false,
-  "anzahl": 21,
+  "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "yahoo.com",
-      "url": "https://www.yahoo.com/news/us/articles/convicted-killer-claims-prosecution-misled-201025326.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/europe/italian-opposition-slams-government-for-not-joining-sanctions-on-illegal-israeli-settlements/4052295"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/us/us-sanctions-chinese-scam-network-after-doj-interdicts-illegal-online-marketplace-6085126"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.4,
+      "tonalitaet": -11.4,
       "treffer": [
         "red sea"
       ],
-      "domain": "americanbazaaronline.com",
-      "url": "https://americanbazaaronline.com/2026/09/09/brent-crude-tops-100-a-barrel-as-middle-east-conflict-escalates-487810/"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com/stories/en/322350-yemen-rebels-report-fresh-saudi-strikes-as-conflict-deepens"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -10.3,
       "treffer": [
-        "sanctions"
+        "insolvency"
       ],
-      "domain": "washingtonexaminer.com",
-      "url": "http://www.washingtonexaminer.com/news/world/4718355/white-house-quiet-uk-sanctions-israeli-settler-terrorists/"
+      "domain": "indiagazette.com",
+      "url": "http://www.indiagazette.com/news/279297563/ibbi-alerts-insolvency-professionals-against-misuse-of-ibc-framework-for-tax-avoidance-and-evading-investigations"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
+      "tonalitaet": -7.9,
+      "treffer": [
+        "red sea",
+        "tanker"
+      ],
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/brent-holds-above-100-tanker-012354000.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "abc6onyourside.com",
-      "url": "https://abc6onyourside.com/news/entertainment/nicolas-cages-home-threatened-by-25-foot-deep-sinkhole"
+      "domain": "2news.com",
+      "url": "https://www.2news.com/news/national/israeli-strike-in-gaza-kills-4-including-children-and-other-mideast-developments/article_afc3da8a-899b-5a3a-b085-1c057a4c7a8a.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
+      "tonalitaet": -6.8,
       "treffer": [
         "red sea"
       ],
-      "domain": "wwmt.com",
-      "url": "https://wwmt.com/news/entertainment/nicolas-cages-home-threatened-by-25-foot-deep-sinkhole"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/americas/us-dismantles-alleged-24b-chinese-cybercrime-ring/4052415"
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/israeli-strike-in-gaza-kills-4-including-children-and-other-mideast-developments,169798"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
+      "tonalitaet": -5.2,
       "treffer": [
         "hormuz"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/russia-ukraine-war/un-chief-deeply-concerned-over-strait-of-hormuz-escalation/4052410"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "jamaicaobserver.com",
-      "url": "https://www.jamaicaobserver.com/2026/09/09/cyberattack-ruled-uk-air-traffic-glitch-hit-hundreds-flights/"
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1195925/business/markets/oil-prices-flare-as-iran-tightens-grip-on-hormuz"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -5.1,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "hormuz"
       ],
-      "domain": "myfox28columbus.com",
-      "url": "https://myfox28columbus.com/news/nation-world/100-oil-returns-as-renewed-iran-fighting-threatens-inflation-progress-strait-of-hormuz-tankers-gasoline-diesel-economy"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cnn.com",
-      "url": "https://www.cnn.com/2026/09/09/politics/iran-war-end-midterms-trump"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mcall.com",
-      "url": "https://www.mcall.com/2026/09/09/netanyahu-un-trip-mamdani/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/uk-recognition-of-unlawful-israeli-occupation-marks-huge-shift-but-response-falls-short-scholars-say/4052580"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "elciudadano.com",
-      "url": "https://www.elciudadano.com/en/mother-of-martin-gonzalez-to-take-case-to-inter-american-court-of-human-rights-after-supreme-court-rejection-the-state-has-failed-us/09/09/"
+      "domain": "bssnews.net",
+      "url": "https://www.bssnews.net/business/423013"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "finanznachrichten.de",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69537954-surging-crude-oil-prices-continue-to-weigh-on-wall-street-020.htm"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/trump-to-speak-with-israel-nations-that-imposed-sanctions-on-illegal-settlements/4052594"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -5.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/yemeni-army-says-it-captured-vast-areas-from-houthis-in-northern-yemen/4052504"
+      "domain": "westernadvocate.com.au",
+      "url": "https://www.westernadvocate.com.au/story/9347382/trump-says-iran-war-will-end-after-us-midterm-elections/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "edenmagnet.com.au",
+      "url": "https://www.edenmagnet.com.au/story/9347382/trump-says-iran-war-will-end-after-us-midterm-elections/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1195927/world/region/trump-says-iran-war-to-end-after-us-midterm-elections"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "bssnews.net",
+      "url": "https://www.bssnews.net/business/423017"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/trump-iran-war-midterm-elections-pickaxe-mountain-6375171"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "globalvoices.org",
+      "url": "https://globalvoices.org/2026/09/10/south-korean-civil-society-says-no-to-military-deployment-to-hormuz/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279296512/iranian-currency-hits-new-low-as-us-pressure-intensifies"
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16119893/UK-US-forces-confront-Russian-vessels-foil-Moscow-plot-unleash-secret-new-weapon-disable-undersea-cables.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "guardian-series.co.uk",
-      "url": "https://www.guardian-series.co.uk/news/national/26537202.merz-weidel-clash-german-parliament-far-right-partys-election-win/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thetimes-tribune.com",
-      "url": "https://www.thetimes-tribune.com/2026/09/09/iran-nuclear-watchdog/"
+      "domain": "annahar.com",
+      "url": "https://www.annahar.com/articles/voices/345914/ankara-tehran-a-rivalry-without-warhow-does-it-maintain-it"
     }
   ],
   "gkg_alter_stunden": 0.0

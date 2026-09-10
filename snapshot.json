@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-09-09T22:45:01",
+  "erstellt_am": "2026-09-10T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.67",
@@ -22,8 +22,8 @@
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.41",
-      "beobachtungsdatum": "2026-09-08",
+      "wert": "0.4",
+      "beobachtungsdatum": "2026-09-09",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -48,7 +48,7 @@
     },
     "Inflationserwartung_10J": {
       "wert": "2.37",
-      "beobachtungsdatum": "2026-09-08",
+      "beobachtungsdatum": "2026-09-09",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -406,8 +406,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.2,
-      "markt_datum": "2026-09-08",
+      "wert": -6.1,
+      "markt_datum": "2026-09-09",
       "leitzins_datum": "2026-09-09",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -455,8 +455,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.188",
-      "beobachtungsdatum": "2026-09-08",
+      "wert": "2.189",
+      "beobachtungsdatum": "2026-09-09",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -476,14 +476,14 @@
     },
     "Japan_Tagesgeldsatz": {
       "wert": 0.977,
-      "beobachtungsdatum": "20260907",
+      "beobachtungsdatum": "20260908",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 32.05,
-      "beobachtungsdatum": "2026-09-08",
+      "wert": 30.55,
+      "beobachtungsdatum": "2026-09-10",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -497,7 +497,7 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
-      "wert": 76.14,
+      "wert": 76.74,
       "beobachtungsdatum": "2026-09-09",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
