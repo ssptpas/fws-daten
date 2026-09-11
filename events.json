@@ -1,46 +1,37 @@
 {
-  "erstellt_am": "2026-09-11T09:45:29",
+  "erstellt_am": "2026-09-11T14:45:53",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260911074500",
+  "gkg_stand": "20260911124500",
   "veraltet": false,
-  "anzahl": 20,
+  "anzahl": 15,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -10.7,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-section-197-crpc-custodial-violence-molestation-crime-up-police-official-duty-549694"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cei.int",
-      "url": "https://www.cei.int/ansa/180030"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/news/under-siege-iran-strategy-crossroads-war-attrition"
+      "domain": "jpost.com",
+      "url": "https://www.jpost.com/opinion/article-908212"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
+      "tonalitaet": -6.6,
       "treffer": [
         "red sea"
       ],
-      "domain": "gulfnews.com",
-      "url": "https://gulfnews.com/business/energy/saudi-oil-pipeline-may-be-hit-as-houthi-attacks-escalate-report-1.500670510"
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279300666/eu-can-forget-about-competitiveness-at-current-energy-prices-tusk"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "malacca"
+      ],
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/qnd/russia/articles/2026091172542.aspx"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -50,151 +41,114 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279300167/oil-hits-4-month-high-as-hormuz-red-sea-risks-mount"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11131182/as-trump-squeezes-the-international-criminal-court-more-countries-are-leaving.html"
+      "domain": "russiaherald.com",
+      "url": "http://www.russiaherald.com/news/279300167/oil-hits-4-month-high-as-hormuz-red-sea-risks-mount"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "tonalitaet": -5.1,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/trump-defends-iran-war-us-diesel-prices-rise-1819207"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/qnd/china/articles/2026091173027.aspx"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "gulfnews.com",
-      "url": "https://gulfnews.com/uae/us-iran-conflict-what-uae-residents-need-to-know-today-sept-11-1.500670568"
+      "domain": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/world/south-korea-iran-foreign-ministers-discuss-hormuz-in-call-3001317"
+      "domain": "dw.com",
+      "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/top-news-of-the-day-bangladesh-says-pm-was-not-invited-for-brics-summit-houthis-reach-yemeni-island-in-bab-el-mandeb-and-more/article71456050.ece"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.0,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
       "domain": "pakobserver.net",
-      "url": "https://pakobserver.net/trump-rejects-saudi-crown-princes-call-for-action-against-houthis/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/ap_business/the-us-has-made-progress-in-reopening-the-strait-of-hormuz-but-the-iran-war/article_e33c4a74-27c0-5f1e-8812-953157ebc8ad.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11131028/the-us-has-loosened-irans-grip-on-the-strait-of-hormuz-but-the-costly-war-is-far-from-over.html"
+      "url": "https://pakobserver.net/new-front-opens-in-us-iran-war-as-houthis-reach-key-perim-island-in-bab-el-mandeb/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.8,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "wmra.org",
-      "url": "https://www.wmra.org/2026-09-11/iran-backed-houthi-rebels-seize-strategic-red-sea-port-in-yemen"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-161"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/ed-miliband-showered-praise-hamas-070500000.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cleveland19.com",
-      "url": "https://www.cleveland19.com/2026/09/11/diesel-prices-spike-650-gallon-cleveland-area-gas-station/"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/usiran-escalation-to-delay-oil-flow-recovery-into-next-year-iea-says-101789117911120.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "afr.com",
-      "url": "https://www.afr.com/markets/commodities/traders-see-no-end-to-sky-high-oil-price-as-houthis-head-to-red-sea-20260911-p60wl2"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.6,
       "treffer": [
         "mandeb",
         "red sea"
       ],
       "domain": "pakobserver.net",
-      "url": "https://pakobserver.net/psx-plunges-another-2600-points-as-middle-east-tensions-trigger-sell-off/"
+      "url": "https://pakobserver.net/saudi-arabia-launches-airstrikes-on-yemens-mokha-airport/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "afr.com",
-      "url": "https://www.afr.com/politics/federal/labor-eyes-new-israel-sanctions-but-resists-party-calls-for-trade-ban-20260911-p60wi0"
+      "domain": "woonsocketcall.com",
+      "url": "https://www.woonsocketcall.com/news/national_and_world_news/us-futures-up-oil-prices-down-ahead-of-one-of-the-more-crucial-reads-on/article_69ebb9b1-3a81-57de-bf0b-37b0581b2e80.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-microfinance-fraud-case-549704"
+      "domain": "jpost.com",
+      "url": "https://www.jpost.com/israel-news/article-908382"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.0,
       "treffer": [
-        "central bank"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "theconservativetreehouse.com",
-      "url": "https://theconservativetreehouse.com/blog/2026/09/10/eu-central-bank-raises-interest-rates-on-eu-citizens-to-avoid-settling-ukraine-russia-conflict/comment-page-1/"
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/ap/national/houthis-capture-red-sea-island-in-threat-to-shipping-and-other-mideast-developments/article_262c9709-e964-5c5c-8301-9e6134223d71.html"
     }
   ],
   "gkg_alter_stunden": 0.0
