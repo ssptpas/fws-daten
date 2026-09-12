@@ -1,127 +1,97 @@
 {
-  "erstellt_am": "2026-09-12T09:45:29",
+  "erstellt_am": "2026-09-12T14:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260912074500",
+  "gkg_stand": "20260912124500",
   "veraltet": false,
   "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
+      "kategorie": "Policy",
+      "tonalitaet": -8.0,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260912/324485fad65647d4a897d5bfdcb7849c"
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/my-europe/2026/09/12/at-least-11-killed-in-russian-attacks-on-ukraine-as-kyiv-strikes-russias-shadow-fleet"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -7.7,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279302339/drone-attacks-shut-down-key-saudi-oil-pipeline-satellite-photos"
+      "domain": "wboc.com",
+      "url": "https://www.wboc.com/news/international/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/article_03b152e7-942a-5a38-9c3b-4e5359986473.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/84330"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/84327"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -7.5,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "vindy.com",
-      "url": "https://www.vindy.com/news/national-news/2026/09/nation-and-world-at-a-glance-for-september-12/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/09/ncaa-fines-rwandair-n15m-over-unresolved-baggage-issue-orders-170-passenger-compensation/"
+      "domain": "orissapost.com",
+      "url": "https://www.orissapost.com/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "tonalitaet": -7.3,
       "treffer": [
         "mandeb",
-        "red sea",
-        "suez"
+        "red sea"
       ],
-      "domain": "erienewsnow.com",
-      "url": "https://www.erienewsnow.com/news/national/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies/article_34570745-e0c1-57d2-bc9f-6f2db8151429.html"
+      "domain": "timeslive.co.za",
+      "url": "https://www.timeslive.co.za/news/world/2026-09-12-iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "cp24.com",
+      "url": "https://www.cp24.com/news/world/2026/09/12/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -6.4,
       "treffer": [
-        "sanctions"
+        "sanctions",
+        "tariffs"
       ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/84331"
+      "domain": "dailyexcelsior.com",
+      "url": "https://www.dailyexcelsior.com/brics-declaration-backs-indias-unsc-aspirations-condemns-j-voices-concern-over-unilateral-tariffs/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/syfnyhgfgx"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.4,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "reviewonline.com",
-      "url": "https://www.reviewonline.com/news/local-news/2026/09/houthis-seize-an-island-opening-a-new-front-in-the-iran-war-as-saudi-arabia-shuts-down-a-pipeline/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2628884/us-signals-no-imminent-strikes-on-houthis-but-points-to-intel-support-for-saudis-report"
+      "domain": "bicesteradvertiser.net",
+      "url": "https://www.bicesteradvertiser.net/news/national/26544769.iraq-confirms-attacks-saudi-pipeline-originated-iraqi-territory/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
+        "sanctions"
       ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260912/025d052a14d9481258d51009a76d0bd6"
+      "domain": "edenmagnet.com.au",
+      "url": "https://www.edenmagnet.com.au/story/9348988/trump-claims-he-could-settle-a-war-over-the-falklands/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -130,28 +100,57 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "wmuk.org",
-      "url": "https://www.wmuk.org/npr-news/2026-09-12/yemens-houthis-capture-a-red-sea-island-in-threat-to-shipping"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "memphissun.com",
+      "url": "http://www.memphissun.com/news/279299211/iran-faces-new-nuclear-pressure-from-iaea"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "islamicinvitationturkey.com",
+      "url": "https://www.islamicinvitationturkey.com/yemen-hezbollah-ansarullah-advances-along-yemens-red-sea-coast/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hackneygazette.co.uk",
+      "url": "https://www.hackneygazette.co.uk/news/national/26544849.donald-trump-claims-settle-war-falklands/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.6,
       "treffer": [
         "mandeb",
+        "red sea"
+      ],
+      "domain": "kathmandupost.com",
+      "url": "https://kathmandupost.com/world/2026/09/12/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "mandeb",
         "red sea",
         "suez"
       ],
-      "domain": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-1-45-a-m-edt/article_4fa4f2f6-03c4-5e87-a655-b07bc42c65a8.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/84322"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened/"
     }
   ],
   "gkg_alter_stunden": 0.0
