@@ -1,88 +1,48 @@
 {
-  "erstellt_am": "2026-09-12T14:45:27",
+  "erstellt_am": "2026-09-12T22:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260912124500",
+  "gkg_stand": "20260912204500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 8,
   "ereignisse": [
     {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -8.0,
+      "tonalitaet": -7.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/my-europe/2026/09/12/at-least-11-killed-in-russian-attacks-on-ukraine-as-kyiv-strikes-russias-shadow-fleet"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wboc.com",
-      "url": "https://www.wboc.com/news/international/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/article_03b152e7-942a-5a38-9c3b-4e5359986473.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "orissapost.com",
-      "url": "https://www.orissapost.com/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "timeslive.co.za",
-      "url": "https://www.timeslive.co.za/news/world/2026-09-12-iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "cp24.com",
-      "url": "https://www.cp24.com/news/world/2026/09/12/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/"
+      "domain": "klif.com",
+      "url": "https://www.klif.com/2026/09/12/u-s-pushes-more-countries-to-leave-international-criminal-court-as-five-file-exit-notices/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.4,
+      "tonalitaet": -5.7,
       "treffer": [
-        "sanctions",
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "dailyexcelsior.com",
-      "url": "https://www.dailyexcelsior.com/brics-declaration-backs-indias-unsc-aspirations-condemns-j-voices-concern-over-unilateral-tariffs/"
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/top-headlines/brics-adopts-declaration-despite-divide-on-west-asia-calls-for-end-to-global-turmoil/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.6,
       "treffer": [
         "mandeb",
-        "red sea"
+        "red sea",
+        "suez"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "bicesteradvertiser.net",
-      "url": "https://www.bicesteradvertiser.net/news/national/26544769.iraq-confirms-attacks-saudi-pipeline-originated-iraqi-territory/"
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/nation/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies/article_8e1cce20-7a19-5542-ae20-778225d726f9.html"
     },
     {
       "kategorie": "Policy",
@@ -90,67 +50,35 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9348988/trump-claims-he-could-settle-a-war-over-the-falklands/"
+      "domain": "singaporestar.com",
+      "url": "http://www.singaporestar.com/news/279303416/un-calls-terrorism-scourge-with-no-borders-stresses-no-double-standards-in-fight-against-terror"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.9,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
       "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha"
+      "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "theepochtimes.com",
+      "url": "https://www.theepochtimes.com/world/us-blockade-of-iran-redirects-100-ships-in-60-days-centcom-says-6086693"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.1,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "memphissun.com",
-      "url": "http://www.memphissun.com/news/279299211/iran-faces-new-nuclear-pressure-from-iaea"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/yemen-hezbollah-ansarullah-advances-along-yemens-red-sea-coast/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hackneygazette.co.uk",
-      "url": "https://www.hackneygazette.co.uk/news/national/26544849.donald-trump-claims-settle-war-falklands/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "kathmandupost.com",
-      "url": "https://kathmandupost.com/world/2026/09/12/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened/"
+      "domain": "businesstoday.in",
+      "url": "https://www.businesstoday.in/world/story/brics-flags-unilateral-tariffs-non-tariff-measures-as-trade-tensions-reshape-global-economy-555210-2026-09-12"
     }
   ],
   "gkg_alter_stunden": 0.0
