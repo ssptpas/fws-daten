@@ -1,8 +1,8 @@
 {
-  "erstellt_am": "2026-09-12T22:45:27",
+  "erstellt_am": "2026-09-13T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260912204500",
+  "gkg_stand": "20260913074500",
   "veraltet": false,
   "anzahl": 8,
   "ereignisse": [
@@ -10,10 +10,10 @@
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -7.4,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/world/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-6380641"
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/vessel-struck-by-unidentified-munition-in-strait-of-hormuz-uk-maritime-authority/"
     },
     {
       "kategorie": "Policy",
@@ -21,64 +21,69 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "klif.com",
-      "url": "https://www.klif.com/2026/09/12/u-s-pushes-more-countries-to-leave-international-criminal-court-as-five-file-exit-notices/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/top-headlines/brics-adopts-declaration-despite-divide-on-west-asia-calls-for-end-to-global-turmoil/"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/explained-why-the-west-is-acting-now-on-israels-settler-terrorists-ethnic-cleansing-of-west-bank/articleshow/133968865.cms"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
+      "tonalitaet": -5.5,
       "treffer": [
         "mandeb",
         "red sea",
         "suez"
       ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/nation/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies/article_8e1cce20-7a19-5542-ae20-778225d726f9.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "singaporestar.com",
-      "url": "http://www.singaporestar.com/news/279303416/un-calls-terrorism-scourge-with-no-borders-stresses-no-double-standards-in-fight-against-terror"
+      "domain": "tradearabia.com",
+      "url": "https://tradearabia.com:443/News/486090/Saudi-pipeline-shutdown-raises-fresh-threat-of-oil-price-surge"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.9,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran"
+      "domain": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/world/iraq-says-saudi-pipeline-attacks-launched-from-its-territory-1987150"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -4.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "gazettextra.com",
+      "url": "http://www.gazettextra.com/news/nation_world/ap-news-summary-at-12-56-a-m-edt/article_80f6f365-9fc6-5d3c-9027-6e95aa24ac3c.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "dailyliberal.com.au",
+      "url": "https://www.dailyliberal.com.au/story/9349038/strait-of-hormuz-shipping-attacks-fuel-oil-supply-fears/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
       "treffer": [
         "hormuz"
       ],
-      "domain": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/world/us-blockade-of-iran-redirects-100-ships-in-60-days-centcom-says-6086693"
+      "domain": "gazettextra.com",
+      "url": "http://www.gazettextra.com/news/nation_world/an-iranian-commercial-ship-was-struck-near-the-strait-of-hormuz-with-1-person-killed/article_08e3888a-44b4-5eb3-a15b-0b5ceb1d69c6.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
       "treffer": [
-        "tariffs"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "businesstoday.in",
-      "url": "https://www.businesstoday.in/world/story/brics-flags-unilateral-tariffs-non-tariff-measures-as-trade-tensions-reshape-global-economy-555210-2026-09-12"
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279304170/houthis-asked-us-not-to-intervene-in-yemen-conflict-trump"
     }
   ],
   "gkg_alter_stunden": 0.0
