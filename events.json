@@ -1,39 +1,83 @@
 {
-  "erstellt_am": "2026-09-13T09:45:25",
+  "erstellt_am": "2026-09-13T14:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260913074500",
+  "gkg_stand": "20260913124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 12,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.4,
+      "tonalitaet": -7.6,
       "treffer": [
         "hormuz"
       ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/vessel-struck-by-unidentified-munition-in-strait-of-hormuz-uk-maritime-authority/"
+      "domain": "iheart.com",
+      "url": "https://jetradio1400.iheart.com/content/2026-09-13-vessel-attacked-in-strait-of-hormuz/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.6,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260913-2-palestinians-killed-13-injured-in-israeli-drone-strike-on-vehicle-in-gaza/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "tonalitaet": -6.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/explained-why-the-west-is-acting-now-on-israels-settler-terrorists-ethnic-cleansing-of-west-bank/articleshow/133968865.cms"
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/at-brics-indias-modi-warns-geopolitical-tensions-and-supply-chain-shocks-threaten-global-stability/article_a195269f-e123-5e17-9dee-00f8bc3e3b49.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/iran-backed-houthis-in-yemen-claim-new-attacks-on-saudi-arabia/article_804e54dc-aefa-53f5-afc9-5352117010d2.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.5,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
+        "red sea"
       ],
-      "domain": "tradearabia.com",
-      "url": "https://tradearabia.com:443/News/486090/Saudi-pipeline-shutdown-raises-fresh-threat-of-oil-price-surge"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260913-from-maximum-pressure-to-maximum-leverage-what-a-us-iran-nuclear-deal-should-look-like/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1811782.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260913-israel-launches-fresh-airstrikes-artillery-attacks-on-southern-lebanon/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/sep/13/russian-airstrikes-kill-8-civilians/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -42,48 +86,40 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "deccanchronicle.com",
-      "url": "https://www.deccanchronicle.com/world/iraq-says-saudi-pipeline-attacks-launched-from-its-territory-1987150"
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/sep/13/iraq-said-origin-point-of-strikes-on-saudi-oil/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "tonalitaet": -4.7,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "gazettextra.com",
-      "url": "http://www.gazettextra.com/news/nation_world/ap-news-summary-at-12-56-a-m-edt/article_80f6f365-9fc6-5d3c-9027-6e95aa24ac3c.html"
+      "domain": "hngnews.com",
+      "url": "http://www.hngnews.com/nation_world/ap-news-in-brief-at-6-04-a-m-edt/article_1afebc02-8ae5-5c9f-82fa-9ccbbed9d0ce.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
+      "tonalitaet": -4.2,
       "treffer": [
         "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "dailyliberal.com.au",
-      "url": "https://www.dailyliberal.com.au/story/9349038/strait-of-hormuz-shipping-attacks-fuel-oil-supply-fears/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "gazettextra.com",
-      "url": "http://www.gazettextra.com/news/nation_world/an-iranian-commercial-ship-was-struck-near-the-strait-of-hormuz-with-1-person-killed/article_08e3888a-44b4-5eb3-a15b-0b5ceb1d69c6.html"
+      "domain": "nbcmiami.com",
+      "url": "https://www.nbcmiami.com/news/national-international/one-dead-iranian-commercial-ship-struck-near-strait-of-hormuz/3858481/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
+        "hormuz",
         "mandeb",
-        "red sea"
+        "red sea",
+        "suez"
       ],
       "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279304170/houthis-asked-us-not-to-intervene-in-yemen-conflict-trump"
+      "url": "http://www.iraqsun.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm"
     }
   ],
   "gkg_alter_stunden": 0.0
