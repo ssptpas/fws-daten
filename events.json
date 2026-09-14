@@ -1,95 +1,142 @@
 {
-  "erstellt_am": "2026-09-14T14:46:03",
+  "erstellt_am": "2026-09-14T22:46:04",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260914124500",
+  "gkg_stand": "20260914204500",
   "veraltet": false,
   "anzahl": 19,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -9.5,
       "treffer": [
-        "red sea",
-        "suez"
+        "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://wflanews.iheart.com/content/2026-09-14-saudi-pipeline-photos-show-extensive-damage/"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/84492"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.3,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "scmp.com",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3367485/us-blocks-irans-nuclear-chief-vienna-meeting"
+      "domain": "dunyanews.tv",
+      "url": "https://dunyanews.tv/en/World/972871-iran-protests-as-us-prevents-its-nuclear-chief-attending-iaea-meeting"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.9,
+      "tonalitaet": -6.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/iran-nuclear-chief-barred-from-iaea-meeting-tehran-blames-us/"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/84494"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "netscape.com",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20260914/ac402258f242b2cc6f43684be3680713"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.4,
+      "tonalitaet": -6.0,
       "treffer": [
-        "missile"
+        "invasion"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260914-houthis-claim-large-scale-missile-drone-attack-on-king-khalid-air-base-in-saudi-arabia/"
+      "domain": "jamaica-star.com",
+      "url": "http://jamaica-star.com/article/news/20260914/home-invasion-turns-ugly-two-men-allegedly-attack-woman"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
+      "tonalitaet": -6.0,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260914-ansar-allah-gaza-and-the-great-gulf-contradiction/"
+      "domain": "wsvn.com",
+      "url": "https://wsvn.com/news/us-world/saudi-arabia-has-shut-a-critical-oil-pipeline-heres-why-it-matters-for-the-global-oil-market/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "red sea",
+        "suez"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/world/articles/houthis-target-saudi-iran-denies-100359887.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "truthout.org",
+      "url": "https://truthout.org/articles/key-saudi-pipeline-to-be-shut-down-for-weeks-as-diesel-prices-hit-record-highs/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "yahoo.com",
-      "url": "https://www.yahoo.com/news/articles/iran-protests-us-prevents-nuclear-114847982.html"
+      "domain": "nypost.com",
+      "url": "https://nypost.com/2026/09/14/world-news/nicolas-maduros-ally-alex-saab-to-plead-guilty-in-federal-money-laundering-case/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/does-closure-saudi-arabias-east-185521000.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/84495"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bgnes.com",
+      "url": "http://www.bgnes.com/politics/eu-extends-deadline-for-russia-sanctions"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.5,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "timesofoman.com",
-      "url": "https://timesofoman.com/article/176922-oman-oil-price-spikes-to-12762-per-barrel-on-supply-fears"
+      "domain": "crookwellgazette.com.au",
+      "url": "https://www.crookwellgazette.com.au/story/9350230/houthis-advance-in-yemen-seize-two-red-sea-islands/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "red sea",
-        "suez"
-      ],
-      "domain": "irishsun.com",
-      "url": "http://www.irishsun.com/news/279305535/iran-denies-role-in-saudi-pipeline-attack"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.5,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "haaretz.com",
-      "url": "https://www.haaretz.com/middle-east-news/2026-09-14/ty-article/houthis-seize-additional-red-sea-islands-tightening-grip-on-key-shipping-route/000001a0-9f53-d219-a3ed-bfdbccb90000"
+      "domain": "bendigoadvertiser.com.au",
+      "url": "https://www.bendigoadvertiser.com.au/story/9350230/houthis-advance-in-yemen-seize-two-red-sea-islands/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -97,8 +144,8 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260914-oman-fm-announces-postponement-of-iran-gulf-states-meeting-in-salalah/"
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/costco-nearly-doubles-kirkland-motor-195848000.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -106,17 +153,17 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16129909/Pump-prices-hit-new-Iran-war-highs-oil-prices-spike-Brits-facing-fresh-cost-living-crisis.html"
+      "domain": "dailybulletin.com",
+      "url": "https://www.dailybulletin.com/2026/09/14/john-seiler-a-requiem-for-maga/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.6,
       "treffer": [
-        "tanker"
+        "red sea"
       ],
-      "domain": "utahindependent.com",
-      "url": "http://www.utahindependent.com/news/279305308/indian-sailor-missing-after-oil-tanker-attacked-off-oman"
+      "domain": "sana.sy",
+      "url": "https://sana.sy/en/middle-east/2342824/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -124,65 +171,17 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/top-news-of-the-day-september-14-2026/article71466006.ece"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2629239/central-bank-keeps-policy-rate-unchanged-at-115"
+      "domain": "chronicleonline.com",
+      "url": "https://www.chronicleonline.com/news/local/crossing-the-4-mark/article_bf96ef61-d135-5ec5-9541-61f2f4071877.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.4,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "mandeb"
       ],
-      "domain": "theitem.com",
-      "url": "http://www.theitem.com/stories/iranian-cargo-ship-is-struck-and-talks-between-tehran-and-its-neighbors-are-postponed,447097"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hottalkradio.com",
-      "url": "https://www.hottalkradio.com/news/2026/09/14/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "prospectmagazine.co.uk",
-      "url": "https://www.prospectmagazine.co.uk/world/middle-east/74694/a-most-surprising-alliance-balochistans-quest-for-friendship-with-israel"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dw.com",
-      "url": "https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through"
+      "domain": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints"
     }
   ],
   "gkg_alter_stunden": 0.0
