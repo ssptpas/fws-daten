@@ -1,75 +1,71 @@
 {
-  "erstellt_am": "2026-09-13T22:45:24",
+  "erstellt_am": "2026-09-14T09:45:38",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260913204500",
+  "gkg_stand": "20260914074500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "khabaragency.net",
-      "url": "https://www.khabaragency.net/news252882.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/oman-says-planned-hormuz-talks-with-iran-gulf-states-postponed-state-media-3001574"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20260913/af8faa88a444ec429a3d1b5df7b89da1"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/world/2026/09/13/somalis-rethink-trade-routes-as-houthis-disrupt-established-shipping-channels/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -5.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailymaverick.co.za",
-      "url": "https://www.dailymaverick.co.za/opinionista/2026-09-13-langa-massacre-and-sa-in-1985-vignettes-for-resisting-global-authoritarianism/"
+      "domain": "theadvocate.com.au",
+      "url": "https://www.theadvocate.com.au/story/9348899/doctor-suspended-for-six-months-after-relationship-with-patient/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "brisbanetimes.com.au",
+      "url": "https://www.brisbanetimes.com.au/business/companies/fuel-price-blowout-piles-pressure-on-albanese-for-second-excise-cut-20260914-p60x21.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "neoskosmos.com",
+      "url": "https://neoskosmos.com/en/2026/09/14/news/australia/australian-fuel-prices-expected-to-rise-again-as-middle-east-conflict-escalates/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez",
+        "tanker"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/business/rates-for-tankers-to-india-rise-by-150-percent-as-west-asia-crisis-escalates-101789366518430.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.9,
       "treffer": [
-        "red sea",
-        "tanker"
-      ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/gulf-tankers-run-out-of-options-as-key-oil-export-routes-pinch-shut-126091300845_1.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "whec.com",
-      "url": "https://www.whec.com/ap-top-news/iranian-cargo-ship-is-struck-and-talks-between-tehran-and-its-neighbors-are-postponed/"
+      "domain": "rte.ie",
+      "url": "https://www.rte.ie/news/world/2026/0914/1591431-iran-gulf-talks-delayed/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "chronicle.lu",
+      "url": "https://www.chronicle.lu/category/international-news/63352-diplomacy-stumbles-with-postponement-of-meeting-on-strait-of-hormuz-proposal"
     }
   ],
   "gkg_alter_stunden": 0.0
