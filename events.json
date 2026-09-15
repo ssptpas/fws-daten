@@ -1,47 +1,151 @@
 {
-  "erstellt_am": "2026-09-15T09:45:29",
+  "erstellt_am": "2026-09-15T14:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260915074500",
+  "gkg_stand": "20260915124500",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.4,
       "treffer": [
-        "coup"
+        "red sea"
       ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/tech/attempted-coup-palantir-cto-shyam-sankar-slams-dangerous-ideology-behind-ai-killing-us-all-warnings"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "texasguardian.com",
-      "url": "http://www.texasguardian.com/news/279306544/rbi-may-hike-rates-in-october-rate-hike-cycle-likely-to-remain-shallow-report"
+      "domain": "koreaherald.com",
+      "url": "https://www.koreaherald.com/article/10874680"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "tonalitaet": -8.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "dailypakistan.com.pk",
+      "url": "https://en.dailypakistan.com.pk/15-Sep-2026/saudi-arabia-warns-houthis-of-strong-retaliation-amid-missile-attacks"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "ariananews.af",
-      "url": "https://www.ariananews.af/north-koreas-kim-vows-to-expand-ties-with-russia-backs-victory-in-sacred-war/"
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/hv360/ap/business/houthi-official-says-saudi-airstrikes-leave-3-dead-and-other-mideast-developments/article_4a815adf-1251-5d35-853b-48b38c063a2b.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -6.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "northwichguardian.co.uk",
+      "url": "https://www.northwichguardian.co.uk/news/national/26551330.two-children-among-three-killed-saudi-air-strike-houthi-official-says/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sowetan.co.za",
+      "url": "https://www.sowetan.co.za/news/2026-09-15-malamulele-sheriff-claims-to-have-served-dead-man-court-papers-six-months-after-burial/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/russian-oil-squeeze-china-competition-saudi-pipeline-shut-why-india-faces-a-crude-triple-whammy/articleshow/134259323.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "bnn-news.com",
+      "url": "https://bnn-news.com/gulf-states-cancel-meeting-with-iran-houthis-attack-saudi-arabia-283744"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sowetan.co.za",
+      "url": "https://www.sowetan.co.za/opinion/letters/2026-09-15-reader-letter-biko-shaped-sas-future/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://finance.yahoo.com/economy/policy/articles/citadel-securities-sees-europe-bond-153356377.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "theitem.com",
+      "url": "http://www.theitem.com/stories/what-the-closure-of-saudi-arabias-east-west-pipeline-could-mean-for-oil-flows,447127"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/leading-legal-experts-sanctions-israel-115414000.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
       "treffer": [
         "red sea"
       ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/world/asian-shares-trade-mostly-lower-after-ai-stocks-sink-on-wall-street/article_bcd0849e-0509-51fe-bbcc-86498101a5cb.html"
+      "domain": "ktvo.com",
+      "url": "https://www.ktvo.com/news/nation-world/wall-street-points-to-more-losses-as-oil-bond-yields-rise-and-odds-of-a/article_bd046822-f4d8-5281-9fc8-2a5b67a14264.html"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "iheart.com",
+      "url": "https://mykix1009.iheart.com/content/2026-09-15-springfield-students-return-after-cyberattack-shutdown/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "taiwansun.com",
+      "url": "http://www.taiwansun.com/news/279303210/drone-strike-hits-key-pipeline-on-saudi-oil-route"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russia-backs-trumps-energy-truce-plan-with-ukraine-seeks-sanctions-relief/articleshow/134261510.cms"
     }
   ],
   "gkg_alter_stunden": 0.0
