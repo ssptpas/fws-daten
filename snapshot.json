@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-09-14T22:45:02",
+  "erstellt_am": "2026-09-15T09:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "2.65",
@@ -22,8 +22,8 @@
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.33",
-      "beobachtungsdatum": "2026-09-11",
+      "wert": "0.32",
+      "beobachtungsdatum": "2026-09-14",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.36",
-      "beobachtungsdatum": "2026-09-11",
+      "wert": "2.37",
+      "beobachtungsdatum": "2026-09-14",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -311,9 +311,12 @@
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "Treasury_Auktion": {
-      "wert": "nicht verfügbar",
+      "wert": "2.610000",
+      "beobachtungsdatum": "2026-09-10",
+      "auktion": "29-Year 11-Month Bond",
+      "high_yield": "5.3080",
       "quelle": "US Treasury",
-      "fehler": "The read operation timed out"
+      "einheit": "Bid-to-Cover"
     }
   },
   "berechnet": {
@@ -403,8 +406,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.1,
-      "markt_datum": "2026-09-11",
+      "wert": -6.0,
+      "markt_datum": "2026-09-14",
       "leitzins_datum": "2026-09-14",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -452,8 +455,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.189",
-      "beobachtungsdatum": "2026-09-11",
+      "wert": "2.19",
+      "beobachtungsdatum": "2026-09-14",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -473,14 +476,14 @@
     },
     "Japan_Tagesgeldsatz": {
       "wert": 0.977,
-      "beobachtungsdatum": "20260910",
+      "beobachtungsdatum": "20260911",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 29.8,
-      "beobachtungsdatum": "2026-09-11",
+      "wert": 30.68,
+      "beobachtungsdatum": "2026-09-15",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
