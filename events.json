@@ -1,328 +1,117 @@
 {
-  "erstellt_am": "2026-09-16T14:46:03",
+  "erstellt_am": "2026-09-16T22:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260916124500",
+  "gkg_stand": "20260916204500",
   "veraltet": false,
-  "anzahl": 34,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -13.8,
+      "kategorie": "Policy",
+      "tonalitaet": -7.4,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/live-news/iran-war-powers-vote-trump-strait-hormuz-saudi-strikes-09-16-26"
+      "domain": "pjmedia.com",
+      "url": "https://pjmedia.com/rick-moran/2026/09/16/iranian-security-forces-prepare-for-anniversary-of-anti-hijab-protests-n4957292"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "zimbabwestar.com",
+      "url": "http://www.zimbabwestar.com/news/279311554/icc-used-as-tool-to-target-global-south-political-commentator"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/oil-prices-fall-after-surprise-u-s-crude-stock-build-despite-saudi-supply-disruption-fears/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
+      "tonalitaet": -6.3,
       "treffer": [
         "mandeb",
-        "red sea"
+        "red sea",
+        "suez"
       ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/saudis-threaten-retaliation-after-alleged-houthi-drone-attack-mecca-crosses-red-line"
+      "domain": "hardenexpress.com.au",
+      "url": "https://www.hardenexpress.com.au/story/9351244/the-echidna-its-the-war-stupid/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.6,
+      "tonalitaet": -6.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "philippinetimes.com",
-      "url": "http://www.philippinetimes.com/news/279309090/icc-must-be-decolonized-human-rights-advocate"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/saudi-says-houthis-target-mecca-warns-of-red-line-226957"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailymaverick.co.za",
-      "url": "https://www.dailymaverick.co.za/article/2026-09-16-us-not-expected-to-release-list-of-south-africans-targeted-for-visa-restrictions-1/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "greeleytribune.com",
-      "url": "https://www.greeleytribune.com/2026/09/16/building-collapse-gaza-mideast-news/"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/iran-hesitates-to-clamp-down-on-defiance-of-headscarf-rules-as-war-and-economic-pressures-mount-101789585213325.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.2,
       "treffer": [
-        "red sea"
+        "mandeb",
+        "red sea",
+        "suez"
       ],
-      "domain": "shipandbunker.com",
-      "url": "https://shipandbunker.com/news/world/594478-stop-attacking-merchant-ships-and-seafarers-imo-secretary-general-tells-member-states"
+      "domain": "gloucesteradvocate.com.au",
+      "url": "https://www.gloucesteradvocate.com.au/story/9351244/the-echidna-its-the-war-stupid/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
+      "tonalitaet": -6.1,
       "treffer": [
-        "red sea"
+        "mandeb",
+        "red sea",
+        "suez"
       ],
-      "domain": "nvdaily.com",
-      "url": "https://www.nvdaily.com/associated_press_national/building-collapse-in-gaza-kills-at-least-19-people-and-other-mideast-developments/article_80d705af-a482-5f6f-8539-e182b4ec843a.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line"
+      "domain": "dailyliberal.com.au",
+      "url": "https://www.dailyliberal.com.au/story/9351244/the-echidna-its-the-war-stupid/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "alnas-news.com",
-      "url": "https://alnas-news.com/syrias-fuel-shock-turns-into-a-wider-test-for-the-post-assad-government/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "sierraleonetimes.com",
-      "url": "http://www.sierraleonetimes.com/news/279309877/at-least-100-iran-protesters-sentenced-to-death-rights-group-says"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "iheart.com",
-      "url": "https://wspd.iheart.com/content/2026-09-16-cbo-iran-war-costs-us-246-million-daily/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "sierraleonetimes.com",
-      "url": "http://www.sierraleonetimes.com/news/279309168/pentagon-watchdog-warns-of-us-munitions-shortfalls"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "pakobserver.net",
-      "url": "https://pakobserver.net/china-urges-us-iran-to-revive-islamabad-talks/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/features/2026/9/16/taiz-camps-overflow-with-yemenis-fleeing-fighting-after-houthi-offensive"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260916-is-europe-restraining-israel-or-merely-protecting-the-two-state-illusion/"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -4.9,
       "treffer": [
-        "sanctions"
+        "state of emergency"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11143726/trump-administration-hits-south-africa-with-new-sanctions-over-alleged-discrimination-against-whites.html"
+      "domain": "dailypress.com",
+      "url": "https://www.dailypress.com/2026/09/16/virginia-declares-state-of-emergency-over-hay-shortage/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.8,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/hormuz-rare-us-strike-iranian-small-boats-caught-trying-seize-surface-drone"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "alnas-news.com",
-      "url": "https://alnas-news.com/saudi-arabias-key-oil-pipeline-could-return-within-days-offering-relief-to-a-tense-global-market/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202609160416.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/national/11143768/belarus-frees-25-prisoners-in-exchange-for-the-us-lifting-some-sanctions-envoy-says.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "alnas-news.com",
-      "url": "https://alnas-news.com/a-russia-ukraine-energy-truce-could-ease-fuel-pressure-but-the-global-diesel-problem-runs-deeper/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "wysu.org",
-      "url": "https://wysu.org/npr-national-news/2026-09-16/saudi-arabia-calls-an-attempted-mecca-attack-a-red-line-as-houthis-deny-they-did-it"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/america-can-print-money-it-cant-print-missiles-it-needs"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202609160433.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "wnyc.org",
-      "url": "https://wnyc.org/npr/g-s1-143554"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11143621/saudi-arabia-calls-attempted-attack-on-mecca-a-red-line-as-iran-backed-houthis-deny-they-did-it.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "sierraleonetimes.com",
-      "url": "http://www.sierraleonetimes.com/news/279309097/a-new-strait-crisis-is-brewing-in-the-red-sea"
+      "domain": "zimbabwestar.com",
+      "url": "http://www.zimbabwestar.com/news/279305961/houthis-expand-grip-on-key-shipping-route"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.8,
       "treffer": [
-        "hormuz",
-        "mandeb",
         "red sea"
       ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-europe-oil-and-us-diesel-crunch-worsens-tucker-exposes-massive-trump-israel-bombing-campaign-right-after-midterms-experts-question-survival-of-regimes-in-saudi-arabia-jordsn.html"
+      "domain": "lhrtimes.com",
+      "url": "https://www.lhrtimes.com/2026/09/16/pakistan-condemns-attempted-drone-attack-on-makkah-stands-with-saudi-arabia/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "wgal.com",
-      "url": "https://www.wgal.com/article/iran-war-cost-us-more-than-38-billion-first-five-months/73756729"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.3,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/national/11143551/global-stocks-advance-ahead-of-feds-interest-rate-decision.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "nvdaily.com",
-      "url": "https://www.nvdaily.com/associated_press_national/us-futures-climb-ahead-of-fed-interest-rate-call-and-the-latest-retail-sales-numbers/article_7c058764-44d3-585b-ae97-3d48edfad8b9.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "philippinetimes.com",
-      "url": "http://www.philippinetimes.com/news/279305940/saudi-oil-exports-at-risk-as-key-pipeline-remains-offline"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/european-stocks-rise-from-3-month-lows-as-traders-await-high-stakes-fed-decision/"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/politics/turkiye-condemns-houthi-drone-attack-targeting-mecca/4059400"
     }
   ],
   "gkg_alter_stunden": 0.0
