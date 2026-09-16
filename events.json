@@ -1,241 +1,229 @@
 {
-  "erstellt_am": "2026-09-15T22:46:03",
+  "erstellt_am": "2026-09-16T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260915204500",
+  "gkg_stand": "20260916074500",
   "veraltet": false,
-  "anzahl": 25,
+  "anzahl": 23,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260916/us-war-on-iran-burns-38-billion-drains-missile-defenses-for-years--us-budget-watchdog-1124744123.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.9,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "news.az",
+      "url": "https://news.az/news/russian-drone-strike-on-bus-in-ukraine-kills-5-injures-7-photo"
+    },
+    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.9,
+      "tonalitaet": -8.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "newstalk1030.com",
+      "url": "https://www.newstalk1030.com/2026/09/16/oil-market-on-alert-east-west-pipeline-closed-following-drone-strike/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.5,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "freepressjournal.in",
+      "url": "https://www.freepressjournal.in/world/us-attorney-general-blanche-defends-defence-secretary-pete-hegseth-as-gop-rep-seeks-impeachment"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "news.az",
+      "url": "https://news.az/news/live-russia-ukraine-trade-overnight-drone-strikes-casualties-reported"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.3,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "wlwt.com",
-      "url": "https://www.wlwt.com/article/750-us-service-members-wounded-iran-war/73479079"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "greaterbelize.com",
-      "url": "https://www.greaterbelize.com/elringtons-appeal-denied-court-upholds-suspension-over-grave-misconduct/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clevelandjewishnews.com",
-      "url": "https://www.clevelandjewishnews.com/jns/florida-university-students-ask-court-to-block-suspensions-over-racist-antisemitic-group-chat/article_2a74dc20-aeab-57ce-905c-4bad99a699b0.html"
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/middle-east/yemen8217s-houthis-reject-saudi-claims-of-drone-strike-near-mecca-as-8220fabrications-and-lies822120260916122715/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "tonalitaet": -7.0,
       "treffer": [
         "red sea"
       ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/news/us-news/iran-war-costs-us-military-38-billion-as-cbo-warns-of-billions-more-in-monthly-expenses-11789501056348.html"
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com:443/money/oil-settles-us3-higher-yanbu-disruption-saudi-cargo-cancellations"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "wlrn.org",
-      "url": "https://www.wlrn.org/americas/2026-09-15/maduro-ally-alex-saab-pleads-guilty-in-miami-in-federal-money-laundering-case"
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/houthis-claim-saudi-f-15-fighter-jet-shot-down-hours-after-mecca-drone-interception/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
       "treffer": [
-        "sanctions"
+        "red sea",
+        "suez"
       ],
-      "domain": "bgnes.com",
-      "url": "http://www.bgnes.com/politics/kaja-kallas-calls-on-eu-to-tighten-visa-rules-for-russians"
+      "domain": "news24.com",
+      "url": "https://www.news24.com/world/saudi-says-houthis-target-mecca-warn-of-red-line-20260916-0300"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "ibtimes.com",
+      "url": "https://jp.ibtimes.com/pentagon-warns-us-weapons-shortages-104430"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.4,
       "treffer": [
-        "red sea"
-      ],
-      "domain": "reflector.com",
-      "url": "http://www.reflector.com/news/national/us-military-says-it-destroyed-2-small-iranian-boats-trying-to-steal-a-sea-drone/article_aa5f75c8-a826-5098-81f4-9fab5ae319e2.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/business/economy/news/red-sea-tensions-fuel-insurance-costs-4273916"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "gazetteandherald.co.uk",
-      "url": "https://www.gazetteandherald.co.uk/news/national/26551330.two-children-among-three-killed-saudi-air-strike-houthi-official-says/"
+      "domain": "postregister.com",
+      "url": "http://www.postregister.com/news/national/why-yemen-s-houthis-have-only-grown-stronger-through-years-of-war/article_3addd200-3484-59c2-acc6-ae6bf659c520.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/world/maduro-ally-pleads-guilty-to-us-money-laundering-charges-3001863"
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com:443/world/norway-police-investigate-telenor-over-suspected-crimes-against-humanity-myanmar"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.7,
       "treffer": [
-        "refinery"
+        "missile"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2629501/piahcl-losses-hit-rs741b"
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/national/general-news/missiles-hit-terror-camps-not-citizens-bjp8217s-rameshwar-sharma-slams-owaisi8217s-8216qazi-camp8217-dare20260916123031/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/09/15/iran-war-costs-cbo/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "okcfox.com",
-      "url": "https://okcfox.com/news/nation-world/houthi-escalation-in-the-middle-east-brings-new-pain-at-the-pump-for-americans-energy-war-gas-prices"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/business/news/red-sea-tensions-raise-insurance-costs-4273801"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -4.2,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279308694/houthis-say-saudi-warplanes-carried-out-52-strikes-across-yemen"
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/huawei-founder-ren-zhengfei-sea-flee-rumour-1820007"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -4.0,
       "treffer": [
-        "mandeb",
-        "suez",
-        "refinery"
+        "missile",
+        "nuclear test",
+        "nuclear weapon"
       ],
-      "domain": "thedailystar.net",
-      "url": "https://www.thedailystar.net/business/economy/news/bpc-seeks-new-crude-sources-amid-bab-el-mandeb-risks-4273921"
+      "domain": "theconversation.com",
+      "url": "https://theconversation.com/is-the-nuclear-non-proliferation-pact-a-model-for-regulating-runaway-ai-292104"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.9,
       "treffer": [
-        "crude oil"
+        "missile"
       ],
-      "domain": "finanzen.ch",
-      "url": "https://www.finanzen.ch/nachrichten/aktien/u-s-stocks-move-mostly-lower-on-higher-treasury-yields-crude-oil-prices-1036548329"
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/national/general-news/if-you-have-guts-launch-missile-at-qazi-camp-i-will-stand-alone-owaisi-dares-bjp-mla-rameshwar-sharma20260916113221/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "ibtimes.com",
+      "url": "https://jp.ibtimes.com/saudi-yanbu-oil-loadings-halted-104427"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "missile",
+        "nuclear test",
+        "nuclear weapon"
+      ],
+      "domain": "scoop.co.nz",
+      "url": "https://business.scoop.co.nz/2026/09/16/is-the-nuclear-non-proliferation-pact-a-model-for-regulating-runaway-ai/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/news/report/pakistan-is-staring-at-lockdown-due-to-fuel-shortage/20260916.htm"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "wellandtribune.ca",
-      "url": "https://www.wellandtribune.ca/news/world/united-states/iran-war-has-cost-the-us-more-than-38b-budget-office-says/article_22f8fcfa-0b8c-579a-8bc7-bde6477eba26.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "local10.com",
-      "url": "https://www.local10.com/business/2026/09/15/maduro-ally-alex-saab-pleads-guilty-in-federal-money-laundering-case/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jowhar.com",
-      "url": "https://jowhar.com/eu-must-act-on-russias-hybrid-attacks-warns-kaja-kallas/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "reflector.com",
-      "url": "http://www.reflector.com/news/national/the-latest-board-votes-to-close-kennedy-center-amid-financial-woes-and-name-dispute-ap/article_0fc67813-fa5b-56e3-8882-b67c2844dbe7.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "local10.com",
-      "url": "https://www.local10.com/news/national/2026/09/15/the-latest-trump-slams-supreme-court-justices-for-rejecting-his-restrictions-on-voting-by-mail/"
+      "domain": "theconversation.com",
+      "url": "https://theconversation.com/the-houthis-have-further-tightened-their-grip-on-the-red-sea-heres-what-it-could-mean-for-the-world-291983"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.2,
       "treffer": [
+        "sanctions"
+      ],
+      "domain": "canadianlawyermag.com",
+      "url": "https://www.canadianlawyermag.com/news/international/uk-silks-solicitors-and-ex-judges-call-for-stronger-israel-sanctions/394653"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jamaica-gleaner.com",
+      "url": "https://jamaica-gleaner.com/article/commentary/20260916/elizabeth-morgan-18th-brics-summit-still-aiming-achieve-their-goals"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions",
         "tariffs"
       ],
-      "domain": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/u-s-steel-and-materials-stocks-swing-as-u-s-canada-trade-war-escalates-with-50-tariffs-1834776/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "malaysiasun.com",
-      "url": "http://www.malaysiasun.com/news/279303274/bolsonaro-film-funding-under-investigation-before-election"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "elpais.com",
-      "url": "https://english.elpais.com/international/2026-09-15/us-and-china-bare-their-teeth-over-ai-from-fear-of-the-apocalypse-to-a-tech-cold-war.html"
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/news/report/us-bill-imposing-100-tariffs-on-india-set-for-house-vote/20260916.htm"
     }
   ],
   "gkg_alter_stunden": 0.0
