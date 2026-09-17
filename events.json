@@ -1,19 +1,46 @@
 {
-  "erstellt_am": "2026-09-17T09:45:25",
+  "erstellt_am": "2026-09-17T14:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260917074500",
+  "gkg_stand": "20260917124500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 20,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.5,
+      "tonalitaet": -13.7,
       "treffer": [
-        "ballistic"
+        "missile"
       ],
-      "domain": "maravipost.com",
-      "url": "https://www.maravipost.com/former-botswana-president-khama-ties-zambian-cops-death-to-kafwaya-probe/"
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/17/un-mission-says-iran-protest-crackdown-amounted-to-crimes-against-humanity/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.5,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "sandiegouniontribune.com",
+      "url": "https://www.sandiegouniontribune.com/2026/09/17/un-backed-experts-possible-us-war-crimes-iran-strikes/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kontan.co.id",
+      "url": "https://english.kontan.co.id/news/indonesian-president-calls-for-stricter-sanctions-against-forest-fire-perpetrators"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailymaverick.co.za",
+      "url": "https://www.dailymaverick.co.za/article/2026-09-17-russia-says-new-us-sanctions-if-signed-by-trump-would-make-ukraine-peace-deal-harder/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -21,90 +48,63 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2629730/oil-slips-as-riyadh-offers-more-crude-via-oman"
+      "domain": "irishexaminer.com",
+      "url": "https://www.irishexaminer.com/world/arid-41912131.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -6.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/124-defenders-killed-for-protecting-land-and-nature/"
+      "domain": "fingerlakes1.com",
+      "url": "https://www.fingerlakes1.com/2026/09/17/federal-judge-upholds-cayuga-nation-rico-verdict-awards-261495/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.7,
+      "tonalitaet": -6.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "irishsun.com",
-      "url": "http://www.irishsun.com/news/279312537/house-passes-sanctions-package-extending-us-pressure-on-iran"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/09/17/us-again-denies-palestinian-leaders-visa-ahead-of-un-meeting/"
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16138599/Russia-plotting-assassinations-US-European-countries-supporting-Ukraine.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/09/17/russia-strikes-ukraine-as-kyiv-hits-russian-oil-refinery"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/national/11146239/trump-administration-again-denies-visas-for-palestinian-delegation-to-attend-the-un-general-assembly.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thisiswiltshire.co.uk",
-      "url": "https://www.thisiswiltshire.co.uk/news/national/26557377.argentine-judge-orders-halt-falklands-oil-project-tensions-rise/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/is-nicaragua-trumps-next-target/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -6.3,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "texarkanagazette.com",
-      "url": "https://www.texarkanagazette.com/news/2026/sep/17/building-collapse-in-gaza-kills-at-least-21/"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/markets/oil-prices-extend-fall-brent-crude-below-102-per-barrel-here-s-why-14032255.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo"
+      "domain": "outlookindia.com",
+      "url": "https://www.outlookindia.com/international/russian-oil-what-us-sanctions-bill-means-for-indias-energy-security"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279312732/un-mission-finds-grounds-to-investigate-possible-us-war-crimes"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/09/17/russia-strikes-kyiv-other-cities-hours-after-us-sanctions-passed"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -112,27 +112,45 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "geo.tv",
-      "url": "https://www.geo.tv/latest/682420-wrapup-1-trump-hopes-iran-war-nearing-end-as-houthi-saudi-fighting-escalates"
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/17/energy-disruption-hits-bangladesh-and-pakistan-as-gulf-crisis-worsens"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.7,
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "japanherald.com",
-      "url": "http://www.japanherald.com/news/279312317/hero-fincorp-cyber-fraud-case-five-arrested-rs-17-crore-put-on-hold"
+      "domain": "thenorthlines.com",
+      "url": "https://thenorthlines.com/jk-govt-cancels-reinstatement-of-official-facing-acb-case-orders-fresh-inquiry/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.5,
       "treffer": [
-        "red sea",
-        "suez"
+        "refinery"
       ],
-      "domain": "strategypage.com",
-      "url": "http://www.strategypage.com/on_point/20260916215932.aspx"
+      "domain": "examiner.com.au",
+      "url": "https://www.examiner.com.au/story/9352591/children-among-injures-in-russian-barrage-on-ukraine/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "zalebs.com",
+      "url": "https://zalebs.com/business/nlc-urges-tinubu-government-to-act-as-petrol-prices-top-n1430-litre/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "missile",
+        "drone strike"
+      ],
+      "domain": "cbc.ca",
+      "url": "https://www.cbc.ca/news/world/russian-missiles-drone-strike-ukraine-9.7347515"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -141,35 +159,26 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "townhall.com",
-      "url": "https://townhall.com/columnists/armstrongwilliams/2026/09/17/five-tests-of-american-restraint-n2683106"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "strategypage.com",
-      "url": "http://www.strategypage.com/%5Cqnd%5Crussia%5Carticles%5C2026091564053.aspx"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "examiner.com.au",
-      "url": "https://www.examiner.com.au/story/9352256/hopefully-we-are-towards-end-of-iran-war-trump-says/"
+      "domain": "iheart.com",
+      "url": "https://wmmbam.iheart.com/content/2026-09-17-saudi-oil-pipeline-to-resume-operation-within-days/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/world/us/several-us-lawmakers-who-opposed-russia-sanctions-bill-say-it-gives-trump-incredibly-broad-tariff-powers20260917114624/"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/09/17/us-blocks-palestinians-abbas-from-attending-un-meeting-for-second-year-in-a-row"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -177,8 +186,8 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "canberratimes.com.au",
-      "url": "https://www.canberratimes.com.au/story/9352256/hopefully-we-are-towards-end-of-iran-war-trump-says/"
+      "domain": "outlookindia.com",
+      "url": "https://www.outlookindia.com/international/us-houthi-deal-houthis-agree-to-keep-us-ships-safe-in-red-sea-seek-no-us-strikes-in-yemen"
     }
   ],
   "gkg_alter_stunden": 0.0
