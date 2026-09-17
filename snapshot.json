@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-09-16T22:45:01",
+  "erstellt_am": "2026-09-17T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "2.76",
@@ -22,8 +22,8 @@
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.33",
-      "beobachtungsdatum": "2026-09-15",
+      "wert": "0.27",
+      "beobachtungsdatum": "2026-09-16",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.38",
-      "beobachtungsdatum": "2026-09-15",
+      "wert": "2.33",
+      "beobachtungsdatum": "2026-09-16",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -406,8 +406,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -31.0,
-      "markt_datum": "2026-09-15",
+      "wert": -5.9,
+      "markt_datum": "2026-09-16",
       "leitzins_datum": "2026-09-16",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -455,8 +455,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.19",
-      "beobachtungsdatum": "2026-09-15",
+      "wert": "2.441",
+      "beobachtungsdatum": "2026-09-16",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -475,15 +475,15 @@
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
-      "wert": 0.977,
-      "beobachtungsdatum": "20260914",
+      "wert": 0.978,
+      "beobachtungsdatum": "20260915",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 30.68,
-      "beobachtungsdatum": "2026-09-15",
+      "wert": 28.15,
+      "beobachtungsdatum": "2026-09-17",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {

@@ -1,98 +1,148 @@
 {
-  "erstellt_am": "2026-09-16T22:45:27",
+  "erstellt_am": "2026-09-17T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260916204500",
+  "gkg_stand": "20260917074500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 19,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.4,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.5,
       "treffer": [
-        "sanctions"
+        "ballistic"
       ],
-      "domain": "pjmedia.com",
-      "url": "https://pjmedia.com/rick-moran/2026/09/16/iranian-security-forces-prepare-for-anniversary-of-anti-hijab-protests-n4957292"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "zimbabwestar.com",
-      "url": "http://www.zimbabwestar.com/news/279311554/icc-used-as-tool-to-target-global-south-political-commentator"
+      "domain": "maravipost.com",
+      "url": "https://www.maravipost.com/former-botswana-president-khama-ties-zambian-cops-death-to-kafwaya-probe/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "tonalitaet": -7.1,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
+        "red sea"
       ],
-      "domain": "hardenexpress.com.au",
-      "url": "https://www.hardenexpress.com.au/story/9351244/the-echidna-its-the-war-stupid/"
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2629730/oil-slips-as-riyadh-offers-more-crude-via-oman"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.3,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/iran-hesitates-to-clamp-down-on-defiance-of-headscarf-rules-as-war-and-economic-pressures-mount-101789585213325.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "gloucesteradvocate.com.au",
-      "url": "https://www.gloucesteradvocate.com.au/story/9351244/the-echidna-its-the-war-stupid/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "dailyliberal.com.au",
-      "url": "https://www.dailyliberal.com.au/story/9351244/the-echidna-its-the-war-stupid/"
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/124-defenders-killed-for-protecting-land-and-nature/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "irishsun.com",
+      "url": "http://www.irishsun.com/news/279312537/house-passes-sanctions-package-extending-us-pressure-on-iran"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/09/17/us-again-denies-palestinian-leaders-visa-ahead-of-un-meeting/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/09/17/russia-strikes-ukraine-as-kyiv-hits-russian-oil-refinery"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/national/11146239/trump-administration-again-denies-visas-for-palestinian-delegation-to-attend-the-un-general-assembly.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thisiswiltshire.co.uk",
+      "url": "https://www.thisiswiltshire.co.uk/news/national/26557377.argentine-judge-orders-halt-falklands-oil-project-tensions-rise/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/is-nicaragua-trumps-next-target/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.0,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260916-is-europe-restraining-israel-or-merely-protecting-the-two-state-illusion/"
+      "domain": "texarkanagazette.com",
+      "url": "https://www.texarkanagazette.com/news/2026/sep/17/building-collapse-in-gaza-kills-at-least-21/"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -4.9,
       "treffer": [
-        "state of emergency"
+        "sanctions"
       ],
-      "domain": "dailypress.com",
-      "url": "https://www.dailypress.com/2026/09/16/virginia-declares-state-of-emergency-over-hay-shortage/"
+      "domain": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "tonalitaet": -4.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "geo.tv",
+      "url": "https://www.geo.tv/latest/682420-wrapup-1-trump-hopes-iran-war-nearing-end-as-houthi-saudi-fighting-escalates"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "japanherald.com",
+      "url": "http://www.japanherald.com/news/279312317/hero-fincorp-cyber-fraud-case-five-arrested-rs-17-crore-put-on-hold"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "red sea",
+        "suez"
+      ],
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/on_point/20260916215932.aspx"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "zimbabwestar.com",
-      "url": "http://www.zimbabwestar.com/news/279305961/houthis-expand-grip-on-key-shipping-route"
+      "domain": "townhall.com",
+      "url": "https://townhall.com/columnists/armstrongwilliams/2026/09/17/five-tests-of-american-restraint-n2683106"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -100,18 +150,35 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "lhrtimes.com",
-      "url": "https://www.lhrtimes.com/2026/09/16/pakistan-condemns-attempted-drone-attack-on-makkah-stands-with-saudi-arabia/"
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/%5Cqnd%5Crussia%5Carticles%5C2026091564053.aspx"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.5,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/politics/turkiye-condemns-houthi-drone-attack-targeting-mecca/4059400"
+      "domain": "examiner.com.au",
+      "url": "https://www.examiner.com.au/story/9352256/hopefully-we-are-towards-end-of-iran-war-trump-says/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/us/several-us-lawmakers-who-opposed-russia-sanctions-bill-say-it-gives-trump-incredibly-broad-tariff-powers20260917114624/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9352256/hopefully-we-are-towards-end-of-iran-war-trump-says/"
     }
   ],
   "gkg_alter_stunden": 0.0
