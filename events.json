@@ -1,110 +1,47 @@
 {
-  "erstellt_am": "2026-09-18T09:45:26",
+  "erstellt_am": "2026-09-18T14:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260918074500",
+  "gkg_stand": "20260918124500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 7,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -15.9,
+      "tonalitaet": -6.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "nepalnational.com",
+      "url": "http://www.nepalnational.com/news/279315321/bangladesh-and-pakistan-hit-by-gulf-energy-disruptions"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "channelafrica.co.za",
-      "url": "https://www.channelafrica.co.za/channelafrica/news/au-expresses-concern-over-escalating-red-sea-security-crisis/"
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1813833.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.0,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "1490wosh.com",
-      "url": "https://www.1490wosh.com/2026/09/18/washington-targets-cuban-nickel-reserves-and-military-in-latest-sanctions-round/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279314767/man-jailed-for-attacking-pro-palestinian-us-politician-with-vinegar"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/world/middle-east/unilateralism-serves-no-one8217s-interests-ghalibaf-hails-china-russia-vetoes-in-unsc-in-support-of-iran20260918114048/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/russia-s-wartime-economy-faces-strain-from-debt-military-spending-126091800299_1.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/World/20260918/4500144.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279308631/iraq-could-return-to-militia-rule-as-us-prepares-to-leave"
+      "domain": "thewestmorlandgazette.co.uk",
+      "url": "https://www.thewestmorlandgazette.co.uk/news/national/26561395.iranians-rally-biggest-show-defiance-us-since-war-began/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "tonalitaet": -4.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "shippingtribune.com",
-      "url": "https://www.shippingtribune.com/news/shipping/Oil+prices+fall+for+3rd+day+as+supply+concerns+ease,+diplomacy+in+focus"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "news4jax.com",
-      "url": "https://www.news4jax.com/news/world/2026/09/18/iran-says-it-strikes-an-oil-tanker-and-other-mideast-developments/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/900097/us-iran-hit-the-fed-we-define-the-risk-trump-to-wipe-them-out-or-not-it-is-a-big-decision%20title="
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices"
+      "domain": "yahoo.com",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-slide-saudi-arabia-052000161.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -112,8 +49,8 @@
       "treffer": [
         "hormuz"
       ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/india-news/two-vessels-with-indian-crew-onboard-attacked-near-strait-of-hormuz-126091800358_1.html"
+      "domain": "gcaptain.com",
+      "url": "https://gcaptain.com/more-lng-getting-through-hormuz-as-producers-push-for-transits/"
     },
     {
       "kategorie": "Policy",
@@ -121,26 +58,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "shippingtribune.com",
-      "url": "https://www.shippingtribune.com/news/shipping/India+Pushes+Back+on+U.S.+Tariff+Threat+Over+Russian+Oil"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279314738/economic-watch-bank-of-england-holds-interest-rate-at-375-pct-despite-energy-price-hikes"
+      "domain": "wisn.com",
+      "url": "https://www.wisn.com/article/tusk-warns-russia-drone-attacks-nato-poland/73785094"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279314713/nato-30-marches-into-copenhagen"
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/18/iranians-rally-by-the-hundreds-of-thousands-in-biggest-show-of-defiance-since-war-began/"
     }
   ],
   "gkg_alter_stunden": 0.0
