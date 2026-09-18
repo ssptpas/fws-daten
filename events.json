@@ -1,10 +1,10 @@
 {
-  "erstellt_am": "2026-09-18T14:45:29",
+  "erstellt_am": "2026-09-18T22:45:39",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260918124500",
+  "gkg_stand": "20260918204500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
@@ -12,63 +12,89 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "nepalnational.com",
-      "url": "http://www.nepalnational.com/news/279315321/bangladesh-and-pakistan-hit-by-gulf-energy-disruptions"
+      "domain": "africaleader.com",
+      "url": "http://www.africaleader.com/news/279315803/news-analysis-regional-tensions-put-saudi-oil-exports-under-pressure-rattle-global-energy-markets"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
+      "tonalitaet": -5.0,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1813833.html"
+      "domain": "southeastasiapost.com",
+      "url": "http://www.southeastasiapost.com/news/279316039/saudi-arabia-cuts-off-october-oil-supplies-to-europe-bloomberg"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279316077/saudi-arabia-cuts-off-october-oil-supplies-to-europe-bloomberg"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thewestmorlandgazette.co.uk",
-      "url": "https://www.thewestmorlandgazette.co.uk/news/national/26561395.iranians-rally-biggest-show-defiance-us-since-war-began/"
+      "domain": "english.pravda.ru",
+      "url": "https://english.pravda.ru/news/world/169015-us-india-iran-oil/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "yahoo.com",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-slide-saudi-arabia-052000161.html"
+      "domain": "gisuser.com",
+      "url": "https://gisuser.com/2026/09/surviving-document-heavy-discovery-in-premises-liability-cases/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "ksut.org",
+      "url": "https://www.ksut.org/2026-09-18/theres-hope-for-this-divisive-alien-invasion-film-that-mixes-art-and-schlock"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "laosnews.net",
+      "url": "http://www.laosnews.net/news/279316049/it-is-crazy-were-buying-uranium-from-russia-ex-us-nsa-mcmaster-backs-tariff-guns-on-moscow-buyers-calls-for-empathy-toward-india"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "critical infrastructure"
+      ],
+      "domain": "news.az",
+      "url": "https://news.az/news/bulgaria-to-equip-critical-infrastructure-with-anti-drone-systems"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "morningstaronline.co.uk",
+      "url": "https://morningstaronline.co.uk/article/wales-pension-partnership-urged-move-ahead-divestment-genocide"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.7,
       "treffer": [
-        "hormuz"
+        "drone strike"
       ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/more-lng-getting-through-hormuz-as-producers-push-for-transits/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wisn.com",
-      "url": "https://www.wisn.com/article/tusk-warns-russia-drone-attacks-nato-poland/73785094"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/world/2026/09/18/iranians-rally-by-the-hundreds-of-thousands-in-biggest-show-of-defiance-since-war-began/"
+      "domain": "freepressjournal.in",
+      "url": "https://www.freepressjournal.in/world/iaea-condemns-drone-strike-on-russias-kursk-nuclear-plant-cooling-tower-amid-escalating-russia-ukraine-attacks"
     }
   ],
   "gkg_alter_stunden": 0.0
