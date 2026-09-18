@@ -1,165 +1,146 @@
 {
-  "erstellt_am": "2026-09-17T22:45:28",
+  "erstellt_am": "2026-09-18T09:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260917204500",
+  "gkg_stand": "20260918074500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 15,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.8,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "the-star.co.ke",
-      "url": "https://www.the-star.co.ke/news/2026-09-17-several-feared-dead-after-fuel-tanker-explodes-along-eldoret-turbo-road"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/sanctions-evasion-network-busted-in-iran-1746464/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newsday.com",
-      "url": "https://www.newsday.com/news/nation/united-nations-iran-sanctions-russia-china-o78700"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
+      "tonalitaet": -15.9,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/09/17/yemen-houthi-attacks-explained/"
+      "domain": "channelafrica.co.za",
+      "url": "https://www.channelafrica.co.za/channelafrica/news/au-expresses-concern-over-escalating-red-sea-security-crisis/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -8.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ktvo.com",
-      "url": "https://www.ktvo.com/news/nation-world/russia-and-china-veto-us-proposal-for-un-experts-to-keep-monitoring-sanctions-on-iran/article_3c4d91de-5b24-53c7-880f-b7f1d06f5c51.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "okayafrica.com",
-      "url": "https://www.okayafrica.com/today-in-africa-september-17-2026-ninth-womans-body-found-in-south-africa-48-die-from-toxic-alcohol-in-nigeria/1439919"
+      "domain": "1490wosh.com",
+      "url": "https://www.1490wosh.com/2026/09/18/washington-targets-cuban-nickel-reserves-and-military-in-latest-sanctions-round/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -6.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/comment/himalayan-glacial-lakes-and-the-looming-risks/"
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279314767/man-jailed-for-attacking-pro-palestinian-us-politician-with-vinegar"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/middle-east/unilateralism-serves-no-one8217s-interests-ghalibaf-hails-china-russia-vetoes-in-unsc-in-support-of-iran20260918114048/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/russia-s-wartime-economy-faces-strain-from-debt-military-spending-126091800299_1.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/World/20260918/4500144.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279308631/iraq-could-return-to-militia-rule-as-us-prepares-to-leave"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "dailylocal.com",
-      "url": "https://www.dailylocal.com/2026/09/17/us-iran-un-visas-approved/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "newsday.com",
-      "url": "https://www.newsday.com/news/nation/president-donald-trump-tariffs-y84438"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "nuclear test"
-      ],
-      "domain": "sciencealert.com",
-      "url": "https://www.sciencealert.com/north-korea-stopped-nuclear-testing-in-2017-but-triggered-nearly-1400-earthquakes-since"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "braidwoodtimes.com.au",
-      "url": "https://www.braidwoodtimes.com.au/story/9352224/jenna-price-macklemore-ed-sheeran-palestine-spat-couldve-been-avoided/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "greatlakesadvocate.com.au",
-      "url": "https://www.greatlakesadvocate.com.au/story/9352224/jenna-price-macklemore-ed-sheeran-palestine-spat-couldve-been-avoided/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "portnews.com.au",
-      "url": "https://www.portnews.com.au/story/9352224/jenna-price-macklemore-ed-sheeran-palestine-spat-couldve-been-avoided/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bluemountainsgazette.com.au",
-      "url": "https://www.bluemountainsgazette.com.au/story/9352224/jenna-price-macklemore-ed-sheeran-palestine-spat-couldve-been-avoided/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279313653/sanctions-must-be-strong-zelenskyy-welcomes-us-house-bill-after-russian-missiles-drones-strike-ukrainian-regions"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "columbian.com",
-      "url": "https://www.columbian.com/news/2026/sep/17/russian-missiles-and-drones-injure-19-in-ukraine/"
+      "domain": "shippingtribune.com",
+      "url": "https://www.shippingtribune.com/news/shipping/Oil+prices+fall+for+3rd+day+as+supply+concerns+ease,+diplomacy+in+focus"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.9,
       "treffer": [
-        "refinery"
+        "tanker"
       ],
-      "domain": "times-series.co.uk",
-      "url": "https://www.times-series.co.uk/news/national/26557696.russian-missile-drone-attacks-injure-least-19-ukraine/"
+      "domain": "news4jax.com",
+      "url": "https://www.news4jax.com/news/world/2026/09/18/iran-says-it-strikes-an-oil-tanker-and-other-mideast-developments/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/900097/us-iran-hit-the-fed-we-define-the-risk-trump-to-wipe-them-out-or-not-it-is-a-big-decision%20title="
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/india-news/two-vessels-with-indian-crew-onboard-attacked-near-strait-of-hormuz-126091800358_1.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "shippingtribune.com",
+      "url": "https://www.shippingtribune.com/news/shipping/India+Pushes+Back+on+U.S.+Tariff+Threat+Over+Russian+Oil"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279314738/economic-watch-bank-of-england-holds-interest-rate-at-375-pct-despite-energy-price-hikes"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279314713/nato-30-marches-into-copenhagen"
     }
   ],
   "gkg_alter_stunden": 0.0
