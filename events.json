@@ -1,100 +1,46 @@
 {
-  "erstellt_am": "2026-09-19T09:45:28",
+  "erstellt_am": "2026-09-19T14:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260919074500",
+  "gkg_stand": "20260919124500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 4,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/world/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "strategypage.com",
-      "url": "http://www.strategypage.com/%5Chtmw%5Chtsf%5Carticles%5C2026091882512.aspx"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "tonalitaet": -6.4,
       "treffer": [
         "red sea"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Sep/19/us-lifts-sanctions-on-eritrea-with-eye-on-red-sea"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/national/general-news/most-corrupt-chief-minister-bjps-pratul-sahdeo-slams-hemant-soren-after-jharkhand-hc-order20260919121733/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "gulte.com",
-      "url": "https://www.gulte.com/shorts/432480/breaking-trump-signs-russia-sanction-bill"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Sep/19/trump-signs-russia-sanctions-bill-indias-oil-imports-face-potential-100-tariff"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/09/19/turkey-revokes-operating-license-of-irans-mellat-bank-amid-us-economic-measures-against-tehran/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "express.co.uk",
-      "url": "https://www.express.co.uk/news/politics/2249676/falklands-chagos-islands-sovereignty-issues"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/black-smoke-flames-seen-near-riyadh-airport-flights-disrupted-article-14033539.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
+      "tonalitaet": -5.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "garoweonline.com",
-      "url": "https://www.garoweonline.com/en/news/world/us-removes-sanctions-on-eritrean-defense-forces"
+      "domain": "internazionale.it",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/19/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-all-clear"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279316939/trump-signs-new-russia-sanctions-bill"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/cuba-power-grid-collapse-trump-administration-energy-blockade/"
     }
   ],
   "gkg_alter_stunden": 0.0
