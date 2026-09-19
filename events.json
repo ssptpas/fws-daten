@@ -1,100 +1,100 @@
 {
-  "erstellt_am": "2026-09-18T22:45:39",
+  "erstellt_am": "2026-09-19T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260918204500",
+  "gkg_stand": "20260919074500",
   "veraltet": false,
   "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
+      "kategorie": "Policy",
+      "tonalitaet": -9.2,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "africaleader.com",
-      "url": "http://www.africaleader.com/news/279315803/news-analysis-regional-tensions-put-saudi-oil-exports-under-pressure-rattle-global-energy-markets"
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/world/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/%5Chtmw%5Chtsf%5Carticles%5C2026091882512.aspx"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/19/us-lifts-sanctions-on-eritrea-with-eye-on-red-sea"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/national/general-news/most-corrupt-chief-minister-bjps-pratul-sahdeo-slams-hemant-soren-after-jharkhand-hc-order20260919121733/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "gulte.com",
+      "url": "https://www.gulte.com/shorts/432480/breaking-trump-signs-russia-sanction-bill"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -5.0,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "southeastasiapost.com",
-      "url": "http://www.southeastasiapost.com/news/279316039/saudi-arabia-cuts-off-october-oil-supplies-to-europe-bloomberg"
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/19/trump-signs-russia-sanctions-bill-indias-oil-imports-face-potential-100-tariff"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/19/turkey-revokes-operating-license-of-irans-mellat-bank-amid-us-economic-measures-against-tehran/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "express.co.uk",
+      "url": "https://www.express.co.uk/news/politics/2249676/falklands-chagos-islands-sovereignty-issues"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "tonalitaet": -3.0,
       "treffer": [
         "red sea"
       ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279316077/saudi-arabia-cuts-off-october-oil-supplies-to-europe-bloomberg"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "english.pravda.ru",
-      "url": "https://english.pravda.ru/news/world/169015-us-india-iran-oil/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "gisuser.com",
-      "url": "https://gisuser.com/2026/09/surviving-document-heavy-discovery-in-premises-liability-cases/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "ksut.org",
-      "url": "https://www.ksut.org/2026-09-18/theres-hope-for-this-divisive-alien-invasion-film-that-mixes-art-and-schlock"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "laosnews.net",
-      "url": "http://www.laosnews.net/news/279316049/it-is-crazy-were-buying-uranium-from-russia-ex-us-nsa-mcmaster-backs-tariff-guns-on-moscow-buyers-calls-for-empathy-toward-india"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "critical infrastructure"
-      ],
-      "domain": "news.az",
-      "url": "https://news.az/news/bulgaria-to-equip-critical-infrastructure-with-anti-drone-systems"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "morningstaronline.co.uk",
-      "url": "https://morningstaronline.co.uk/article/wales-pension-partnership-urged-move-ahead-divestment-genocide"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/world/iaea-condemns-drone-strike-on-russias-kursk-nuclear-plant-cooling-tower-amid-escalating-russia-ukraine-attacks"
+      "domain": "garoweonline.com",
+      "url": "https://www.garoweonline.com/en/news/world/us-removes-sanctions-on-eritrean-defense-forces"
     }
   ],
   "gkg_alter_stunden": 0.0
