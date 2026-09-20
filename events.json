@@ -1,68 +1,227 @@
 {
-  "erstellt_am": "2026-09-20T09:45:28",
+  "erstellt_am": "2026-09-20T14:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260920074500",
+  "gkg_stand": "20260920124500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 24,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "tonalitaet": -9.1,
       "treffer": [
         "refinery"
       ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/massive-drone-barrage-hits-moscow-during-elections-kills-two-227067"
+      "domain": "wapt.com",
+      "url": "https://www.wapt.com/article/ukraine-drone-largest-attack-moscow-russia/73806821"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
+      "tonalitaet": -8.8,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "refinery"
       ],
-      "domain": "oneindia.com",
-      "url": "https://www.oneindia.com/international/saudi-arabia-confirms-houthi-ballistic-missile-attack-on-riyadh-missile-intercepted-8210203.html"
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/20/ukraine-fires-over-1000-drones-at-russia-including-hundreds-launched-at-moscow/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
+      "tonalitaet": -8.5,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "refinery"
       ],
-      "domain": "wnmufm.org",
-      "url": "https://www.wnmufm.org/2026-09-19/saudi-arabia-says-houthis-tried-to-attack-its-capital"
+      "domain": "kenw.org",
+      "url": "https://www.kenw.org/npr-news/2026-09-20/ukraine-fires-over-1-000-drones-at-russia-including-hundreds-launched-at-moscow"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
+      "tonalitaet": -8.5,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "refinery"
       ],
-      "domain": "houstonpublicmedia.org",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/09/20/nx-s1-5974980/saudi-arabia-says-houthis-tried-to-attack-its-capital/"
+      "domain": "wnyc.org",
+      "url": "https://wnyc.org/npr/nx-s1-5975372"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.9,
+      "tonalitaet": -7.9,
       "treffer": [
-        "missile",
-        "ballistic"
+        "invasion"
       ],
-      "domain": "gdnonline.com",
-      "url": "https://www.gdnonline.com:443/Details/1407061/North-Korea-fires-ballistic-missile-off-east-coast,-Japan-says"
+      "domain": "tribuneonlineng.com",
+      "url": "https://tribuneonlineng.com/jos-electricity-company-alleges-unlawful-invasion-of-bauchi-office/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -7.3,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "npr.org",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "houstonpublicmedia.org",
+      "url": "https://www.houstonpublicmedia.org/npr/2026/09/20/nx-s1-5975372/ukraine-fires-over-1000-drones-at-russia-including-hundreds-launched-at-moscow/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/World/20260920/4500937.html"
+      "domain": "westhawaiitoday.com",
+      "url": "https://www.westhawaiitoday.com/2026/09/20/nation-world-news/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "whmi.com",
+      "url": "https://www.whmi.com/news/fox/ukraine-targets-russia-1000-drones-killing-2-moscow-holds-last-day-elections"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/world/ukraine-targets-russia-1000-drones-killing-2-moscow-holds-last-day-elections"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/production/will-shutdowns-forced-by-us-blockade-damage-irans-oil-wells"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "tribuneonlineng.com",
+      "url": "https://tribuneonlineng.com/2027-hajj-nahcon-reacts-to-alleged-diversion-of-5000-slots/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-hormuz-israel-september-20"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/mass-drone-barrage-on-moscow-kills-two/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/publicpolicy/iran-sets-seven-terms-for-renewed-us-talks-says-ready-for-escalation"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "npr.org",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "houstonpublicmedia.org",
+      "url": "https://www.houstonpublicmedia.org/npr/2026/09/20/nx-s1-5974900/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kwbu.org",
+      "url": "https://www.kwbu.org/latest-from-npr/2026-09-20/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wnyc.org",
+      "url": "https://wnyc.org/npr/nx-s1-5974900"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/middle-east/iran-news/article-909162"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "westhawaiitoday.com",
+      "url": "https://www.westhawaiitoday.com/2026/09/20/nation-world-news/russia-warns-new-us-sanctions-law-would-harm-trumps-peace-efforts/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/09/20/is-the-us-poised-to-hit-the-houthis/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "tomshardware.com",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/north-korea-used-job-interviews-to-deploy-malware-on-30-000-devices-during-coding-tests-waterplum-group-loots-usd10-7-million-in-crypto-and-plants-persistent-rats"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279318995/iran-ghalibaf-says-there-will-be-no-opening-of-strait-of-hormuz-until-conditions-are-met"
     }
   ],
   "gkg_alter_stunden": 0.0
