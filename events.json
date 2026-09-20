@@ -1,154 +1,101 @@
 {
-  "erstellt_am": "2026-09-20T14:45:26",
+  "erstellt_am": "2026-09-20T22:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260920124500",
+  "gkg_stand": "20260920204500",
   "veraltet": false,
-  "anzahl": 24,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.1,
+      "kategorie": "Policy",
+      "tonalitaet": -7.8,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "wapt.com",
-      "url": "https://www.wapt.com/article/ukraine-drone-largest-attack-moscow-russia/73806821"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.8,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/world/2026/09/20/ukraine-fires-over-1000-drones-at-russia-including-hundreds-launched-at-moscow/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.5,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "kenw.org",
-      "url": "https://www.kenw.org/npr-news/2026-09-20/ukraine-fires-over-1-000-drones-at-russia-including-hundreds-launched-at-moscow"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.5,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "wnyc.org",
-      "url": "https://wnyc.org/npr/nx-s1-5975372"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "tribuneonlineng.com",
-      "url": "https://tribuneonlineng.com/jos-electricity-company-alleges-unlawful-invasion-of-bauchi-office/"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -7.3,
       "treffer": [
-        "refinery"
-      ],
-      "domain": "npr.org",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "houstonpublicmedia.org",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/09/20/nx-s1-5975372/ukraine-fires-over-1000-drones-at-russia-including-hundreds-launched-at-moscow/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
-      "treffer": [
         "red sea"
       ],
-      "domain": "westhawaiitoday.com",
-      "url": "https://www.westhawaiitoday.com/2026/09/20/nation-world-news/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital/"
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/09/20/us-warns-middle-east-conflict-could-escalate-rapidly-urges-citizens-to-reconsider-travel"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -7.1,
       "treffer": [
         "refinery"
       ],
-      "domain": "whmi.com",
-      "url": "https://www.whmi.com/news/fox/ukraine-targets-russia-1000-drones-killing-2-moscow-holds-last-day-elections"
+      "domain": "turnto10.com",
+      "url": "https://turnto10.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-massive-drone-and-missile-attack"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.6,
       "treffer": [
-        "refinery"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/world/ukraine-targets-russia-1000-drones-killing-2-moscow-holds-last-day-elections"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/production/will-shutdowns-forced-by-us-blockade-damage-irans-oil-wells"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribuneonlineng.com",
-      "url": "https://tribuneonlineng.com/2027-hajj-nahcon-reacts-to-alleged-diversion-of-5000-slots/"
+      "domain": "wknofm.org",
+      "url": "https://www.wknofm.org/news-from-npr/2026-09-19/saudi-arabia-says-houthis-tried-to-attack-its-capital"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-hormuz-israel-september-20"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/mass-drone-barrage-on-moscow-kills-two/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -6.1,
       "treffer": [
         "mandeb"
       ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/publicpolicy/iran-sets-seven-terms-for-renewed-us-talks-says-ready-for-escalation"
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/09/20/world-leaders-return-to-un-amid-wars-in-middle-east-and-ukraine"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/09/20/arab-states-rally-behind-saudi-arabia-after-houthi-attacks"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/rnli-warned-cyber-attack-volunteers-195532000.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "npr.org",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit"
+      "domain": "arynews.tv",
+      "url": "https://arynews.tv/mahan-air-halts-flights-to-turkiye-oman-after-us-expands-sanctions"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "politicaldog101.com",
+      "url": "https://politicaldog101.com/2026/09/the-houthis-and-saudi-arabia-and-more-in-the-middle-east-sept-20-2026/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/09/20/iran-says-conveyed-conditions-to-us-for-reopening-hormuz"
     },
     {
       "kategorie": "Policy",
@@ -156,72 +103,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "houstonpublicmedia.org",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/09/20/nx-s1-5974900/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case/"
+      "domain": "indiankanoon.org",
+      "url": "https://indiankanoon.org/doc/51040698/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kwbu.org",
-      "url": "https://www.kwbu.org/latest-from-npr/2026-09-20/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wnyc.org",
-      "url": "https://wnyc.org/npr/nx-s1-5974900"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.6,
       "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/middle-east/iran-news/article-909162"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "westhawaiitoday.com",
-      "url": "https://www.westhawaiitoday.com/2026/09/20/nation-world-news/russia-warns-new-us-sanctions-law-would-harm-trumps-peace-efforts/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/09/20/is-the-us-poised-to-hit-the-houthis/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tomshardware.com",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/north-korea-used-job-interviews-to-deploy-malware-on-30-000-devices-during-coding-tests-waterplum-group-loots-usd10-7-million-in-crypto-and-plants-persistent-rats"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279318995/iran-ghalibaf-says-there-will-be-no-opening-of-strait-of-hormuz-until-conditions-are-met"
+      "domain": "cnn.com",
+      "url": "https://www.cnn.com/2026/09/20/middleeast/mideast-tensions-un-general-assembly-heres-what-to-know"
     }
   ],
   "gkg_alter_stunden": 0.0
