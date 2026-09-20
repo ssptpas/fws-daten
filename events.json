@@ -1,138 +1,68 @@
 {
-  "erstellt_am": "2026-09-19T22:45:28",
+  "erstellt_am": "2026-09-20T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260919204500",
+  "gkg_stand": "20260920074500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 6,
   "ereignisse": [
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -15.7,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "westernmassnews.com",
-      "url": "https://www.westernmassnews.com/2026/09/19/suspect-somers-deadly-home-invasion-now-facing-weapons-charges/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "orlandoecho.com",
-      "url": "http://www.orlandoecho.com/news/279317665/explosions-rock-saudi-capital-media"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/mocha-gripped-by-fear-after-houthi-takeover-3002363"
-    },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.9,
       "treffer": [
-        "crude oil"
+        "refinery"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/news/more-news/910887-navy-uncovers-119850-litres-of-suspected-stolen-crude-oil-in-rivers.html"
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/massive-drone-barrage-hits-moscow-during-elections-kills-two-227067"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "oneindia.com",
+      "url": "https://www.oneindia.com/international/saudi-arabia-confirms-houthi-ballistic-missile-attack-on-riyadh-missile-intercepted-8210203.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.6,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "krmg.com",
-      "url": "https://krmg.com/2026/09/19/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-a-ballistic-missile/"
+      "domain": "wnmufm.org",
+      "url": "https://www.wnmufm.org/2026-09-19/saudi-arabia-says-houthis-tried-to-attack-its-capital"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "houstonpublicmedia.org",
+      "url": "https://www.houstonpublicmedia.org/npr/2026/09/20/nx-s1-5974980/saudi-arabia-says-houthis-tried-to-attack-its-capital/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/19/israeli-airstrikes-kill-at-least-three-in-gaza-including-son-of-health-ministry-chief/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "mynews4.com",
-      "url": "https://mynews4.com/news/nation-world/houthis-claim-attacks-on-riyadh-as-fire-erupts-near-saudi-airport"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "news.az",
-      "url": "https://news.az/news/44-killed-in-yemen-fighting-in-24-hrs-military-sources"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "abc.net.au",
-      "url": "https://www.abc.net.au/news/2026-09-20/fire-near-riyadh-airport-as-houthis-attack-saudi-capital/107173362"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "nbcnews.com",
-      "url": "https://www.nbcnews.com/world/middle-east/flames-smoke-seen-riyadh-airport-houthis-claim-attacks-saudi-capital-rcna598714"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/opinion/910894-houthis-and-saudis-when-the-weak-strike-back-by-owei-lakemfa.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
+      "tonalitaet": -3.9,
       "treffer": [
         "missile",
         "ballistic"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/saudi-arabia/coalition-intercepts-and-destroys-ballistic-missile-fired-toward-riyadh-3002370"
+      "domain": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1407061/North-Korea-fires-ballistic-missile-off-east-coast,-Japan-says"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -3.3,
       "treffer": [
         "red sea"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/saudi-arabia-issues-first-alert-in-the-capital-since-escalation-and-other-mideast-developments-101789847990155.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/turkey-says-it-could-help-meet-saudi-military-needs-under-defence-pact-101789845730827.html"
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/World/20260920/4500937.html"
     }
   ],
   "gkg_alter_stunden": 0.0
