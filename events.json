@@ -1,83 +1,140 @@
 {
-  "erstellt_am": "2026-09-20T22:45:28",
+  "erstellt_am": "2026-09-21T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260920204500",
+  "gkg_stand": "20260921074500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 19,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.8,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/pakistan-airstrikes-afghanistan-militants-kabul-taliban-civilians-dead-126092100405_1.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.9,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "ianslive.in",
+      "url": "https://ianslive.in/taliban-condemns-pakistans-airstrikes-on-afghanistan-vows-appropriate-response--20260921114549"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -7.8,
+      "tonalitaet": -8.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise/"
+      "domain": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/world/americas/us-prepares-sanctions-against-entire-international-criminal-court-1989209"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.5,
       "treffer": [
-        "red sea"
+        "airstrike"
       ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/09/20/us-warns-middle-east-conflict-could-escalate-rapidly-urges-citizens-to-reconsider-travel"
+      "domain": "panow.com",
+      "url": "https://panow.com/2026/09/20/pakistan-says-airstrikes-target-militant-hideouts-in-afghanistan-killing-28-kabul-says-3-killed/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
+      "kategorie": "Policy",
+      "tonalitaet": -8.2,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "turnto10.com",
-      "url": "https://turnto10.com/news/nation-world/ukraine-hits-moscow-oil-refinery-in-massive-drone-and-missile-attack"
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/iran-economy-contracts-during-us-war-official-statistics-227113"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
+      "tonalitaet": -7.9,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "wknofm.org",
-      "url": "https://www.wknofm.org/news-from-npr/2026-09-19/saudi-arabia-says-houthis-tried-to-attack-its-capital"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/09/20/world-leaders-return-to-un-amid-wars-in-middle-east-and-ukraine"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/09/20/arab-states-rally-behind-saudi-arabia-after-houthi-attacks"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/rnli-warned-cyber-attack-volunteers-195532000.html"
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087357122-iran-warns-of-sustained-retaliation-if-us-launches-new-attack"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -6.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "arynews.tv",
-      "url": "https://arynews.tv/mahan-air-halts-flights-to-turkiye-oman-after-us-expands-sanctions"
+      "domain": "nltimes.nl",
+      "url": "https://nltimes.nl/2026/09/21/trump-administration-preparing-sanctions-international-criminal-court"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/uk-maritime-agency-says-ship-traffic-in-strait-of-hormuz-remains-far-below-pre-war-levels/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "cincinnatisun.com",
+      "url": "http://www.cincinnatisun.com/news/279317567/smoke-rises-near-riyadh-airport-after-explosions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/venezuelas-new-fear-criticising-washington/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/irans-mass-mobilisation-drive-raises-questions-beyond-the-battlefield/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087357124-trump-puts-houthi-airstrikes-on-hold-even-after-saudi-appeal"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/sudan-gold-mine-collapse-kills-10-injures-21-3545573/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "ianslive.in",
+      "url": "https://ianslive.in/10-artisanal-miners-killed-in-mine-collapse-in-sudan--20260921091836"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -85,35 +142,44 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "politicaldog101.com",
-      "url": "https://politicaldog101.com/2026/09/the-houthis-and-saudi-arabia-and-more-in-the-middle-east-sept-20-2026/"
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279320094/brent-slips-to-usd-101-per-barrel-gift-nifty-signals-flat-start-for-indian-equities"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279316081/boj-raises-rates-to-31-year-high-as-inflation-risks-mount"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/opinion/the-ai-cyberattack-nightmare-14034262.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.3,
       "treffer": [
-        "hormuz"
+        "mandeb"
       ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/09/20/iran-says-conveyed-conditions-to-us-for-reopening-hormuz"
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087357119-turkey-can-help-meet-saudi-military-needs-under-makkah-pact-fm"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "indiankanoon.org",
-      "url": "https://indiankanoon.org/doc/51040698/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "cnn.com",
-      "url": "https://www.cnn.com/2026/09/20/middleeast/mideast-tensions-un-general-assembly-heres-what-to-know"
+      "domain": "nripress.com",
+      "url": "https://nripress.com/where-does-india-stand-after-us-passes-russia-sanctions-bill/"
     }
   ],
   "gkg_alter_stunden": 0.0
