@@ -1,151 +1,204 @@
 {
-  "erstellt_am": "2026-09-21T14:45:45",
+  "erstellt_am": "2026-09-21T22:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260921124500",
+  "gkg_stand": "20260921204500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 21,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/bbc-says-war-may-be-coming-but-war-is-already-here.html"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
+      "tonalitaet": -11.9,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "wwmt.com",
-      "url": "https://wwmt.com/news/nation-world/president-donald-trumps-iran-decision-looms-as-world-leaders-gather-at-un-81st-united-national-general-assembly-new-york-gaza-israel-ukraine-russia-tehran-wars-strait-of-hormuz-oil-gas-prices-zelenskyy-mayor-mamdani"
+      "domain": "outlookindia.com",
+      "url": "https://www.outlookindia.com/international/saudi-arabia-vs-houthis-how-a-yemeni-rebellion-became-a-regional-rivalry"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -10.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/europe/2026/09/21/france-to-summon-iranian-ambassador-after-language-centre-in-tehran-shut/"
+      "domain": "okcfox.com",
+      "url": "https://okcfox.com/news/local/ou-fraternity-faces-disciplinary-probation-after-hazing-investigation"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -9.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2630612/trump-administration-prepares-sanctions-against-international-criminal-court-sources-say"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.2,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "cecildaily.com",
+      "url": "http://www.cecildaily.com/ap/world/pakistan-says-airstrikes-in-afghanistan-kill-28-militants-kabul-reports-3-civilians-killed/article_180792de-de97-5903-9d10-f7383180f23d.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "stereogum.com",
+      "url": "https://stereogum.com/2512117/new-world-man-announce-debut-lp-i-am-the-machine-hear-the-title-track/music"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/india/russia-hits-zaporizhzhia-after-kyivs-1k-drone-strike/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/huawei-trial-1-3bn-london-china-transfer-1821044"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "venezuelastar.com",
+      "url": "http://www.venezuelastar.com/news/279322049/brazil-has-made-gains-against-amazon-deforestation-but-lasting-protection-is-a-challenge"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/eu-poised-to-lift-sanctions-on-russia-linked-billionaires-usmanov-and-fridman-diplomats-say-101790017953947.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "tonalitaet": -4.9,
       "treffer": [
-        "hormuz",
         "mandeb",
-        "red sea",
-        "tanker"
+        "red sea"
       ],
-      "domain": "oedigital.com",
-      "url": "https://www.oedigital.com/news/543115-tanker-shuttles-keep-hormuz-oil-moving-as-costs-soar"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailymaverick.co.za",
-      "url": "https://www.dailymaverick.co.za/article/2026-09-21-north-korea-says-new-sanctions-cannot-block-development-kcna-reports/"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/longsuffering-yemeni-families-flee-renewed-fighting-101790018457490.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
+      "tonalitaet": -4.4,
       "treffer": [
-        "hormuz",
-        "red sea",
-        "tanker"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "thestar.com.my",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/21/tanker-hit-by-projectile-as-it-enters-the-strait-of-hormuz-says-british-military"
+      "domain": "antiwar.com",
+      "url": "https://news.antiwar.com/2026/09/21/report-trump-ordered-pentagon-to-prepare-to-bomb-yemen-then-reversed-course/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.2,
       "treffer": [
-        "hormuz",
-        "red sea",
-        "tanker"
+        "red sea"
       ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/ap_business/a-projectile-hits-a-tanker-as-it-enters-the-strait-of-hormuz-and-other-mideast/article_172f4a39-161b-5838-8d02-835b5d024cf6.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz",
-        "red sea",
-        "tanker"
-      ],
-      "domain": "sandiegouniontribune.com",
-      "url": "https://www.sandiegouniontribune.com/2026/09/21/tanker-projectile-strait-of-hormuz-mideast-news/"
+      "domain": "nzcity.co.nz",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=454491"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wdbo.com",
-      "url": "https://www.wdbo.com/news/world/netherlands-is/VDHMG33QVY3W7MAOCQ6JXH75XI/"
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/433454"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.5,
       "treffer": [
-        "refinery"
+        "red sea",
+        "crude oil"
       ],
-      "domain": "wgauradio.com",
-      "url": "https://www.wgauradio.com/news/world/main-kremlin-party/5XNJMRAJDE6B5EWZ2DCYOFRDNI/"
+      "domain": "jamaicaobserver.com",
+      "url": "https://www.jamaicaobserver.com/2026/09/21/diesel-prices-rising-crude-oil/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "californiatelegraph.com",
+      "url": "http://www.californiatelegraph.com/news/279316085/russia-seizes-control-of-nestle-auchan-businesses"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "northkoreatimes.com",
+      "url": "http://www.northkoreatimes.com/news/279316085/russia-seizes-control-of-nestle-auchan-businesses"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "state of emergency"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/california-el-nino-storm-state-of-emergency"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.3,
       "treffer": [
-        "hormuz",
+        "red sea",
+        "crude oil"
+      ],
+      "domain": "geo.tv",
+      "url": "https://www.geo.tv/latest/683042-why-diesel-prices-are-rising-more-than-crude-oil"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "thailandnews.net",
+      "url": "http://www.thailandnews.net/news/279321823/global-central-bank-tightening-high-crude-to-restrain-fii-inflows-to-india-kotak-securities"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "oedigital.com",
-      "url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "stardem.com",
-      "url": "http://www.stardem.com/ap/nation/a-projectile-strikes-a-tanker-as-it-sails-into-the-strait-of-hormuz-and-other/article_a69dd6cd-2a37-5b6b-b113-46099a807bb7.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/business/energy/2026/09/21/strait-of-hormuz-vessel-traffic-remains-thin-amid-middle-east-tensions/"
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/western-elites-fealty-to-unreality-trump-mbs-dan-caine-hegseth.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "fool.com",
-      "url": "https://www.fool.com/investing/2026/09/21/binance-coin-bnb-may-be-the-fourth-largest-crypto/?source=iedfolrf0000001"
+      "domain": "royaldutchshellplc.com",
+      "url": "https://royaldutchshellplc.com/2026/09/21/the-shell-leaks-files-21-september-2026/"
     }
   ],
   "gkg_alter_stunden": 0.0
