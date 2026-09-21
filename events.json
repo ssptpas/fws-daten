@@ -1,176 +1,142 @@
 {
-  "erstellt_am": "2026-09-21T09:45:25",
+  "erstellt_am": "2026-09-21T14:45:45",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260921074500",
+  "gkg_stand": "20260921124500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 14,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.8,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/pakistan-airstrikes-afghanistan-militants-kabul-taliban-civilians-dead-126092100405_1.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.9,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "ianslive.in",
-      "url": "https://ianslive.in/taliban-condemns-pakistans-airstrikes-on-afghanistan-vows-appropriate-response--20260921114549"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -8.9,
+      "tonalitaet": -7.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "deccanchronicle.com",
-      "url": "https://www.deccanchronicle.com/world/americas/us-prepares-sanctions-against-entire-international-criminal-court-1989209"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.5,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "panow.com",
-      "url": "https://panow.com/2026/09/20/pakistan-says-airstrikes-target-militant-hideouts-in-afghanistan-killing-28-kabul-says-3-killed/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/iran-economy-contracts-during-us-war-official-statistics-227113"
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/bbc-says-war-may-be-coming-but-war-is-already-here.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.9,
+      "tonalitaet": -5.4,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "hormuz"
       ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087357122-iran-warns-of-sustained-retaliation-if-us-launches-new-attack"
+      "domain": "wwmt.com",
+      "url": "https://wwmt.com/news/nation-world/president-donald-trumps-iran-decision-looms-as-world-leaders-gather-at-un-81st-united-national-general-assembly-new-york-gaza-israel-ukraine-russia-tehran-wars-strait-of-hormuz-oil-gas-prices-zelenskyy-mayor-mamdani"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "nltimes.nl",
-      "url": "https://nltimes.nl/2026/09/21/trump-administration-preparing-sanctions-international-criminal-court"
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/europe/2026/09/21/france-to-summon-iranian-ambassador-after-language-centre-in-tehran-shut/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
+      "tonalitaet": -5.2,
       "treffer": [
         "hormuz",
         "mandeb",
-        "red sea"
+        "red sea",
+        "tanker"
       ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/uk-maritime-agency-says-ship-traffic-in-strait-of-hormuz-remains-far-below-pre-war-levels/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "cincinnatisun.com",
-      "url": "http://www.cincinnatisun.com/news/279317567/smoke-rises-near-riyadh-airport-after-explosions"
+      "domain": "oedigital.com",
+      "url": "https://www.oedigital.com/news/543115-tanker-shuttles-keep-hormuz-oil-moving-as-costs-soar"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/venezuelas-new-fear-criticising-washington/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/irans-mass-mobilisation-drive-raises-questions-beyond-the-battlefield/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.7,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087357124-trump-puts-houthi-airstrikes-on-hold-even-after-saudi-appeal"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "siasat.com",
-      "url": "https://www.siasat.com/sudan-gold-mine-collapse-kills-10-injures-21-3545573/"
+      "domain": "dailymaverick.co.za",
+      "url": "https://www.dailymaverick.co.za/article/2026-09-21-north-korea-says-new-sanctions-cannot-block-development-kcna-reports/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.5,
       "treffer": [
-        "red sea"
+        "hormuz",
+        "red sea",
+        "tanker"
       ],
-      "domain": "ianslive.in",
-      "url": "https://ianslive.in/10-artisanal-miners-killed-in-mine-collapse-in-sudan--20260921091836"
+      "domain": "thestar.com.my",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/21/tanker-hit-by-projectile-as-it-enters-the-strait-of-hormuz-says-british-military"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "hormuz",
+        "red sea",
+        "tanker"
+      ],
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/ap_business/a-projectile-hits-a-tanker-as-it-enters-the-strait-of-hormuz-and-other-mideast/article_172f4a39-161b-5838-8d02-835b5d024cf6.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz",
+        "red sea",
+        "tanker"
+      ],
+      "domain": "sandiegouniontribune.com",
+      "url": "https://www.sandiegouniontribune.com/2026/09/21/tanker-projectile-strait-of-hormuz-mideast-news/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.9,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279320094/brent-slips-to-usd-101-per-barrel-gift-nifty-signals-flat-start-for-indian-equities"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279316081/boj-raises-rates-to-31-year-high-as-inflation-risks-mount"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/opinion/the-ai-cyberattack-nightmare-14034262.html"
+      "domain": "wdbo.com",
+      "url": "https://www.wdbo.com/news/world/netherlands-is/VDHMG33QVY3W7MAOCQ6JXH75XI/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.6,
       "treffer": [
-        "mandeb"
+        "refinery"
       ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087357119-turkey-can-help-meet-saudi-military-needs-under-makkah-pact-fm"
+      "domain": "wgauradio.com",
+      "url": "https://www.wgauradio.com/news/world/main-kremlin-party/5XNJMRAJDE6B5EWZ2DCYOFRDNI/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "oedigital.com",
+      "url": "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "stardem.com",
+      "url": "http://www.stardem.com/ap/nation/a-projectile-strikes-a-tanker-as-it-sails-into-the-strait-of-hormuz-and-other/article_a69dd6cd-2a37-5b6b-b113-46099a807bb7.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/business/energy/2026/09/21/strait-of-hormuz-vessel-traffic-remains-thin-amid-middle-east-tensions/"
     },
     {
       "kategorie": "Policy",
@@ -178,8 +144,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "nripress.com",
-      "url": "https://nripress.com/where-does-india-stand-after-us-passes-russia-sanctions-bill/"
+      "domain": "fool.com",
+      "url": "https://www.fool.com/investing/2026/09/21/binance-coin-bnb-may-be-the-fourth-largest-crypto/?source=iedfolrf0000001"
     }
   ],
   "gkg_alter_stunden": 0.0
