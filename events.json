@@ -1,73 +1,82 @@
 {
-  "erstellt_am": "2026-09-22T09:45:28",
+  "erstellt_am": "2026-09-22T14:46:03",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260922074500",
+  "gkg_stand": "20260922124500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 24,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -11.5,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "ibtimes.co.in",
-      "url": "https://www.ibtimes.co.in/pakistan-carries-out-fresh-airstrikes-afghanistan-three-killed-kunar-906209"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "wgal.com",
-      "url": "https://www.wgal.com/article/airstrikes-in-afghanistan-kill-28-militants/73829706"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "wapt.com",
-      "url": "https://www.wapt.com/article/airstrikes-in-afghanistan-kill-28-militants/73829706"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/crime-law/2026/09/22/christy-kinahan-snr-facing-no-cartel-related-criminal-charges/"
+      "domain": "londonlovesbusiness.com",
+      "url": "https://londonlovesbusiness.com/putin-bunker-claims-spark-alarm-as-britain-confronts-russias-growing-shadow-war/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Sep/22/us-says-iranian-airlines-could-effectively-be-shut-out-of-international-travel-from-wednesday"
+      "domain": "alternet.org",
+      "url": "https://www.alternet.org/trump-grassley-thune/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "digitalspy.com",
+      "url": "https://www.digitalspy.com/soaps/emmerdale/a73807075/emmerdale-spoilers-sadie-caught-out-by-caleb/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.4,
       "treffer": [
-        "refinery"
+        "mandeb"
       ],
-      "domain": "dailykos.com",
-      "url": "https://www.dailykos.com/stories/2026/9/21/800101321/community/1671/"
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/ade/ap/national/as-mideast-leaders-gather-in-new-york-regional-wars-top-the-agenda-and-other-mideast/article_30c3d6cb-5f87-59b7-bf20-cc07fdb1907e.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "londonlovesbusiness.com",
-      "url": "https://londonlovesbusiness.com/trump-warns-russia-has-lost-control-of-diesel-as-ukraines-refinery-strikes-bite/"
+      "domain": "dailyliberal.com.au",
+      "url": "https://www.dailyliberal.com.au/story/9355577/russia-ukraine-strikes-as-zelenskiy-set-to-meet-trump/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newcastleherald.com.au",
+      "url": "https://www.newcastleherald.com.au/story/9355577/russia-ukraine-strikes-as-zelenskiy-set-to-meet-trump/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "eveshamjournal.co.uk",
+      "url": "https://www.eveshamjournal.co.uk/news/national/26570627.russia-ukraine-trade-deadly-strikes-zelensky-prepares-meet-trump/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "greenocktelegraph.co.uk",
+      "url": "https://www.greenocktelegraph.co.uk/news/national/26570627.russia-ukraine-trade-deadly-strikes-zelensky-prepares-meet-trump/"
     },
     {
       "kategorie": "Policy",
@@ -75,44 +84,144 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/opinion/letters/2026/09/22/gadi-eisenkot-and-the-netanyahu-era/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "dailygazette.com",
-      "url": "https://www.dailygazette.com/the_recorder/ap/national/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future/article_93278ade-a307-50b5-9f7f-85e77e55a632.html"
+      "domain": "wapt.com",
+      "url": "https://www.wapt.com/article/russia-ukraine-strikes-un/73831552"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "merimbulanewsweekly.com.au",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9355415/bega-valley-newsagencies-shut-down-over-illegal-tobacco-raids/"
+      "domain": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9355577/russia-ukraine-strikes-as-zelenskiy-set-to-meet-trump/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://1190talkradio.iheart.com/content/2026-09-21-cuba-falling-to-blackouts-crises-says-one-expert/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -4.4,
       "treffer": [
         "red sea"
       ],
-      "domain": "brisbanetimes.com.au",
-      "url": "https://www.brisbanetimes.com.au/business/consumer-affairs/pain-at-the-pump-saudi-oil-shock-sends-australian-fuel-prices-surging-20260922-p60zfk.html"
+      "domain": "nbcmiami.com",
+      "url": "https://www.nbcmiami.com/news/national-international/trump-united-nations-general-assembly-address-iran-war/3862424/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "nbcchicago.com",
+      "url": "https://www.nbcchicago.com/news/national-international/trump-united-nations-general-assembly-address-iran-war/3992042/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "londonlovesbusiness.com",
+      "url": "https://londonlovesbusiness.com/raf-sent-into-red-sea-crisis-as-houthi-blitz-threatens-saudi-arabia/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "greeleytribune.com",
+      "url": "https://www.greeleytribune.com/2026/09/22/mideast-leaders-un-wars-mideast-news/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "sun-sentinel.com",
+      "url": "https://www.sun-sentinel.com/2026/09/22/trump-un-general-assembly/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "idahostatejournal.com",
+      "url": "https://www.idahostatejournal.com/news/national/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future/article_98358f88-497c-5dc6-9fd9-00cb1760b43a.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16150469/Travellers-weeks-leave-illegal-site-Britains-biggest-nuclear-weapons-factory.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "kvpr.org",
+      "url": "https://www.kvpr.org/npr-news/2026-09-22/houthis-try-to-push-deeper-into-western-yemen-upending-life-witnesses-tell-npr"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thedailybeast.com",
+      "url": "https://www.thedailybeast.com/disgraced-kristi-noem-official-karen-evans-handed-top-dhs-fraud-job/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279323060/g7-strongly-condemns-houthi-strikes-on-saudi-calls-on-iran-to-end-support"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "dw.com",
+      "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/htmw/htwin/articles/20260922851.aspx"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.0,
       "treffer": [
         "central bank"
       ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/your-money/2026/09/22/if-irish-property-is-over-valued-will-house-prices-fall/"
+      "domain": "irishconstruction.com",
+      "url": "https://irishconstruction.com/brown-brown-protecting-the-businesses-that-build-ireland/"
     }
   ],
   "gkg_alter_stunden": 0.0
