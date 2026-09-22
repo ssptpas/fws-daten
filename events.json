@@ -1,82 +1,37 @@
 {
-  "erstellt_am": "2026-09-21T22:45:27",
+  "erstellt_am": "2026-09-22T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260921204500",
+  "gkg_stand": "20260922074500",
   "veraltet": false,
-  "anzahl": 21,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -11.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "outlookindia.com",
-      "url": "https://www.outlookindia.com/international/saudi-arabia-vs-houthis-how-a-yemeni-rebellion-became-a-regional-rivalry"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -10.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "okcfox.com",
-      "url": "https://okcfox.com/news/local/ou-fraternity-faces-disciplinary-probation-after-hazing-investigation"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -9.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2630612/trump-administration-prepares-sanctions-against-international-criminal-court-sources-say"
-    },
-    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.2,
+      "tonalitaet": -11.5,
       "treffer": [
         "airstrike"
       ],
-      "domain": "cecildaily.com",
-      "url": "http://www.cecildaily.com/ap/world/pakistan-says-airstrikes-in-afghanistan-kill-28-militants-kabul-reports-3-civilians-killed/article_180792de-de97-5903-9d10-f7383180f23d.html"
+      "domain": "ibtimes.co.in",
+      "url": "https://www.ibtimes.co.in/pakistan-carries-out-fresh-airstrikes-afghanistan-three-killed-kunar-906209"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.1,
+      "tonalitaet": -9.4,
       "treffer": [
-        "invasion"
+        "airstrike"
       ],
-      "domain": "stereogum.com",
-      "url": "https://stereogum.com/2512117/new-world-man-announce-debut-lp-i-am-the-machine-hear-the-title-track/music"
+      "domain": "wgal.com",
+      "url": "https://www.wgal.com/article/airstrikes-in-afghanistan-kill-28-militants/73829706"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.3,
+      "tonalitaet": -9.4,
       "treffer": [
-        "drone strike"
+        "airstrike"
       ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/india/russia-hits-zaporizhzhia-after-kyivs-1k-drone-strike/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/huawei-trial-1-3bn-london-china-transfer-1821044"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "venezuelastar.com",
-      "url": "http://www.venezuelastar.com/news/279322049/brazil-has-made-gains-against-amazon-deforestation-but-lasting-protection-is-a-challenge"
+      "domain": "wapt.com",
+      "url": "https://www.wapt.com/article/airstrikes-in-afghanistan-kill-28-militants/73829706"
     },
     {
       "kategorie": "Policy",
@@ -84,121 +39,80 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/eu-poised-to-lift-sanctions-on-russia-linked-billionaires-usmanov-and-fridman-diplomats-say-101790017953947.html"
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/crime-law/2026/09/22/christy-kinahan-snr-facing-no-cartel-related-criminal-charges/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/22/us-says-iranian-airlines-could-effectively-be-shut-out-of-international-travel-from-wednesday"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "dailykos.com",
+      "url": "https://www.dailykos.com/stories/2026/9/21/800101321/community/1671/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.9,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "refinery"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/longsuffering-yemeni-families-flee-renewed-fighting-101790018457490.html"
+      "domain": "londonlovesbusiness.com",
+      "url": "https://londonlovesbusiness.com/trump-warns-russia-has-lost-control-of-diesel-as-ukraines-refinery-strikes-bite/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/opinion/letters/2026/09/22/gadi-eisenkot-and-the-netanyahu-era/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/the_recorder/ap/national/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future/article_93278ade-a307-50b5-9f7f-85e77e55a632.html"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -4.4,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "antiwar.com",
-      "url": "https://news.antiwar.com/2026/09/21/report-trump-ordered-pentagon-to-prepare-to-bomb-yemen-then-reversed-course/"
+      "domain": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9355415/bega-valley-newsagencies-shut-down-over-illegal-tobacco-raids/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=454491"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -4.0,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433454"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "red sea",
-        "crude oil"
-      ],
-      "domain": "jamaicaobserver.com",
-      "url": "https://www.jamaicaobserver.com/2026/09/21/diesel-prices-rising-crude-oil/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "californiatelegraph.com",
-      "url": "http://www.californiatelegraph.com/news/279316085/russia-seizes-control-of-nestle-auchan-businesses"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "northkoreatimes.com",
-      "url": "http://www.northkoreatimes.com/news/279316085/russia-seizes-control-of-nestle-auchan-businesses"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/california-el-nino-storm-state-of-emergency"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "red sea",
-        "crude oil"
-      ],
-      "domain": "geo.tv",
-      "url": "https://www.geo.tv/latest/683042-why-diesel-prices-are-rising-more-than-crude-oil"
+      "domain": "brisbanetimes.com.au",
+      "url": "https://www.brisbanetimes.com.au/business/consumer-affairs/pain-at-the-pump-saudi-oil-shock-sends-australian-fuel-prices-surging-20260922-p60zfk.html"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.5,
       "treffer": [
         "central bank"
       ],
-      "domain": "thailandnews.net",
-      "url": "http://www.thailandnews.net/news/279321823/global-central-bank-tightening-high-crude-to-restrain-fii-inflows-to-india-kotak-securities"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/western-elites-fealty-to-unreality-trump-mbs-dan-caine-hegseth.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "royaldutchshellplc.com",
-      "url": "https://royaldutchshellplc.com/2026/09/21/the-shell-leaks-files-21-september-2026/"
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/your-money/2026/09/22/if-irish-property-is-over-valued-will-house-prices-fall/"
     }
   ],
   "gkg_alter_stunden": 0.0
