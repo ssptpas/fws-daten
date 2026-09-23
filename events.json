@@ -1,46 +1,55 @@
 {
-  "erstellt_am": "2026-09-22T22:45:54",
+  "erstellt_am": "2026-09-23T09:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260922204500",
+  "gkg_stand": "20260923074500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 15,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -10.6,
+      "tonalitaet": -8.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/economy/economic-data-in-iran-show-10-contraction-as-protests-spread-and-officials-fear-internal-unrest/"
+      "domain": "vietnamtribune.com",
+      "url": "http://www.vietnamtribune.com/news/279321988/trump-steps-up-pressure-on-international-criminal-court"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.3,
+      "tonalitaet": -8.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "the-dispatch.com",
-      "url": "https://www.the-dispatch.com/news/local/court-rejects-sanctions-for-lost-jail-footage/article_d5667eb9-cb00-5bb2-969b-56ba6292f95e.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.6,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279324400/suspected-us-drone-strike-kills-alleged-al-qaeda-member-in-se-yemen"
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/podcasts/early-edition/the-grim-reality-of-us-sanctions-dependence-on-multinationals-and-child-trafficking/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.3,
+      "tonalitaet": -6.4,
       "treffer": [
-        "coup"
+        "sanctions"
       ],
-      "domain": "beaufortcountynow.com",
-      "url": "https://www.beaufortcountynow.com/post/98420/tds-on-steroids-new-poll-shows-dem-voters-would-support-military-coup-against-trump.html"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bds-petitions-un-general-assembly-suspension-israels-un-membership"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16153411/Iran-warns-ready-inflict-crushing-blows-US-Trump-threatened-annihilate-regime-speech.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "londonlovesbusiness.com",
+      "url": "https://londonlovesbusiness.com/latvia-forced-into-difficult-eu-compromise-over-putin-oligarchs/"
     },
     {
       "kategorie": "Policy",
@@ -48,17 +57,45 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "pakobserver.net",
-      "url": "https://pakobserver.net/eleven-capitals-one-conviction-a-citizens-diplomacy/"
+      "domain": "chronicle.lu",
+      "url": "https://www.chronicle.lu/category/international/63552-estonia-says-france-must-explain-push-to-lift-eu-sanctions-on-usmanov"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/morning-recap-apc-leaders-weigh-options-as-wike-govs-rift-deepens-dangote-marketers-cut-petrol-prices-other-top-stories/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "calcuttanews.net",
+      "url": "http://www.calcuttanews.net/news/279325299/uk-makes-military-pledge-to-saudi-arabia"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -4.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailyadvance.com",
-      "url": "http://www.dailyadvance.com/news/world/trump-suggests-a-ukraine-deal-on-russias-war-could-be-close-while-meeting-with-zelenskyy/article_70f56564-8602-5f6e-8fa5-443c72f7f583.html"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/russia-is-basing-its-economy-on-india-zelenskyy-calls-for-end-to-oil-trade-article-14036161.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "timesrepublican.com",
+      "url": "https://www.timesrepublican.com/opinion/columnists/2026/09/a-medicaid-task-force-wont-eliminate-fraud-or-fix-what-the-mcos-broke/"
     },
     {
       "kategorie": "Policy",
@@ -66,65 +103,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "13wham.com",
-      "url": "https://13wham.com/news/nation-world/fact-check-team-what-does-the-un-record-show-about-israel-palestine-iran-arab-states-general-assembly"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "euobserver.com",
-      "url": "https://euobserver.com/238997/bullies-cannot-be-appeasedpressure-mounts-on-eu-to-shield-icc-from-new-us-sanctions/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "northerndailyleader.com.au",
-      "url": "https://www.northerndailyleader.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thebangladeshtoday.com",
-      "url": "https://thebangladeshtoday.com/?p=37548"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "timeslive.co.za",
-      "url": "https://www.timeslive.co.za/news/world/2026-09-22-trump-defends-decision-to-start-war-against-iran-in-un-address/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "dailyadvance.com",
-      "url": "http://www.dailyadvance.com/news/national/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/article_d3485aea-eae8-5d59-b1a9-ae2b1325c303.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "reviewjournal.com",
-      "url": "https://www.reviewjournal.com/news/politics-and-government/shortly-after-warning-he-may-annihilate-iran-trump-says-us-and-iranian-officials-met-tuesday-3889709/"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks/"
     },
     {
       "kategorie": "Policy",
@@ -132,26 +112,36 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/comment/punjab-faces-a-moral-test/"
+      "domain": "londonlovesbusiness.com",
+      "url": "https://londonlovesbusiness.com/russia-faces-fresh-us-economic-blitz-as-trump-demands-putin-settles-the-war/"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
-        "central bank"
+        "red sea"
       ],
-      "domain": "vindobona.org",
-      "url": "https://www.vindobona.org/article/raiffeisen-bank-internationals-multi-million-dollar-court-victory-and-a-defense-against-short-seller"
+      "domain": "chronicle.lu",
+      "url": "https://www.chronicle.lu/category/international/63550-trump-threatens-to-annihilate-iran-as-diplomats-push-for-deal-at-un"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
       "treffer": [
-        "central bank"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/business/business-news/911661-cbn-warns-middle-east-tensions-election-spending-could-disrupt-disinflation.html"
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/09/23/saudi-arabia-gets-uk-military-support-amid-houthi-attacks/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "reviewonline.com",
+      "url": "https://www.reviewonline.com/news/local-news/2026/09/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/"
     }
   ],
   "gkg_alter_stunden": 0.0

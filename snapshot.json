@@ -1,14 +1,14 @@
 {
-  "erstellt_am": "2026-09-22T22:45:01",
+  "erstellt_am": "2026-09-23T09:45:01",
   "reihen": {
     "HY_OAS": {
-      "wert": "2.68",
-      "beobachtungsdatum": "2026-09-18",
+      "wert": "2.66",
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "FRED"
     },
     "IG_OAS": {
       "wert": "0.77",
-      "beobachtungsdatum": "2026-09-18",
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "FRED"
     },
     "VIX": {
@@ -22,8 +22,8 @@
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.2",
-      "beobachtungsdatum": "2026-09-21",
+      "wert": "0.25",
+      "beobachtungsdatum": "2026-09-22",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.34",
-      "beobachtungsdatum": "2026-09-21",
+      "wert": "2.33",
+      "beobachtungsdatum": "2026-09-22",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -82,13 +82,13 @@
       "quelle": "FRED"
     },
     "EuroHY_OAS": {
-      "wert": "2.67",
-      "beobachtungsdatum": "2026-09-18",
+      "wert": "2.73",
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "FRED"
     },
     "EM_Corp_OAS": {
-      "wert": "1.34",
-      "beobachtungsdatum": "2026-09-18",
+      "wert": "1.35",
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "FRED"
     },
     "IT_Rendite_10J_Monatlich": {
@@ -233,6 +233,10 @@
     "HY_OAS_Historie": {
       "werte": [
         {
+          "datum": "2026-09-21",
+          "wert": 2.66
+        },
+        {
           "datum": "2026-09-18",
           "wert": 2.68
         },
@@ -251,10 +255,6 @@
         {
           "datum": "2026-09-14",
           "wert": 2.71
-        },
-        {
-          "datum": "2026-09-11",
-          "wert": 2.65
         }
       ],
       "quelle": "FRED (letzte ca. 6 Handelstage)",
@@ -262,6 +262,10 @@
     },
     "IG_OAS_Historie": {
       "werte": [
+        {
+          "datum": "2026-09-21",
+          "wert": 0.77
+        },
         {
           "datum": "2026-09-18",
           "wert": 0.77
@@ -280,10 +284,6 @@
         },
         {
           "datum": "2026-09-14",
-          "wert": 0.8
-        },
-        {
-          "datum": "2026-09-11",
           "wert": 0.8
         }
       ],
@@ -373,31 +373,31 @@
       "hinweis": "fuer die Voralarm-Persistenzregel: Ratio > 1,00 an zwei Handelsschluessen, davon einmal > 1,02"
     },
     "Bank_Stress_KBE": {
-      "wert": 65.23,
+      "wert": 66.07,
       "hoch_60T": 71.67,
-      "drawdown_pct": -9.0,
-      "beobachtungsdatum": "2026-09-22",
+      "drawdown_pct": -7.8,
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 71.19,
+      "wert": 71.99,
       "hoch_60T": 77.93,
-      "drawdown_pct": -8.6,
-      "beobachtungsdatum": "2026-09-22",
+      "drawdown_pct": -7.6,
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Privatkredit_ARCC": {
-      "wert": 19.36,
+      "wert": 19.44,
       "hoch_60T": 20.19,
-      "drawdown_pct": -4.1,
-      "beobachtungsdatum": "2026-09-22",
+      "drawdown_pct": -3.7,
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Privatkredit_PSEC": {
       "wert": 2.2,
       "hoch_60T": 2.35,
       "drawdown_pct": -6.4,
-      "beobachtungsdatum": "2026-09-22",
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "SOFR_minus_IORB_bp": {
@@ -407,7 +407,7 @@
     },
     "EU_Funding_Spread_bp": {
       "wert": -6.0,
-      "markt_datum": "2026-09-21",
+      "markt_datum": "2026-09-22",
       "leitzins_datum": "2026-09-22",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -442,7 +442,7 @@
       "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "RSP_SPY_Ratio": {
-      "wert": 0.2752,
+      "wert": 0.275,
       "quelle": "Yahoo Finance (inoffiziell, selbst berechnet)",
       "formel": "Breadth_ETF_RSP / Breadth_ETF_SPY",
       "hinweis": "fallende Ratio = engere Marktfuehrung/Konzentrationsrisiko"
@@ -456,7 +456,7 @@
     },
     "EU_STR": {
       "wert": "2.44",
-      "beobachtungsdatum": "2026-09-21",
+      "beobachtungsdatum": "2026-09-22",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -487,23 +487,23 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 212.8,
-      "beobachtungsdatum": "2026-09-22",
+      "wert": 212.68,
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 773.38,
-      "beobachtungsdatum": "2026-09-22",
+      "wert": 773.5,
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
-      "wert": 78.56,
-      "beobachtungsdatum": "2026-09-22",
+      "wert": 81.2,
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 15.57,
-      "beobachtungsdatum": "2026-09-22",
+      "wert": 16.08,
+      "beobachtungsdatum": "2026-09-21",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }
   }
