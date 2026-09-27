@@ -1,105 +1,114 @@
 {
-  "erstellt_am": "2026-09-27T13:09:43",
+  "erstellt_am": "2026-09-27T14:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260927111500",
+  "gkg_stand": "20260927124500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 11,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.1,
+      "tonalitaet": -9.4,
       "treffer": [
-        "air strike"
+        "missile",
+        "drone strike"
       ],
-      "domain": "pakistanlink.org",
-      "url": "https://www.pakistanlink.org/Headlines/Sep26/25/08.htm"
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-27-ukranian-strike-kills-humanitarian-workers-russian-officials-say.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.7,
+      "tonalitaet": -8.6,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
       "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/ready-to-inflict-greater-damage-iran-warns-us-as-trump-rejects-hormuz-proposal-article-14039300.html"
+      "url": "https://www.moneycontrol.com/world/yemen-market-strike-kills-7-injures-40-as-fighting-intensifies-in-taiz-article-14039344.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.5,
+      "tonalitaet": -5.6,
       "treffer": [
-        "mandeb"
+        "red sea"
       ],
-      "domain": "themedialine.org",
-      "url": "https://themedialine.org/headlines/riyadh-suspends-in-person-classes-following-renewed-houthi-attacks-on-saudi-arabia/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/ready-to-inflict-greater-damage-on-us-iran-stern-warning-amid-deadlock-over-peace-plan-trump-tehran-middle-east-news-101790501508935.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/india/tamil-nadu-rolls-back-rti-exemption-for-public-law-and-order-department-after-criticism-14039284.html"
+      "domain": "ibtimes.co.in",
+      "url": "https://www.ibtimes.co.in/bharat-maritime-insurance-pool-aids-shipping-war-risk-coverage-amid-tensions-906560"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
+      "tonalitaet": -5.2,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/yemen-government-forces-widen-attacks-against-houthis-what-we-know/"
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-09-27-middle-easts-oil-arteries-lost-to-americas-enemies.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com/stories/en/322747-iran-stands-firm-on-hormuz-plan-after-us-rejection"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -4.9,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "chinamil.com.cn",
-      "url": "http://eng.chinamil.com.cn/2025xb/W/N/16489635.html"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -4.4,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
+        "hormuz"
       ],
-      "domain": "latimes.com",
-      "url": "https://www.latimes.com/world-nation/story/2026-09-27/new-flash-point-in-iran-war-narrow-strait-called-gate-of-tears"
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/09/27/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.5,
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "egyptindependent.com",
-      "url": "https://www.egyptindependent.com/at-un-russia-and-germanys-top-diplomats-hold-first-talks-since-invasion-of-ukraine/"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-govt-rolls-back-law-and-order-departments-rti-exemption-amid-backlash/articleshow/134519738.cms"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/09/27/swiss-voters-set-to-reject-tighter-neutrality-rules-that-would-curb-nato-cooperation"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "torontotelegraph.com",
+      "url": "http://www.torontotelegraph.com/news/279335272/uk-issues-falklandsmalvinas-defense-warning"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "torontotelegraph.com",
+      "url": "http://www.torontotelegraph.com/news/279335147/uk-can-defend-falklands-militarily-defense-secretary"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "jamaicantimes.com",
+      "url": "http://www.jamaicantimes.com/news/279333708/trump-rejects-iran-plan-to-reopen-strait-of-hormuz"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }
