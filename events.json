@@ -1,92 +1,37 @@
 {
-  "erstellt_am": "2026-09-23T09:45:31",
+  "erstellt_am": "2026-09-27T12:32:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260923074500",
+  "gkg_stand": "20260927103000",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 8,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.5,
+      "tonalitaet": -8.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "vietnamtribune.com",
-      "url": "http://www.vietnamtribune.com/news/279321988/trump-steps-up-pressure-on-international-criminal-court"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/podcasts/early-edition/the-grim-reality-of-us-sanctions-dependence-on-multinationals-and-child-trafficking/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bds-petitions-un-general-assembly-suspension-israels-un-membership"
+      "domain": "sloughobserver.co.uk",
+      "url": "https://www.sloughobserver.co.uk/news/national/26584869.tories-deport-foreign-criminals-guilty-non-minor-crimes/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
+      "tonalitaet": -5.0,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16153411/Iran-warns-ready-inflict-crushing-blows-US-Trump-threatened-annihilate-regime-speech.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "londonlovesbusiness.com",
-      "url": "https://londonlovesbusiness.com/latvia-forced-into-difficult-eu-compromise-over-putin-oligarchs/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "chronicle.lu",
-      "url": "https://www.chronicle.lu/category/international/63552-estonia-says-france-must-explain-push-to-lift-eu-sanctions-on-usmanov"
+      "domain": "en.tempo.co",
+      "url": "https://en.tempo.co/read/2120417/iran-sticks-to-hormuz-plan-after-trump-rejects-it"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/morning-recap-apc-leaders-weigh-options-as-wike-govs-rift-deepens-dangote-marketers-cut-petrol-prices-other-top-stories/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "calcuttanews.net",
-      "url": "http://www.calcuttanews.net/news/279325299/uk-makes-military-pledge-to-saudi-arabia"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -4.6,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/russia-is-basing-its-economy-on-india-zelenskyy-calls-for-end-to-oil-trade-article-14036161.html"
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/world/5323062-iran-insists-diplomatic-solution-after-trump-rejects-peace-plan"
     },
     {
       "kategorie": "Policy",
@@ -94,17 +39,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "timesrepublican.com",
-      "url": "https://www.timesrepublican.com/opinion/columnists/2026/09/a-medicaid-task-force-wont-eliminate-fraud-or-fix-what-the-mcos-broke/"
+      "domain": "afr.com",
+      "url": "https://www.afr.com/world/europe/swiss-voters-to-decide-fate-of-centuries-old-neutrality-20260927-p610uy"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks/"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-warns-of-renewed-us-attack-says-it-is-ready-to-inflict-greater-damage/articleshow/134517812.cms"
     },
     {
       "kategorie": "Policy",
@@ -112,36 +57,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "londonlovesbusiness.com",
-      "url": "https://londonlovesbusiness.com/russia-faces-fresh-us-economic-blitz-as-trump-demands-putin-settles-the-war/"
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/business/5323051-us-treasury-chief-claims-successes-isolating-iran"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.5,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "chronicle.lu",
-      "url": "https://www.chronicle.lu/category/international/63550-trump-threatens-to-annihilate-iran-as-diplomats-push-for-deal-at-un"
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/publicpolicy/trump-rejects-irans-latest-strait-of-hormuz-deal-offer"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/09/23/saudi-arabia-gets-uk-military-support-amid-houthi-attacks/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.4,
       "treffer": [
         "red sea"
       ],
-      "domain": "reviewonline.com",
-      "url": "https://www.reviewonline.com/news/local-news/2026/09/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/"
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/27/us-visa-row-shines-spotlight-on-al-burhans-legitimacy-sudan-expert-says/"
     }
   ],
   "gkg_alter_stunden": 0.0
