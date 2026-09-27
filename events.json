@@ -1,113 +1,64 @@
 {
-  "erstellt_am": "2026-09-27T14:45:27",
+  "erstellt_am": "2026-09-27T22:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260927124500",
+  "gkg_stand": "20260927204500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.4,
-      "treffer": [
-        "missile",
-        "drone strike"
-      ],
-      "domain": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-27-ukranian-strike-kills-humanitarian-workers-russian-officials-say.html"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.6,
+      "tonalitaet": -7.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/yemen-market-strike-kills-7-injures-40-as-fighting-intensifies-in-taiz-article-14039344.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "ibtimes.co.in",
-      "url": "https://www.ibtimes.co.in/bharat-maritime-insurance-pool-aids-shipping-war-risk-coverage-amid-tensions-906560"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-09-27-middle-easts-oil-arteries-lost-to-americas-enemies.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/09/27/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan"
+      "domain": "dailynews.com",
+      "url": "https://www.dailynews.com/2026/09/27/palestinian-death-toll-in-gaza-war-passes-74000-and-other-mideast-news/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-govt-rolls-back-law-and-order-departments-rti-exemption-amid-backlash/articleshow/134519738.cms"
+      "domain": "ealingtimes.co.uk",
+      "url": "https://www.ealingtimes.co.uk/news/national/26585624.serbias-populist-president-resigns-run-prime-minister-early-vote/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -4.2,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/09/27/swiss-voters-set-to-reject-tighter-neutrality-rules-that-would-curb-nato-cooperation"
+      "domain": "news3lv.com",
+      "url": "https://news3lv.com/news/local/armed-spring-valley-homeowner-confronts-three-intruders-home-invasion-burglary"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "torontotelegraph.com",
-      "url": "http://www.torontotelegraph.com/news/279335272/uk-issues-falklandsmalvinas-defense-warning"
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/serbias-populist-president-vucic-resigns-to-run-for-prime-minister-at-early-vote,174424"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "torontotelegraph.com",
-      "url": "http://www.torontotelegraph.com/news/279335147/uk-can-defend-falklands-militarily-defense-secretary"
+      "domain": "punchng.com",
+      "url": "https://punchng.com/trump-expects-new-iran-talks-despite-rejecting-deal-offer/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
       "treffer": [
-        "hormuz",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "jamaicantimes.com",
-      "url": "http://www.jamaicantimes.com/news/279333708/trump-rejects-iran-plan-to-reopen-strait-of-hormuz"
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/world/2026/09/27/serbias-populist-president-vucic-resigns-to-run-for-prime-minister-at-early-vote/"
     }
   ],
   "gkg_alter_stunden": 0.0
