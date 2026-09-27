@@ -1,83 +1,105 @@
 {
-  "erstellt_am": "2026-09-27T12:32:24",
+  "erstellt_am": "2026-09-27T13:09:43",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260927103000",
+  "gkg_stand": "20260927111500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.3,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.1,
       "treffer": [
-        "sanctions"
+        "air strike"
       ],
-      "domain": "sloughobserver.co.uk",
-      "url": "https://www.sloughobserver.co.uk/news/national/26584869.tories-deport-foreign-criminals-guilty-non-minor-crimes/"
+      "domain": "pakistanlink.org",
+      "url": "https://www.pakistanlink.org/Headlines/Sep26/25/08.htm"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -7.7,
       "treffer": [
         "hormuz"
       ],
-      "domain": "en.tempo.co",
-      "url": "https://en.tempo.co/read/2120417/iran-sticks-to-hormuz-plan-after-trump-rejects-it"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/ready-to-inflict-greater-damage-iran-warns-us-as-trump-rejects-hormuz-proposal-article-14039300.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "themedialine.org",
+      "url": "https://themedialine.org/headlines/riyadh-suspends-in-person-classes-following-renewed-houthi-attacks-on-saudi-arabia/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/ready-to-inflict-greater-damage-on-us-iran-stern-warning-amid-deadlock-over-peace-plan-trump-tehran-middle-east-news-101790501508935.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/india/tamil-nadu-rolls-back-rti-exemption-for-public-law-and-order-department-after-criticism-14039284.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.6,
       "treffer": [
-        "hormuz"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/world/5323062-iran-insists-diplomatic-solution-after-trump-rejects-peace-plan"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "afr.com",
-      "url": "https://www.afr.com/world/europe/swiss-voters-to-decide-fate-of-centuries-old-neutrality-20260927-p610uy"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-warns-of-renewed-us-attack-says-it-is-ready-to-inflict-greater-damage/articleshow/134517812.cms"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/business/5323051-us-treasury-chief-claims-successes-isolating-iran"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/publicpolicy/trump-rejects-irans-latest-strait-of-hormuz-deal-offer"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/09/27/us-visa-row-shines-spotlight-on-al-burhans-legitimacy-sudan-expert-says/"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/yemen-government-forces-widen-attacks-against-houthis-what-we-know/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com/stories/en/322747-iran-stands-firm-on-hormuz-plan-after-us-rejection"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "chinamil.com.cn",
+      "url": "http://eng.chinamil.com.cn/2025xb/W/N/16489635.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "latimes.com",
+      "url": "https://www.latimes.com/world-nation/story/2026-09-27/new-flash-point-in-iran-war-narrow-strait-called-gate-of-tears"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "egyptindependent.com",
+      "url": "https://www.egyptindependent.com/at-un-russia-and-germanys-top-diplomats-hold-first-talks-since-invasion-of-ukraine/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "gkg_alter_stunden": -0.1
 }
