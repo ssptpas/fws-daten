@@ -1,121 +1,156 @@
 {
-  "erstellt_am": "2026-09-28T14:45:26",
+  "erstellt_am": "2026-09-28T22:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260928124500",
+  "gkg_stand": "20260928204500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 16,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "econotimes.com",
+      "url": "http://www.econotimes.com/Senate-Democrats-Say-Tether-USDT-Helps-Iran-Evade-Sanctions-1753295"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "news9.com",
+      "url": "https://www.news9.com/oklahoma-city-news/cornell-university-fraternity-rape-case"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "express.co.uk",
+      "url": "https://www.express.co.uk/news/us/2252633/horror-woman-drugged-gang-raped-hours"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "durangoherald.com",
+      "url": "https://www.durangoherald.com/articles/associated-press/prosecutor-reopens-probe-into-cornell-gang-rape-allegations-after-accuser-files-lawsuit/"
+    },
+    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/myanmar-military-airstrike-kills-33-in-market-area-rebels-say-article-14040218.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/iran-s-khamenei-warns-foreign-forces-will-soon-be-driven-out-of-arabian-sea-article-14040210.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say/articleshow/134542088.cms"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.7,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "invasion"
       ],
-      "domain": "mainlinemedianews.com",
-      "url": "https://www.mainlinemedianews.com/2026/09/28/netanyahu-emirati-leader-meeting-mideast-news/"
+      "domain": "nhbr.com",
+      "url": "https://www.nhbr.com/website-tracking-technologies-why-are-businesses-being-sued-for-using-them/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -4.5,
       "treffer": [
-        "hormuz"
+        "airstrike"
       ],
-      "domain": "cp24.com",
-      "url": "https://www.cp24.com/news/money/2026/09/28/surging-oil-prices-drag-us-futures-lower-as-trump-rejects-iranian-proposal-to-open-strait-of-hormuz/"
+      "domain": "africacenter.org",
+      "url": "https://africacenter.org/publication/asb47en-integrated-tactical-units-west-africa/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/india/india-insulated-from-west-asia-energy-crisis-so-far-but-hormuz-disruption-remains-a-challenge-hardeep-puri-14040216.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "tonalitaet": -4.0,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "gjsentinel.com",
-      "url": "https://www.gjsentinel.com/news/us/netanyahu-meets-emirati-leader-in-a-secret-weekend-trip-to-abu-dhabi-and-other-mideast/article_ec704292-c503-539f-8c79-519d7392faba.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/2026/09/28/eu-mininsters-plan-response-to-hybrid-attacks-amid-warnings-of-russian-sabotage"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ejpress.org",
-      "url": "https://ejpress.org/dutch-university-suspends-palestinian-student-who-claimed-involvement-in-oct-7/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/news/we-hear-you-you-were-right-ed-miliband-tells-people-outraged-over-palestinian-plight"
+      "domain": "wesh.com",
+      "url": "https://www.wesh.com/article/us-iran-deal-mediators-trump-rejection/73927939"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.0,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/oil-rises-again-trump-rejects-meeting-irans-conditions-reopen-hormuz-brent-goes-back-above-100-3807946"
+      "domain": "wdsu.com",
+      "url": "https://www.wdsu.com/article/us-iran-deal-mediators-trump-rejection/73927939"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "morningstaronline.co.uk",
-      "url": "https://morningstaronline.co.uk/article/breaking-neoliberalism-must-mean-shift-wealth-and-power"
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279338073/trump-very-seriously-mulling-diesel-export-ban"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279338043/iranian-fm-to-meet-with-qatari-negotiators-in-new-york"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279337970/trump-very-seriously-mulling-diesel-export-ban"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279337899/iran-rejects-attempts-to-link-tehran-to-uk-air-base-terror-plot"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279338035/iran-issues-formal-protest-to-un-aviation-watchdog-over-us-flight-sanctions"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "tennesseedaily.com",
+      "url": "http://www.tennesseedaily.com/news/279333999/iran-offers-plan-to-reopen-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "africaleader.com",
+      "url": "http://www.africaleader.com/news/279338344/higher-energy-prices-raise-euro-area-inflation-risksecb-president-lagarde"
     }
   ],
   "gkg_alter_stunden": 0.0
