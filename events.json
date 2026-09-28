@@ -1,64 +1,74 @@
 {
-  "erstellt_am": "2026-09-27T22:45:22",
+  "erstellt_am": "2026-09-28T09:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260927204500",
+  "gkg_stand": "20260928074500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 7,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
+      "tonalitaet": -10.7,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "dailynews.com",
-      "url": "https://www.dailynews.com/2026/09/27/palestinian-death-toll-in-gaza-war-passes-74000-and-other-mideast-news/"
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087357538-8-us-marines-injured-in-iranian-missile-strike-in-hormuz"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -8.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ealingtimes.co.uk",
-      "url": "https://www.ealingtimes.co.uk/news/national/26585624.serbias-populist-president-resigns-run-prime-minister-early-vote/"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/us/drugged-with-ketamine-raped-for-hours-ex-student-sues-cornell-university-7-fraternity-members/articleshow/134534391.cms"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.2,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -7.6,
       "treffer": [
-        "invasion"
+        "central bank"
       ],
-      "domain": "news3lv.com",
-      "url": "https://news3lv.com/news/local/armed-spring-valley-homeowner-confronts-three-intruders-home-invasion-burglary"
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/09/fg-slashes-interest-rate-on-late-tax-payment/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/28/netherlands-regret-over-israels-decision-to-revoke-diplomats-accreditation"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/iran-says-international-flights-continue-despite-new-us-sanctions/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.6,
       "treffer": [
-        "sanctions"
+        "hormuz",
+        "red sea"
       ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/serbias-populist-president-vucic-resigns-to-run-for-prime-minister-at-early-vote,174424"
+      "domain": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1407880/Hormuz-oil-flows-rebound-as-Saudi-Arabia-shifts-exports-back-to-Gulf"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
       "treffer": [
-        "sanctions"
+        "crude oil"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/trump-expects-new-iran-talks-despite-rejecting-deal-offer/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/world/2026/09/27/serbias-populist-president-vucic-resigns-to-run-for-prime-minister-at-early-vote/"
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/business/2026/Sep/28/sensex-tanks-730-points-amid-surging-crude-oil-prices-geopolitical-uncertainties"
     }
   ],
   "gkg_alter_stunden": 0.0
