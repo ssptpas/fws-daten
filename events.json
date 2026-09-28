@@ -1,74 +1,121 @@
 {
-  "erstellt_am": "2026-09-28T09:45:22",
+  "erstellt_am": "2026-09-28T14:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260928074500",
+  "gkg_stand": "20260928124500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 12,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/myanmar-military-airstrike-kills-33-in-market-area-rebels-say-article-14040218.html"
+    },
+    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.7,
+      "tonalitaet": -7.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/iran-s-khamenei-warns-foreign-forces-will-soon-be-driven-out-of-arabian-sea-article-14040210.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say/articleshow/134542088.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "mainlinemedianews.com",
+      "url": "https://www.mainlinemedianews.com/2026/09/28/netanyahu-emirati-leader-meeting-mideast-news/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
       "treffer": [
         "hormuz"
       ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087357538-8-us-marines-injured-in-iranian-missile-strike-in-hormuz"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/us/drugged-with-ketamine-raped-for-hours-ex-student-sues-cornell-university-7-fraternity-members/articleshow/134534391.cms"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -7.6,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/09/fg-slashes-interest-rate-on-late-tax-payment/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Sep/28/netherlands-regret-over-israels-decision-to-revoke-diplomats-accreditation"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "khaama.com",
-      "url": "https://www.khaama.com/iran-says-international-flights-continue-despite-new-us-sanctions/"
+      "domain": "cp24.com",
+      "url": "https://www.cp24.com/news/money/2026/09/28/surging-oil-prices-drag-us-futures-lower-as-trump-rejects-iranian-proposal-to-open-strait-of-hormuz/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -4.3,
       "treffer": [
         "hormuz",
         "red sea"
       ],
-      "domain": "gdnonline.com",
-      "url": "https://www.gdnonline.com:443/Details/1407880/Hormuz-oil-flows-rebound-as-Saudi-Arabia-shifts-exports-back-to-Gulf"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/india/india-insulated-from-west-asia-energy-crisis-so-far-but-hormuz-disruption-remains-a-challenge-hardeep-puri-14040216.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "gjsentinel.com",
+      "url": "https://www.gjsentinel.com/news/us/netanyahu-meets-emirati-leader-in-a-secret-weekend-trip-to-abu-dhabi-and-other-mideast/article_ec704292-c503-539f-8c79-519d7392faba.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/09/28/eu-mininsters-plan-response-to-hybrid-attacks-amid-warnings-of-russian-sabotage"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ejpress.org",
+      "url": "https://ejpress.org/dutch-university-suspends-palestinian-student-who-claimed-involvement-in-oct-7/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/we-hear-you-you-were-right-ed-miliband-tells-people-outraged-over-palestinian-plight"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.2,
       "treffer": [
-        "crude oil"
+        "hormuz"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/business/2026/Sep/28/sensex-tanks-730-points-amid-surging-crude-oil-prices-geopolitical-uncertainties"
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/oil-rises-again-trump-rejects-meeting-irans-conditions-reopen-hormuz-brent-goes-back-above-100-3807946"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "morningstaronline.co.uk",
+      "url": "https://morningstaronline.co.uk/article/breaking-neoliberalism-must-mean-shift-wealth-and-power"
     }
   ],
   "gkg_alter_stunden": 0.0
