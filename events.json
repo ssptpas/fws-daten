@@ -1,156 +1,146 @@
 {
-  "erstellt_am": "2026-09-28T22:45:29",
+  "erstellt_am": "2026-09-29T09:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260928204500",
+  "gkg_stand": "20260929074500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "econotimes.com",
-      "url": "http://www.econotimes.com/Senate-Democrats-Say-Tether-USDT-Helps-Iran-Evade-Sanctions-1753295"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "news9.com",
-      "url": "https://www.news9.com/oklahoma-city-news/cornell-university-fraternity-rape-case"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "express.co.uk",
-      "url": "https://www.express.co.uk/news/us/2252633/horror-woman-drugged-gang-raped-hours"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "durangoherald.com",
-      "url": "https://www.durangoherald.com/articles/associated-press/prosecutor-reopens-probe-into-cornell-gang-rape-allegations-after-accuser-files-lawsuit/"
-    },
-    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "nhbr.com",
-      "url": "https://www.nhbr.com/website-tracking-technologies-why-are-businesses-being-sued-for-using-them/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.5,
+      "tonalitaet": -9.0,
       "treffer": [
         "airstrike"
       ],
-      "domain": "africacenter.org",
-      "url": "https://africacenter.org/publication/asb47en-integrated-tactical-units-west-africa/"
+      "domain": "naroomanewsonline.com.au",
+      "url": "https://www.naroomanewsonline.com.au/story/9359075/israeli-gaza-strip-airstrike-kills-senior-hamas-figure/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/29/news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban-until-case-is-resolved"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wn.com",
+      "url": "https://article.wn.com/view/2026/09/29/IranUS_backchannel_talks_push_Hormuz_reopening_amid_sanction/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wn.com",
+      "url": "https://article.wn.com/view/2026/09/29/Iran_says_Qatar_to_convey_US_response_after_talks_on_ideas/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -6.5,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "nairobiwire.com",
+      "url": "https://nairobiwire.com/2026/09/dangote-ksh2-trillion-lamu-refinery-court-case.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mamamia.com.au",
+      "url": "https://www.mamamia.com.au/cornell-university-7-lawsuit/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "wesh.com",
-      "url": "https://www.wesh.com/article/us-iran-deal-mediators-trump-rejection/73927939"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wdsu.com",
-      "url": "https://www.wdsu.com/article/us-iran-deal-mediators-trump-rejection/73927939"
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com/asia/netanyahu-meets-emirati-leader-secret-weekend-trip-abu-dhabi-and-other-mideast-developments"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279338073/trump-very-seriously-mulling-diesel-export-ban"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279338043/iranian-fm-to-meet-with-qatari-negotiators-in-new-york"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279337970/trump-very-seriously-mulling-diesel-export-ban"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279337899/iran-rejects-attempts-to-link-tehran-to-uk-air-base-terror-plot"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279338035/iran-issues-formal-protest-to-un-aviation-watchdog-over-us-flight-sanctions"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "tennesseedaily.com",
-      "url": "http://www.tennesseedaily.com/news/279333999/iran-offers-plan-to-reopen-strait-of-hormuz"
+      "domain": "rferl.org",
+      "url": "https://www.rferl.org/a/ukraine-graham-legislation-russia-sanctions-congress/33866211.html"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.5,
       "treffer": [
         "central bank"
       ],
-      "domain": "africaleader.com",
-      "url": "http://www.africaleader.com/news/279338344/higher-energy-prices-raise-euro-area-inflation-risksecb-president-lagarde"
+      "domain": "ghettoradio.co.ke",
+      "url": "https://ghettoradio.co.ke/infinity-industrial-park-takes-bank-of-baroda-to-cbk/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "capitalfm.africa",
+      "url": "https://capitalfm.africa/high-court-strikes-out-kuscco-liquidation-petition-says-co-operative-societies-governed-by-separate-law/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://naharnet.com/stories/en/322777-supreme-leader-says-iranian-troops-defended-strait-of-hormuz-from-enemy"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "thenorthernecho.co.uk",
+      "url": "https://www.thenorthernecho.co.uk/news/26589314.online-pet-store-shut-unexplained-transactions/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/india/2026/Sep/29/pm-should-resign-for-pressuring-cec-gyanesh-kumar-should-be-removed-kharge-at-cwc-meet"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "dailyrecord.co.uk",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/money/claim-debt-refund-uk-government-37712650"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thedailybeast.com",
+      "url": "https://www.thedailybeast.com/donald-trump-unravels-in-all-day-media-meltdown/"
     }
   ],
   "gkg_alter_stunden": 0.0
