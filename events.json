@@ -1,64 +1,128 @@
 {
-  "erstellt_am": "2026-09-29T09:45:36",
+  "erstellt_am": "2026-09-29T14:45:33",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260929074500",
+  "gkg_stand": "20260929124500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 20,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hitsfm.net",
+      "url": "https://hitsfm.net/national/1a02ca2fda6c275859dc1bfbea141a88"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/world/2026/09/29/the-latest-news-outlets-ask-court-to-bar-white-house-from-enforcing-ban-until-case-is-resolved"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "gjsentinel.com",
+      "url": "https://www.gjsentinel.com/news/us/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/article_38cf16a2-d054-5987-b403-b0c48bc60481.html"
+    },
+    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.0,
+      "tonalitaet": -6.0,
       "treffer": [
-        "airstrike"
+        "drone strike"
       ],
-      "domain": "naroomanewsonline.com.au",
-      "url": "https://www.naroomanewsonline.com.au/story/9359075/israeli-gaza-strip-airstrike-kills-senior-hamas-figure/"
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/ukrainians-escape-ladders-burning-research-110000000.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.4,
+      "tonalitaet": -5.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Sep/29/news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban-until-case-is-resolved"
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/29/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.0,
+      "tonalitaet": -5.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wn.com",
-      "url": "https://article.wn.com/view/2026/09/29/IranUS_backchannel_talks_push_Hormuz_reopening_amid_sanction/"
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/article/rkz44zt9ml"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "tonalitaet": -5.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wn.com",
-      "url": "https://article.wn.com/view/2026/09/29/Iran_says_Qatar_to_convey_US_response_after_talks_on_ideas/"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/politics/rubio-confirms-foreign-actor-involved-uk-terror-plot"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/man-city-should-face-severe-sanctions-if-guilty-of-rule-breaches-la-liga-president/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.5,
+      "tonalitaet": -5.0,
       "treffer": [
-        "refinery"
+        "hormuz"
       ],
-      "domain": "nairobiwire.com",
-      "url": "https://nairobiwire.com/2026/09/dangote-ksh2-trillion-lamu-refinery-court-case.html"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/live-news/trump-iran-war-news-peace-talks-hormuz-09-29-26"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "mamamia.com.au",
-      "url": "https://www.mamamia.com.au/cornell-university-7-lawsuit/"
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/cnn-jake-tapper-grills-da-013408000.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/business/2026/09/29/russias-ballistic-missile-and-jet-propelled-drone-blitz-keeps-kyiv-on-edge/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailykos.com",
+      "url": "https://www.dailykos.com/stories/2026/9/28/800104457/community/iwweek-31-day-3/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "kenya-today.com",
+      "url": "https://kenya-today.com/report-dangote-downplays-court-injunction-says-lamu-refinery-will-proceed-4480/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -67,80 +131,63 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com/asia/netanyahu-meets-emirati-leader-secret-weekend-trip-abu-dhabi-and-other-mideast-developments"
+      "domain": "latintimes.com",
+      "url": "https://www.latintimes.com/what-israels-lebanon-war-west-bank-violence-mean-oil-prices-key-takeaways-599668"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -4.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "rferl.org",
-      "url": "https://www.rferl.org/a/ukraine-graham-legislation-russia-sanctions-congress/33866211.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "ghettoradio.co.ke",
-      "url": "https://ghettoradio.co.ke/infinity-industrial-park-takes-bank-of-baroda-to-cbk/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "capitalfm.africa",
-      "url": "https://capitalfm.africa/high-court-strikes-out-kuscco-liquidation-petition-says-co-operative-societies-governed-by-separate-law/"
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/29/irans-currency-hits-new-record-low-as-war-erodes-irans-economic-stability/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -4.5,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "naharnet.com",
-      "url": "https://naharnet.com/stories/en/322777-supreme-leader-says-iranian-troops-defended-strait-of-hormuz-from-enemy"
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/sep/29/uae-hosts-netanyahu-in-secret-weekend-trip/"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/sep/29/embattled-icc-braces-for-more-sanctions/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.8,
       "treffer": [
-        "insolvency"
+        "sanctions"
       ],
-      "domain": "thenorthernecho.co.uk",
-      "url": "https://www.thenorthernecho.co.uk/news/26589314.online-pet-store-shut-unexplained-transactions/"
+      "domain": "fox21online.com",
+      "url": "https://www.fox21online.com/news/us-world/irans-currency-hits-new-record-low-as-war-erodes-irans-economic-stability/article_f6c57a2a-df2c-5bf0-956f-58ef85fdf9e7.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/india/2026/Sep/29/pm-should-resign-for-pressuring-cec-gyanesh-kumar-should-be-removed-kharge-at-cwc-meet"
+      "domain": "latintimes.com",
+      "url": "https://www.latintimes.com/gop-senator-just-told-trump-explain-iran-war-599649"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Policy",
       "tonalitaet": -3.4,
       "treffer": [
-        "insolvency"
-      ],
-      "domain": "dailyrecord.co.uk",
-      "url": "https://www.dailyrecord.co.uk/lifestyle/money/claim-debt-refund-uk-government-37712650"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "thedailybeast.com",
-      "url": "https://www.thedailybeast.com/donald-trump-unravels-in-all-day-media-meltdown/"
+      "domain": "indiagazette.com",
+      "url": "http://www.indiagazette.com/news/279339890/iran-warns-of-possible-winter-gas-shortages"
     }
   ],
   "gkg_alter_stunden": 0.0
