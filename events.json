@@ -1,19 +1,55 @@
 {
-  "erstellt_am": "2026-09-29T14:45:33",
+  "erstellt_am": "2026-09-29T15:40:07",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260929124500",
+  "gkg_stand": "20260929134500",
   "veraltet": false,
-  "anzahl": 20,
+  "anzahl": 21,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.1,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/world/myanmar-airstrike-toll-hits-50-as-families-mourn-the-dead-1991614"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "hitsfm.net",
-      "url": "https://hitsfm.net/national/1a02ca2fda6c275859dc1bfbea141a88"
+      "domain": "propakistani.pk",
+      "url": "https://propakistani.pk/2026/09/29/iranian-rial-crashes-to-new-record-low-against-dollar/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/leader_herald/ap/national/the-latest-news-outlets-ask-court-to-bar-white-house-from-enforcing-ban-until-case/article_8329d507-038b-5fe8-b315-916c24501d64.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ktvo.com",
+      "url": "https://www.ktvo.com/news/nation-world/the-latest-news-outlets-ask-court-to-bar-white-house-from-enforcing-ban-until-case/article_c412430f-315b-5239-b33f-c9996741be59.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "abc7.com",
+      "url": "https://abc7.com/story/da-defends-decision-not-prosecute-alleged-cornell-gang-rape-case-2024/19886856/"
     },
     {
       "kategorie": "Policy",
@@ -21,8 +57,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/world/2026/09/29/the-latest-news-outlets-ask-court-to-bar-white-house-from-enforcing-ban-until-case-is-resolved"
+      "domain": "927thedrive.net",
+      "url": "https://927thedrive.net/news/breaking-national-news/579dcbc78b523a4c160e3d25defbcd0e"
     },
     {
       "kategorie": "Policy",
@@ -30,155 +66,99 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "gjsentinel.com",
-      "url": "https://www.gjsentinel.com/news/us/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/article_38cf16a2-d054-5987-b403-b0c48bc60481.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/ukrainians-escape-ladders-burning-research-110000000.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/world/2026/09/29/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/rkz44zt9ml"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/politics/rubio-confirms-foreign-actor-involved-uk-terror-plot"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/man-city-should-face-severe-sanctions-if-guilty-of-rule-breaches-la-liga-president/"
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/leader_herald/ap/national/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/article_4cb6c4fd-4967-5455-a64b-66393f83d4be.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -6.3,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/live-news/trump-iran-war-news-peace-talks-hormuz-09-29-26"
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/yemen-escalation-raises-fears-of-cholera-1751796/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -6.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/cnn-jake-tapper-grills-da-013408000.html"
+      "domain": "kob.com",
+      "url": "https://www.kob.com/ap-top-news/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/3694803/crude-oil-prices-whipsaw.aspx"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "idahopress.com",
+      "url": "http://www.idahopress.com/ap_news/us/iran-tells-the-us-public-that-trumps-war-has-failed-and-other-mideast-developments/article_c3e976f7-6e2f-502c-9644-1b8715e93763.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.1,
       "treffer": [
         "missile",
         "ballistic"
       ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/business/2026/09/29/russias-ballistic-missile-and-jet-propelled-drone-blitz-keeps-kyiv-on-edge/"
+      "domain": "wboc.com",
+      "url": "https://www.wboc.com/news/international/russias-ballistic-missile-and-jet-propelled-drone-blitz-keeps-kyiv-on-edge/article_356c76c5-3ac7-5440-8847-03898aa7a313.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailykos.com",
-      "url": "https://www.dailykos.com/stories/2026/9/28/800104457/community/iwweek-31-day-3/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.8,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "kenya-today.com",
-      "url": "https://kenya-today.com/report-dangote-downplays-court-injunction-says-lamu-refinery-will-proceed-4480/"
+      "domain": "abc7.com",
+      "url": "https://abc7.com/story/irans-currency-hits-new-record-low-war-erodes-countrys-economic-stability/19887018/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -4.0,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "latintimes.com",
-      "url": "https://www.latintimes.com/what-israels-lebanon-war-west-bank-violence-mean-oil-prices-key-takeaways-599668"
+      "domain": "irishdentist.ie",
+      "url": "https://www.irishdentist.ie/yanbu-all-about-the-strategic-port-on-which-a-large-part-of-the-world-economy-depends/22444/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "clickondetroit.com",
-      "url": "https://www.clickondetroit.com/news/world/2026/09/29/irans-currency-hits-new-record-low-as-war-erodes-irans-economic-stability/"
+      "domain": "baltictimes.com",
+      "url": "https://www.baltictimes.com/russia_responsible_for_milrem_arson_attack_-_estonian_pm/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "arkansasonline.com",
-      "url": "https://www.arkansasonline.com/news/2026/sep/29/uae-hosts-netanyahu-in-secret-weekend-trip/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arkansasonline.com",
-      "url": "https://www.arkansasonline.com/news/2026/sep/29/embattled-icc-braces-for-more-sanctions/"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -3.8,
       "treffer": [
-        "sanctions"
+        "crude oil"
       ],
-      "domain": "fox21online.com",
-      "url": "https://www.fox21online.com/news/us-world/irans-currency-hits-new-record-low-as-war-erodes-irans-economic-stability/article_f6c57a2a-df2c-5bf0-956f-58ef85fdf9e7.html"
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/3694841/gold-rises-as-oil-dips-yields-ease.aspx"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.8,
       "treffer": [
-        "sanctions"
+        "insolvency"
       ],
-      "domain": "latintimes.com",
-      "url": "https://www.latintimes.com/gop-senator-just-told-trump-explain-iran-war-599649"
+      "domain": "heraldseries.co.uk",
+      "url": "https://www.heraldseries.co.uk/news/26590159.online-pet-store-shut-unexplained-transactions/"
     },
     {
       "kategorie": "Policy",
@@ -186,9 +166,37 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "indiagazette.com",
-      "url": "http://www.indiagazette.com/news/279339890/iran-warns-of-possible-winter-gas-shortages"
+      "domain": "jamaicantimes.com",
+      "url": "http://www.jamaicantimes.com/news/279339890/iran-warns-of-possible-winter-gas-shortages"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "horseedmedia.net",
+      "url": "https://horseedmedia.net/us-warns-houthi-ties-with-al-shabaab-threaten-red-sea-trade/426023/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "state of emergency"
+      ],
+      "domain": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/09/29/texas-governor-declares-state-of-emergency-as-diesel-price-hits-record-5-86-a-gallon-up-from-3-30-in-february-the-declaration-suspends-emissions-rules-raises-truck-weight-limits-and-expands-use/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nbcnewyork.com",
+      "url": "https://www.nbcnewyork.com/news/national-international/cornell-rape-accuser-attorney-says-school-and-law-enforcement-failed-young-woman/6553291/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "gkg_alter_stunden": -0.1
 }
