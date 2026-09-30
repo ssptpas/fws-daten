@@ -1,121 +1,173 @@
 {
-  "erstellt_am": "2026-09-30T09:45:28",
+  "erstellt_am": "2026-09-30T14:46:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260930074500",
+  "gkg_stand": "20260930124500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 18,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -11.1,
       "treffer": [
-        "hormuz"
+        "airstrike"
       ],
-      "domain": "politicaldog101.com",
-      "url": "https://politicaldog101.com/tag/oil-moving-thru-the-strait-of-hormuz/"
+      "domain": "cinaradio.com",
+      "url": "https://www.cinaradio.com/2026/09/30/russian-airstrikes-kill-4-in-kyiv-region-including-child-ukraine-officials-say/"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.2,
+      "kategorie": "Policy",
+      "tonalitaet": -7.9,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-september-30-2026/"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/defence/russia-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic/articleshow/134593422.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.8,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "the-star.co.ke",
+      "url": "https://www.the-star.co.ke/news/africa/2026-09-30-somali-pirates-killed-oil-tanker-crew-before-rescue"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279341986/us-officials-expect-trump-to-resume-major-iran-war-after-midterms-axios"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279342170/trump-expected-to-resume-major-iran-war-after-midterms-axios"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279342104/trump-expected-to-resume-major-iran-war-after-midterms-axios"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "mangalorean.com",
+      "url": "https://www.mangalorean.com/fire-breaks-out-at-mrpls-coker-hydrotreater-unit-one-injured/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/hv360/ap/national/iran-indicates-its-received-an-official-us-response-to-its-latest-offer-on-ending-the/article_cd9d6c76-c530-5a0e-8818-fb3d8ffdbf1c.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "curacaochronicle.com",
+      "url": "https://www.curacaochronicle.com/post/unknown/aqualectra-says-power-supply-remains-fragile-but-no-load-shedding-needed-so-far-this-week"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.1,
       "treffer": [
-        "mandeb"
-      ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2632209/yemen-army-says-it-carried-out-414-attacks-on-houthi-targets-in-24-hours"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "air strike"
-      ],
-      "domain": "sconeadvocate.com.au",
-      "url": "https://www.sconeadvocate.com.au/story/9359868/russian-air-strikes-kill-3-injure-7-in-and-around-kyiv/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "consortiumnews.com",
-      "url": "https://consortiumnews.com/2026/09/30/craig-murray-losing-my-religion/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "thenews.coop",
-      "url": "https://www.thenews.coop/kenyan-high-court-strikes-out-bid-to-liquidate-saccos-apex-kuscco/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "hormuz",
-        "mandeb",
         "red sea"
       ],
-      "domain": "politicaldog101.com",
-      "url": "https://politicaldog101.com/2026/09/iran-trump-conflict-war-9-29-2026-us-iran-talks-a-waste-of-time-oil-is-moving-thru-the-strait-of-hormuz/"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260930-sudans-strategic-role-in-the-red-sea/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
       "treffer": [
-        "invasion"
+        "mandeb",
+        "tanker"
       ],
-      "domain": "kickam1530.com",
-      "url": "https://kickam1530.com/ixp/204/p/caleb-flynn-guilty-murder-wife-home-invasion/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -4.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/cities/Delhi/mahua-moitras-plea-in-sc-alleging-eviction-from-circuit-house-to-be-heard-on-october-1/article71527252.ece"
+      "domain": "orlandosentinel.com",
+      "url": "https://www.orlandosentinel.com/2026/09/30/iran-us-response-war-negotiations/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "red sea",
-        "suez"
-      ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20260930-sisi-says-egypt-lost-about-20-billion-in-suez-canal-revenue-amid-regional-instability/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.6,
       "treffer": [
         "refinery"
       ],
-      "domain": "capitalfm.africa",
-      "url": "https://capitalfm.africa/mbadi-defends-dangote-lamu-refinery-dismisses-land-compensation-claims-as-primitive-politics/"
+      "domain": "the-star.co.ke",
+      "url": "https://www.the-star.co.ke/news/2026-09-30-dangote-bring-trouble-ill-give-you-a-headache"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279342734/russia-posts-highest-crude-export-earnings-since-2022-bloomberg"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "afghanistansun.com",
+      "url": "http://www.afghanistansun.com/news/279342443/iran-warns-of-dangerous-consequences-of-netanyahu-trip-to-uae"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "warplane"
+      ],
+      "domain": "nbc24.com",
+      "url": "https://nbc24.com/news/nation-world/israel-bound-flight-flydubai-emergency-alert-diverted-to-tabuk-saudi-arabia-after-reported-cockpit-fight-pilots-feud-dubai-united-arab-emirates-warplanes-prime-minister-netanyahu-middle-east"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "warplane"
+      ],
+      "domain": "wach.com",
+      "url": "https://wach.com/news/nation-world/israel-bound-flight-flydubai-emergency-alert-diverted-to-tabuk-saudi-arabia-after-reported-cockpit-fight-pilots-feud-dubai-united-arab-emirates-warplanes-prime-minister-netanyahu-middle-east"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/news/report/indian-sailor-4-others-killed-by-somali-pirates/20260930.htm"
     }
   ],
   "gkg_alter_stunden": 0.0
