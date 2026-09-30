@@ -1,109 +1,121 @@
 {
-  "erstellt_am": "2026-09-29T22:45:37",
+  "erstellt_am": "2026-09-30T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260929204500",
+  "gkg_stand": "20260930074500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "fox13seattle.com",
-      "url": "https://www.fox13seattle.com/news/cornell-fraternity-alleged-gang-rape-investigation-reopened-following-civil-lawsuit"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "ballistic"
-      ],
-      "domain": "redstate.com",
-      "url": "https://redstate.com/terichristoph/2026/09/29/watch-as-reddington-goes-ballistic-over-gag-order-request-n2207525"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "israelherald.com",
-      "url": "http://www.israelherald.com/news/279338218/uk-police-conduct-terror-probe-after-fairford-arrests"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/middle-east/2026/09/29/iran-warns-of-gas-shortages-as-currency-hits-record-low-under-u-s-blockade/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/world/article_ad7b2764-ad8b-5526-a447-639261707083.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "haitisun.com",
-      "url": "http://www.haitisun.com/news/279340724/argentina-demands-uk-halt-malvinasfalklands-oil-project"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "northerndailyleader.com.au",
-      "url": "https://www.northerndailyleader.com.au/story/9359850/irans-currency-hits-new-low-us-talks-more-serious/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/latin-america/2026/09/29/u-s-strips-visas-latin-american-officials-others-undermining-democracy/"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -5.8,
       "treffer": [
-        "red sea"
+        "hormuz"
       ],
-      "domain": "nypost.com",
-      "url": "https://nypost.com/2026/09/29/world-news/irans-currency-hits-new-record-low-as-war-destroys-countrys-economy/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "businessinsider.com",
-      "url": "https://www.businessinsider.com/tariffs-metals-silver-copper-goldman-sachs-gold-ai-infrastructure-2026-9"
+      "domain": "politicaldog101.com",
+      "url": "https://politicaldog101.com/tag/oil-moving-thru-the-strait-of-hormuz/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.1,
+      "tonalitaet": -5.2,
       "treffer": [
         "central bank"
       ],
-      "domain": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/30/opinion/contributors/the-opposing-forces-reshaping-global-finance/2435324"
+      "domain": "ncr-iran.org",
+      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-september-30-2026/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2632209/yemen-army-says-it-carried-out-414-attacks-on-houthi-targets-in-24-hours"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "air strike"
+      ],
+      "domain": "sconeadvocate.com.au",
+      "url": "https://www.sconeadvocate.com.au/story/9359868/russian-air-strikes-kill-3-injure-7-in-and-around-kyiv/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "consortiumnews.com",
+      "url": "https://consortiumnews.com/2026/09/30/craig-murray-losing-my-religion/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "thenews.coop",
+      "url": "https://www.thenews.coop/kenyan-high-court-strikes-out-bid-to-liquidate-saccos-apex-kuscco/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "politicaldog101.com",
+      "url": "https://politicaldog101.com/2026/09/iran-trump-conflict-war-9-29-2026-us-iran-talks-a-waste-of-time-oil-is-moving-thru-the-strait-of-hormuz/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "kickam1530.com",
+      "url": "https://kickam1530.com/ixp/204/p/caleb-flynn-guilty-murder-wife-home-invasion/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/cities/Delhi/mahua-moitras-plea-in-sc-alleging-eviction-from-circuit-house-to-be-heard-on-october-1/article71527252.ece"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "red sea",
+        "suez"
+      ],
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20260930-sisi-says-egypt-lost-about-20-billion-in-suez-canal-revenue-amid-regional-instability/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "capitalfm.africa",
+      "url": "https://capitalfm.africa/mbadi-defends-dangote-lamu-refinery-dismisses-land-compensation-claims-as-primitive-politics/"
     }
   ],
   "gkg_alter_stunden": 0.0
