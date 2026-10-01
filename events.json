@@ -1,73 +1,137 @@
 {
-  "erstellt_am": "2026-10-01T09:45:28",
+  "erstellt_am": "2026-10-01T14:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261001074500",
+  "gkg_stand": "20261001124500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -14.9,
+      "tonalitaet": -9.1,
       "treffer": [
-        "airstrike"
+        "missile"
       ],
-      "domain": "afghanistansun.com",
-      "url": "http://www.afghanistansun.com/news/279344746/9-killed-11-injured-in-pakistani-airstrikes-in-afghanistan-helmand"
+      "domain": "theshillongtimes.com",
+      "url": "https://theshillongtimes.com/2026/10/01/seven-die-as-russia-pounds-ukraine-with-missiles-and-drones/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "tonalitaet": -7.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "azernews.az",
-      "url": "https://www.azernews.az/region/264782.html"
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/a-russian-drone-hits-a-kyiv-school-as-moscow-presses-its-aerial-campaign-against-ukraine/article_d9d08b05-86ab-5dd4-9723-90c748e6c33d.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "shippingtribune.com",
-      "url": "https://www.shippingtribune.com/news/shipping/India+Boosts+Middle+East+Oil+Imports,+Cuts+Russian+Flows"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "citizen.co.za",
-      "url": "https://www.citizen.co.za/news/ipid-report-exposes-western-cape-policing-hotspot-cachalia-warns-trust-key/"
+      "domain": "kmbc.com",
+      "url": "https://www.kmbc.com/article/russian-drone-ukraine/73973917"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -6.6,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-prepares-for-escalation-major-military-response-looms-amid-uncertain-diplomacy-with-us/articleshow/134618268.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
       "treffer": [
         "refinery"
       ],
-      "domain": "nairobiwire.com",
-      "url": "https://nairobiwire.com/2026/10/dangote-lamu-oil-refinery-mbadi-land-cartels-ruto-shares.html"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/ukraine-persists-russian-oil-refinery-120934000.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bordermail.com.au",
+      "url": "https://www.bordermail.com.au/story/9361260/russia-hits-kyiv-school-in-relentless-aerial-campaign/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "komonews.com",
+      "url": "https://komonews.com/news/nation-world/people-really-want-answers-cornell-students-prepare-to-speak-out-at-public-hearing"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "abc7.com",
+      "url": "https://abc7.com/story/jane-doe-said-felt-like-bait-2025-cornell-university-hearing-investigating-allegations-fraternity-house-sexual-assault/19895990/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "927thedrive.net",
+      "url": "https://927thedrive.net/news/breaking-national-news/971462182577f2f01b0eb33226f1d494"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nbcnewyork.com",
+      "url": "https://www.nbcnewyork.com/news/national-international/cornell-student-2024-statement-to-police-new-details-alleged-rape/6554323/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.8,
       "treffer": [
         "central bank"
       ],
-      "domain": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/international/2026/10/01/887418.htm"
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/ecb-focuses-inflation-not-bond-120213000.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.7,
       "treffer": [
-        "crude oil"
+        "hormuz"
       ],
-      "domain": "morningstar.com",
-      "url": "https://www.morningstar.com/news/dow-jones/202610011319/dow-jones-top-markets-headlines-at-3-am-et-a-tech-fueled-stock-market-powers-through-but-limps-into-the-fourth-quarter-feds"
+      "domain": "yourdemocracy.net.au",
+      "url": "https://www.yourdemocracy.net.au/drupal/node/61200"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/us-iran-negotiations-are-stalled-now-rubio-reportedly-ordered-tehrans-un-delegation-leave-3808103"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/01/robert-kraft-netanyahu-israel-supporters"
     }
   ],
   "gkg_alter_stunden": 0.0
