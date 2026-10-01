@@ -1,74 +1,73 @@
 {
-  "erstellt_am": "2026-10-01T14:45:34",
+  "erstellt_am": "2026-10-01T22:45:26",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261001124500",
+  "gkg_stand": "20261001204500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.1,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "theshillongtimes.com",
-      "url": "https://theshillongtimes.com/2026/10/01/seven-die-as-russia-pounds-ukraine-with-missiles-and-drones/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "reflector.com",
-      "url": "http://www.reflector.com/news/national/a-russian-drone-hits-a-kyiv-school-as-moscow-presses-its-aerial-campaign-against-ukraine/article_d9d08b05-86ab-5dd4-9723-90c748e6c33d.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kmbc.com",
-      "url": "https://www.kmbc.com/article/russian-drone-ukraine/73973917"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
+      "tonalitaet": -8.7,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "tanker"
       ],
       "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-prepares-for-escalation-major-military-response-looms-amid-uncertain-diplomacy-with-us/articleshow/134618268.cms"
+      "url": "https://timesofindia.indiatimes.com/city/mysuru/tanker-driver-held-after-fatal-crash-kills-two/articleshow/134624567.cms"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.3,
+      "treffer": [
+        "air strike"
+      ],
+      "domain": "rferl.org",
+      "url": "https://www.rferl.org/a/afghanistan-pakistani-air-strikes-civilians/33868592.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
+      "tonalitaet": -8.0,
       "treffer": [
-        "refinery"
+        "red sea"
       ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/ukraine-persists-russian-oil-refinery-120934000.html"
+      "domain": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/conflict/saudi-led-coalition-says-houthis-attacked-power-station-c-22956413"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "northerndailyleader.com.au",
+      "url": "https://www.northerndailyleader.com.au/story/9361297/saudi-led-coalition-says-houthis-attacked-power-station/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bordermail.com.au",
-      "url": "https://www.bordermail.com.au/story/9361260/russia-hits-kyiv-school-in-relentless-aerial-campaign/"
+      "domain": "businessinsurance.com",
+      "url": "https://www.businessinsurance.com/icc-axa-cut-ties-amid-trump-campaign-against-court/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thejudge13.com",
+      "url": "https://thejudge13.com/2026/10/01/alpine-decision-made-on-colapinto-punishment-after-baku-crash/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.1,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "komonews.com",
-      "url": "https://komonews.com/news/nation-world/people-really-want-answers-cornell-students-prepare-to-speak-out-at-public-hearing"
+      "domain": "saharareporters.com",
+      "url": "https://saharareporters.com/2026/10/01/explosions-heard-ethiopias-capital-opposition-group-claims-drone-strikes-military"
     },
     {
       "kategorie": "Policy",
@@ -76,62 +75,72 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "abc7.com",
-      "url": "https://abc7.com/story/jane-doe-said-felt-like-bait-2025-cornell-university-hearing-investigating-allegations-fraternity-house-sexual-assault/19895990/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "927thedrive.net",
-      "url": "https://927thedrive.net/news/breaking-national-news/971462182577f2f01b0eb33226f1d494"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nbcnewyork.com",
-      "url": "https://www.nbcnewyork.com/news/national-international/cornell-student-2024-statement-to-police-new-details-alleged-rape/6554323/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/ecb-focuses-inflation-not-bond-120213000.html"
+      "domain": "nbcnews.com",
+      "url": "https://www.nbcnews.com/news/us-news/diddy-placed-solitary-nbc-news-report-vip-prison-life-rcna600764"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.8,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "saharareporters.com",
+      "url": "https://saharareporters.com/2026/10/01/exclusive-were-being-made-scapegoats-lpg-operators-question-nmdpra-plants-shut-while"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "kenya-today.com",
+      "url": "https://kenya-today.com/report-ruto-urges-critics-to-pursue-dangote-refinery-deal-through-parliament-5491/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bridgemi.com",
+      "url": "https://bridgemi.com/michigan-government/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "red sea",
+        "refinery"
+      ],
+      "domain": "britainnews.net",
+      "url": "http://www.britainnews.net/news/279346406/uk-arrests-british-iranian-man-in-airbase-investigation"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "saharareporters.com",
+      "url": "https://saharareporters.com/2026/10/01/tinubu-must-go-atiku-calls-change-attacks-president-over-economic-hardship"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
       "treffer": [
         "hormuz"
       ],
-      "domain": "yourdemocracy.net.au",
-      "url": "https://www.yourdemocracy.net.au/drupal/node/61200"
+      "domain": "nbcmontana.com",
+      "url": "https://nbcmontana.com/news/nation-world/copilot-who-stabbed-flydubai-captain-tried-to-crash-plan-may-be-linked-to-iran-trump-saudi-arabia-flight-israel-investigation-terrorism-hero-passengers-iran-war-negotiations-strait-of-hormuz"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/us-iran-negotiations-are-stalled-now-rubio-reportedly-ordered-tehrans-un-delegation-leave-3808103"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/01/robert-kraft-netanyahu-israel-supporters"
+      "domain": "ktxs.com",
+      "url": "https://ktxs.com/news/nation-world/copilot-who-stabbed-flydubai-captain-tried-to-crash-plan-may-be-linked-to-iran-trump-saudi-arabia-flight-israel-investigation-terrorism-hero-passengers-iran-war-negotiations-strait-of-hormuz"
     }
   ],
   "gkg_alter_stunden": 0.0
