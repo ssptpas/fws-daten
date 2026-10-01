@@ -1,177 +1,73 @@
 {
-  "erstellt_am": "2026-09-30T22:45:29",
+  "erstellt_am": "2026-10-01T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20260930204500",
+  "gkg_stand": "20261001074500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -12.3,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -14.9,
       "treffer": [
-        "refinery"
+        "airstrike"
       ],
-      "domain": "kenya-today.com",
-      "url": "https://kenya-today.com/report-ruto-orders-eacc-and-dci-to-intensify-anticorruption-drive-ahead-of-2027-polls-5009/"
+      "domain": "afghanistansun.com",
+      "url": "http://www.afghanistansun.com/news/279344746/9-killed-11-injured-in-pakistani-airstrikes-in-afghanistan-helmand"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -10.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "deathpenaltyinfo.org",
-      "url": "https://deathpenaltyinfo.org/research/analysis/reports/racial-justice-reports/examining-georgias-history-of-racial-violence-and-capital-punishment"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thegrio.com",
-      "url": "https://thegrio.com/2026/09/30/new-york-attorney-general-cornell-sexual-assault-review/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thehollywoodgossip.com",
-      "url": "https://www.thehollywoodgossip.com/2026/09/cornell-gangrape-lawsuit-police-transcript-cover-up-allegations/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/donald-trump-accused-flouting-disclosure-201317000.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/russia-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.1,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "foreignpolicy.com",
-      "url": "https://foreignpolicy.com/2026/09/30/iran-trump-hormuz-energy-escalation-war-midterms/"
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/region/264782.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "refinery"
+        "sanctions"
       ],
-      "domain": "foreignpolicy.com",
-      "url": "https://foreignpolicy.com/2026/09/30/ethiopia-return-civil-war-tigray-regional-impact-eritrea-horn-africa/"
+      "domain": "shippingtribune.com",
+      "url": "https://www.shippingtribune.com/news/shipping/India+Boosts+Middle+East+Oil+Imports,+Cuts+Russian+Flows"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
       "treffer": [
-        "refinery"
+        "sanctions"
       ],
-      "domain": "13abc.com",
-      "url": "https://www.13abc.com/2026/09/30/investigators-detail-many-missed-opportunities-prevent-oregon-refinery-fire-that-killed-two-brothers/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "kenya-today.com",
-      "url": "https://kenya-today.com/report-dangote-says-legal-challenges-wont-halt-lamu-refinery-project-4988/"
+      "domain": "citizen.co.za",
+      "url": "https://www.citizen.co.za/news/ipid-report-exposes-western-cape-policing-hotspot-cachalia-warns-trust-key/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.4,
       "treffer": [
-        "crude oil"
-      ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/lng-prices-fall-from-2026-highs"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
         "refinery"
       ],
-      "domain": "kenya-today.com",
-      "url": "https://kenya-today.com/report-lamu-refinery-groundbreaking-proceeds-amid-courtordered-land-dispute-5052/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/three-more-tanker-attacks-surface-in-delayed-hormuz-reports/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/news/politics/2026/09/30/ukraine-to-present-wish-list-for-new-russia-sanctions-under-graham-law/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/three-vessels-struck-in-strait-of-hormuz-as-iran-s-grip-loosens"
+      "domain": "nairobiwire.com",
+      "url": "https://nairobiwire.com/2026/10/dangote-lamu-oil-refinery-mbadi-land-cartels-ruto-shares.html"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.2,
       "treffer": [
         "central bank"
       ],
-      "domain": "utahindependent.com",
-      "url": "http://www.utahindependent.com/news/279343449/uk-pm-says-strong-indications-iran-linked-to-airbase-incident"
+      "domain": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/01/887418.htm"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "tonalitaet": -3.4,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "crude oil"
       ],
-      "domain": "standard.net.au",
-      "url": "https://www.standard.net.au/story/9360622/warnings-international-forum-all-at-sea-on-security/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "tenterfieldstar.com.au",
-      "url": "https://www.tenterfieldstar.com.au/story/9360622/warnings-international-forum-all-at-sea-on-security/"
+      "domain": "morningstar.com",
+      "url": "https://www.morningstar.com/news/dow-jones/202610011319/dow-jones-top-markets-headlines-at-3-am-et-a-tech-fueled-stock-market-powers-through-but-limps-into-the-fourth-quarter-feds"
     }
   ],
   "gkg_alter_stunden": 0.0
