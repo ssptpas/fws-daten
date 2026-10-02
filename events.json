@@ -1,65 +1,121 @@
 {
-  "erstellt_am": "2026-10-02T09:45:23",
+  "erstellt_am": "2026-10-02T14:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261002074500",
+  "gkg_stand": "20261002124500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.5,
+      "kategorie": "Policy",
+      "tonalitaet": -7.5,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202610020092.html"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "pmnewsnigeria.com",
-      "url": "https://pmnewsnigeria.com/2026/10/02/fresh-yemen-escalation-as-government-forces-hit-sanaa/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -6.0,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/10/02/saudi-led-coalition-says-houthis-attacked-power-station-for-prophets-mosque-in-medina"
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/russian-aerial-strikes-snarl-traffic-3-kyiv-bridges-136944164"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/asia/japan-mulls-new-anti-russian-sanctions-527710"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hanfordsentinel.com",
-      "url": "https://hanfordsentinel.com/news/national/ny-ag-letitia-james-named-special-prosecutor-in-cornell-university-gang-rape-will-take-over/article_6b708426-43cb-590d-b07d-4b10491c9953.html"
+      "domain": "hillingdontimes.co.uk",
+      "url": "https://www.hillingdontimes.co.uk/news/national/26601954.russian-strikes-kyiv-bridges-cause-traffic-chaos-new-disruption-tactic/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -5.6,
       "treffer": [
-        "tanker"
+        "hormuz"
       ],
-      "domain": "morningstar.com",
-      "url": "https://www.morningstar.com/news/dow-jones/202610021156/dow-jones-top-markets-headlines-at-3-am-et-us-stocks-rise-after-bond-market-flips-in-choppy-trading-the"
+      "domain": "politicalwire.com",
+      "url": "https://politicalwire.com/2026/10/02/iran-is-still-menacing-the-strait-of-hormuz/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kesq.com",
+      "url": "https://kesq.com/news/national-world/cnn-national/2026/10/02/special-prosecutor-takes-over-cornell-alleged-gang-rape-investigation-as-national-outrage-grows/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newsday.com",
+      "url": "https://www.newsday.com/news/nation/russia-ukraine-war-kyiv-bridges-truce-x13175"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jns.org",
+      "url": "https://www.jns.org/wire/the-focus-project/anti-jewish-bias-puts-patients-at-risk-in-healthcare-settings"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/asia-pacific/thousands-urge-japan-to-push-us-to-lift-sanctions-on-international-criminal-court-head/4075892"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz",
+        "red sea",
+        "refinery",
+        "crude oil"
+      ],
+      "domain": "africaleader.com",
+      "url": "http://www.africaleader.com/news/279347180/iran-loaded-zero-crude-oil-in-september-bessent-says"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "fortune.com",
+      "url": "https://fortune.com/2026/10/02/trump-inflation-growth-national-debt-tariffs-ratio-balance/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank"
     }
   ],
   "gkg_alter_stunden": 0.0
