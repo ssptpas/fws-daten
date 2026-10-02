@@ -1,121 +1,137 @@
 {
-  "erstellt_am": "2026-10-02T14:45:36",
+  "erstellt_am": "2026-10-02T22:45:42",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261002124500",
+  "gkg_stand": "20261002204500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 14,
   "ereignisse": [
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -9.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "finchannel.com",
+      "url": "https://finchannel.com/putin-issues-kaliningrad-nuclear-warning-as-russian-war-losses-mount/136889/world-2/2026/10/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261002-uae-warns-uk-over-potential-fallout-from-manchester-city-sanctions-report/"
+    },
     {
       "kategorie": "Policy",
       "tonalitaet": -7.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now"
+      "domain": "english.pravda.ru",
+      "url": "https://english.pravda.ru/world/169547-eu-infringement-spain-energy-plan/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://wmeq.iheart.com/content/2026-10-02-former-congressman-david-rivera-sentenced-to-10-years/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/putin-repeating-brezhnevs-basic-error/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/2-killed-7-injured-in-houthi-shelling-across-yemen-s-taiz/4076503"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "channel4.com",
+      "url": "https://www.channel4.com/news/manchester-city-appeals-guilty-verdict-over-premier-league-financial-breaches"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/saudi-led-coalition-says-it-intercepted-destroyed-3-houthi-ballistic-missiles-targeting-khamis-mushait/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wdsu.com",
+      "url": "https://www.wdsu.com/article/david-rivera-secret-venezuela-lobbying-sentenced/73998636"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "gazettextra.com",
+      "url": "http://www.gazettextra.com/news/nation_world/d-az-canel-questions-us-measures-over-new-restrictions-on-cuban-private-firms/article_29a60e7b-1a69-5a18-9b9d-8a3044173b8a.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/palestine-action-online-fundraiser-blocked-due-to-us-sanctions/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
       "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/russian-aerial-strikes-snarl-traffic-3-kyiv-bridges-136944164"
+      "url": "https://abcnews.com/US/wireStory/former-gop-rep-david-rivera-sentenced-10-years-136956915"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
       "treffer": [
-        "sanctions"
+        "ballistic"
       ],
-      "domain": "hillingdontimes.co.uk",
-      "url": "https://www.hillingdontimes.co.uk/news/national/26601954.russian-strikes-kyiv-bridges-cause-traffic-chaos-new-disruption-tactic/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "politicalwire.com",
-      "url": "https://politicalwire.com/2026/10/02/iran-is-still-menacing-the-strait-of-hormuz/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kesq.com",
-      "url": "https://kesq.com/news/national-world/cnn-national/2026/10/02/special-prosecutor-takes-over-cornell-alleged-gang-rape-investigation-as-national-outrage-grows/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newsday.com",
-      "url": "https://www.newsday.com/news/nation/russia-ukraine-war-kyiv-bridges-truce-x13175"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/wire/the-focus-project/anti-jewish-bias-puts-patients-at-risk-in-healthcare-settings"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/asia-pacific/thousands-urge-japan-to-push-us-to-lift-sanctions-on-international-criminal-court-head/4075892"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz",
-        "red sea",
-        "refinery",
-        "crude oil"
-      ],
-      "domain": "africaleader.com",
-      "url": "http://www.africaleader.com/news/279347180/iran-loaded-zero-crude-oil-in-september-bessent-says"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "fortune.com",
-      "url": "https://fortune.com/2026/10/02/trump-inflation-growth-national-debt-tariffs-ratio-balance/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank"
+      "domain": "wtma.com",
+      "url": "https://www.wtma.com/2026/10/02/hearing-on-dna-ballistics-evidence-in-murdaugh-case-scheduled-for-oct-16/"
     }
   ],
   "gkg_alter_stunden": 0.0
