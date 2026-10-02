@@ -1,146 +1,65 @@
 {
-  "erstellt_am": "2026-10-01T22:45:26",
+  "erstellt_am": "2026-10-02T09:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261001204500",
+  "gkg_stand": "20261002074500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.7,
+      "tonalitaet": -10.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202610020092.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "pmnewsnigeria.com",
+      "url": "https://pmnewsnigeria.com/2026/10/02/fresh-yemen-escalation-as-government-forces-hit-sanaa/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/10/02/saudi-led-coalition-says-houthis-attacked-power-station-for-prophets-mosque-in-medina"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/asia/japan-mulls-new-anti-russian-sanctions-527710"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hanfordsentinel.com",
+      "url": "https://hanfordsentinel.com/news/national/ny-ag-letitia-james-named-special-prosecutor-in-cornell-university-gang-rape-will-take-over/article_6b708426-43cb-590d-b07d-4b10491c9953.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
       "treffer": [
         "tanker"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/city/mysuru/tanker-driver-held-after-fatal-crash-kills-two/articleshow/134624567.cms"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "air strike"
-      ],
-      "domain": "rferl.org",
-      "url": "https://www.rferl.org/a/afghanistan-pakistani-air-strikes-civilians/33868592.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/conflict/saudi-led-coalition-says-houthis-attacked-power-station-c-22956413"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "northerndailyleader.com.au",
-      "url": "https://www.northerndailyleader.com.au/story/9361297/saudi-led-coalition-says-houthis-attacked-power-station/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "businessinsurance.com",
-      "url": "https://www.businessinsurance.com/icc-axa-cut-ties-amid-trump-campaign-against-court/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thejudge13.com",
-      "url": "https://thejudge13.com/2026/10/01/alpine-decision-made-on-colapinto-punishment-after-baku-crash/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "saharareporters.com",
-      "url": "https://saharareporters.com/2026/10/01/explosions-heard-ethiopias-capital-opposition-group-claims-drone-strikes-military"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nbcnews.com",
-      "url": "https://www.nbcnews.com/news/us-news/diddy-placed-solitary-nbc-news-report-vip-prison-life-rcna600764"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "saharareporters.com",
-      "url": "https://saharareporters.com/2026/10/01/exclusive-were-being-made-scapegoats-lpg-operators-question-nmdpra-plants-shut-while"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "kenya-today.com",
-      "url": "https://kenya-today.com/report-ruto-urges-critics-to-pursue-dangote-refinery-deal-through-parliament-5491/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bridgemi.com",
-      "url": "https://bridgemi.com/michigan-government/fact-check-mike-rogers-john-james-shift-positions-on-iran-war/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "red sea",
-        "refinery"
-      ],
-      "domain": "britainnews.net",
-      "url": "http://www.britainnews.net/news/279346406/uk-arrests-british-iranian-man-in-airbase-investigation"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "saharareporters.com",
-      "url": "https://saharareporters.com/2026/10/01/tinubu-must-go-atiku-calls-change-attacks-president-over-economic-hardship"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "nbcmontana.com",
-      "url": "https://nbcmontana.com/news/nation-world/copilot-who-stabbed-flydubai-captain-tried-to-crash-plan-may-be-linked-to-iran-trump-saudi-arabia-flight-israel-investigation-terrorism-hero-passengers-iran-war-negotiations-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "ktxs.com",
-      "url": "https://ktxs.com/news/nation-world/copilot-who-stabbed-flydubai-captain-tried-to-crash-plan-may-be-linked-to-iran-trump-saudi-arabia-flight-israel-investigation-terrorism-hero-passengers-iran-war-negotiations-strait-of-hormuz"
+      "domain": "morningstar.com",
+      "url": "https://www.morningstar.com/news/dow-jones/202610021156/dow-jones-top-markets-headlines-at-3-am-et-us-stocks-rise-after-bond-market-flips-in-choppy-trading-the"
     }
   ],
   "gkg_alter_stunden": 0.0
