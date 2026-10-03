@@ -1,82 +1,74 @@
 {
-  "erstellt_am": "2026-10-03T09:45:23",
+  "erstellt_am": "2026-10-03T14:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261003074500",
+  "gkg_stand": "20261003124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -13.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -9.0,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "bruxelles2.eu",
-      "url": "https://www.bruxelles2.eu/en/article/320532"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailymirror.lk",
-      "url": "https://www.dailymirror.lk/opinion/Is-the-JVP-drifting-away-from-non-alignment-and-supporting-Palestine/172-351688"
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20261003/4506530.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -9.0,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/iran-under-pressure-inflation-nears-90-hormuz-leverage-weakens-as-us-tightens-squeeze-article-14043746.html"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2632674/thousands-of-cyberattacks-blocked-every-month"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -6.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ucanews.com",
-      "url": "https://www.ucanews.com/news/north-korea-calls-seoul-despicable-over-dmz-blast-apology-demand/115611"
+      "domain": "interfax.com.ua",
+      "url": "https://en.interfax.com.ua/news/general/1213928.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ecr.co.za",
-      "url": "https://www.ecr.co.za/news/news/g7-agrees-deal-to-ease-global-energy-supply-concerns/"
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/sri-lanka-rejects-claims-of-us-sanctions-warning-over-services-to-iranian-ships/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.6,
       "treffer": [
-        "mandeb"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2632661/leverage-has-limits"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "radiotamazuj.org",
+      "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-oil-is-being-used-as-a-political-weapon-expert-says"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wardheernews.com",
-      "url": "https://wardheernews.com/justice-with-civic-virtue-i-saw-him-walking-today-like-a-dhidir/"
+      "domain": "sltrib.com",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/10/03/opinion-if-you-think-rising-oil/"
     }
   ],
   "gkg_alter_stunden": 0.0
