@@ -1,74 +1,38 @@
 {
-  "erstellt_am": "2026-10-03T14:45:28",
+  "erstellt_am": "2026-10-03T22:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261003124500",
+  "gkg_stand": "20261003204500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 3,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.0,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/India/20261003/4506530.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.9,
+      "tonalitaet": -8.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "interfax.com.ua",
-      "url": "https://en.interfax.com.ua/news/general/1213928.html"
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/world/2026/Oct/03/israeli-forces-help-settlers-seize-west-bank-olive-groves-say-witnesses"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/sri-lanka-rejects-claims-of-us-sanctions-warning-over-services-to-iranian-ships/"
+      "domain": "theepochtimes.com",
+      "url": "https://www.theepochtimes.com/opinion/xinjiang-procedure-a-heartrending-account-of-chinas-mistreatment-of-uyghurs-6098756"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
+      "tonalitaet": -3.6,
       "treffer": [
-        "mandeb",
+        "hormuz",
         "red sea"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "radiotamazuj.org",
-      "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-oil-is-being-used-as-a-political-weapon-expert-says"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "sltrib.com",
-      "url": "https://www.sltrib.com/opinion/commentary/2026/10/03/opinion-if-you-think-rising-oil/"
+      "domain": "gulfnews.com",
+      "url": "https://gulfnews.com/world/mena/us-iran-war-what-uae-residents-need-to-know-today-oct-3-2026-1.500697324"
     }
   ],
   "gkg_alter_stunden": 0.0
