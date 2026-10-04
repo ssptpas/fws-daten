@@ -1,19 +1,55 @@
 {
-  "erstellt_am": "2026-10-03T22:45:22",
+  "erstellt_am": "2026-10-04T09:45:25",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261003204500",
+  "gkg_stand": "20261004074500",
   "veraltet": false,
-  "anzahl": 3,
+  "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.8,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Oct/03/israeli-forces-help-settlers-seize-west-bank-olive-groves-say-witnesses"
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/World/20261004/4506892.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "countercurrents.org",
+      "url": "https://countercurrents.org/2026/10/natures-deadly-missiles/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279350171/us-urges-ethiopia-eritrea-to-show-restraint"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/trump-says-iran-dropped-nuclear-weapon-plans-227667"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/houthis-claim-strike-on-saudi-aramco-in-riyadh-227668"
     },
     {
       "kategorie": "Policy",
@@ -21,18 +57,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/opinion/xinjiang-procedure-a-heartrending-account-of-chinas-mistreatment-of-uyghurs-6098756"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "gulfnews.com",
-      "url": "https://gulfnews.com/world/mena/us-iran-war-what-uae-residents-need-to-know-today-oct-3-2026-1.500697324"
+      "domain": "countercurrents.org",
+      "url": "https://countercurrents.org/2026/10/increasing-concern-over-escalating-health-crisis-in-iran/"
     }
   ],
   "gkg_alter_stunden": 0.0
