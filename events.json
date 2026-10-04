@@ -1,55 +1,46 @@
 {
-  "erstellt_am": "2026-10-04T09:45:25",
+  "erstellt_am": "2026-10-04T14:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261004074500",
+  "gkg_stand": "20261004124500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "tonalitaet": -12.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/World/20261004/4506892.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "countercurrents.org",
-      "url": "https://countercurrents.org/2026/10/natures-deadly-missiles/"
+      "domain": "wfmz.com",
+      "url": "https://www.wfmz.com/partners/afp/foreign-oil-companies-have-highlighted-weaknesses-such-as-poor-infrastructure/image_16fe7c9d-583a-5bfc-8009-0f3b7d683e23.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.7,
+      "tonalitaet": -7.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nigeriasun.com",
+      "url": "http://www.nigeriasun.com/news/279351134/icc-weakened-by-impotence-over-netanyahu-arrest-warrant-attorney"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
       "treffer": [
         "sanctions"
       ],
       "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279350171/us-urges-ethiopia-eritrea-to-show-restraint"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/trump-says-iran-dropped-nuclear-weapon-plans-227667"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/houthis-claim-strike-on-saudi-aramco-in-riyadh-227668"
+      "url": "http://www.bignewsnetwork.com/news/279351134/icc-weakened-by-impotence-over-netanyahu-arrest-warrant-attorney"
     },
     {
       "kategorie": "Policy",
@@ -57,8 +48,53 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "countercurrents.org",
-      "url": "https://countercurrents.org/2026/10/increasing-concern-over-escalating-health-crisis-in-iran/"
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1197204/world/region/iran-fm-tells-us-there-is-no-military-solution-to-their-conflict"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/10/iran-tells-us-there-no-military-solution-middle-east-war"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "the-messenger.com",
+      "url": "https://www.the-messenger.com/news/world/article_c67ebc02-d157-5853-bbc4-3a26eb6f8965.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "chelmsfordcitynews.co.uk",
+      "url": "https://www.chelmsfordcitynews.co.uk/news/26601566.speed-cameras-essex-speed-cameras-explained/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/world/2026/10/04/opposition-fighters-in-northern-ethiopias-tigray-withdraw-from-regional-capital/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theeagleonline.com.ng",
+      "url": "https://theeagleonline.com.ng/probe-missing-n94-4bn-oil-revenue-serap-urges-tinubu/"
     }
   ],
   "gkg_alter_stunden": 0.0
