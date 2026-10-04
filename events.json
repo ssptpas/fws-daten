@@ -1,100 +1,73 @@
 {
-  "erstellt_am": "2026-10-04T14:45:24",
+  "erstellt_am": "2026-10-04T22:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261004124500",
+  "gkg_stand": "20261004204500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -12.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wfmz.com",
-      "url": "https://www.wfmz.com/partners/afp/foreign-oil-companies-have-highlighted-weaknesses-such-as-poor-infrastructure/image_16fe7c9d-583a-5bfc-8009-0f3b7d683e23.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nigeriasun.com",
-      "url": "http://www.nigeriasun.com/news/279351134/icc-weakened-by-impotence-over-netanyahu-arrest-warrant-attorney"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279351134/icc-weakened-by-impotence-over-netanyahu-arrest-warrant-attorney"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1197204/world/region/iran-fm-tells-us-there-is-no-military-solution-to-their-conflict"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/10/iran-tells-us-there-no-military-solution-middle-east-war"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -5.6,
       "treffer": [
         "red sea"
       ],
-      "domain": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/world/article_c67ebc02-d157-5853-bbc4-3a26eb6f8965.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "chelmsfordcitynews.co.uk",
-      "url": "https://www.chelmsfordcitynews.co.uk/news/26601566.speed-cameras-essex-speed-cameras-explained/"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/boko-haram-weakened-not-defeated-2026/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -5.0,
       "treffer": [
         "red sea"
       ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/world/2026/10/04/opposition-fighters-in-northern-ethiopias-tigray-withdraw-from-regional-capital/"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/burundi-ndayishimiye-violence-stalls-african-development-2026/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -4.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theeagleonline.com.ng",
-      "url": "https://theeagleonline.com.ng/probe-missing-n94-4bn-oil-revenue-serap-urges-tinubu/"
+      "domain": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/conflict/iran-oil-minister-resigns-for-personal-reasons-reports-c-22968059"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "singletonargus.com.au",
+      "url": "https://www.singletonargus.com.au/story/9362359/iran-oil-minister-resigns-for-personal-reasons-reports/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "northerndailyleader.com.au",
+      "url": "https://www.northerndailyleader.com.au/story/9362359/iran-oil-minister-resigns-for-personal-reasons-reports/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "easternriverinachronicle.com.au",
+      "url": "https://www.easternriverinachronicle.com.au/story/9362359/iran-oil-minister-resigns-for-personal-reasons-reports/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279351523/iran-signed-npt-india-did-notsituation-is-very-different-jaishankar-highlights-distinctions-deepening-global-energy-crises-amid-west-asia-turmoil"
     }
   ],
   "gkg_alter_stunden": 0.0
