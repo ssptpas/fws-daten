@@ -1,73 +1,55 @@
 {
-  "erstellt_am": "2026-10-04T22:45:29",
+  "erstellt_am": "2026-10-05T09:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261004204500",
+  "gkg_stand": "20261005074500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 5,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "lankanewspapers.com",
+      "url": "https://www.lankanewspapers.com/2026/10/05/sri-lanka-s-sovereign-stance-the-iranian-ships-controversy-and-the-battle-against-unilateral-sanctions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/nation/kharge-lists-3-non-negotiable-demands-cec-resignation-sir-annulment-ballot-papers-1993246"
+    },
+    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -3.5,
       "treffer": [
         "red sea"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/boko-haram-weakened-not-defeated-2026/"
+      "domain": "bdnews24.com",
+      "url": "https://bdnews24.com/business/35wz8haex4"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -3.3,
       "treffer": [
         "red sea"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/burundi-ndayishimiye-violence-stalls-african-development-2026/"
+      "domain": "businesstimes.com.sg",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/saudi-arabia-unexpectedly-cuts-november-oil-prices-asia-6-year-lows"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/conflict/iran-oil-minister-resigns-for-personal-reasons-reports-c-22968059"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "singletonargus.com.au",
-      "url": "https://www.singletonargus.com.au/story/9362359/iran-oil-minister-resigns-for-personal-reasons-reports/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "northerndailyleader.com.au",
-      "url": "https://www.northerndailyleader.com.au/story/9362359/iran-oil-minister-resigns-for-personal-reasons-reports/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "easternriverinachronicle.com.au",
-      "url": "https://www.easternriverinachronicle.com.au/story/9362359/iran-oil-minister-resigns-for-personal-reasons-reports/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.1,
       "treffer": [
-        "nuclear weapon"
+        "sanctions"
       ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279351523/iran-signed-npt-india-did-notsituation-is-very-different-jaishankar-highlights-distinctions-deepening-global-energy-crises-amid-west-asia-turmoil"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261005-iran-oil-minister-resigns-bovard-appointed-acting-minister/"
     }
   ],
   "gkg_alter_stunden": 0.0
