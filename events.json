@@ -1,142 +1,84 @@
 {
-  "erstellt_am": "2026-10-05T14:45:30",
+  "erstellt_am": "2026-10-05T22:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261005124500",
+  "gkg_stand": "20261005204500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "themag.co.uk",
-      "url": "https://www.themag.co.uk/2026/10/rival-premier-league-clubs-demand-manchester-city-sanctions-come-into-force-for-2027-28-season/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/asia-pacific/data-of-over-10m-customers-exposed-in-cyberattacks-on-japanese-firms/4078491"
-    },
-    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
+      "tonalitaet": -10.8,
       "treffer": [
         "drone strike"
       ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/soldiers-seriously-wounded-in-iranian-drone-strike-tell-ap-the-militarys-medical-system-failed-them/article_468e2774-9ce6-5c73-aee3-7d53330ed5c9.html"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/un-rights-council-condemns-drone-strikes-plaguing-sudan-3004781"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/10/yemeni-government-forces-advance-bab-el-mandeb-strait"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kcby.com",
-      "url": "https://kcby.com/news/nation-world/judge-upholds-cornell-title-ix-process-challenged-by-chi-phi-fraternity-member"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/europe/2026/10/05/hundreds-of-european-ex-ministers-urge-eu-sanctions-against-israeli-e1-settlement/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -6.2,
       "treffer": [
         "red sea"
       ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1197276/world/region/saudi-led-coalition-says-joined-yemen-govt-offensive-against-ansar-allah"
+      "domain": "neworleanssun.com",
+      "url": "http://www.neworleanssun.com/news/279353611/yemeni-govt-forces-claim-they-have-retaken-mocha-from-houthis"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/10/yemen-saudi-arabia-target-houthis-new-campaign-war-escalates"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/903345/hormuz-riddle-how-iran-is-straining-western-economies-without-closing-key-strait"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "red sea",
-        "crude oil",
-        "tanker"
-      ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/production/middle-east-crude-oil-exports-exceed-pre-war-levels-but-tanker-attacks-increase"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -5.9,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/903338/fading-reserves-and-burning-pipelines-is-the-global-oil-market-reaching-a-breaking-point"
+      "domain": "goulburnpost.com.au",
+      "url": "https://www.goulburnpost.com.au/story/9363110/yemeni-government-forces-drive-houthis-from-key-strait/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com/stories/en/322900-yemen-presidency-announces-military-drive-to-retake-all-houthi-territory"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/10/05/iranian-flights-land-in-iraqs-najaf-after-us-sanctions-exemption/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -5.9,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "wboc.com",
-      "url": "https://www.wboc.com/news/international/a-saudi-led-coalition-says-its-fighter-jets-are-bombing-yemens-iran-backed-houthi-rebels/article_9dbf243b-2aed-5f30-a626-c439c6c58ed4.html"
+      "domain": "examiner.com.au",
+      "url": "https://www.examiner.com.au/story/9363110/yemeni-government-forces-drive-houthis-from-key-strait/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cbs4local.com",
+      "url": "https://cbs4local.com/news/nation-world/cornell-police-seek-suspects-after-day-hall-vandalism-amid-chi-phi-rape-probe-tensions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "internazionale.it",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/05/exclusive-cuba-and-us-maintain-channels-of-communication-but-no-negotiations-diplomat-says"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/defence/news/when-indias-anti-satellite-missile-test-in-space-in-2019-caught-us-intelligence-agencies-off-guard/articleshow/134716715.cms"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "econotimes.com",
+      "url": "http://www.econotimes.com/US-Treasury-Drops-Crypto-Wallet-Tracking-Plan-1753990"
     }
   ],
   "gkg_alter_stunden": 0.0
