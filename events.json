@@ -1,55 +1,142 @@
 {
-  "erstellt_am": "2026-10-05T09:45:24",
+  "erstellt_am": "2026-10-05T14:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261005074500",
+  "gkg_stand": "20261005124500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.2,
+      "tonalitaet": -7.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "lankanewspapers.com",
-      "url": "https://www.lankanewspapers.com/2026/10/05/sri-lanka-s-sovereign-stance-the-iranian-ships-controversy-and-the-battle-against-unilateral-sanctions"
+      "domain": "themag.co.uk",
+      "url": "https://www.themag.co.uk/2026/10/rival-premier-league-clubs-demand-manchester-city-sanctions-come-into-force-for-2027-28-season/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "kategorie": "Breite",
+      "tonalitaet": -6.4,
       "treffer": [
-        "sanctions"
+        "cyberattack"
       ],
-      "domain": "deccanchronicle.com",
-      "url": "https://www.deccanchronicle.com/nation/kharge-lists-3-non-negotiable-demands-cec-resignation-sir-annulment-ballot-papers-1993246"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/asia-pacific/data-of-over-10m-customers-exposed-in-cyberattacks-on-japanese-firms/4078491"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/soldiers-seriously-wounded-in-iranian-drone-strike-tell-ap-the-militarys-medical-system-failed-them/article_468e2774-9ce6-5c73-aee3-7d53330ed5c9.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
+      "tonalitaet": -5.6,
       "treffer": [
+        "hormuz",
+        "mandeb",
         "red sea"
       ],
-      "domain": "bdnews24.com",
-      "url": "https://bdnews24.com/business/35wz8haex4"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "businesstimes.com.sg",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/saudi-arabia-unexpectedly-cuts-november-oil-prices-asia-6-year-lows"
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/10/yemeni-government-forces-advance-bab-el-mandeb-strait"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -5.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20261005-iran-oil-minister-resigns-bovard-appointed-acting-minister/"
+      "domain": "kcby.com",
+      "url": "https://kcby.com/news/nation-world/judge-upholds-cornell-title-ix-process-challenged-by-chi-phi-fraternity-member"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/europe/2026/10/05/hundreds-of-european-ex-ministers-urge-eu-sanctions-against-israeli-e1-settlement/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1197276/world/region/saudi-led-coalition-says-joined-yemen-govt-offensive-against-ansar-allah"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/10/yemen-saudi-arabia-target-houthis-new-campaign-war-escalates"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/903345/hormuz-riddle-how-iran-is-straining-western-economies-without-closing-key-strait"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "red sea",
+        "crude oil",
+        "tanker"
+      ],
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/production/middle-east-crude-oil-exports-exceed-pre-war-levels-but-tanker-attacks-increase"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/903338/fading-reserves-and-burning-pipelines-is-the-global-oil-market-reaching-a-breaking-point"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com/stories/en/322900-yemen-presidency-announces-military-drive-to-retake-all-houthi-territory"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/05/iranian-flights-land-in-iraqs-najaf-after-us-sanctions-exemption/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "wboc.com",
+      "url": "https://www.wboc.com/news/international/a-saudi-led-coalition-says-its-fighter-jets-are-bombing-yemens-iran-backed-houthi-rebels/article_9dbf243b-2aed-5f30-a626-c439c6c58ed4.html"
     }
   ],
   "gkg_alter_stunden": 0.0
