@@ -1,65 +1,187 @@
 {
-  "erstellt_am": "2026-10-06T09:45:28",
+  "erstellt_am": "2026-10-06T14:45:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261006074500",
+  "gkg_stand": "20261006124500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 19,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.5,
+      "tonalitaet": -9.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "pan.am",
-      "url": "https://www.pan.am/en/625992"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261006-pezeshkian-says-negotiations-with-us-are-futile-accuses-washington-of-not-seeking-dialogue/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "radiotamazuj.org",
+      "url": "https://www.radiotamazuj.org/en/news/article/un-rights-council-extends-sudan-fact-finding-mission-for-one-year"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.3,
+      "tonalitaet": -7.4,
       "treffer": [
-        "airstrike"
+        "missile"
       ],
-      "domain": "channelafrica.co.za",
-      "url": "https://www.channelafrica.co.za/channelafrica/news/airstrikes-hit-northern-ethiopia-as-govt-rebels-clash-sources/"
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/tensions-between-russia-nato-keep-escalating-france-now-tested-updated-nuclear-missile-3808274"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.2,
+      "tonalitaet": -7.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/10/06/talks-with-us-meaningless-iran-president/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "thenews.com.pk",
-      "url": "https://www.thenews.com.pk/latest/1418894-south-korea-orders-emergency-probe-after-ai-powered-cyberattacks-target-major-banks"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/us-warns-foreign-financial-institutions-not-to-do-business-with-iran/"
+      "domain": "newsweek.com",
+      "url": "https://www.newsweek.com/judge-rebukes-ice-agents-for-falsifying-records-after-wrongful-arrest-12528676"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -7.0,
       "treffer": [
-        "hormuz",
+        "red sea",
+        "refinery"
+      ],
+      "domain": "themedialine.org",
+      "url": "https://themedialine.org/headlines/houthis-claim-strikes-on-riyadh-airport-aramco-refinery-as-yemen-fighting-escalates/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wcti12.com",
+      "url": "https://wcti12.com/news/nation-world/cornell-has-changed-before-hundreds-march-across-campus-demanding-sexual-assault-reform"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/europe/three-years-of-genocide-how-has-britain-s-policy-shifted-on-israel/4079746"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/903506/israel-to-attack-iran-us-sends-200-specialists-against-houthis-in-yemen-explosions-in-hormuz"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "965kvki.com",
+      "url": "https://965kvki.com/ixp/180/p/shreveport-two-home-invasions/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/european-stocks-tiptoe-higher-as-french-debt-calms-ahead-of-retail-sales/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "mynews4.com",
+      "url": "https://mynews4.com/news/nation-world/president-donald-trump-says-iran-could-take-out-la-los-angeles-san-diego-california-at-small-price-iran-war-high-gas-prices-nuclear-weapons-grand-island-nebraska-rally-backlash-gov-newsom-mayor-bass-gloria"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "albawaba.net",
+      "url": "https://www.albawaba.net/business/trump-says-canada-imposed-secret-tariffs-1638510"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/world/yemeni-army-says-100-houthis-killed-5-drones-downed-in-southwestern-taiz-province/4079225"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261006-when-diplomacy-aligns-with-the-defunct/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "state of emergency"
+      ],
+      "domain": "hudsonvalleycountry.com",
+      "url": "https://hudsonvalleycountry.com/ixp/705/p/health-state-of-emergency-ny/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "tanker"
+      ],
+      "domain": "nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-6-2026.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cincinnatisun.com",
+      "url": "http://www.cincinnatisun.com/news/279354489/mumbai-airports-restrict-cargo-shipments-on-russian-airlines"
     }
   ],
   "gkg_alter_stunden": 0.0
