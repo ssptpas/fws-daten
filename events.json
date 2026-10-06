@@ -1,84 +1,65 @@
 {
-  "erstellt_am": "2026-10-05T22:45:24",
+  "erstellt_am": "2026-10-06T09:45:28",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261005204500",
+  "gkg_stand": "20261006074500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.8,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/un-rights-council-condemns-drone-strikes-plaguing-sudan-3004781"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "neworleanssun.com",
-      "url": "http://www.neworleanssun.com/news/279353611/yemeni-govt-forces-claim-they-have-retaken-mocha-from-houthis"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "goulburnpost.com.au",
-      "url": "https://www.goulburnpost.com.au/story/9363110/yemeni-government-forces-drive-houthis-from-key-strait/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "examiner.com.au",
-      "url": "https://www.examiner.com.au/story/9363110/yemeni-government-forces-drive-houthis-from-key-strait/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -5.7,
+      "tonalitaet": -7.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cbs4local.com",
-      "url": "https://cbs4local.com/news/nation-world/cornell-police-seek-suspects-after-day-hall-vandalism-amid-chi-phi-rape-probe-tensions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "internazionale.it",
-      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/05/exclusive-cuba-and-us-maintain-channels-of-communication-but-no-negotiations-diplomat-says"
+      "domain": "pan.am",
+      "url": "https://www.pan.am/en/625992"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
+      "tonalitaet": -7.3,
       "treffer": [
-        "missile"
+        "airstrike"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/defence/news/when-indias-anti-satellite-missile-test-in-space-in-2019-caught-us-intelligence-agencies-off-guard/articleshow/134716715.cms"
+      "domain": "channelafrica.co.za",
+      "url": "https://www.channelafrica.co.za/channelafrica/news/airstrikes-hit-northern-ethiopia-as-govt-rebels-clash-sources/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -7.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "econotimes.com",
-      "url": "http://www.econotimes.com/US-Treasury-Drops-Crypto-Wallet-Tracking-Plan-1753990"
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/10/06/talks-with-us-meaningless-iran-president/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "thenews.com.pk",
+      "url": "https://www.thenews.com.pk/latest/1418894-south-korea-orders-emergency-probe-after-ai-powered-cyberattacks-target-major-banks"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/us-warns-foreign-financial-institutions-not-to-do-business-with-iran/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/903506/israel-to-attack-iran-us-sends-200-specialists-against-houthis-in-yemen-explosions-in-hormuz"
     }
   ],
   "gkg_alter_stunden": 0.0
