@@ -1,192 +1,74 @@
 {
-  "erstellt_am": "2026-10-06T22:45:26",
+  "erstellt_am": "2026-10-07T09:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261006204500",
+  "gkg_stand": "20261007074500",
   "veraltet": false,
-  "anzahl": 20,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -13.2,
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "eastbaytimes.com",
-      "url": "https://www.eastbaytimes.com/2026/10/06/two-charged-with-kidnapping-shooting-in-concord-home-invasion-robbery/"
+      "domain": "venezuelastar.com",
+      "url": "http://www.venezuelastar.com/news/279356108/which-way-is-peace"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.5,
+      "kategorie": "Breite",
+      "tonalitaet": -5.2,
       "treffer": [
-        "invasion"
+        "cyberattack"
       ],
-      "domain": "nbcwashington.com",
-      "url": "https://www.nbcwashington.com/news/local/young-people-arrested-in-armed-home-invasions-in-northeast-dc/4163905/"
+      "domain": "news.tuoitre.vn",
+      "url": "https://news.tuoitre.vn/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks-103261007110400162.htm"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.9,
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "wjla.com",
-      "url": "https://wjla.com/news/local/dc-police-to-give-update-on-pair-of-violent-home-invasions"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "antiwar.com",
-      "url": "https://news.antiwar.com/2026/10/06/saudi-airstrike-in-yemen-kills-family-of-six-including-four-young-children-health-ministry/"
+      "domain": "erienewsnow.com",
+      "url": "https://www.erienewsnow.com/news/harrisburg/cornell-students-host-town-hall-as-assault-case-conversations-continue/article_1e99e6d5-f6ba-5d5c-8618-e01b85819ad8.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
+      "tonalitaet": -4.3,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "suez"
       ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279355075/3-iranians-accused-of-spying-on-uk-journalists-for-iran"
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/opinions-analysis/article/b1exl4mjzx"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "arynews.tv",
-      "url": "https://arynews.tv/school-protests-sweeping-france-cause-heaviest-toll-in-decades"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279355326/nato-nation-decries-drone-strikes-on-merchant-vessels-off-its-coast"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "spokesman.com",
-      "url": "https://www.spokesman.com/stories/2026/oct/06/war-in-ukraine-escalates-with-drone-strikes-on-car/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "cnynews.com",
-      "url": "https://cnynews.com/ixp/81/p/arrests-made-schoharie-county-animal-abuse/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/what-would-it-take-for-the-yemen-offensive-to-succeed/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "navytimes.com",
-      "url": "https://www.navytimes.com/news/your-navy/2026/10/06/uss-dwight-d-eisenhower-returns-to-port-after-aircraft-mishap/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.2,
       "treffer": [
+        "insolvency"
+      ],
+      "domain": "actmedia.eu",
+      "url": "https://actmedia.eu/companies/over-4-782-companies-sole-traders-go-into-insolvency-in-romania-eight-months-into-2026/122001"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "red sea",
         "tanker"
       ],
-      "domain": "straitstimes.com",
-      "url": "https://www.straitstimes.com/asia/russia-says-tanker-crew-rescued-in-black-sea-after-attack-set-ship-ablaze"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/uk-considers-expelling-israeli-diplomats-if-jerusalem-consulate-shuts-sources-say/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wjla.com",
-      "url": "https://wjla.com/news/nation-world/ukraine-takes-aim-at-russias-oil-industry-with-frontline-gains-elusive"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wchstv.com",
-      "url": "https://wchstv.com/news/nation-world/ukraine-takes-aim-at-russias-oil-industry-with-frontline-gains-elusive"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/mexico-cancun-tourist-police-smuggling-2026/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "english.pravda.ru",
-      "url": "https://english.pravda.ru/world/169660-china-c919-tech-blockade/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279355212/irans-next-move-could-leave-the-middle-east-looking-for-the-bomb"
+      "domain": "asiabulletin.com",
+      "url": "http://www.asiabulletin.com/news/279355914/centcom-rejects-iranian-media-claims-of-us-navy-helicopter-crashing-in-red-sea"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.5,
       "treffer": [
-        "red sea"
+        "mandeb"
       ],
-      "domain": "iheart.com",
-      "url": "https://jamn1075.iheart.com/content/2026-10-06-fuel-prices-continue-decline/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clevelandjewishnews.com",
-      "url": "https://www.clevelandjewishnews.com/jta/israelis-don-t-lose-sleep-over-mamdani-why-is-netanyahu-focused-on-him/article_cf7cfe6e-9d21-5355-b556-fc57b87fdea9.html"
+      "domain": "cna.org.cy",
+      "url": "https://www.cna.org.cy/image-gallery?storyid=10990234"
     }
   ],
   "gkg_alter_stunden": 0.0
