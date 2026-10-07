@@ -1,75 +1,10 @@
 {
-  "erstellt_am": "2026-10-07T09:45:24",
+  "erstellt_am": "2026-10-07T14:45:41",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261007074500",
-  "veraltet": false,
-  "anzahl": 7,
-  "ereignisse": [
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "venezuelastar.com",
-      "url": "http://www.venezuelastar.com/news/279356108/which-way-is-peace"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "news.tuoitre.vn",
-      "url": "https://news.tuoitre.vn/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks-103261007110400162.htm"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "erienewsnow.com",
-      "url": "https://www.erienewsnow.com/news/harrisburg/cornell-students-host-town-hall-as-assault-case-conversations-continue/article_1e99e6d5-f6ba-5d5c-8618-e01b85819ad8.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "suez"
-      ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/opinions-analysis/article/b1exl4mjzx"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "actmedia.eu",
-      "url": "https://actmedia.eu/companies/over-4-782-companies-sole-traders-go-into-insolvency-in-romania-eight-months-into-2026/122001"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea",
-        "tanker"
-      ],
-      "domain": "asiabulletin.com",
-      "url": "http://www.asiabulletin.com/news/279355914/centcom-rejects-iranian-media-claims-of-us-navy-helicopter-crashing-in-red-sea"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "cna.org.cy",
-      "url": "https://www.cna.org.cy/image-gallery?storyid=10990234"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }
