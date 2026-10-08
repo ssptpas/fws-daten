@@ -1,132 +1,186 @@
 {
-  "erstellt_am": "2026-10-08T14:45:37",
+  "erstellt_am": "2026-10-08T22:45:48",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261008124500",
+  "gkg_stand": "20261008204500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 19,
   "ereignisse": [
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -10.9,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "dailymirror.lk",
-      "url": "https://www.dailymirror.lk/breaking-news/Not-political-revenge-Bimal-tables-50-corruption-fraud-and-criminal-cases-in-Parliament/108-352101"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "newsandstar.co.uk",
-      "url": "https://www.newsandstar.co.uk/news/national/26619162.explosions-heard-saudi-capital-riyadh-airport-reported-closed/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/10/navy-uncovers-40000-litres-of-suspected-crude-oil-in-delta/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/business/2026/10/08/explosions-are-heard-in-the-saudi-capital-as-riyadh-airport-is-reported-closed"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/houthi-missile-attack-on-riyadh-airport-smoke-seen-over-king-khalid-as-saudi-arabia-reports-3-dead-36-injured-article-14047816.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "nuclear threat"
-      ],
-      "domain": "elciudadano.com",
-      "url": "https://www.elciudadano.com/en/guams-military-build-up-environmental-damage-and-social-impacts-on-its-chamorro-population/10/08/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/mid-east/syria-mulls-military-aid-to-saudi-arabia-as-houthis-escalate-war"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "dailymirror.lk",
-      "url": "https://www.dailymirror.lk/breaking-news/Is-the-Govt-trapped-within-its-anti-corruption-drive/172-352072"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -8.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/opinion/op-ed/spains-election-european-failures-and-sanchezs-calculation"
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/342333"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "townhall.com",
+      "url": "https://townhall.com/news/dmitri-bolt/2026/10/08/rubio-amnesty-international-n2684343"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "aps.dz",
+      "url": "https://www.aps.dz:443/en/algeria/national-news/muzw6pmj-algerian-woman-killed-in-missile-attack-on-abha-international-airport-in-saudi-arabia"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279360374/mep-blasts-euro-gestapo-for-lecturing-russia-on-democracy"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -6.5,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "wgauradio.com",
+      "url": "https://www.wgauradio.com/news/world/explosions-are-heard/LNBJ7HTP4I6P3DV4Q64LDJYF2I/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "stratford-herald.com",
+      "url": "https://www.stratford-herald.com/national/45-serving-officers-suspended-over-allegations-of-violence-against-females-172721/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bostonherald.com",
+      "url": "https://www.bostonherald.com/2026/10/08/russian-strike-ukrainian-public-buses/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "srilankasource.com",
+      "url": "http://www.srilankasource.com/news/279360504/houthis-strike-saudi-airports-after-final-warning"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "bostonherald.com",
+      "url": "https://www.bostonherald.com/2026/10/08/us-invasion-afghanistan-25-years/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wgauradio.com",
+      "url": "https://www.wgauradio.com/news/business/media-attorneys-ask/7ZUVGQ37F453NOSEEOI7IAB7EY/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailyecho.co.uk",
+      "url": "https://www.dailyecho.co.uk/news/national/26620770.45-serving-officers-suspended-allegations-violence-females/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/us/2026/10/08/un-sudan-arms-embargo/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "marinelink.com",
+      "url": "https://www.marinelink.com/news/iran-close-hormuz-routes-risk-tanker-543573"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "hrw.org",
+      "url": "https://www.hrw.org/news/2026/10/08/airstrike-damages-hospital-in-central-ukraine"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
       "treffer": [
         "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279359550/us-reports-81-us-aircraft-lost-or-damaged-in-iran-war"
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/Business/gas-prices-high-traffic-improves-strait-hormuz/story?id=137064093"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/342317"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.6,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/viromissile-appoints-diane-simeone-md-and-matt-mulvey-phd-as-advisors/2441735"
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/342328"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.2,
       "treffer": [
         "red sea"
       ],
       "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/10/08/ethiopia-and-eritrea-edge-closer-to-direct-conflict-as-troops-enter-tigray/"
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/08/saudi-led-coalition-vows-to-punish-houthis-after-attacks-on-airports-and-civilian-facilities/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.1,
       "treffer": [
-        "sanctions"
+        "state of emergency"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-relations-trump-manufacturing-overcapacity-section-301-investigation-gtri/articleshow/134789140.cms"
+      "domain": "crestviewbulletin.com",
+      "url": "https://crestviewbulletin.com/okaloosa-county-declares-state-of-emergency-ahead-of-isaias/"
     }
   ],
   "gkg_alter_stunden": 0.0
