@@ -1,10 +1,133 @@
 {
-  "erstellt_am": "2026-10-08T09:45:29",
+  "erstellt_am": "2026-10-08T14:45:37",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": false,
-  "gkg_stand": null,
-  "veraltet": null,
-  "anzahl": 0,
-  "ereignisse": [],
-  "fehler": "HTTP Error 404: Not Found"
+  "gdelt_verfuegbar": true,
+  "gkg_stand": "20261008124500",
+  "veraltet": false,
+  "anzahl": 13,
+  "ereignisse": [
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -10.9,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "dailymirror.lk",
+      "url": "https://www.dailymirror.lk/breaking-news/Not-political-revenge-Bimal-tables-50-corruption-fraud-and-criminal-cases-in-Parliament/108-352101"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "newsandstar.co.uk",
+      "url": "https://www.newsandstar.co.uk/news/national/26619162.explosions-heard-saudi-capital-riyadh-airport-reported-closed/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/10/navy-uncovers-40000-litres-of-suspected-crude-oil-in-delta/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/business/2026/10/08/explosions-are-heard-in-the-saudi-capital-as-riyadh-airport-is-reported-closed"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/houthi-missile-attack-on-riyadh-airport-smoke-seen-over-king-khalid-as-saudi-arabia-reports-3-dead-36-injured-article-14047816.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "nuclear threat"
+      ],
+      "domain": "elciudadano.com",
+      "url": "https://www.elciudadano.com/en/guams-military-build-up-environmental-damage-and-social-impacts-on-its-chamorro-population/10/08/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/mid-east/syria-mulls-military-aid-to-saudi-arabia-as-houthis-escalate-war"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "dailymirror.lk",
+      "url": "https://www.dailymirror.lk/breaking-news/Is-the-Govt-trapped-within-its-anti-corruption-drive/172-352072"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/opinion/op-ed/spains-election-european-failures-and-sanchezs-calculation"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "hormuz",
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279359550/us-reports-81-us-aircraft-lost-or-damaged-in-iran-war"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/viromissile-appoints-diane-simeone-md-and-matt-mulvey-phd-as-advisors/2441735"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/08/ethiopia-and-eritrea-edge-closer-to-direct-conflict-as-troops-enter-tigray/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-relations-trump-manufacturing-overcapacity-section-301-investigation-gtri/articleshow/134789140.cms"
+    }
+  ],
+  "gkg_alter_stunden": 0.0
 }
