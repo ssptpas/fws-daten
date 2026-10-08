@@ -1,66 +1,10 @@
 {
-  "erstellt_am": "2026-10-07T22:45:32",
+  "erstellt_am": "2026-10-08T09:45:29",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261007204500",
-  "veraltet": false,
-  "anzahl": 6,
-  "ereignisse": [
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/cornell-students-seven-hour-sit-sexual-assault-case-1824332"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/attacks-on-tankers-in-hormuz-hit-highest-of-any-week-since-start-of-iran-war-sources-say-3005180"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/10/exclusive-lebanons-hezbollah-gets-200-million-iran-help-displaced-sources-say"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wdio.com",
-      "url": "https://www.wdio.com/ap-top-news/senators-push-the-trump-administration-to-act-swiftly-on-russian-sanctions-to-help-ukraine/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "zerohedge.com",
-      "url": "http://www.zerohedge.com/geopolitical/putin-praises-irans-courage-us-gloats-over-oil-blockade-zero-exports"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thelocal.fr",
-      "url": "https://www.thelocal.fr/20261005/france-to-suspend-driving-licences-of-motorists-caught-on-phones/"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }
