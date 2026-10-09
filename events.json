@@ -1,84 +1,46 @@
 {
-  "erstellt_am": "2026-10-09T09:45:23",
+  "erstellt_am": "2026-10-09T14:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261009074500",
+  "gkg_stand": "20261009124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 4,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -12.9,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/cis-countries/ukraine-launches-drone-strikes-on-russias-belgorod-and-kaluga-regions-casualties-reported-529039"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "themedialine.org",
-      "url": "https://themedialine.org/headlines/president-trump-rules-out-iran-strikes-before-november-elections-citing-progress-in-talks/"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/asia/tankers-reportedly-hit-mines-in-strait-of-hormuz-529037"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -9.2,
       "treffer": [
         "refinery"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/cis-countries/major-oil-refinery-in-komi-hit-by-drone-attack-529064"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "lebanondemocrat.com",
-      "url": "https://www.lebanondemocrat.com/hartsville/news/national/ossoff-collins-debate-healthcare-tariffs-gas-prices/article_dc0aadf6-a6bf-5883-8437-3f1385a61db9.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "guernseypress.com",
-      "url": "https://guernseypress.com/news/2026/10/09/snowdon-claims-suspension-is-politically-motivated-move"
+      "domain": "khqa.com",
+      "url": "https://www.khqa.com/news/nation-world/2-workers-seriously-injured-in-an-explosion-at-oil-refinery-near-athens-officials-say/article_a9ae09ae-75e1-50ea-96bf-bca84cccd2ae.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "tradearabia.com",
-      "url": "https://tradearabia.com:443/News/487738/Saudi-Arabia-intercepts-three-ballistic-missiles-launched-by-Houthis/MISC"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.3,
+      "tonalitaet": -4.3,
       "treffer": [
         "missile"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/america/pentagon-signs-63-billion-missile-contract-with-raytheon-529001"
+      "domain": "newsroomamerica.com",
+      "url": "https://newsroomamerica.com/?before=113674"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "postandcourier.com",
+      "url": "https://www.postandcourier.com/columbia/news/elder-abuse-countrywood-sterling-healthcare-appeal/article_9240af84-ed4e-4b5f-b4d6-796c513dc3af.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "rri.ro",
+      "url": "https://www.rri.ro/en/news-and-current-affairs/today-in-the-news/the-national-bank-of-romanian-maintains-reference-interest-rate-id1069193.html"
     }
   ],
   "gkg_alter_stunden": 0.0
