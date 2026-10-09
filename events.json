@@ -1,150 +1,56 @@
 {
-  "erstellt_am": "2026-10-08T22:45:48",
+  "erstellt_am": "2026-10-09T09:45:23",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261008204500",
+  "gkg_stand": "20261009074500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/342333"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "townhall.com",
-      "url": "https://townhall.com/news/dmitri-bolt/2026/10/08/rubio-amnesty-international-n2684343"
-    },
-    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.3,
+      "tonalitaet": -12.9,
       "treffer": [
-        "missile"
+        "drone strike"
       ],
-      "domain": "aps.dz",
-      "url": "https://www.aps.dz:443/en/algeria/national-news/muzw6pmj-algerian-woman-killed-in-missile-attack-on-abha-international-airport-in-saudi-arabia"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/cis-countries/ukraine-launches-drone-strikes-on-russias-belgorod-and-kaluga-regions-casualties-reported-529039"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.2,
+      "tonalitaet": -5.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279360374/mep-blasts-euro-gestapo-for-lecturing-russia-on-democracy"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wgauradio.com",
-      "url": "https://www.wgauradio.com/news/world/explosions-are-heard/LNBJ7HTP4I6P3DV4Q64LDJYF2I/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "stratford-herald.com",
-      "url": "https://www.stratford-herald.com/national/45-serving-officers-suspended-over-allegations-of-violence-against-females-172721/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/10/08/russian-strike-ukrainian-public-buses/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "srilankasource.com",
-      "url": "http://www.srilankasource.com/news/279360504/houthis-strike-saudi-airports-after-final-warning"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "bostonherald.com",
-      "url": "https://www.bostonherald.com/2026/10/08/us-invasion-afghanistan-25-years/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wgauradio.com",
-      "url": "https://www.wgauradio.com/news/business/media-attorneys-ask/7ZUVGQ37F453NOSEEOI7IAB7EY/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailyecho.co.uk",
-      "url": "https://www.dailyecho.co.uk/news/national/26620770.45-serving-officers-suspended-allegations-violence-females/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/us/2026/10/08/un-sudan-arms-embargo/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "marinelink.com",
-      "url": "https://www.marinelink.com/news/iran-close-hormuz-routes-risk-tanker-543573"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "hrw.org",
-      "url": "https://www.hrw.org/news/2026/10/08/airstrike-damages-hospital-in-central-ukraine"
+      "domain": "themedialine.org",
+      "url": "https://themedialine.org/headlines/president-trump-rules-out-iran-strikes-before-november-elections-citing-progress-in-talks/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.0,
       "treffer": [
         "hormuz",
-        "mandeb",
-        "red sea"
+        "tanker"
       ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/Business/gas-prices-high-traffic-improves-strait-hormuz/story?id=137064093"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/asia/tankers-reportedly-hit-mines-in-strait-of-hormuz-529037"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/cis-countries/major-oil-refinery-in-komi-hit-by-drone-attack-529064"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "lebanondemocrat.com",
+      "url": "https://www.lebanondemocrat.com/hartsville/news/national/ossoff-collins-debate-healthcare-tariffs-gas-prices/article_dc0aadf6-a6bf-5883-8437-3f1385a61db9.html"
     },
     {
       "kategorie": "Policy",
@@ -152,35 +58,27 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/342317"
+      "domain": "guernseypress.com",
+      "url": "https://guernseypress.com/news/2026/10/09/snowdon-claims-suspension-is-politically-motivated-move"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
       "treffer": [
-        "sanctions"
+        "missile",
+        "ballistic"
       ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/342328"
+      "domain": "tradearabia.com",
+      "url": "https://tradearabia.com:443/News/487738/Saudi-Arabia-intercepts-three-ballistic-missiles-launched-by-Houthis/MISC"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.3,
       "treffer": [
-        "red sea"
+        "missile"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/10/08/saudi-led-coalition-vows-to-punish-houthis-after-attacks-on-airports-and-civilian-facilities/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "crestviewbulletin.com",
-      "url": "https://crestviewbulletin.com/okaloosa-county-declares-state-of-emergency-ahead-of-isaias/"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/america/pentagon-signs-63-billion-missile-contract-with-raytheon-529001"
     }
   ],
   "gkg_alter_stunden": 0.0
