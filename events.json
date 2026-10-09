@@ -1,46 +1,173 @@
 {
-  "erstellt_am": "2026-10-09T14:45:31",
+  "erstellt_am": "2026-10-09T22:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261009124500",
+  "gkg_stand": "20261009204500",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 18,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.2,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "khqa.com",
-      "url": "https://www.khqa.com/news/nation-world/2-workers-seriously-injured-in-an-explosion-at-oil-refinery-near-athens-officials-say/article_a9ae09ae-75e1-50ea-96bf-bca84cccd2ae.html"
-    },
-    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
+      "tonalitaet": -9.5,
       "treffer": [
-        "missile"
+        "drone strike"
       ],
-      "domain": "newsroomamerica.com",
-      "url": "https://newsroomamerica.com/?before=113674"
+      "domain": "dabangasudan.org",
+      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-and-deadly-explosions-kill-scores-of-civilians-across-sudan"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -9.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "postandcourier.com",
-      "url": "https://www.postandcourier.com/columbia/news/elder-abuse-countrywood-sterling-healthcare-appeal/article_9240af84-ed4e-4b5f-b4d6-796c513dc3af.html"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/world/amnesty-international-urges-states-to-resist-us-sanctions-targeting-icc/4083971"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.3,
+      "kategorie": "Policy",
+      "tonalitaet": -9.4,
       "treffer": [
-        "central bank"
+        "state of emergency"
       ],
-      "domain": "rri.ro",
-      "url": "https://www.rri.ro/en/news-and-current-affairs/today-in-the-news/the-national-bank-of-romanian-maintains-reference-interest-rate-id1069193.html"
+      "domain": "iheart.com",
+      "url": "https://1055online.iheart.com/content/2026-10-09-desantis-expands-state-of-emergency-as-hurricane-isaias-threatens-florida/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -9.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777971/US-Trump-Israel-ICC-Navi-Pillay"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777969/Yemeni-Foreign-Ministry--Saudi-Arabia-understands-only-language-of-force"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.8,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "wxow.com",
+      "url": "https://www.wxow.com/news/2-workers-seriously-injured-in-an-explosion-at-oil-refinery-near-athens-officials-say/article_56a30ede-b3f0-5c1d-8405-62d083e3178b.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-six-northeast-lebanon-near-syrian-border"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "radaronline.com",
+      "url": "https://radaronline.com/p/cornell-7-student-jonathan-newell-booted-from-florida-campus-nova-sourtheastern/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/world/us-sanctions-on-icc-brash-attempt-to-dismantle-international-legal-system-un-experts/4083944"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "breitbart.com",
+      "url": "https://www.breitbart.com/middle-east/2026/10/09/irans-missing-supreme-leader-hails-regime-thugs-in-written-message/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777957/Iran-IRGC-Navy-Hormuz"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "wsbradio.com",
+      "url": "https://www.wsbradio.com/news/world/saudi-authorities/NG4BYBTKQ4Z7BHJXJV6NJ75CXA/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "zerohedge.com",
+      "url": "http://www.zerohedge.com/energy/treasury-hits-remaining-shadow-fleet-shipping-iranian-oil-asia-new-sanctions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nbclosangeles.com",
+      "url": "https://www.nbclosangeles.com/news/national-international/trump-putin-russia-diesel-global-market/3953759/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "stratford-herald.com",
+      "url": "https://www.stratford-herald.com/national/uk-and-allies-back-international-criminal-court-over-us-sanctions-172764/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/world/dutch-premier-vows-to-do-whatever-is-needed-to-defend-icc-amid-announced-us-sanctions/4083912"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777958/Navi-Pillay-Gaza-Israel-Trump"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/israeli-drone-strike-injures-6-in-eastern-lebanon-as-attacks-continue-despite-framework-deal/4083655"
     }
   ],
   "gkg_alter_stunden": 0.0
