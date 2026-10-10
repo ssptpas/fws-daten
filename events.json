@@ -1,28 +1,28 @@
 {
-  "erstellt_am": "2026-10-10T14:45:27",
+  "erstellt_am": "2026-10-10T22:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261010124500",
+  "gkg_stand": "20261010204500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -16.1,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.8,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "ksmu.org",
-      "url": "https://www.ksmu.org/2026-10-10/u-s-imposes-sweeping-sanctions-on-international-criminal-court"
+      "domain": "dailypakistan.com.pk",
+      "url": "https://en.dailypakistan.com.pk/10-Oct-2026/riyadh-airport-suspends-flight-operation-after-fresh-missile-attack"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.1,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "ktbb.com",
-      "url": "https://ktbb.com/post/?p=1548494"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/supertanker-explodes-after-striking-mine-in-strait-of-hormuz-irans-revolutionary-guards-say/4084743"
     },
     {
       "kategorie": "Policy",
@@ -30,80 +30,117 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailyadvertiser.com.au",
-      "url": "https://www.dailyadvertiser.com.au/story/9366062/russian-attack-on-ukrainian-city-kills-12-after-us-move/"
+      "domain": "ludlowadvertiser.co.uk",
+      "url": "https://www.ludlowadvertiser.co.uk/news/national/26625655.trump-says-ukraine-needs-new-president-blames-zelensky-diesel-prices/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
       "tonalitaet": -5.9,
       "treffer": [
-        "drone strike"
+        "sanctions"
       ],
-      "domain": "thegazette.com",
-      "url": "http://www.thegazette.com/news/national/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift-and-other-mideast/article_7b27d5a2-d375-5c38-8c54-77ce97a257a6.html"
+      "domain": "goulburnpost.com.au",
+      "url": "https://www.goulburnpost.com.au/story/9366083/death-toll-from-attack-on-zaporizhzhia-rises-to-20/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
       "treffer": [
-        "drone strike"
+        "sanctions"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11209505/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift-and-other-mideast-developments.html"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/ghana-tier-1-us-trafficking-report-2026/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/deadly-russian-attack-levels-apartment-building-ukraine-killing/story?id=137160086"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279364642/kremlin-says-putin-shows-understanding-of-us-proposals-to-ease-ukraine-tensions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279364186/ukraine-should-elect-new-presidenttrump"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/israel-news/article-911248"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wlwt.com",
+      "url": "https://www.wlwt.com/article/trump-says-ukraine-should-get-a-new-president-as-he-blames-zelenskyy-for-us-diesel-prices-russia-war/74099374"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -4.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence"
+      "domain": "rhyljournal.co.uk",
+      "url": "https://www.rhyljournal.co.uk/news/national/26625435.many-wounded-missile-strikes-terminal-riyadh-airport/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/world/article-ukraine-russia-war-zaporizhzhia-trump-diesel-deal/"
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/opinion/article-911080"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/djibouti-tier-2-us-trafficking-report-2026/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thegazette.com",
-      "url": "http://www.thegazette.com/news/world/russian-attacks-kill-15-in-ukraine-after-trump-strikes-diesel-deal-with-putin/article_5aca6ea8-ab52-56fc-8b2b-0b5a1abd83d1.html"
+      "domain": "crossmap.com",
+      "url": "https://news.crossmap.com/2026/10/10/pastor-arrested-during-prayer-protest-outside-chinese-embassy-a-sad-day-in-america/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -3.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thewestmorlandgazette.co.uk",
-      "url": "https://www.thewestmorlandgazette.co.uk/news/national/26624922.russian-attacks-kill-15-ukraine-trump-strikes-diesel-deal-putin/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wokv.com",
-      "url": "https://www.wokv.com/news/world/russian-attacks-kill/XSPEPY6LS43MFC3D6D6ZCLRD5U/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/3-more-govt-employees-held-for-rs-9-24cr-embezzlement-no-of-arrests-goes-up-to-9/articleshow/134853825.cms"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/algeria-former-algiers-mayor-bettache-fraud-trial-2026/"
     }
   ],
   "gkg_alter_stunden": 0.0
