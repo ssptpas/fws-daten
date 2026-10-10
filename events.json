@@ -1,73 +1,28 @@
 {
-  "erstellt_am": "2026-10-09T22:45:29",
+  "erstellt_am": "2026-10-10T09:45:21",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261009204500",
+  "gkg_stand": "20261010074500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.5,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "dabangasudan.org",
-      "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-and-deadly-explosions-kill-scores-of-civilians-across-sudan"
-    },
-    {
       "kategorie": "Policy",
       "tonalitaet": -9.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/amnesty-international-urges-states-to-resist-us-sanctions-targeting-icc/4083971"
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20261010/4509222.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.4,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "iheart.com",
-      "url": "https://1055online.iheart.com/content/2026-10-09-desantis-expands-state-of-emergency-as-hurricane-isaias-threatens-florida/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -9.2,
+      "tonalitaet": -9.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777971/US-Trump-Israel-ICC-Navi-Pillay"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777969/Yemeni-Foreign-Ministry--Saudi-Arabia-understands-only-language-of-force"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.8,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "wxow.com",
-      "url": "https://www.wxow.com/news/2-workers-seriously-injured-in-an-explosion-at-oil-refinery-near-athens-officials-say/article_56a30ede-b3f0-5c1d-8405-62d083e3178b.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-six-northeast-lebanon-near-syrian-border"
+      "domain": "indiagazette.com",
+      "url": "http://www.indiagazette.com/news/279363229/trying-to-hold-delhi-hostage-bjp-jagdambika-pal-accuses-cjp-of-creating-anarchy"
     },
     {
       "kategorie": "Policy",
@@ -75,35 +30,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "radaronline.com",
-      "url": "https://radaronline.com/p/cornell-7-student-jonathan-newell-booted-from-florida-campus-nova-sourtheastern/"
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/russian-attacks-kill-7-in-ukraine-after-trump-strikes-diesel-deal-with-putin,177671"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -5.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/us-sanctions-on-icc-brash-attempt-to-dismantle-international-legal-system-un-experts/4083944"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/middle-east/2026/10/09/irans-missing-supreme-leader-hails-regime-thugs-in-written-message/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777957/Iran-IRGC-Navy-Hormuz"
+      "domain": "freepressjournal.in",
+      "url": "https://www.freepressjournal.in/education/muthanga-agitation-case-kerala-govt-sanctions-125-lakh-compensation-to-teacher-after-23-year-fight-for-justice-over-alleged-custodial-torture"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -112,62 +49,62 @@
         "mandeb",
         "red sea"
       ],
-      "domain": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/world/saudi-authorities/NG4BYBTKQ4Z7BHJXJV6NJ75CXA/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "zerohedge.com",
-      "url": "http://www.zerohedge.com/energy/treasury-hits-remaining-shadow-fleet-shipping-iranian-oil-asia-new-sanctions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nbclosangeles.com",
-      "url": "https://www.nbclosangeles.com/news/national-international/trump-putin-russia-diesel-global-market/3953759/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "stratford-herald.com",
-      "url": "https://www.stratford-herald.com/national/uk-and-allies-back-international-criminal-court-over-us-sanctions-172764/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/world/dutch-premier-vows-to-do-whatever-is-needed-to-defend-icc-amid-announced-us-sanctions/4083912"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/10/09/777958/Navi-Pillay-Gaza-Israel-Trump"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.0,
+      "tonalitaet": -5.2,
       "treffer": [
-        "drone strike"
+        "nuclear weapon"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/israeli-drone-strike-injures-6-in-eastern-lebanon-as-attacks-continue-despite-framework-deal/4083655"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/india/nuclear-weapons-not-routine-instruments-of-statecraft-indias-warning-to-pakistan-at-un/articleshow/134849133.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/ethiopia-tells-un-it-is-acting-in-self-defense-against-eritrea,177672"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "dailyadvance.com",
+      "url": "http://www.dailyadvance.com/news/national/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions/article_389b27a5-e138-572a-be40-312d23d08c0b.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/10/10/kacran-raises-alarm-over-mass-livestock-exodus-from-nigeria/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "heraldscotland.com",
+      "url": "https://www.heraldscotland.com/news/26623699.north-lanarkshire-councillor-challenges-ethics-watchdog-free-speech/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "thereporterethiopia.com",
+      "url": "https://www.thereporterethiopia.com/53133/"
     }
   ],
   "gkg_alter_stunden": 0.0
