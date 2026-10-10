@@ -1,28 +1,19 @@
 {
-  "erstellt_am": "2026-10-10T09:45:21",
+  "erstellt_am": "2026-10-10T14:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261010074500",
+  "gkg_stand": "20261010124500",
   "veraltet": false,
   "anzahl": 11,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.5,
+      "tonalitaet": -16.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/India/20261010/4509222.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -9.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiagazette.com",
-      "url": "http://www.indiagazette.com/news/279363229/trying-to-hold-delhi-hostage-bjp-jagdambika-pal-accuses-cjp-of-creating-anarchy"
+      "domain": "ksmu.org",
+      "url": "https://www.ksmu.org/2026-10-10/u-s-imposes-sweeping-sanctions-on-international-criminal-court"
     },
     {
       "kategorie": "Policy",
@@ -30,81 +21,89 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/russian-attacks-kill-7-in-ukraine-after-trump-strikes-diesel-deal-with-putin,177671"
+      "domain": "ktbb.com",
+      "url": "https://ktbb.com/post/?p=1548494"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.5,
+      "tonalitaet": -6.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/education/muthanga-agitation-case-kerala-govt-sanctions-125-lakh-compensation-to-teacher-after-23-year-fight-for-justice-over-alleged-custodial-torture"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise"
+      "domain": "dailyadvertiser.com.au",
+      "url": "https://www.dailyadvertiser.com.au/story/9366062/russian-attack-on-ukrainian-city-kills-12-after-us-move/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.9,
       "treffer": [
-        "nuclear weapon"
+        "drone strike"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/india/nuclear-weapons-not-routine-instruments-of-statecraft-indias-warning-to-pakistan-at-un/articleshow/134849133.cms"
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/national/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift-and-other-mideast/article_7b27d5a2-d375-5c38-8c54-77ce97a257a6.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11209505/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift-and-other-mideast-developments.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/world/article-ukraine-russia-war-zaporizhzhia-trump-diesel-deal/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/russian-attacks-kill-15-in-ukraine-after-trump-strikes-diesel-deal-with-putin/article_5aca6ea8-ab52-56fc-8b2b-0b5a1abd83d1.html"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -4.8,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/ethiopia-tells-un-it-is-acting-in-self-defense-against-eritrea,177672"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "dailyadvance.com",
-      "url": "http://www.dailyadvance.com/news/national/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions/article_389b27a5-e138-572a-be40-312d23d08c0b.html"
+      "domain": "thewestmorlandgazette.co.uk",
+      "url": "https://www.thewestmorlandgazette.co.uk/news/national/26624922.russian-attacks-kill-15-ukraine-trump-strikes-diesel-deal-putin/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/10/10/kacran-raises-alarm-over-mass-livestock-exodus-from-nigeria/"
+      "domain": "wokv.com",
+      "url": "https://www.wokv.com/news/world/russian-attacks-kill/XSPEPY6LS43MFC3D6D6ZCLRD5U/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "heraldscotland.com",
-      "url": "https://www.heraldscotland.com/news/26623699.north-lanarkshire-councillor-challenges-ethics-watchdog-free-speech/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "thereporterethiopia.com",
-      "url": "https://www.thereporterethiopia.com/53133/"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/3-more-govt-employees-held-for-rs-9-24cr-embezzlement-no-of-arrests-goes-up-to-9/articleshow/134853825.cms"
     }
   ],
   "gkg_alter_stunden": 0.0
