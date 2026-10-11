@@ -1,146 +1,56 @@
 {
-  "erstellt_am": "2026-10-10T22:45:29",
+  "erstellt_am": "2026-10-11T09:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261010204500",
+  "gkg_stand": "20261011074500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 5,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.8,
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "dailypakistan.com.pk",
-      "url": "https://en.dailypakistan.com.pk/10-Oct-2026/riyadh-airport-suspends-flight-operation-after-fresh-missile-attack"
+      "domain": "nydailynews.com",
+      "url": "https://www.nydailynews.com/2026/10/11/readers-sound-off-on-road-noise-ices-nyc-shooting-and-tps-for-ukrainians/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
+      "tonalitaet": -5.0,
       "treffer": [
         "hormuz"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/supertanker-explodes-after-striking-mine-in-strait-of-hormuz-irans-revolutionary-guards-say/4084743"
+      "domain": "greekherald.com",
+      "url": "http://www.greekherald.com/news/279364870/trump-says-iran-may-ramp-up-actions-before-midterms-hints-at-renaming-strait-of-hormuz"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -4.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ludlowadvertiser.co.uk",
-      "url": "https://www.ludlowadvertiser.co.uk/news/national/26625655.trump-says-ukraine-needs-new-president-blames-zelensky-diesel-prices/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "goulburnpost.com.au",
-      "url": "https://www.goulburnpost.com.au/story/9366083/death-toll-from-attack-on-zaporizhzhia-rises-to-20/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/ghana-tier-1-us-trafficking-report-2026/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/deadly-russian-attack-levels-apartment-building-ukraine-killing/story?id=137160086"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279364642/kremlin-says-putin-shows-understanding-of-us-proposals-to-ease-ukraine-tensions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279364186/ukraine-should-elect-new-presidenttrump"
+      "domain": "vindy.com",
+      "url": "https://www.vindy.com/opinion/editorials/2026/10/the-tyranny-of-one-mans-opinion/"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -4.2,
       "treffer": [
-        "sanctions"
+        "state of emergency"
       ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/israel-news/article-911248"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wlwt.com",
-      "url": "https://www.wlwt.com/article/trump-says-ukraine-should-get-a-new-president-as-he-blames-zelenskyy-for-us-diesel-prices-russia-war/74099374"
+      "domain": "dailyadvance.com",
+      "url": "http://www.dailyadvance.com/news/world/panama-declares-a-state-of-emergency-as-powerful-quake-aftershocks-rattle-communities/article_076ca74c-5a4f-5abb-9ff1-b17e5c4a5fb4.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "rhyljournal.co.uk",
-      "url": "https://www.rhyljournal.co.uk/news/national/26625435.many-wounded-missile-strikes-terminal-riyadh-airport/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/opinion/article-911080"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/djibouti-tier-2-us-trafficking-report-2026/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "crossmap.com",
-      "url": "https://news.crossmap.com/2026/10/10/pastor-arrested-during-prayer-protest-outside-chinese-embassy-a-sad-day-in-america/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/algeria-former-algiers-mayor-bettache-fraud-trial-2026/"
+      "domain": "watoday.com.au",
+      "url": "https://www.watoday.com.au/world/middle-east/how-a-rebel-force-held-the-world-to-ransom-in-a-single-night-of-chaos-and-panic-20261011-p613iy.html"
     }
   ],
   "gkg_alter_stunden": 0.0
