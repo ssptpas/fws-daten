@@ -1,56 +1,212 @@
 {
-  "erstellt_am": "2026-10-11T09:45:27",
+  "erstellt_am": "2026-10-11T14:45:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261011074500",
+  "gkg_stand": "20261011124500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 22,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -15.2,
       "treffer": [
-        "sanctions"
+        "mandeb"
       ],
-      "domain": "nydailynews.com",
-      "url": "https://www.nydailynews.com/2026/10/11/readers-sound-off-on-road-noise-ices-nyc-shooting-and-tps-for-ukrainians/"
+      "domain": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/cwy7lxx60dg5o"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -10.1,
       "treffer": [
-        "hormuz"
+        "red sea"
       ],
-      "domain": "greekherald.com",
-      "url": "http://www.greekherald.com/news/279364870/trump-says-iran-may-ramp-up-actions-before-midterms-hints-at-renaming-strait-of-hormuz"
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/houthis-warn-airlines-travellers-to-avoid-saudi-airports-3555802/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -8.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "vindy.com",
-      "url": "https://www.vindy.com/opinion/editorials/2026/10/the-tyranny-of-one-mans-opinion/"
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/cornell-sexual-assault-accuser-reportedly-threatened-1824876"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/over-100-killed-including-15-children-as-yemen-headed-boat-capsizes-in-red-sea/articleshow/134870205.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/houthi-attacks-on-saudi-threaten-regional-security-un-envoy-3555876/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -7.2,
       "treffer": [
-        "state of emergency"
+        "sanctions"
       ],
-      "domain": "dailyadvance.com",
-      "url": "http://www.dailyadvance.com/news/world/panama-declares-a-state-of-emergency-as-powerful-quake-aftershocks-rattle-communities/article_076ca74c-5a4f-5abb-9ff1-b17e5c4a5fb4.html"
+      "domain": "newvision.co.ug",
+      "url": "https://www.newvision.co.ug/category/world/trump-urges-zelensky-replacement-as-diesel-ro-NV_242223_102026"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16200333/migrants-dead-children-boat-capsizes-Djibouti.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/saudi-arabia-extends-airport-closure-and-moves-riyadh-schools-online-as-attack-threats-continue/article_76ed7c1a-5bc8-566a-b806-be72f017e670.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "nypost.com",
+      "url": "https://nypost.com/2026/10/11/world-news/saudi-arabia-extends-airport-closure-after-12-killed-in-suspected-houthi-terrorist-attack/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "mirror.co.uk",
+      "url": "https://www.mirror.co.uk/news/world-news/djibouti-migrant-boat-capsizes-africa-37759829"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/11/houthis-issue-new-threat-to-saudi-airspace-after-deadly-airport-attack"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "1090kaay.com",
+      "url": "https://www.1090kaay.com/2026/10/11/trumps-criticism-of-ukrainian-strikes-on-russian-oil-refineries-impacting-u-s-fuel-costs/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/11/ukraine-to-stop-refinery-strikes-when-russia-curbs-energy-attacks"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "watoday.com.au",
-      "url": "https://www.watoday.com.au/world/middle-east/how-a-rebel-force-held-the-world-to-ransom-in-a-single-night-of-chaos-and-panic-20261011-p613iy.html"
+      "domain": "newvision.co.ug",
+      "url": "https://www.newvision.co.ug/category/world/airport-strike-kills-12-saudi-coalition-vows-NV_242228_102026"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "gamerheadlines.com",
+      "url": "https://gamerheadlines.com/aion-2-account-restrictions-botting-gold-farming-rmt/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/11/israeli-army-renews-airstrikes-in-southern-lebanon-despite-us-deal"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "mirror.co.uk",
+      "url": "https://www.mirror.co.uk/news/politics/nigel-farage-reform-tariffs-trump-37759666"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "enfieldindependent.co.uk",
+      "url": "https://www.enfieldindependent.co.uk/news/national/26625978.uk-must-bring-us-ukraine-back-together-amid-diesel-deal-streeting-says/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/national/republicans-face-midterm-backlash-from-factory-workers-squeezed-out-of-jobs-by-trumps-tariffs/article_ee7f5f3b-c1c4-57f2-a07a-09cd3aa06cbc.html"
     }
   ],
   "gkg_alter_stunden": 0.0
