@@ -1,55 +1,147 @@
 {
-  "erstellt_am": "2026-10-12T09:45:27",
+  "erstellt_am": "2026-10-12T14:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261012074500",
+  "gkg_stand": "20261012124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 20,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "myanmarnews.net",
-      "url": "http://www.myanmarnews.net/news/279367894/saudi-arabia-running-low-on-interceptor-missiles-to-counter-further-houthi-strikes-reports-wsj"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "themedialine.org",
-      "url": "https://themedialine.org/headlines/saudi-arabia-running-low-on-interceptor-missiles-iran-offers-to-mediate-houthi-conflict/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -7.2,
+      "tonalitaet": -9.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kten.com",
-      "url": "https://www.kten.com/news/politics/russia-deal-execution-plans-and-deportations-tell-a-defining-tale-about-trump-and-power/article_04a4d98a-df35-5cc9-91aa-0d87bbb6fe4d.html"
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11214608/eu-imposes-sanctions-on-almost-1600-russians-and-companies-linked-to-russian-arms-industry.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/323047-eu-adopts-nearly-1-600-new-sanctions-listings-targeting-russian-war-industry"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "tert.am",
+      "url": "https://tert.am/en/news/2026/10/12/Kaja%20Kallas/4286603"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "britainnews.net",
+      "url": "http://www.britainnews.net/news/279368076/indian-high-commission-protest-case-delhi-court-charges-inderpal-singh-gaba-under-uapa-in-pro-khalistan-protest-at-indian-high-commission-london"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "edenmagnet.com.au",
+      "url": "https://www.edenmagnet.com.au/story/9367201/eu-sanctions-1600-russians-firms-linked-to-war-effort/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.9,
+      "tonalitaet": -6.5,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "jacarandafm.com",
-      "url": "https://www.jacarandafm.com/news/news/riyadh-airport-hit-by-fresh-houthi-strike-day/"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/323044-riyadh-airport-hit-by-fresh-houthi-strike-day-after-deadly-attack"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/oct/12/terminal-at-saudi-airport-struck-again/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wcbe.org",
+      "url": "https://www.wcbe.org/2026-10-12/trump-touts-energy-ceasefire-after-urging-ukrainians-to-ditch-zelenskyy"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.4,
+      "tonalitaet": -5.7,
       "treffer": [
         "missile"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16201555/smartraveller-advice-saudi-arabia-missile-attacks.html"
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/business/2026/10/12/eu-sanctions-nearly-1600-russian-people-and-firms-linked-to-drone-and-missile-parts/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/world/2026/10/12/airstrikes-on-yemens-capital-drone-hits-vessel-in-strait-of-hormuz-and-other-mideast-developments/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/oct/12/at-least-139-die-after-boat-capsizes-near-djibouti/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "freemuse.org",
+      "url": "https://www.freemuse.org/sub-saharan-africa-artistic-freedom-between-reform-and-repression"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/region/265421.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sofiaglobe.com",
+      "url": "https://sofiaglobe.com/2026/10/12/eu-sanctions-77-individuals-over-illegal-russian-state-duma-elections-in-temporarily-occupied-territories-of-ukraine/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "air strike"
+      ],
+      "domain": "newhamrecorder.co.uk",
+      "url": "https://www.newhamrecorder.co.uk/news/national/26627473.saudi-arabia-behind-air-strikes-yemens-capital-houthi-officials-say/"
     },
     {
       "kategorie": "Policy",
@@ -57,26 +149,45 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ghanamma.com",
-      "url": "https://www.ghanamma.com/2026/10/12/us-imposes-sanctions-on-icc-hours-after-former-judge-wins-nobel-peace-prize/"
+      "domain": "sofiaglobe.com",
+      "url": "https://sofiaglobe.com/2026/10/12/eu-agrees-largest-ever-package-of-sanctions-targeting-almost-1600-individuals-entities-in-russias-military-industrial-complex/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "albawaba.net",
+      "url": "https://www.albawaba.net/news/tanker-carrying-750000-barrels-oil-hits-1638891"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "lahainanews.com",
-      "url": "https://www.lahainanews.com/wire/?category=5041&ID=400276"
+      "domain": "albawaba.net",
+      "url": "https://www.albawaba.net/news/ukraine-ready-respond-if-russia-ignores-1638892"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/region/265417.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.0,
+      "tonalitaet": -3.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailydispatch.co.za",
-      "url": "https://dailydispatch.co.za/news/opinion/2026-10-12-insight-siyanda-kate-oil-gas-and-the-governance-test-facing-sa/"
+      "domain": "wapt.com",
+      "url": "https://www.wapt.com/article/zelenskyy-russia-violated-trumps-surprise-energy-ceasefire/74107018"
     }
   ],
   "gkg_alter_stunden": 0.0
