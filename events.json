@@ -1,189 +1,82 @@
 {
-  "erstellt_am": "2026-10-11T22:45:28",
+  "erstellt_am": "2026-10-12T09:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261011204500",
+  "gkg_stand": "20261012074500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.1,
       "treffer": [
-        "tariffs"
+        "missile"
       ],
-      "domain": "bedfordgazette.com",
-      "url": "https://www.bedfordgazette.com/ap/business/election-2026-tariffs/image_5ef65fea-a627-5d8d-af4a-a6072d0c72e1.html"
+      "domain": "myanmarnews.net",
+      "url": "http://www.myanmarnews.net/news/279367894/saudi-arabia-running-low-on-interceptor-missiles-to-counter-further-houthi-strikes-reports-wsj"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.4,
+      "tonalitaet": -7.3,
       "treffer": [
-        "airstrike"
+        "missile"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/gold-rush-turns-deadly-airstrike-kills-13-miners-in-sudan-egypt-border-zone/articleshow/134875722.cms"
+      "domain": "themedialine.org",
+      "url": "https://themedialine.org/headlines/saudi-arabia-running-low-on-interceptor-missiles-iran-offers-to-mediate-houthi-conflict/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -7.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok"
+      "domain": "kten.com",
+      "url": "https://www.kten.com/news/politics/russia-deal-execution-plans-and-deportations-tell-a-defining-tale-about-trump-and-power/article_04a4d98a-df35-5cc9-91aa-0d87bbb6fe4d.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "tonalitaet": -5.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/10/riyadh-airport-hit-by-fresh-houthi-strike-day-after-deadly-attack/"
+      "domain": "jacarandafm.com",
+      "url": "https://www.jacarandafm.com/news/news/riyadh-airport-hit-by-fresh-houthi-strike-day/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "centralwesterndaily.com.au",
-      "url": "https://www.centralwesterndaily.com.au/story/9366377/riyadh-airport-struck-again-day-after-12-killed/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thecourier.com.au",
-      "url": "https://www.thecourier.com.au/story/9366377/riyadh-airport-struck-again-day-after-12-killed/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "harwichandmanningtreestandard.co.uk",
-      "url": "https://www.harwichandmanningtreestandard.co.uk/news/national/26625877.passenger-terminal-riyadh-airport-struck-day-fatal-attack/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "wlwt.com",
-      "url": "https://www.wlwt.com/article/migrant-boat-capsizes-off-djibouti/74102766"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wlwt.com",
-      "url": "https://www.wlwt.com/article/riyadh-saudi-arabia-airport-struck-houthis/74102260"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "canberratimes.com.au",
-      "url": "https://www.canberratimes.com.au/story/9366377/riyadh-airport-struck-again-day-after-12-killed/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/super-oil-tanker-catches-fire-after-striking-sea-mine-in-strait-of-hormuz/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wnmufm.org",
-      "url": "https://www.wnmufm.org/2026-10-10/passenger-terminal-at-riyadh-airport-is-struck-again-a-day-after-12-were-killed"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "tribuneonlineng.com",
-      "url": "https://tribuneonlineng.com/petrol-discount-tinubu-takes-a-cue-from-other-world-leaders-presidency/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dissexpress.co.uk",
-      "url": "https://www.dissexpress.co.uk/national/farage-to-pledge-to-suspend-asylum-system-for-five-years-172805/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -4.4,
       "treffer": [
-        "mandeb"
+        "missile"
       ],
-      "domain": "coloradostar.com",
-      "url": "http://www.coloradostar.com/news/279366168/bangladesh-condemns-houthi-attack-on-riyadh-airport-that-killed-two-nationals-pledges-support-to-protect-saudi-holy-sites"
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16201555/smartraveller-advice-saudi-arabia-missile-attacks.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "hampshirechronicle.co.uk",
-      "url": "https://www.hampshirechronicle.co.uk/news/national/26626590.farage-pledge-suspend-asylum-system-five-years/"
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/10/12/us-imposes-sanctions-on-icc-hours-after-former-judge-wins-nobel-peace-prize/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "sowetan.co.za",
-      "url": "https://www.sowetan.co.za/news/world/2026-10-11-riyadh-airport-hit-again-amid-escalating-conflict/"
+      "domain": "lahainanews.com",
+      "url": "https://www.lahainanews.com/wire/?category=5041&ID=400276"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "stripes.com",
-      "url": "https://www.stripes.com/theaters/middle_east/2026-10-11/houthis-saudi-arabia-wider-war-23124184.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "orlytaitzesq.com",
-      "url": "https://orlytaitzesq.com/iran-has-lost-significant-control-of-the-strait-of-hormuz/"
+      "domain": "dailydispatch.co.za",
+      "url": "https://dailydispatch.co.za/news/opinion/2026-10-12-insight-siyanda-kate-oil-gas-and-the-governance-test-facing-sa/"
     }
   ],
   "gkg_alter_stunden": 0.0

@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-11T22:45:02",
+  "erstellt_am": "2026-10-12T09:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "3.15",
@@ -457,8 +457,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -6.1,
-      "markt_datum": "2026-10-08",
+      "wert": -6.3,
+      "markt_datum": "2026-10-09",
       "leitzins_datum": "2026-10-09",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -506,8 +506,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.439",
-      "beobachtungsdatum": "2026-10-08",
+      "wert": "2.437",
+      "beobachtungsdatum": "2026-10-09",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
