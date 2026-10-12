@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-12T14:45:01",
+  "erstellt_am": "2026-10-12T22:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.15",
@@ -12,13 +12,13 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "15.41",
-      "beobachtungsdatum": "2026-10-08",
+      "wert": "14.84",
+      "beobachtungsdatum": "2026-10-09",
       "quelle": "FRED"
     },
     "VIX3M": {
-      "wert": "18.08",
-      "beobachtungsdatum": "2026-10-08",
+      "wert": "17.77",
+      "beobachtungsdatum": "2026-10-09",
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
@@ -258,6 +258,10 @@
     "VIX_Historie": {
       "werte": [
         {
+          "datum": "2026-10-09",
+          "wert": 14.84
+        },
+        {
           "datum": "2026-10-08",
           "wert": 15.41
         },
@@ -272,10 +276,6 @@
         {
           "datum": "2026-10-05",
           "wert": 15.52
-        },
-        {
-          "datum": "2026-10-02",
-          "wert": 15.31
         }
       ],
       "quelle": "FRED (letzte 5 Handelstage)",
@@ -400,6 +400,10 @@
     "VIX_VIX3M_Ratio_Historie": {
       "werte": [
         {
+          "datum": "2026-10-09",
+          "wert": 0.8351
+        },
+        {
           "datum": "2026-10-08",
           "wert": 0.8523
         },
@@ -414,41 +418,37 @@
         {
           "datum": "2026-10-05",
           "wert": 0.8622
-        },
-        {
-          "datum": "2026-10-02",
-          "wert": 0.8501
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
       "hinweis": "fuer die Voralarm-Persistenzregel: Ratio > 1,00 an zwei Handelsschluessen, davon einmal > 1,02"
     },
     "Bank_Stress_KBE": {
-      "wert": 63.13,
+      "wert": 63.39,
       "hoch_60T": 71.67,
-      "drawdown_pct": -11.9,
-      "beobachtungsdatum": "2026-10-09",
+      "drawdown_pct": -11.6,
+      "beobachtungsdatum": "2026-10-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 69.01,
+      "wert": 69.56,
       "hoch_60T": 77.93,
-      "drawdown_pct": -11.4,
-      "beobachtungsdatum": "2026-10-09",
+      "drawdown_pct": -10.7,
+      "beobachtungsdatum": "2026-10-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Privatkredit_ARCC": {
-      "wert": 18.56,
+      "wert": 18.63,
       "hoch_60T": 20.19,
-      "drawdown_pct": -8.1,
-      "beobachtungsdatum": "2026-10-09",
+      "drawdown_pct": -7.7,
+      "beobachtungsdatum": "2026-10-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Privatkredit_PSEC": {
-      "wert": 1.72,
+      "wert": 1.73,
       "hoch_60T": 2.35,
-      "drawdown_pct": -26.8,
-      "beobachtungsdatum": "2026-10-09",
+      "drawdown_pct": -26.4,
+      "beobachtungsdatum": "2026-10-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "SOFR_minus_IORB_bp": {
@@ -476,8 +476,8 @@
       "quelle": "FRED (berechnet, SOFR als OIS-Naeherung)"
     },
     "VIX_VIX3M_Ratio": {
-      "wert": 0.8523,
-      "beobachtungsdatum": "2026-10-08",
+      "wert": 0.8351,
+      "beobachtungsdatum": "2026-10-09",
       "quelle": "FRED (berechnet)"
     },
     "Diesel_Crack_USD_bbl": {
@@ -493,7 +493,7 @@
       "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "RSP_SPY_Ratio": {
-      "wert": 0.2736,
+      "wert": 0.274,
       "quelle": "Yahoo Finance (inoffiziell, selbst berechnet)",
       "formel": "Breadth_ETF_RSP / Breadth_ETF_SPY",
       "hinweis": "fallende Ratio = engere Marktfuehrung/Konzentrationsrisiko"
@@ -538,13 +538,13 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 213.04,
-      "beobachtungsdatum": "2026-10-09",
+      "wert": 213.19,
+      "beobachtungsdatum": "2026-10-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 778.57,
-      "beobachtungsdatum": "2026-10-09",
+      "wert": 778.1,
+      "beobachtungsdatum": "2026-10-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
@@ -553,8 +553,8 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 13.89,
-      "beobachtungsdatum": "2026-10-09",
+      "wert": 13.65,
+      "beobachtungsdatum": "2026-10-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }
   }

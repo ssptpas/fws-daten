@@ -1,147 +1,229 @@
 {
-  "erstellt_am": "2026-10-12T14:45:34",
+  "erstellt_am": "2026-10-12T22:45:27",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261012124500",
+  "gkg_stand": "20261012204500",
   "veraltet": false,
-  "anzahl": 20,
+  "anzahl": 28,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11214608/eu-imposes-sanctions-on-almost-1600-russians-and-companies-linked-to-russian-arms-industry.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/323047-eu-adopts-nearly-1-600-new-sanctions-listings-targeting-russian-war-industry"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tert.am",
-      "url": "https://tert.am/en/news/2026/10/12/Kaja%20Kallas/4286603"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "britainnews.net",
-      "url": "http://www.britainnews.net/news/279368076/indian-high-commission-protest-case-delhi-court-charges-inderpal-singh-gaba-under-uapa-in-pro-khalistan-protest-at-indian-high-commission-london"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9367201/eu-sanctions-1600-russians-firms-linked-to-war-effort/"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.5,
+      "tonalitaet": -10.8,
       "treffer": [
+        "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/323044-riyadh-airport-hit-by-fresh-houthi-strike-day-after-deadly-attack"
+      "domain": "wchstv.com",
+      "url": "https://wchstv.com/news/nation-world/houthi-attacks-on-saudi-arabia-raise-fears-of-wider-middle-east-war-higher-energy-prices-iran-trump-riyadh-airport-13-dead-300-more-injured-maritime-routes-bab-elmandeb-strait-hormuz-gulf-arabian-peninsula"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "tonalitaet": -10.3,
       "treffer": [
+        "hormuz",
         "mandeb",
         "red sea"
       ],
-      "domain": "arkansasonline.com",
-      "url": "https://www.arkansasonline.com/news/2026/oct/12/terminal-at-saudi-airport-struck-again/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wcbe.org",
-      "url": "https://www.wcbe.org/2026-10-12/trump-touts-energy-ceasefire-after-urging-ukrainians-to-ditch-zelenskyy"
+      "domain": "wgme.com",
+      "url": "https://wgme.com/news/nation-world/houthi-attacks-on-saudi-arabia-raise-fears-of-wider-middle-east-war-higher-energy-prices-iran-trump-riyadh-airport-13-dead-300-more-injured-maritime-routes-bab-elmandeb-strait-hormuz-gulf-arabian-peninsula"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
+      "tonalitaet": -9.5,
       "treffer": [
-        "missile"
+        "missile",
+        "ballistic"
       ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/business/2026/10/12/eu-sanctions-nearly-1600-russian-people-and-firms-linked-to-drone-and-missile-parts/"
+      "domain": "centralwesterndaily.com.au",
+      "url": "https://www.centralwesterndaily.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.5,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "maitlandmercury.com.au",
+      "url": "https://www.maitlandmercury.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.5,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "crookwellgazette.com.au",
+      "url": "https://www.crookwellgazette.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.9,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "gazetteseries.co.uk",
+      "url": "https://www.gazetteseries.co.uk/news/26629920.raf-fairford-incident-highly-likely-coordinated-iran/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -7.4,
       "treffer": [
         "hormuz"
       ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/world/2026/10/12/airstrikes-on-yemens-capital-drone-hits-vessel-in-strait-of-hormuz-and-other-mideast-developments/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "arkansasonline.com",
-      "url": "https://www.arkansasonline.com/news/2026/oct/12/at-least-139-die-after-boat-capsizes-near-djibouti/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "freemuse.org",
-      "url": "https://www.freemuse.org/sub-saharan-africa-artistic-freedom-between-reform-and-repression"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "azernews.az",
-      "url": "https://www.azernews.az/region/265421.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "sofiaglobe.com",
-      "url": "https://sofiaglobe.com/2026/10/12/eu-sanctions-77-individuals-over-illegal-russian-state-duma-elections-in-temporarily-occupied-territories-of-ukraine/"
+      "domain": "islamicinvitationturkey.com",
+      "url": "https://www.islamicinvitationturkey.com/irans-enemies-will-be-drowned-in-strait-of-hormuz-waters-leaders-adviser-says/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "blueprint.ng",
+      "url": "https://blueprint.ng/breaking-missile-alerts-threaten-ronaldo-s-al-nassr-afc-champions-league-match/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "crookwellgazette.com.au",
+      "url": "https://www.crookwellgazette.com.au/story/9367210/uk-pm-says-irans-irgc-likely-behind-base-incident/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "canberratimes.com.au",
+      "url": "https://www.canberratimes.com.au/story/9367210/uk-pm-says-irans-irgc-likely-behind-base-incident/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/iran-guards-say-struck-vessel-in-strait-of-hormuz-3005986"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "gcaptain.com",
+      "url": "https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "islamicinvitationturkey.com",
+      "url": "https://www.islamicinvitationturkey.com/irgc-warns-ships-not-to-disable-navigation-systems-after-third-tanker-hits-mine-in-strait-of-hormuz/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bromsgroveadvertiser.co.uk",
+      "url": "https://www.bromsgroveadvertiser.co.uk/news/national/26630037.andy-burnham-raf-fairford-incident-almost-certainly-directed-iran/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/general/2608773/saudis-probe-how-defense-systems-failed-to-stop-deadly-houthi-attack-on-riyadh-airport.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sowetan.co.za",
+      "url": "https://www.sowetan.co.za/news/world/2026-10-12-trump-defends-russia-diesel-deal-as-legislators-from-both-parties-complain/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "kyma.com",
+      "url": "https://kyma.com/decision-politics/national-politics/2026/10/12/connecticut-senator-on-middle-east-latest/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -4.3,
       "treffer": [
-        "air strike"
+        "sanctions"
       ],
-      "domain": "newhamrecorder.co.uk",
-      "url": "https://www.newhamrecorder.co.uk/news/national/26627473.saudi-arabia-behind-air-strikes-yemens-capital-houthi-officials-say/"
+      "domain": "iheart.com",
+      "url": "https://570wkbn.iheart.com/content/2026-10-12-trump-responds-to-bipartisan-backlash-over-russia-diesel-deal/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/bolivia-santa-cruz-jewellery-heist-pcc-2026/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/nigeria-airstrike-islamic-state-fighters-borno-2026/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "crude oil",
+        "tanker"
+      ],
+      "domain": "gcaptain.com",
+      "url": "https://gcaptain.com/soaring-tanker-rates-leave-americas-awash-in-crude-oil/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "gcaptain.com",
+      "url": "https://gcaptain.com/deadly-attacks-on-saudi-arabia-risk-wider-war-that-draws-in-us/"
     },
     {
       "kategorie": "Policy",
@@ -149,45 +231,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "sofiaglobe.com",
-      "url": "https://sofiaglobe.com/2026/10/12/eu-agrees-largest-ever-package-of-sanctions-targeting-almost-1600-individuals-entities-in-russias-military-industrial-complex/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "albawaba.net",
-      "url": "https://www.albawaba.net/news/tanker-carrying-750000-barrels-oil-hits-1638891"
+      "domain": "the-star.co.ke",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-12-six-ukrainian-energy-sites-hit-by-russia"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "gcaptain.com",
+      "url": "https://gcaptain.com/eu-targets-major-russian-shipyards-in-sweeping-sanctions-expansion/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "air strike"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/colombia-catatumbo-air-strike-four-dead-2026/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.5,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "albawaba.net",
-      "url": "https://www.albawaba.net/news/ukraine-ready-respond-if-russia-ignores-1638892"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "azernews.az",
-      "url": "https://www.azernews.az/region/265417.html"
+      "domain": "islamicinvitationturkey.com",
+      "url": "https://www.islamicinvitationturkey.com/deployment-of-39000-troops-foiled-enemy-ground-invasion-plan/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wapt.com",
-      "url": "https://www.wapt.com/article/zelenskyy-russia-violated-trumps-surprise-energy-ceasefire/74107018"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/peru-school-discipline-guidelines-expulsion-2026/"
     }
   ],
   "gkg_alter_stunden": 0.0
