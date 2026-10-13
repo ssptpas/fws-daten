@@ -1,173 +1,64 @@
 {
-  "erstellt_am": "2026-10-12T22:45:27",
+  "erstellt_am": "2026-10-13T09:45:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261012204500",
+  "gkg_stand": "20261013074500",
   "veraltet": false,
-  "anzahl": 28,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.8,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wchstv.com",
-      "url": "https://wchstv.com/news/nation-world/houthi-attacks-on-saudi-arabia-raise-fears-of-wider-middle-east-war-higher-energy-prices-iran-trump-riyadh-airport-13-dead-300-more-injured-maritime-routes-bab-elmandeb-strait-hormuz-gulf-arabian-peninsula"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.3,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wgme.com",
-      "url": "https://wgme.com/news/nation-world/houthi-attacks-on-saudi-arabia-raise-fears-of-wider-middle-east-war-higher-energy-prices-iran-trump-riyadh-airport-13-dead-300-more-injured-maritime-routes-bab-elmandeb-strait-hormuz-gulf-arabian-peninsula"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.5,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "centralwesterndaily.com.au",
-      "url": "https://www.centralwesterndaily.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.5,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "maitlandmercury.com.au",
-      "url": "https://www.maitlandmercury.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.5,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "crookwellgazette.com.au",
-      "url": "https://www.crookwellgazette.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -8.9,
       "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "canberratimes.com.au",
-      "url": "https://www.canberratimes.com.au/story/9367227/saudi-arabia-says-houthi-ballistic-missiles-destroyed/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "gazetteseries.co.uk",
-      "url": "https://www.gazetteseries.co.uk/news/26629920.raf-fairford-incident-highly-likely-coordinated-iran/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/irans-enemies-will-be-drowned-in-strait-of-hormuz-waters-leaders-adviser-says/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "blueprint.ng",
-      "url": "https://blueprint.ng/breaking-missile-alerts-threaten-ronaldo-s-al-nassr-afc-champions-league-match/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "crookwellgazette.com.au",
-      "url": "https://www.crookwellgazette.com.au/story/9367210/uk-pm-says-irans-irgc-likely-behind-base-incident/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "canberratimes.com.au",
-      "url": "https://www.canberratimes.com.au/story/9367210/uk-pm-says-irans-irgc-likely-behind-base-incident/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/iran-guards-say-struck-vessel-in-strait-of-hormuz-3005986"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/irgc-warns-ships-not-to-disable-navigation-systems-after-third-tanker-hits-mine-in-strait-of-hormuz/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bromsgroveadvertiser.co.uk",
-      "url": "https://www.bromsgroveadvertiser.co.uk/news/national/26630037.andy-burnham-raf-fairford-incident-almost-certainly-directed-iran/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/general/2608773/saudis-probe-how-defense-systems-failed-to-stop-deadly-houthi-attack-on-riyadh-airport.html"
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202610130139.html"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "critical infrastructure"
+      ],
+      "domain": "newindianexpress.com",
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Oct/13/single-extreme-weather-event-can-make-tn-poorer-by-rs-6000-crore-says-cdri-report"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/323069-fear-strikes-yemen-s-3rd-largest-city-taiz-as-houthi-rebels-encircle-it-in-new-siege"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -6.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "sowetan.co.za",
-      "url": "https://www.sowetan.co.za/news/world/2026-10-12-trump-defends-russia-diesel-deal-as-legislators-from-both-parties-complain/"
+      "domain": "newstodaynet.com",
+      "url": "https://newstodaynet.com/2026/10/13/eu-sanctions-nearly-1600-russian-individuals-entities/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "newstodaynet.com",
+      "url": "https://newstodaynet.com/2026/10/13/airstrikes-hit-yemens-capital-as-drone-attack-targets-hormuz/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/ht-explainers/how-are-houthis-able-to-penetrate-saudi-arabia-s-air-defences-101791870003659.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -175,100 +66,35 @@
       "treffer": [
         "red sea"
       ],
-      "domain": "kyma.com",
-      "url": "https://kyma.com/decision-politics/national-politics/2026/10/12/connecticut-senator-on-middle-east-latest/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://570wkbn.iheart.com/content/2026-10-12-trump-responds-to-bipartisan-backlash-over-russia-diesel-deal/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/bolivia-santa-cruz-jewellery-heist-pcc-2026/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/nigeria-airstrike-islamic-state-fighters-borno-2026/"
+      "domain": "dailygazette.com",
+      "url": "https://www.dailygazette.com/leader_herald/ap/national/houthi-rebels-say-multiple-airstrikes-targeted-them-in-yemen-and-other-mideast-developments/article_8fec0db8-1fce-5f64-ab9d-af0f8b44cecd.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.7,
       "treffer": [
-        "crude oil",
-        "tanker"
-      ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/soaring-tanker-rates-leave-americas-awash-in-crude-oil/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/deadly-attacks-on-saudi-arabia-risk-wider-war-that-draws-in-us/"
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/323072-houthis-say-multiple-airstrikes-hit-areas-in-yemen-under-their-control"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "the-star.co.ke",
-      "url": "https://www.the-star.co.ke/news/world/2026-10-12-six-ukrainian-energy-sites-hit-by-russia"
+      "domain": "akipress.com",
+      "url": "https://akipress.com/news:924550:Sanctions_and_geopolitics_hinder_European_investments_in_Kyrgyzstan,_says_Foreign_Minister/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -3.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/eu-targets-major-russian-shipyards-in-sweeping-sanctions-expansion/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "air strike"
-      ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/colombia-catatumbo-air-strike-four-dead-2026/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/deployment-of-39000-troops-foiled-enemy-ground-invasion-plan/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/peru-school-discipline-guidelines-expulsion-2026/"
+      "domain": "braintreeandwithamtimes.co.uk",
+      "url": "https://www.braintreeandwithamtimes.co.uk/news/26629592.nigel-farage-plans-five-year-asylum-ban-reform-wins/"
     }
   ],
   "gkg_alter_stunden": 0.0
