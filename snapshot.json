@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-13T09:45:01",
+  "erstellt_am": "2026-10-13T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.15",
@@ -28,7 +28,7 @@
     },
     "SOFR": {
       "wert": "3.87",
-      "beobachtungsdatum": "2026-10-08",
+      "beobachtungsdatum": "2026-10-09",
       "quelle": "FRED"
     },
     "IORB": {
@@ -138,7 +138,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.5",
-      "beobachtungsdatum": "2026-10-12",
+      "beobachtungsdatum": "2026-10-13",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -348,18 +348,14 @@
       "einheit": "MBBL"
     },
     "Hormus_Transit": {
-      "wert": 4,
-      "tanker": 0,
-      "beobachtungsdatum": "2026-10-04",
+      "wert": "nicht verfügbar",
       "quelle": "IMF PortWatch",
-      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
+      "fehler": "'features'"
     },
     "BabelMandeb_Transit": {
-      "wert": 34,
-      "tanker": 11,
-      "beobachtungsdatum": "2026-10-04",
+      "wert": "nicht verfügbar",
       "quelle": "IMF PortWatch",
-      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
+      "fehler": "'features'"
     },
     "Treasury_Auktion": {
       "wert": "2.540000",
@@ -373,6 +369,10 @@
   "berechnet": {
     "SOFR_minus_IORB_Historie": {
       "werte": [
+        {
+          "datum": "2026-10-09",
+          "wert": -3.0
+        },
         {
           "datum": "2026-10-08",
           "wert": -3.0
@@ -388,10 +388,6 @@
         {
           "datum": "2026-10-05",
           "wert": -1.0
-        },
-        {
-          "datum": "2026-10-02",
-          "wert": -2.0
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
@@ -453,20 +449,20 @@
     },
     "SOFR_minus_IORB_bp": {
       "wert": -3.0,
-      "beobachtungsdatum": "2026-10-08",
+      "beobachtungsdatum": "2026-10-09",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -6.1,
       "markt_datum": "2026-10-12",
-      "leitzins_datum": "2026-10-12",
+      "leitzins_datum": "2026-10-13",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
       "wert": -1.7,
-      "markt_datum": "08 Oct 2026",
-      "leitzins_datum": "09 Oct 2026",
+      "markt_datum": "09 Oct 2026",
+      "leitzins_datum": "12 Oct 2026",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -501,8 +497,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.49",
-      "beobachtungsdatum": "2026-10-12",
+      "wert": "3.46",
+      "beobachtungsdatum": "2026-10-13",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -511,18 +507,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.7332",
-      "beobachtungsdatum": "08 Oct 2026",
+      "wert": "3.7331",
+      "beobachtungsdatum": "09 Oct 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.4781",
-      "beobachtungsdatum": "08 Oct 2026",
+      "wert": "5.4452",
+      "beobachtungsdatum": "09 Oct 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "3.75",
-      "beobachtungsdatum": "09 Oct 2026",
+      "beobachtungsdatum": "12 Oct 2026",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {

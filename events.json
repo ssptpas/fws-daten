@@ -1,29 +1,11 @@
 {
-  "erstellt_am": "2026-10-13T09:45:30",
+  "erstellt_am": "2026-10-13T14:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261013074500",
+  "gkg_stand": "20261013124500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 18,
   "ereignisse": [
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202610130139.html"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "critical infrastructure"
-      ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Oct/13/single-extreme-weather-event-can-make-tn-poorer-by-rs-6000-crore-says-cdri-report"
-    },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.3,
@@ -31,70 +13,160 @@
         "red sea"
       ],
       "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/323069-fear-strikes-yemen-s-3rd-largest-city-taiz-as-houthi-rebels-encircle-it-in-new-siege"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newstodaynet.com",
-      "url": "https://newstodaynet.com/2026/10/13/eu-sanctions-nearly-1600-russian-individuals-entities/"
+      "url": "https://www.naharnet.com:443/stories/en/323069-fear-strikes-yemen-s-3rd-largest-city-as-houthi-rebels-encircle-it-in-new-siege"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "newstodaynet.com",
-      "url": "https://newstodaynet.com/2026/10/13/airstrikes-hit-yemens-capital-as-drone-attack-targets-hormuz/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.8,
       "treffer": [
         "red sea"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/ht-explainers/how-are-houthis-able-to-penetrate-saudi-arabia-s-air-defences-101791870003659.html"
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_76a1a702-89b5-5c97-acb0-0af9f7a58cb2.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "news-gazette.com",
+      "url": "https://www.news-gazette.com/news/nation-world/zelenskyy-says-ukraine-received-no-intelligence-from-partners-on-incoming-missile-strike-on-kyiv/article_9f401b6a-9795-558f-9534-c7e6eedcdc04.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-ukraine-received-intelligence-partners-incoming-missile-strike-137219773"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "burnhamandhighbridgeweeklynews.co.uk",
+      "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26632163.cyber-attacks-uk-companies-recently-targeted-hackers/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -4.9,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "dailygazette.com",
-      "url": "https://www.dailygazette.com/leader_herald/ap/national/houthi-rebels-say-multiple-airstrikes-targeted-them-in-yemen-and-other-mideast-developments/article_8fec0db8-1fce-5f64-ab9d-af0f8b44cecd.html"
+      "domain": "sofiaglobe.com",
+      "url": "https://sofiaglobe.com/2026/10/13/vdl-black-sea-has-become-another-front-of-escalation-of-the-russian-war-in-ukraine/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "halesowennews.co.uk",
+      "url": "https://www.halesowennews.co.uk/news/national/26631177.miliband-acknowledges-difficult-relations-us-ukraines-allies/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -4.5,
       "treffer": [
         "red sea"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/323072-houthis-say-multiple-airstrikes-hit-areas-in-yemen-under-their-control"
+      "domain": "mercurynews.com",
+      "url": "https://www.mercurynews.com/2026/10/13/airstrikes-yemen-middle-east-news/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/houthi-rebels-report-airstrikes-in-yemen-and-other-middle-east-developments/article_9f416a22-75d2-574b-8bd9-07971397d554.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "akipress.com",
-      "url": "https://akipress.com/news:924550:Sanctions_and_geopolitics_hinder_European_investments_in_Kyrgyzstan,_says_Foreign_Minister/"
+      "domain": "juneesoutherncross.com.au",
+      "url": "https://www.juneesoutherncross.com.au/story/9368053/russia-hits-no-energy-targets-in-ukraine-after-truce/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "braintreeandwithamtimes.co.uk",
-      "url": "https://www.braintreeandwithamtimes.co.uk/news/26629592.nigel-farage-plans-five-year-asylum-ban-reform-wins/"
+      "domain": "queanbeyanage.com.au",
+      "url": "https://www.queanbeyanage.com.au/story/9368053/russia-hits-no-energy-targets-in-ukraine-after-truce/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "bmmagazine.co.uk",
+      "url": "https://bmmagazine.co.uk/get-funded/bumble-takeover-talks-ithaca-1bn/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/g10-fx-talking-independent-euro-weakness-in-play/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/europe/moscow-kyiv-hold-fire-as-trumps-energy-cease-fire-finally-unfolds"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "burnhamandhighbridgeweeklynews.co.uk",
+      "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26631471.drones-hit-ships-black-sea-sinking-one-prompting-rescue-operations/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "gazettelive.co.uk",
+      "url": "https://www.gazettelive.co.uk/news/teesside-news/somebody-needs-held-account-probe-34757235"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/the-commodities-feed-middle-east-conflict-keeps-oil-well-supported/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thesun.ng",
+      "url": "https://thesun.ng/2027-frank-seeks-trumps-support-for-credible-polls/"
     }
   ],
   "gkg_alter_stunden": 0.0
