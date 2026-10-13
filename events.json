@@ -1,64 +1,181 @@
 {
-  "erstellt_am": "2026-10-13T14:45:34",
+  "erstellt_am": "2026-10-13T22:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261013124500",
+  "gkg_stand": "20261013204500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 24,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
+      "kategorie": "Policy",
+      "tonalitaet": -8.8,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "naharnet.com",
-      "url": "https://www.naharnet.com:443/stories/en/323069-fear-strikes-yemen-s-3rd-largest-city-as-houthi-rebels-encircle-it-in-new-siege"
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/ap_business/us-hits-bank-of-america-with-1-2-billion-fine-saying-it-violated-money-laundering/article_39d25e49-aa80-53c3-a8a6-b5380f4c9441.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -8.5,
       "treffer": [
         "red sea"
       ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_76a1a702-89b5-5c97-acb0-0af9f7a58cb2.html"
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/mid-east/blasts-rock-saudi-cities-as-yemen-conflict-escalates"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
+      "tonalitaet": -8.5,
       "treffer": [
-        "missile"
+        "nuclear threat"
       ],
-      "domain": "news-gazette.com",
-      "url": "https://www.news-gazette.com/news/nation-world/zelenskyy-says-ukraine-received-no-intelligence-from-partners-on-incoming-missile-strike-on-kyiv/article_9f401b6a-9795-558f-9534-c7e6eedcdc04.html"
+      "domain": "wtae.com",
+      "url": "https://www.wtae.com/article/russian-lab-workers-death-pandemic-risk-fact-check/74123159"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wsls.com",
+      "url": "https://www.wsls.com/business/2026/10/13/us-hits-bank-of-america-with-12-billion-fine-saying-it-violated-money-laundering-sanctions-laws/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
+      "tonalitaet": -7.7,
       "treffer": [
         "missile"
       ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-ukraine-received-intelligence-partners-incoming-missile-strike-137219773"
+      "domain": "saharareporters.com",
+      "url": "https://saharareporters.com/2026/10/13/russia-launches-over-100-missiles-ukraine-killing-four-residents-zelenskyy-accuses"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "antiwar.com",
+      "url": "https://news.antiwar.com/2026/10/13/hezbollah-lays-out-compensation-plan-for-lebanese-who-lost-homes-in-the-war/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kjzz.org",
+      "url": "https://www.kjzz.org/elections/2026-10-13/u-s-supreme-court-wont-reverse-sanctions-against-lawyers-in-kari-lakes-2022-arizona-voting-case"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newsroomamerica.com",
+      "url": "https://newsroomamerica.com/a/870s6pkYmoWqvy8f0aVebt9zvXQ/fincen_occ_and_ofac_penalize_bank_of_america_over_anti_money_laundering_failures_unreported_suspicious_activity_and_sanctions_violations_marking_the_third_largest_penalty_in_treasury_history.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "antiwar.com",
+      "url": "https://news.antiwar.com/2026/10/13/saudi-airstrikes-hit-girls-school-and-health-center-in-yemen-killing-five-civilians-yemeni-media/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "omanobserver.om",
+      "url": "https://www.omanobserver.om/article/1197763/world/region/saudi-tells-sanaa-residents-to-flee-site-before-operation"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/bank-america-hit-1-2-201623000.html"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -5.5,
+      "tonalitaet": -6.4,
       "treffer": [
-        "cyber attack"
+        "cyberattack"
       ],
-      "domain": "burnhamandhighbridgeweeklynews.co.uk",
-      "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26632163.cyber-attacks-uk-companies-recently-targeted-hackers/"
+      "domain": "iheart.com",
+      "url": "https://newsradio1290wtks.iheart.com/content/2026-10-13-cyberattack-disrupts-refrigeration-at-700-supermarkets/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/general/2609337/zelenskyy-says-ukraine-received-no-intelligence-from-partners-on-incoming-missile-strike-on-kyiv.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "sofiaglobe.com",
-      "url": "https://sofiaglobe.com/2026/10/13/vdl-black-sea-has-become-another-front-of-escalation-of-the-russian-war-in-ukraine/"
+      "domain": "illawarramercury.com.au",
+      "url": "https://www.illawarramercury.com.au/story/9368080/russia-detains-japanese-reporter-on-suspicion-of-spying/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://wiba.iheart.com/content/2026-10-13-cornell-lawsuit-defendant-requests-gag-order-amid-renewed-scrutiny/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "politico.eu",
+      "url": "https://www.politico.eu/article/trump-europe-ukraine-leverage-war-russia-oil/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "islamicinvitationturkey.com",
+      "url": "https://www.islamicinvitationturkey.com/iran-hormuz-security-cannot-return-to-normal-amid-us-blockade-and-economic-war/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "mesabitribune.com",
+      "url": "https://www.mesabitribune.com/ap/world/drones-hit-ships-in-black-sea-sinking-1-and-prompting-rescue-operations-bulgaria-says/article_7e82dc1a-6e83-5e7c-b29b-9a874db81dcc.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "islamicinvitationturkey.com",
+      "url": "https://www.islamicinvitationturkey.com/saudi-arabia-faces-strategic-deadlock-in-standoff-with-ansarullah/"
     },
     {
       "kategorie": "Policy",
@@ -66,107 +183,45 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "halesowennews.co.uk",
-      "url": "https://www.halesowennews.co.uk/news/national/26631177.miliband-acknowledges-difficult-relations-us-ukraines-allies/"
+      "domain": "dailycardinal.com",
+      "url": "https://www.dailycardinal.com/article/2026/10/venezuela-is-certainly-a-warning-but-against-what"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -4.5,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "mercurynews.com",
-      "url": "https://www.mercurynews.com/2026/10/13/airstrikes-yemen-middle-east-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/houthi-rebels-report-airstrikes-in-yemen-and-other-middle-east-developments/article_9f416a22-75d2-574b-8bd9-07971397d554.html"
+      "domain": "gjsentinel.com",
+      "url": "https://www.gjsentinel.com/news/us/editorial-roundup-united-states/article_993559f8-18f6-5db0-8027-1ed8c96e727f.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "juneesoutherncross.com.au",
-      "url": "https://www.juneesoutherncross.com.au/story/9368053/russia-hits-no-energy-targets-in-ukraine-after-truce/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "queanbeyanage.com.au",
-      "url": "https://www.queanbeyanage.com.au/story/9368053/russia-hits-no-energy-targets-in-ukraine-after-truce/"
-    },
-    {
-      "kategorie": "Finanzsystem",
       "tonalitaet": -4.1,
       "treffer": [
-        "insolvency"
-      ],
-      "domain": "bmmagazine.co.uk",
-      "url": "https://bmmagazine.co.uk/get-funded/bumble-takeover-talks-ithaca-1bn/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/g10-fx-talking-independent-euro-weakness-in-play/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/europe/moscow-kyiv-hold-fire-as-trumps-energy-cease-fire-finally-unfolds"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "burnhamandhighbridgeweeklynews.co.uk",
-      "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26631471.drones-hit-ships-black-sea-sinking-one-prompting-rescue-operations/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "gazettelive.co.uk",
-      "url": "https://www.gazettelive.co.uk/news/teesside-news/somebody-needs-held-account-probe-34757235"
+      "domain": "wvik.org",
+      "url": "https://www.wvik.org/npr-top-stories/2026-10-13/cornell-university-bans-frat-parties-vows-to-address-disturbing-campus-culture"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.0,
       "treffer": [
-        "red sea"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/the-commodities-feed-middle-east-conflict-keeps-oil-well-supported/"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-two-ships-hit-by-projectiles-in-strait-of-hormuz-maritime-agency-says-oil-tanker/articleshow/134926301.cms"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
+      "kategorie": "Breite",
+      "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "cyberattack"
       ],
-      "domain": "thesun.ng",
-      "url": "https://thesun.ng/2027-frank-seeks-trumps-support-for-credible-polls/"
+      "domain": "news4jax.com",
+      "url": "https://www.news4jax.com/business/2026/10/13/cyberattack-targeting-refrigeration-systems-hits-700-supermarkets-french-government-says/"
     }
   ],
   "gkg_alter_stunden": 0.0
