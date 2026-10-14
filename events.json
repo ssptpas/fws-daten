@@ -1,227 +1,210 @@
 {
-  "erstellt_am": "2026-10-13T22:45:31",
+  "erstellt_am": "2026-10-14T09:45:40",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261013204500",
+  "gkg_stand": "20261014074500",
   "veraltet": false,
-  "anzahl": 24,
+  "anzahl": 22,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.8,
+      "tonalitaet": -12.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/ap_business/us-hits-bank-of-america-with-1-2-billion-fine-saying-it-violated-money-laundering/article_39d25e49-aa80-53c3-a8a6-b5380f4c9441.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/mid-east/blasts-rock-saudi-cities-as-yemen-conflict-escalates"
+      "domain": "irannewsupdate.com",
+      "url": "https://irannewsupdate.com/news/infightings/iran-regimes-factional-warfare-deepens-despite-calls-for-unity-amid-war/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.5,
-      "treffer": [
-        "nuclear threat"
-      ],
-      "domain": "wtae.com",
-      "url": "https://www.wtae.com/article/russian-lab-workers-death-pandemic-risk-fact-check/74123159"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/business/2026/10/13/us-hits-bank-of-america-with-12-billion-fine-saying-it-violated-money-laundering-sanctions-laws/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.7,
+      "tonalitaet": -8.6,
       "treffer": [
         "missile"
       ],
-      "domain": "saharareporters.com",
-      "url": "https://saharareporters.com/2026/10/13/russia-launches-over-100-missiles-ukraine-killing-four-residents-zelenskyy-accuses"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "antiwar.com",
-      "url": "https://news.antiwar.com/2026/10/13/hezbollah-lays-out-compensation-plan-for-lebanese-who-lost-homes-in-the-war/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kjzz.org",
-      "url": "https://www.kjzz.org/elections/2026-10-13/u-s-supreme-court-wont-reverse-sanctions-against-lawyers-in-kari-lakes-2022-arizona-voting-case"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newsroomamerica.com",
-      "url": "https://newsroomamerica.com/a/870s6pkYmoWqvy8f0aVebt9zvXQ/fincen_occ_and_ofac_penalize_bank_of_america_over_anti_money_laundering_failures_unreported_suspicious_activity_and_sanctions_violations_marking_the_third_largest_penalty_in_treasury_history.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "antiwar.com",
-      "url": "https://news.antiwar.com/2026/10/13/saudi-airstrikes-hit-girls-school-and-health-center-in-yemen-killing-five-civilians-yemeni-media/"
+      "domain": "khaama.com",
+      "url": "https://www.khaama.com/russian-missile-strikes-on-kyiv-kill-two-damage-thermal-power-plant/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
+      "tonalitaet": -6.9,
       "treffer": [
         "red sea"
       ],
-      "domain": "omanobserver.om",
-      "url": "https://www.omanobserver.om/article/1197763/world/region/saudi-tells-sanaa-residents-to-flee-site-before-operation"
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-13-oil-ceos-flee-saudi-summit-after-strikes.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/business/crude-oil-landed-cost-at-usd-130-140-per-barrel-rbi-may-hike-rates-by-50-bps-this-fiscal-kotak-neos-banerjee20261014111852/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "newcastleherald.com.au",
+      "url": "https://www.newcastleherald.com.au/story/9368761/fire-at-oil-facility-as-saudis-houthis-trade-attacks/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/bank-america-hit-1-2-201623000.html"
-    },
-    {
-      "kategorie": "Breite",
       "tonalitaet": -6.4,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://newsradio1290wtks.iheart.com/content/2026-10-13-cyberattack-disrupts-refrigeration-at-700-supermarkets/"
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/europe/russia-strikes-ukraine8217s-energy-infrastructure-despite-energy-ceasefire-zelenskyy-says-moscow-ignores-trump8217s-statements20261014124045/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
       "treffer": [
-        "missile"
+        "mandeb"
       ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/general/2609337/zelenskyy-says-ukraine-received-no-intelligence-from-partners-on-incoming-missile-strike-on-kyiv.html"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/houthi-siege-leaves-taiz-residents-struggling-find-food"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://www.naharnet.com:443/stories/en/323093-saudi-says-houthi-attacks-sparked-aramco-fire-wounded-4-in-riyadh"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.9,
+      "tonalitaet": -5.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "illawarramercury.com.au",
-      "url": "https://www.illawarramercury.com.au/story/9368080/russia-detains-japanese-reporter-on-suspicion-of-spying/"
+      "domain": "idahostatejournal.com",
+      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_708e4f34-3990-586f-8940-2cc6dafc7cb8.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -5.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://wiba.iheart.com/content/2026-10-13-cornell-lawsuit-defendant-requests-gag-order-amid-renewed-scrutiny/"
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_76a1a702-89b5-5c97-acb0-0af9f7a58cb2.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/aramco-strike-exposes-growing-threat-saudi-energy-infrastructure"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiankanoon.org",
+      "url": "https://indiankanoon.org/doc/147221022/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.0,
       "treffer": [
-        "sanctions"
-      ],
-      "domain": "politico.eu",
-      "url": "https://www.politico.eu/article/trump-europe-ukraine-leverage-war-russia-oil/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/iran-hormuz-security-cannot-return-to-normal-amid-us-blockade-and-economic-war/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "mesabitribune.com",
-      "url": "https://www.mesabitribune.com/ap/world/drones-hit-ships-in-black-sea-sinking-1-and-prompting-rescue-operations-bulgaria-says/article_7e82dc1a-6e83-5e7c-b29b-9a874db81dcc.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/saudi-arabia-faces-strategic-deadlock-in-standoff-with-ansarullah/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailycardinal.com",
-      "url": "https://www.dailycardinal.com/article/2026/10/venezuela-is-certainly-a-warning-but-against-what"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "gjsentinel.com",
-      "url": "https://www.gjsentinel.com/news/us/editorial-roundup-united-states/article_993559f8-18f6-5db0-8027-1ed8c96e727f.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wvik.org",
-      "url": "https://www.wvik.org/npr-top-stories/2026-10-13/cornell-university-bans-frat-parties-vows-to-address-disturbing-campus-culture"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "hormuz",
         "tanker"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-two-ships-hit-by-projectiles-in-strait-of-hormuz-maritime-agency-says-oil-tanker/articleshow/134926301.cms"
+      "domain": "citizen.co.za",
+      "url": "https://www.citizen.co.za/news/tshwane-reduces-water-tanker-budget-by-79/"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiankanoon.org",
+      "url": "https://indiankanoon.org/doc/101873644/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/polycab-india-shares-fall-6-in-two-sessions-whats-triggering-the-selloff/articleshow/134932913.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "yourdemocracy.net",
+      "url": "https://yourdemocracy.net/drupal/node/61399"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailyexcelsior.com",
+      "url": "https://www.dailyexcelsior.com/the-not-so-secret-vulnerability-in-ukraines-drone-arsenal-chinese-technology/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.3,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "news4jax.com",
-      "url": "https://www.news4jax.com/business/2026/10/13/cyberattack-targeting-refrigeration-systems-hits-700-supermarkets-french-government-says/"
+      "domain": "mwnation.com",
+      "url": "https://mwnation.com/breaking-malawis-cycle-of-give-and-take-politics/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "yourdemocracy.net",
+      "url": "https://yourdemocracy.net/drupal/node/61401"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiankanoon.org",
+      "url": "https://indiankanoon.org/doc/92818794/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "indiankanoon.org",
+      "url": "https://indiankanoon.org/doc/174349240/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-106-as-Iran-Threatens-More-Tanker-Attacks.html"
     }
   ],
   "gkg_alter_stunden": 0.0
