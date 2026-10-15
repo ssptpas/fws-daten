@@ -1,158 +1,92 @@
 {
-  "erstellt_am": "2026-10-14T22:45:28",
+  "erstellt_am": "2026-10-15T09:45:38",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261014204500",
+  "gkg_stand": "20261015074500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.8,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/ukraine-says-us-helping-russia-as-missiles-strike-kyiv-101792004109954.html"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -7.1,
+      "tonalitaet": -5.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "northerndailyleader.com.au",
-      "url": "https://www.northerndailyleader.com.au/story/9368845/nord-stream-may-have-been-lawful-target-lawyers-argue/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "edmontonjournal.com",
-      "url": "https://edmontonjournal.com:443/news/alberta-rcmp-highway-traffic-violations"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/crime/nord-stream-may-have-been-lawful-target-lawyers-argue-c-23021469"
+      "domain": "ariananews.af",
+      "url": "https://www.ariananews.af/iran-says-nearly-60000-afghan-students-attend-its-universities-urges-more-refugee-aid/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279374124/irgc-spokesman-says-renewed-us-attack-possible-before-midterms"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279374615/attacks-on-hormuz-shipping-hit-wartime-high"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
+      "tonalitaet": -5.3,
       "treffer": [
         "hormuz"
       ],
-      "domain": "komonews.com",
-      "url": "https://komonews.com/news/nation-world/trump-faces-new-iran-war-challenges-as-houthi-attacks-threaten-energy-supplies-airports-oil-infrastructure-saudi-arabia-strait-hormuz"
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087358517-two-ships-sink-near-hormuz-after-being-hit-by-projectiles"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "freepressjournal.in",
-      "url": "https://www.freepressjournal.in/mumbai/mumbai-accident-tanker-rams-best-wet-lease-bus-at-chheda-nagar-signal-4-passengers-injured"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -5.3,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "hometownregister.com",
-      "url": "https://www.hometownregister.com/news/national/yemen-s-houthis-are-bringing-their-war-to-saudi-arabia-and-reframing-the-narrative-of/article_ab3b9d64-f652-58b1-8a1f-cb4f4906a1e3.html"
+      "domain": "ariananews.af",
+      "url": "https://www.ariananews.af/school-roof-collapse-kills-teacher-21-children-in-nw-pakistan/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.2,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "fortmcmurraytoday.com",
-      "url": "https://www.fortmcmurraytoday.com:443/news/crime/thanksgiving-weekend-impaired-driving-charges-edmonton-fort-mcmurray-alberta-rcmp/wcm/abfbc816-a808-4706-a923-8e3d14c59d4a"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/zelenskyy-says-felt-betrayed-trumps-201411000.html"
+      "domain": "jacarandafm.com",
+      "url": "https://www.jacarandafm.com/news/news/ukraine-accuses-us-of-helping-russia-missiles-hit-kyiv/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "ariananews.af",
+      "url": "https://www.ariananews.af/ukraines-zelenskiy-says-it-is-painful-when-trump-chooses-a-different-side/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -4.3,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn"
+      "domain": "namibian.com.na",
+      "url": "https://www.namibian.com.na/ex-president-named-leader-of-new-dr-congo-rebel-coalition/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "knau.org",
-      "url": "https://www.knau.org/knau-and-arizona-news/2026-10-14/scotus-lake-and-finchem-attorneys-must-pay-penalties-for-frivolous-voting-machine-lawsuit"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailymaverick.co.za",
-      "url": "https://www.dailymaverick.co.za/article/2026-10-14-jacinta-ngobese-zuma-reported-to-iec-for-xenophobic-smear-on-rise-candidate-aziz-ally/"
+      "domain": "azernews.az",
+      "url": "https://www.azernews.az/region/265594.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
+      "tonalitaet": -4.1,
       "treffer": [
-        "red sea"
+        "tanker"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/how-yemens-houthis-evolved-from-a-religious-revival-into-a-regional-threat-3006106"
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Considers-Easing-Sanctions-on-Shadow-Fleet-Tankers.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.1,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "nltimes.nl",
-      "url": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations"
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/italy-raise-0-44-gdp-054114000.html"
     }
   ],
   "gkg_alter_stunden": 0.0
