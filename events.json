@@ -1,175 +1,129 @@
 {
-  "erstellt_am": "2026-10-15T14:45:37",
+  "erstellt_am": "2026-10-15T22:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261015124500",
+  "gkg_stand": "20261015204500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 13,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -10.1,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.4,
       "treffer": [
-        "sanctions"
+        "invasion"
       ],
-      "domain": "hot96.com",
-      "url": "https://hot96.com/2026/10/15/venezuelas-maduro-due-in-court-over-new-us-torture-charge/"
+      "domain": "wtok.com",
+      "url": "https://www.wtok.com/2026/10/15/elderly-man-killed-home-invasion/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wral.com",
-      "url": "https://www.wral.com/news/ap/ffa2a-saudi-arabia-says-it-thwarted-a-missile-strike-on-medina-and-other-middle-east-developments/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
+      "tonalitaet": -10.2,
       "treffer": [
         "tanker"
       ],
-      "domain": "news.az",
-      "url": "https://news.az/news/eight-crew-members-missing-after-tanker-fire-off-romania-s-coast"
+      "domain": "punchng.com",
+      "url": "https://punchng.com/lagos-warns-against-consuming-groundnut-oil-from-fallen-tanker/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
+      "tonalitaet": -7.6,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "mandeb"
       ],
-      "domain": "stcatharinesstandard.ca",
-      "url": "https://www.stcatharinesstandard.ca/business/saudi-arabia-says-it-thwarted-a-missile-strike-on-medina-and-other-middle-east-developments/article_d1ced4c3-c867-5934-878e-1312afbc600b.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "paradisepost.com",
-      "url": "https://www.paradisepost.com/2020/01/07/iran-warns-us-not-retaliate-over-missile-attack-in-iraq/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bnnbloomberg.ca",
-      "url": "https://www.bnnbloomberg.ca/business/international/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-as-us-relations-teeter/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wrvo.org",
-      "url": "https://www.wrvo.org/2026-10-15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "siasat.com",
-      "url": "https://www.siasat.com/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-3558857/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wvtm13.com",
-      "url": "https://www.wvtm13.com/article/zelensky-ukraine-resume-strikes-russian-refineries/74142152"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11223281/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-as-us-relations-teeter.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/uk-threatens-eritrea-over-returns-cooperation-1825839"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/saudi-arabia-says-it-thwarted-a-missile-strike-on-medina-and-other-middle-east-developments-101792095648947.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
+      "tonalitaet": -6.6,
       "treffer": [
         "red sea"
       ],
       "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/opinion/gulf-must-stop-treating-proxy-warfare-as-someone-elses-problem-3006442"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087358531-saudi-coalition-intercepts-cruise-missile-over-madinah"
+      "url": "https://www.arabnews.com/saudi-arabia/japans-foreign-minister-condemns-deadly-houthi-attacks-on-saudi-arabia-3006595"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.7,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "cjme.com",
+      "url": "https://www.cjme.com/2026/10/15/ukraine-abandons-truce-and-attacks-russian-oil-refinery-as-zelenskyy-says-he-feels-betrayed-by-trump/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "sandiegosun.com",
+      "url": "http://www.sandiegosun.com/news/279376879/black-sea-drone-attacks-add-to-global-energy-shipping-strains"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "globalcomment.com",
+      "url": "https://globalcomment.com/never-truly-fulfil-its-promise-onslaught-review/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "vladtv.com",
+      "url": "https://www.vladtv.com/article/316222/nicholas-irving-claims-iran-is-broke-are-just-more-propaganda"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "livemint.com",
+      "url": "https://www.livemint.com/market/brent-steady-as-us-weighs-easing-sanctions-on-global-shadow-fleet-11792091117388.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11224786/uk-bookstores-scramble-as-sally-rooneys-novels-are-withdrawn-because-she-supports-palestine-action.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/905326/houthis-claim-eurofighter-typhoon-hit-in-historic-air-twist"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9369537/ukraine-resumes-attacks-on-russian-oil-refineries/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/gaza-city-airstrike-mother-killed-daughter-injured-1825837"
+      "domain": "chinanationalnews.com",
+      "url": "http://www.chinanationalnews.com/news/279377067/houthi-forces-attack-yemen-al-maashiq-presidential-palace-in-aden"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -3.2,
       "treffer": [
-        "refinery"
+        "mandeb"
       ],
-      "domain": "zerohedge.com",
-      "url": "http://www.zerohedge.com/geopolitical/defiant-zelenskyy-resume-russian-refinery-drone-strikes"
+      "domain": "livemint.com",
+      "url": "https://www.livemint.com/politics/yemen-government-says-houthis-strike-presidential-palace-in-aden-11792094233341.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
       "treffer": [
-        "sanctions"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "timeslive.co.za",
-      "url": "https://www.timeslive.co.za/news/south-africa/2026-10-15-teacher-with-racial-fetishes-fired-for-wanting-relationship-with-special-needs-pupil/"
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11224541/saudi-diplomat-says-iran-encourages-houthi-escalation-of-attacks-on-the-kingdom.html"
     }
   ],
   "gkg_alter_stunden": 0.0
