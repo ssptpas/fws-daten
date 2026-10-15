@@ -1,92 +1,175 @@
 {
-  "erstellt_am": "2026-10-15T09:45:38",
+  "erstellt_am": "2026-10-15T14:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261015074500",
+  "gkg_stand": "20261015124500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 18,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.7,
+      "tonalitaet": -10.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ariananews.af",
-      "url": "https://www.ariananews.af/iran-says-nearly-60000-afghan-students-attend-its-universities-urges-more-refugee-aid/"
+      "domain": "hot96.com",
+      "url": "https://hot96.com/2026/10/15/venezuelas-maduro-due-in-court-over-new-us-torture-charge/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087358517-two-ships-sink-near-hormuz-after-being-hit-by-projectiles"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -6.5,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "ariananews.af",
-      "url": "https://www.ariananews.af/school-roof-collapse-kills-teacher-21-children-in-nw-pakistan/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "jacarandafm.com",
-      "url": "https://www.jacarandafm.com/news/news/ukraine-accuses-us-of-helping-russia-missiles-hit-kyiv/"
+      "domain": "wral.com",
+      "url": "https://www.wral.com/news/ap/ffa2a-saudi-arabia-says-it-thwarted-a-missile-strike-on-medina-and-other-middle-east-developments/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "ariananews.af",
-      "url": "https://www.ariananews.af/ukraines-zelenskiy-says-it-is-painful-when-trump-chooses-a-different-side/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "namibian.com.na",
-      "url": "https://www.namibian.com.na/ex-president-named-leader-of-new-dr-congo-rebel-coalition/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "azernews.az",
-      "url": "https://www.azernews.az/region/265594.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -6.2,
       "treffer": [
         "tanker"
       ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Considers-Easing-Sanctions-on-Shadow-Fleet-Tankers.html"
+      "domain": "news.az",
+      "url": "https://news.az/news/eight-crew-members-missing-after-tanker-fire-off-romania-s-coast"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
       "treffer": [
-        "central bank"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/italy-raise-0-44-gdp-054114000.html"
+      "domain": "stcatharinesstandard.ca",
+      "url": "https://www.stcatharinesstandard.ca/business/saudi-arabia-says-it-thwarted-a-missile-strike-on-medina-and-other-middle-east-developments/article_d1ced4c3-c867-5934-878e-1312afbc600b.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "paradisepost.com",
+      "url": "https://www.paradisepost.com/2020/01/07/iran-warns-us-not-retaliate-over-missile-attack-in-iraq/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bnnbloomberg.ca",
+      "url": "https://www.bnnbloomberg.ca/business/international/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-as-us-relations-teeter/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wrvo.org",
+      "url": "https://www.wrvo.org/2026-10-15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-3558857/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wvtm13.com",
+      "url": "https://www.wvtm13.com/article/zelensky-ukraine-resume-strikes-russian-refineries/74142152"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11223281/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-as-us-relations-teeter.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/uk-threatens-eritrea-over-returns-cooperation-1825839"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/opinion/gulf-must-stop-treating-proxy-warfare-as-someone-elses-problem-3006442"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087358531-saudi-coalition-intercepts-cruise-missile-over-madinah"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/905326/houthis-claim-eurofighter-typhoon-hit-in-historic-air-twist"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "edenmagnet.com.au",
+      "url": "https://www.edenmagnet.com.au/story/9369537/ukraine-resumes-attacks-on-russian-oil-refineries/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/gaza-city-airstrike-mother-killed-daughter-injured-1825837"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "zerohedge.com",
+      "url": "http://www.zerohedge.com/geopolitical/defiant-zelenskyy-resume-russian-refinery-drone-strikes"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "timeslive.co.za",
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-10-15-teacher-with-racial-fetishes-fired-for-wanting-relationship-with-special-needs-pupil/"
     }
   ],
   "gkg_alter_stunden": 0.0
