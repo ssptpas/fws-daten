@@ -1,73 +1,78 @@
 {
-  "erstellt_am": "2026-10-16T14:46:06",
+  "erstellt_am": "2026-10-16T22:47:19",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261016124500",
+  "gkg_stand": "20261016204500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.0,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.6,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "clevelandstar.com",
-      "url": "http://www.clevelandstar.com/news/279374410/musk-s-starlink-faces-ukrainian-backlash"
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/2-missiles-strike-the-airport-in-yemens-port-city-of-aden-officials-say/article_71e5811c-d490-53f8-84e5-c92b76557cd2.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "hormuz",
+        "refinery",
+        "opec",
+        "tanker"
+      ],
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Back-Off-Even-As-Prices-Soar.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.9,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "trinidadtimes.com",
-      "url": "http://www.trinidadtimes.com/news/279378570/china-sanctions-company-owned-by-taiwanese-lawmaker-father"
+      "domain": "nypost.com",
+      "url": "https://nypost.com/2026/10/16/opinion/blakeman-and-hochuls-heated-debate-letters/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/russia-strikes-9-ukrainian-regions-strain-grows-zelenskyy-137313108"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailyliberal.com.au",
-      "url": "https://www.dailyliberal.com.au/story/9370164/israeli-settlers-target-palestinians-across-west-bank/"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.1,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "examiner.com.au",
-      "url": "https://www.examiner.com.au/story/9370164/israeli-settlers-target-palestinians-across-west-bank/"
+      "domain": "dhakacourier.com.bd",
+      "url": "http://www.dhakacourier.com.bd/news/Global/Iran-backed-Houthis-strike-Saudi-oil-company-Aramco%E2%80%99s-headquarters-officials-say/10555"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
       "treffer": [
-        "ballistic"
+        "red sea"
       ],
-      "domain": "wset.com",
-      "url": "https://wset.com/news/nation-world/hearing-on-dna-ballistics-evidence-in-murdaugh-case-scheduled-for-oct-16-alex-murdaugh-crime-retrial-defense-prosecution-landmark-case-on-the-lawyer-accused-of-murdering-family-and-federal-financial-crimes"
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/article-brent-crude-touches-us110-a-barrel-for-first-time-since-may-on-middle/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.6,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "cbsnews.com",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
+      "domain": "maritime-executive.com",
+      "url": "https://maritime-executive.com/article/war-in-yemen-now-impacting-the-whole-gulf-region"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "dhakacourier.com.bd",
+      "url": "http://www.dhakacourier.com.bd/news/Global/Why-Saudi-Arabia-has-struggled-to-defend-itself-against-the-Houthis%E2%80%99-recent-attacks/10556"
     },
     {
       "kategorie": "Policy",
@@ -75,63 +80,71 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dw.com",
-      "url": "https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraines-zelenskyy/a-79678808"
+      "domain": "tol.org",
+      "url": "https://tol.org/client/article/is-the-u-s-limiting-starlink-in-ukraine-the-consequences-could-be-catastrophic.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/10/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -4.6,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/news/world/why-yemens-taiz-city-has-become-a-key-battleground-in-the-renewed-civil-war/article71592403.ece"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279378810/roundup-imf-world-bank-warn-of-mounting-debt-divergent-ai-boom-at-bangkok-annual-meetings"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions",
-        "export controls"
-      ],
-      "domain": "mondaq.com",
-      "url": "https://www.mondaq.com:443/unitedstates/export-controls-trade-investment-sanctions/1856114/analysts-brief-prospects-for-us-iran-negotiations"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "cnbcafrica.com",
-      "url": "https://www.cnbcafrica.com/2026/trump-says-he-wont-use-nuclear-weapons-or-send-ground-troops-to-iran"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279378718/iran-air-defence-capabilities-surpass-pre-war-levels-says-army-spokesman-brigadier-general-akrami-nia-amid-us-strike-threats"
+      "domain": "heraldseries.co.uk",
+      "url": "https://www.heraldseries.co.uk/news/national/26645604.amazon-deforestation-falls-lowest-level-since-1988-brazil-says/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279379819/saudi-led-coalition-claims-to-intercept-ballistic-missile-targeting-yanbu-two-cruise-missiles-over-red-sea"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/brazil-says-amazon-deforestation-fell-to-the-lowest-level-since-1988/article_742baf19-0716-5075-9626-053f273331f8.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "peeblesshirenews.com",
+      "url": "https://www.peeblesshirenews.com/news/national/26645467.uk-government-not-actively-looking-save-palestinian-lives-says-snp-mp/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.6,
       "treffer": [
-        "mandeb"
+        "sanctions"
       ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Oil-Price-Strategy-Faces-Two-Major-Tests-This-Weekend.html"
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/brazil-amazon-deforestation-fell-lowest-level-1988-137329441"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ibtimes.com",
+      "url": "https://www.ibtimes.com/investors-rotated-out-ai-trade-geopolitical-tensions-soared-nasdaq-saw-its-worst-week-months-3808691"
     }
   ],
   "gkg_alter_stunden": 0.0
