@@ -1,64 +1,82 @@
 {
-  "erstellt_am": "2026-10-15T22:45:34",
+  "erstellt_am": "2026-10-16T09:45:39",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261015204500",
+  "gkg_stand": "20261016074500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 17,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.4,
+      "kategorie": "Policy",
+      "tonalitaet": -9.3,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "wtok.com",
-      "url": "https://www.wtok.com/2026/10/15/elderly-man-killed-home-invasion/"
+      "domain": "varsitarian.net",
+      "url": "https://varsitarian.net/4-student-activists-appeal-sanctions-before-rectors-office/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.2,
+      "tonalitaet": -8.6,
       "treffer": [
         "tanker"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/lagos-warns-against-consuming-groundnut-oil-from-fallen-tanker/"
+      "domain": "breakingnews.ie",
+      "url": "https://www.breakingnews.ie/world/seven-sailors-missing-after-drones-strike-tankers-near-romanias-black-sea-coast-1953951.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.6,
+      "kategorie": "Policy",
+      "tonalitaet": -6.9,
       "treffer": [
-        "mandeb"
+        "sanctions"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/saudi-arabia-says-it-thwarted-a-missile-strike-on-medina-and-other-middle-east-developments-101792095648947.html"
+      "domain": "chimpreports.com",
+      "url": "https://chimpreports.com/doctors-demand-reversal-of-candia-suspension-after-clash-with-minister-kawooya/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/905464/ukraine-trump-finishes-off-zelensky-talks-with-putin-ukrainian-air-defense-collapses-only-2-patriots-left"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "progressive-charlestown.com",
+      "url": "https://www.progressive-charlestown.com/search?updated-max=2026-10-13T18:02:00-04:00&max-results=15"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailymirror.lk",
+      "url": "https://www.dailymirror.lk/opinion/Sanctions-on-ICC-Trumps-new-world-order-is-nasty-brutish-and-dystopian/172-352628"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "chimpreports.com",
+      "url": "https://chimpreports.com/tshisekedis-office-bars-contact-with-belgian-embassy-after-property-raids/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
+      "tonalitaet": -5.5,
       "treffer": [
         "red sea"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/saudi-arabia/japans-foreign-minister-condemns-deadly-houthi-attacks-on-saudi-arabia-3006595"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "cjme.com",
-      "url": "https://www.cjme.com/2026/10/15/ukraine-abandons-truce-and-attacks-russian-oil-refinery-as-zelenskyy-says-he-feels-betrayed-by-trump/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "sandiegosun.com",
-      "url": "http://www.sandiegosun.com/news/279376879/black-sea-drone-attacks-add-to-global-energy-shipping-strains"
+      "domain": "chimpreports.com",
+      "url": "https://chimpreports.com/eritrea-briefs-diplomats-on-ethiopian-threat-to-seize-sea-access/"
     },
     {
       "kategorie": "Policy",
@@ -66,64 +84,81 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "globalcomment.com",
-      "url": "https://globalcomment.com/never-truly-fulfil-its-promise-onslaught-review/"
+      "domain": "rte.ie",
+      "url": "https://www.rte.ie/news/business/2026/1016/1595601-world-oil-prices/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "vladtv.com",
-      "url": "https://www.vladtv.com/article/316222/nicholas-irving-claims-iran-is-broke-are-just-more-propaganda"
+      "domain": "countercurrents.org",
+      "url": "https://countercurrents.org/2026/10/what-does-the-green-partys-historic-anti-zionist-motion-mean-for-palestine/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Breite",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "everything-pr.com",
+      "url": "https://everything-pr.com/mgm-resorts-cyberattack-response"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.7,
       "treffer": [
-        "sanctions"
+        "hormuz",
+        "suez"
       ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/market/brent-steady-as-us-weighs-easing-sanctions-on-global-shadow-fleet-11792091117388.html"
+      "domain": "rte.ie",
+      "url": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "wlky.com",
+      "url": "https://www.wlky.com/article/cyberattack-disrupts-european-supermarkets/74152907"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11224786/uk-bookstores-scramble-as-sally-rooneys-novels-are-withdrawn-because-she-supports-palestine-action.html"
+      "domain": "lufkindailynews.com",
+      "url": "https://lufkindailynews.com/news_reuters/business/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade/article_39014683-9c0d-5734-8665-1f36423130c6.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.7,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "central bank"
       ],
-      "domain": "chinanationalnews.com",
-      "url": "http://www.chinanationalnews.com/news/279377067/houthi-forces-attack-yemen-al-maashiq-presidential-palace-in-aden"
+      "domain": "lufkindailynews.com",
+      "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-europes-bond-market-turmoil-shines-a-spotlight-on-hedge-funds-role-in-key-markets/article_3d4f6737-e3e1-5be2-b6d4-e7c5400739b3.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.7,
       "treffer": [
         "mandeb"
       ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/politics/yemen-government-says-houthis-strike-presidential-palace-in-aden-11792094233341.html"
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/10/trumps-russian-diesel-deal-calms-global-fuel-markets-offers-relief-to-africa/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11224541/saudi-diplomat-says-iran-encourages-houthi-escalation-of-attacks-on-the-kingdom.html"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/revealed-vw-ford-tesla-batteries-070056000.html"
     }
   ],
   "gkg_alter_stunden": 0.0

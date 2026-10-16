@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-15T22:45:01",
+  "erstellt_am": "2026-10-16T09:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "3.25",
@@ -7,9 +7,9 @@
       "quelle": "FRED"
     },
     "IG_OAS": {
-      "wert": "0.84",
-      "beobachtungsdatum": "2026-10-14",
-      "quelle": "FRED"
+      "wert": "nicht verfügbar",
+      "quelle": "FRED",
+      "fehler": "HTTP Error 502: Bad Gateway"
     },
     "VIX": {
       "wert": "16.87",
@@ -22,8 +22,8 @@
       "quelle": "FRED"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.37",
-      "beobachtungsdatum": "2026-10-14",
+      "wert": "0.33",
+      "beobachtungsdatum": "2026-10-15",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.35",
-      "beobachtungsdatum": "2026-10-14",
+      "wert": "2.32",
+      "beobachtungsdatum": "2026-10-15",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -97,7 +97,7 @@
       "quelle": "FRED"
     },
     "IT_Rendite_10J_Monatlich": {
-      "wert": "3.98598",
+      "wert": "3.986",
       "beobachtungsdatum": "2026-08-01",
       "quelle": "FRED"
     },
@@ -312,32 +312,7 @@
       "hinweis": "fuer die Trend-Alternative '+75 bp in 5 Handelstagen' (bislang nur konzipiert, siehe Spezifikation 4.3)"
     },
     "IG_OAS_Historie": {
-      "werte": [
-        {
-          "datum": "2026-10-14",
-          "wert": 0.84
-        },
-        {
-          "datum": "2026-10-13",
-          "wert": 0.83
-        },
-        {
-          "datum": "2026-10-12",
-          "wert": 0.83
-        },
-        {
-          "datum": "2026-10-09",
-          "wert": 0.83
-        },
-        {
-          "datum": "2026-10-08",
-          "wert": 0.82
-        },
-        {
-          "datum": "2026-10-07",
-          "wert": 0.82
-        }
-      ],
+      "werte": [],
       "quelle": "FRED (letzte ca. 6 Handelstage)",
       "hinweis": "fuer die Trend-Alternative '+40 bp in 5 Handelstagen' (bislang nur konzipiert, siehe Spezifikation 4.3)"
     },
@@ -458,7 +433,7 @@
     },
     "EU_Funding_Spread_bp": {
       "wert": -6.0,
-      "markt_datum": "2026-10-14",
+      "markt_datum": "2026-10-15",
       "leitzins_datum": "2026-10-15",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -507,7 +482,7 @@
     },
     "EU_STR": {
       "wert": "2.44",
-      "beobachtungsdatum": "2026-10-14",
+      "beobachtungsdatum": "2026-10-15",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -527,14 +502,14 @@
     },
     "Japan_Tagesgeldsatz": {
       "wert": 1.228,
-      "beobachtungsdatum": "20261013",
+      "beobachtungsdatum": "20261014",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 28.09,
-      "beobachtungsdatum": "2026-10-14",
+      "wert": 32.17,
+      "beobachtungsdatum": "2026-10-16",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
