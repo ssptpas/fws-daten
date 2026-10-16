@@ -1,28 +1,19 @@
 {
-  "erstellt_am": "2026-10-16T09:45:39",
+  "erstellt_am": "2026-10-16T14:46:06",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261016074500",
+  "gkg_stand": "20261016124500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.3,
+      "tonalitaet": -8.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "varsitarian.net",
-      "url": "https://varsitarian.net/4-student-activists-appeal-sanctions-before-rectors-office/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.6,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "breakingnews.ie",
-      "url": "https://www.breakingnews.ie/world/seven-sailors-missing-after-drones-strike-tankers-near-romanias-black-sea-coast-1953951.html"
+      "domain": "clevelandstar.com",
+      "url": "http://www.clevelandstar.com/news/279374410/musk-s-starlink-faces-ukrainian-backlash"
     },
     {
       "kategorie": "Policy",
@@ -30,8 +21,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "chimpreports.com",
-      "url": "https://chimpreports.com/doctors-demand-reversal-of-candia-suspension-after-clash-with-minister-kawooya/"
+      "domain": "trinidadtimes.com",
+      "url": "http://www.trinidadtimes.com/news/279378570/china-sanctions-company-owned-by-taiwanese-lawmaker-father"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/russia-strikes-9-ukrainian-regions-strain-grows-zelenskyy-137313108"
     },
     {
       "kategorie": "Policy",
@@ -39,126 +39,99 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/905464/ukraine-trump-finishes-off-zelensky-talks-with-putin-ukrainian-air-defense-collapses-only-2-patriots-left"
+      "domain": "dailyliberal.com.au",
+      "url": "https://www.dailyliberal.com.au/story/9370164/israeli-settlers-target-palestinians-across-west-bank/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "examiner.com.au",
+      "url": "https://www.examiner.com.au/story/9370164/israeli-settlers-target-palestinians-across-west-bank/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -6.0,
       "treffer": [
-        "sanctions"
+        "ballistic"
       ],
-      "domain": "progressive-charlestown.com",
-      "url": "https://www.progressive-charlestown.com/search?updated-max=2026-10-13T18:02:00-04:00&max-results=15"
+      "domain": "wset.com",
+      "url": "https://wset.com/news/nation-world/hearing-on-dna-ballistics-evidence-in-murdaugh-case-scheduled-for-oct-16-alex-murdaugh-crime-retrial-defense-prosecution-landmark-case-on-the-lawyer-accused-of-murdering-family-and-federal-financial-crimes"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailymirror.lk",
-      "url": "https://www.dailymirror.lk/opinion/Sanctions-on-ICC-Trumps-new-world-order-is-nasty-brutish-and-dystopian/172-352628"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.6,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "chimpreports.com",
-      "url": "https://chimpreports.com/tshisekedis-office-bars-contact-with-belgian-embassy-after-property-raids/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "chimpreports.com",
-      "url": "https://chimpreports.com/eritrea-briefs-diplomats-on-ethiopian-threat-to-seize-sea-access/"
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "rte.ie",
-      "url": "https://www.rte.ie/news/business/2026/1016/1595601-world-oil-prices/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "countercurrents.org",
-      "url": "https://countercurrents.org/2026/10/what-does-the-green-partys-historic-anti-zionist-motion-mean-for-palestine/"
-    },
-    {
-      "kategorie": "Breite",
       "tonalitaet": -4.9,
       "treffer": [
-        "cyberattack"
-      ],
-      "domain": "everything-pr.com",
-      "url": "https://everything-pr.com/mgm-resorts-cyberattack-response"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "hormuz",
-        "suez"
-      ],
-      "domain": "rte.ie",
-      "url": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "wlky.com",
-      "url": "https://www.wlky.com/article/cyberattack-disrupts-european-supermarkets/74152907"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "lufkindailynews.com",
-      "url": "https://lufkindailynews.com/news_reuters/business/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade/article_39014683-9c0d-5734-8665-1f36423130c6.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "lufkindailynews.com",
-      "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-europes-bond-market-turmoil-shines-a-spotlight-on-hedge-funds-role-in-key-markets/article_3d4f6737-e3e1-5be2-b6d4-e7c5400739b3.html"
+      "domain": "dw.com",
+      "url": "https://www.dw.com/en/eu-summit-european-leaders-pledge-support-for-ukraines-zelenskyy/a-79678808"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.6,
       "treffer": [
         "mandeb"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/10/trumps-russian-diesel-deal-calms-global-fuel-markets-offers-relief-to-africa/"
+      "domain": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/news/world/why-yemens-taiz-city-has-become-a-key-battleground-in-the-renewed-civil-war/article71592403.ece"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279378810/roundup-imf-world-bank-warn-of-mounting-debt-divergent-ai-boom-at-bangkok-annual-meetings"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions",
+        "export controls"
+      ],
+      "domain": "mondaq.com",
+      "url": "https://www.mondaq.com:443/unitedstates/export-controls-trade-investment-sanctions/1856114/analysts-brief-prospects-for-us-iran-negotiations"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "cnbcafrica.com",
+      "url": "https://www.cnbcafrica.com/2026/trump-says-he-wont-use-nuclear-weapons-or-send-ground-troops-to-iran"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/revealed-vw-ford-tesla-batteries-070056000.html"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279378718/iran-air-defence-capabilities-surpass-pre-war-levels-says-army-spokesman-brigadier-general-akrami-nia-amid-us-strike-threats"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "oilprice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Oil-Price-Strategy-Faces-Two-Major-Tests-This-Weekend.html"
     }
   ],
   "gkg_alter_stunden": 0.0
