@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-17T14:45:02",
+  "erstellt_am": "2026-10-17T22:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "3.23",
@@ -372,9 +372,10 @@
       "hinweis": "fuer die Trend-Alternative '+40 bp in 5 Handelstagen' (bislang nur konzipiert, siehe Spezifikation 4.3)"
     },
     "Rohoel_Lager_USA": {
-      "wert": "nicht verfügbar",
+      "wert": "415577",
+      "beobachtungsdatum": "2026-10-09",
       "quelle": "EIA",
-      "fehler": "The read operation timed out"
+      "einheit": "MBBL"
     },
     "Hormus_Transit": {
       "wert": 2,

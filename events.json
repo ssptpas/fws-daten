@@ -1,91 +1,82 @@
 {
-  "erstellt_am": "2026-10-17T14:46:13",
+  "erstellt_am": "2026-10-17T22:45:48",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261017124500",
+  "gkg_stand": "20261017204500",
   "veraltet": false,
-  "anzahl": 22,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold,179324"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/jerusalem-report/article-911501"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/world/2026/10/17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kxly920.com",
-      "url": "https://kxly920.com/2026/10/17/trump-suspends-new-russia-sanctions-as-tensions-with-ukraine-deepen/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/world/2026/10/17/airstrike-kills-3-children-in-yemen-and-other-middle-east-developments/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "sitkasentinel.com",
-      "url": "http://www.sitkasentinel.com/stories/airstrike-kills-3-children-in-yemen-and-other-middle-east-developments,179319"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-quashes-cognizance-order-violation-section2231-bnss-serious-legal-infirmity-555115"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/economy/news/india-to-keep-russian-oil-imports-near-current-levels-after-trump-waiver-126101700454_1.html"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.0,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "thisdaylive.com",
+      "url": "https://www.thisdaylive.com/2026/10/17/navy-intensifies-crackdown-on-oil-thieves-uncovers-three-underground-reservoirs-containing-75000-litres-of-crude-oil/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailyliberal.com.au",
+      "url": "https://www.dailyliberal.com.au/story/9370344/masked-settlers-attack-diplomats-in-west-bank-belgium/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "the-messenger.com",
+      "url": "https://www.the-messenger.com/news/world/article_a55fc6b3-1e8a-5a29-8a74-dc252b4997da.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "fox13now.com",
+      "url": "https://www.fox13now.com/world/europe/trump-pauses-russia-sanctions-as-zelenskyy-urges-allies-to-fight-for-them"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "arynews.tv",
+      "url": "https://arynews.tv/israeli-settlers-attack-european-diplomats-beating-french-mayor"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/europe/belgium-condemns-attack-by-israeli-occupiers-on-palestinians-diplomats-in-west-bank/4092140"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theepochtimes.com",
+      "url": "https://www.theepochtimes.com/us/treasury-sanctions-iraqi-bank-and-iranian-shadow-networks-6104728"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -5.6,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "orissapost.com",
-      "url": "https://www.orissapost.com/irans-irgc-says-supertanker-hit-mine-in-hormuz-strait/"
+      "domain": "humanevents.com",
+      "url": "https://humanevents.com/2026/10/17/trump-signs-executive-order-to-waive-russian-sanctions-before-they-take-effect"
     },
     {
       "kategorie": "Policy",
@@ -93,55 +84,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/world/zelenskyy-says-believes-us-will-lift-more-russia-sanctions-article-14054512.html"
+      "domain": "dw.com",
+      "url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/10/zelensky-says-trump-waiving-sanctions-rewards-putin-warns-moscow-wants-blackout-in-ukraine/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailybulletin.com",
-      "url": "https://www.dailybulletin.com/2026/10/17/larry-wilson-why-is-the-u-s-attacking-the-international-criminal-court/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "politico.eu",
-      "url": "https://www.politico.eu/article/volodymyr-zelenskyy-says-vladimir-putin-looking-cause-ukraine-wide-blackout/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "nigeriasun.com",
-      "url": "http://www.nigeriasun.com/news/279380774/iran-says-supertanker-hit-mine-in-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz",
-        "red sea"
-      ],
-      "domain": "kenyastar.com",
-      "url": "http://www.kenyastar.com/news/279380896/imo-chief-urges-ships-to-avoid-strait-of-hormuz-amid-escalating-attacks"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/eurasia/zelenskyy-says-russia-sanctions-relief-could-continue-diesel-deal-first-step-/4092076"
     },
     {
       "kategorie": "Policy",
@@ -149,64 +102,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/india/don-t-applaud-fssai-interrogate-it-pawan-khera-questions-regulator-after-cattle-feed-bran-found-in-priyagold-biscuits-14054497.html"
+      "domain": "thenational.scot",
+      "url": "https://www.thenational.scot/news/26646596.no-police-action-sarah-helm-palestine-action-post/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/opinion/article-911770"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/middle-east/article-911798"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bracknellnews.co.uk",
-      "url": "https://www.bracknellnews.co.uk/news/national/26645777.ex-national-security-adviser-issues-warning-amid-fraying-us-ukraine-relationship/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/jerusalem-report/article-911506"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/bishop-drags-anglican-primate-to-court-over-compulsory-leave/"
+      "domain": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/conflict/russia-says-it-hit-ukrainian-steel-plants-and-ships-c-23036394"
     }
   ],
   "gkg_alter_stunden": 0.0
