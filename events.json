@@ -1,114 +1,83 @@
 {
-  "erstellt_am": "2026-10-16T22:47:19",
+  "erstellt_am": "2026-10-17T09:45:33",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261016204500",
+  "gkg_stand": "20261017074500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 16,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.6,
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "thegazette.com",
-      "url": "http://www.thegazette.com/news/world/2-missiles-strike-the-airport-in-yemens-port-city-of-aden-officials-say/article_71e5811c-d490-53f8-84e5-c92b76557cd2.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "hormuz",
-        "refinery",
-        "opec",
-        "tanker"
-      ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Back-Off-Even-As-Prices-Soar.html"
+      "domain": "orissapost.com",
+      "url": "https://www.orissapost.com/fssai-launches-prosecution-against-surya-food-over-alleged-use-of-cattle-feed-bran/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -6.0,
       "treffer": [
         "sanctions"
+      ],
+      "domain": "sana.sy",
+      "url": "https://sana.sy/en/economic/2351341/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "ballistic"
       ],
       "domain": "nypost.com",
-      "url": "https://nypost.com/2026/10/16/opinion/blakeman-and-hochuls-heated-debate-letters/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "dhakacourier.com.bd",
-      "url": "http://www.dhakacourier.com.bd/news/Global/Iran-backed-Houthis-strike-Saudi-oil-company-Aramco%E2%80%99s-headquarters-officials-say/10555"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/article-brent-crude-touches-us110-a-barrel-for-first-time-since-may-on-middle/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/war-in-yemen-now-impacting-the-whole-gulf-region"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dhakacourier.com.bd",
-      "url": "http://www.dhakacourier.com.bd/news/Global/Why-Saudi-Arabia-has-struggled-to-defend-itself-against-the-Houthis%E2%80%99-recent-attacks/10556"
+      "url": "https://nypost.com/2026/10/17/us-news/alex-murdaugh-judge-warns-against-courtroom-circus-as-defense-wins-dna-fight-loses-ballistics-bid/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.1,
       "treffer": [
-        "sanctions"
+        "sanctions",
+        "tariffs"
       ],
-      "domain": "tol.org",
-      "url": "https://tol.org/client/article/is-the-u-s-limiting-starlink-in-ukraine-the-consequences-could-be-catastrophic.html"
+      "domain": "kashmirreader.com",
+      "url": "https://kashmirreader.com/2026/10/17/trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -5.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/10/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks/"
+      "domain": "santamariatimes.com",
+      "url": "https://santamariatimes.com/ap/national/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength/article_45775664-015a-5eb2-9953-4d7ccc0f7bc4.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/norway-wealth-fund-nuclear-weapons-investments-1826153"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "heraldseries.co.uk",
-      "url": "https://www.heraldseries.co.uk/news/national/26645604.amazon-deforestation-falls-lowest-level-since-1988-brazil-says/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.4,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279379819/saudi-led-coalition-claims-to-intercept-ballistic-missile-targeting-yanbu-two-cruise-missiles-over-red-sea"
+      "domain": "japanherald.com",
+      "url": "http://www.japanherald.com/news/279380681/taiwan-accuses-china-of-trying-to-influence-elections-through-sanctions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jamaica-gleaner.com",
+      "url": "https://jamaica-gleaner.com/article/world-news/20261017/new-report-shows-spike-civilian-casualties-amid-russian-strikes"
     },
     {
       "kategorie": "Policy",
@@ -116,26 +85,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "thegazette.com",
-      "url": "http://www.thegazette.com/news/world/brazil-says-amazon-deforestation-fell-to-the-lowest-level-since-1988/article_742baf19-0716-5075-9626-053f273331f8.html"
+      "domain": "jamaica-gleaner.com",
+      "url": "https://jamaica-gleaner.com/article/world-news/20261017/amazon-deforestation-hits-lowest-level-1988"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "peeblesshirenews.com",
-      "url": "https://www.peeblesshirenews.com/news/national/26645467.uk-government-not-actively-looking-save-palestinian-lives-says-snp-mp/"
+      "domain": "iheart.com",
+      "url": "https://720thevoice.iheart.com/content/2026-10-17-trump-waives-new-sanctions-against-russia/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/brazil-amazon-deforestation-fell-lowest-level-1988-137329441"
+      "domain": "foreignpolicyjournal.com",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/17/ftse-100-indexftse-ukx-slips-as-iran-strait-closure-threat-holds-oil-above-105/"
     },
     {
       "kategorie": "Policy",
@@ -143,8 +112,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/investors-rotated-out-ai-trade-geopolitical-tensions-soared-nasdaq-saw-its-worst-week-months-3808691"
+      "domain": "yorkpress.co.uk",
+      "url": "https://www.yorkpress.co.uk/news/national/26645728.trump-waives-russian-sanctions-us-ukraine-relationship-frays/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "lynnnews.co.uk",
+      "url": "https://www.lynnnews.co.uk/national/trump-waives-russian-sanctions-as-us-ukraine-relationship-frays-173109/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nwemail.co.uk",
+      "url": "https://www.nwemail.co.uk/news/national/26645686.british-troops-take-part-major-ukraine-facing-wargame-next-month/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/world/5330454-trump-puts-new-russia-sanctions-he-recently-signed-law-hold-citing-national-interest"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sthelensstar.co.uk",
+      "url": "https://www.sthelensstar.co.uk/news/national/26645686.british-troops-take-part-major-ukraine-facing-wargame-next-month/"
     }
   ],
   "gkg_alter_stunden": 0.0
