@@ -1,29 +1,109 @@
 {
-  "erstellt_am": "2026-10-17T13:38:47",
+  "erstellt_am": "2026-10-17T14:46:13",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261017114500",
+  "gkg_stand": "20261017124500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 22,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "kategorie": "Policy",
+      "tonalitaet": -9.2,
       "treffer": [
-        "hormuz",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/news/world/iran-says-supertanker-carrying-2-million-barrels-of-crude-ablaze-after-hitting-naval-mine-in-strait-of-hormuz-11792232414310.html"
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold,179324"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/jerusalem-report/article-911501"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/world/2026/10/17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kxly920.com",
+      "url": "https://kxly920.com/2026/10/17/trump-suspends-new-russia-sanctions-as-tensions-with-ukraine-deepen/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/world/2026/10/17/airstrike-kills-3-children-in-yemen-and-other-middle-east-developments/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "sitkasentinel.com",
+      "url": "http://www.sitkasentinel.com/stories/airstrike-kills-3-children-in-yemen-and-other-middle-east-developments,179319"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "livelaw.in",
+      "url": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-quashes-cognizance-order-violation-section2231-bnss-serious-legal-infirmity-555115"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/economy/news/india-to-keep-russian-oil-imports-near-current-levels-after-trump-waiver-126101700454_1.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
+      "tonalitaet": -5.6,
       "treffer": [
         "hormuz"
       ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279380849/iran-irgc-says-supertanker-exploded-after-hitting-mine-in-hormuz-strait"
+      "domain": "orissapost.com",
+      "url": "https://www.orissapost.com/irans-irgc-says-supertanker-hit-mine-in-hormuz-strait/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/zelenskyy-says-believes-us-will-lift-more-russia-sanctions-article-14054512.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/10/zelensky-says-trump-waiving-sanctions-rewards-putin-warns-moscow-wants-blackout-in-ukraine/"
     },
     {
       "kategorie": "Policy",
@@ -31,8 +111,17 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ocregister.com",
-      "url": "https://www.ocregister.com/2026/10/17/larry-wilson-why-is-the-u-s-attacking-the-international-criminal-court/"
+      "domain": "dailybulletin.com",
+      "url": "https://www.dailybulletin.com/2026/10/17/larry-wilson-why-is-the-u-s-attacking-the-international-criminal-court/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "politico.eu",
+      "url": "https://www.politico.eu/article/volodymyr-zelenskyy-says-vladimir-putin-looking-cause-ukraine-wide-blackout/"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -41,74 +130,84 @@
         "hormuz",
         "red sea"
       ],
-      "domain": "zimbabwestar.com",
-      "url": "http://www.zimbabwestar.com/news/279380774/iran-says-supertanker-hit-mine-in-strait-of-hormuz"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/newsletters/the-week-in-review-houthi-attacks-rattle-saudi-arabia-trump-eases-pressure-on-russian-oil-11792214970775.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thevermilion.com",
-      "url": "https://www.thevermilion.com/another-u-turn-by-trump-he-suspends-a-package-of-sanctions-on-russia-which-he-himself-had-signed/article_21790/"
+      "domain": "nigeriasun.com",
+      "url": "http://www.nigeriasun.com/news/279380774/iran-says-supertanker-hit-mine-in-strait-of-hormuz"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
       "treffer": [
+        "hormuz",
         "red sea"
       ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20261017/b323fdbcf04440529c743705d5b392b7/c.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/international/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/article71596177.ece"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says"
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279380896/imo-chief-urges-ships-to-avoid-strait-of-hormuz-amid-escalating-attacks"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cravenherald.co.uk",
-      "url": "https://www.cravenherald.co.uk/news/national/26645777.ex-national-security-adviser-issues-warning-amid-fraying-us-ukraine-relationship/"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/india/don-t-applaud-fssai-interrogate-it-pawan-khera-questions-regulator-after-cattle-feed-bran-found-in-priyagold-biscuits-14054497.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/cornell-student-response-rape-allegations"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/opinion/article-911770"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/middle-east/article-911798"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bracknellnews.co.uk",
+      "url": "https://www.bracknellnews.co.uk/news/national/26645777.ex-national-security-adviser-issues-warning-amid-fraying-us-ukraine-relationship/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/jerusalem-report/article-911506"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/bishop-drags-anglican-primate-to-court-over-compulsory-leave/"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }
