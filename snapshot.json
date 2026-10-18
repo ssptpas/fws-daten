@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-18T14:45:01",
+  "erstellt_am": "2026-10-18T22:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.23",
@@ -12,14 +12,14 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "16.46",
-      "beobachtungsdatum": "2026-10-15",
-      "quelle": "FRED"
+      "wert": "19.99",
+      "beobachtungsdatum": "2026-10-16",
+      "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "VIX3M": {
-      "wert": "18.49",
-      "beobachtungsdatum": "2026-10-15",
-      "quelle": "FRED"
+      "wert": "20.5",
+      "beobachtungsdatum": "2026-10-16",
+      "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "Zinskurve_10J_2J": {
       "wert": "0.35",
@@ -288,6 +288,10 @@
     "VIX_Historie": {
       "werte": [
         {
+          "datum": "2026-10-16",
+          "wert": 19.99
+        },
+        {
           "datum": "2026-10-15",
           "wert": 16.46
         },
@@ -302,13 +306,9 @@
         {
           "datum": "2026-10-12",
           "wert": 15.21
-        },
-        {
-          "datum": "2026-10-09",
-          "wert": 14.84
         }
       ],
-      "quelle": "FRED (letzte 5 Handelstage)",
+      "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell) (letzte 5 Handelstage)",
       "hinweis": "fuer die Alarm-Persistenzregel: zwei Schlusskurse in Folge ueber 30 noetig, nie aus dem Gedaechtnis schaetzen"
     },
     "HY_OAS_Historie": {
@@ -372,10 +372,9 @@
       "hinweis": "fuer die Trend-Alternative '+40 bp in 5 Handelstagen' (bislang nur konzipiert, siehe Spezifikation 4.3)"
     },
     "Rohoel_Lager_USA": {
-      "wert": "415577",
-      "beobachtungsdatum": "2026-10-09",
+      "wert": "nicht verfügbar",
       "quelle": "EIA",
-      "einheit": "MBBL"
+      "fehler": "The read operation timed out"
     },
     "Hormus_Transit": {
       "wert": 2,
@@ -430,6 +429,10 @@
     "VIX_VIX3M_Ratio_Historie": {
       "werte": [
         {
+          "datum": "2026-10-16",
+          "wert": 0.9751
+        },
+        {
           "datum": "2026-10-15",
           "wert": 0.8902
         },
@@ -444,13 +447,9 @@
         {
           "datum": "2026-10-12",
           "wert": 0.8483
-        },
-        {
-          "datum": "2026-10-09",
-          "wert": 0.8351
         }
       ],
-      "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
+      "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell) (berechnet, letzte 5 gemeinsamen Handelstage)",
       "hinweis": "fuer die Voralarm-Persistenzregel: Ratio > 1,00 an zwei Handelsschluessen, davon einmal > 1,02"
     },
     "Bank_Stress_KBE": {
@@ -472,14 +471,16 @@
       "hoch_60T": 20.19,
       "drawdown_pct": -7.3,
       "beobachtungsdatum": "2026-10-16",
-      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
+      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)",
+      "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
-    "Privatkredit_PSEC": {
-      "wert": 1.6,
-      "hoch_60T": 2.35,
-      "drawdown_pct": -31.9,
+    "Privatkredit_BIZD": {
+      "wert": 12.01,
+      "hoch_60T": 13.54,
+      "drawdown_pct": -11.3,
       "beobachtungsdatum": "2026-10-16",
-      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
+      "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)",
+      "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "SOFR_minus_IORB_bp": {
       "wert": -1.0,
@@ -506,9 +507,9 @@
       "quelle": "FRED (berechnet, SOFR als OIS-Naeherung)"
     },
     "VIX_VIX3M_Ratio": {
-      "wert": 0.8902,
-      "beobachtungsdatum": "2026-10-15",
-      "quelle": "FRED (berechnet)"
+      "wert": 0.9751,
+      "beobachtungsdatum": "2026-10-16",
+      "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell) (berechnet)"
     },
     "Diesel_Crack_USD_bbl": {
       "wert": 101.54,
@@ -593,7 +594,7 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 101.41,
+      "wert": 99.02,
       "beobachtungsdatum": "2026-10-16",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
