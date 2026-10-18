@@ -1,55 +1,100 @@
 {
-  "erstellt_am": "2026-10-18T09:45:29",
+  "erstellt_am": "2026-10-18T14:45:45",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261018074500",
+  "gkg_stand": "20261018124500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 20,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/10/irans-oil-lifeline-runs-dry-can-it-outlast-trumps-economic-siege"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87402"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-attacked-people-skiff-yemen-ukmto-says"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
+      "tonalitaet": -8.9,
       "treffer": [
         "oil terminal"
       ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87403"
+      "domain": "dailystar.co.uk",
+      "url": "https://www.dailystar.co.uk/news/world-news/putins-hometown-hit-massive-drone-37784086"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "oil terminal"
+      ],
+      "domain": "koco.com",
+      "url": "https://www.koco.com/article/ukraine-drone-strikes-russia/74169652"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -6.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87400"
+      "domain": "shanghainews.net",
+      "url": "http://www.shanghainews.net/news/279379714/zelenskyy-seeks-european-support-as-winter-nears"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "taiwansun.com",
+      "url": "http://www.taiwansun.com/news/279379714/russian-strikes-cause-power-cuts-in-9-ukrainian-regions"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "oil terminal"
+      ],
+      "domain": "idahostatejournal.com",
+      "url": "https://www.idahostatejournal.com/news/national/blaze-at-st-petersburg-oil-sites-as-kyiv-launches-more-than-1-000-drones-at/article_16b6c206-60b0-5aeb-a4c5-1104b9b76aa0.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/opinions-analysis/article/rktdbgm3ge"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wjcw.com",
+      "url": "https://www.wjcw.com/2026/10/18/trump-delays-russia-sanctions-for-60-days-as-white-house-reviews-economic-impact/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/andy-burnham-given-chilling-warning-113800000.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "oil terminal"
+      ],
+      "domain": "idahostatejournal.com",
+      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_cbabc4b8-aee1-5ceb-b8f1-dde036415a00.html"
     },
     {
       "kategorie": "Policy",
@@ -57,26 +102,62 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "thecourier.com.au",
-      "url": "https://www.thecourier.com.au/story/9370357/zelenskiy-criticises-us-waiver-of-sanctions-on-russia/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "oil terminal"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/refined-in-india-bound-for-west-russian-crude-fuel-exports-to-europe-rise-43/articleshow/135024570.cms"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87429"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thedailybeast.com",
-      "url": "https://www.thedailybeast.com/rebel-republican-andrew-c-mccarthy-hits-trump-with-treason-accusation-over-vladimir-putin"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ejpress.org",
+      "url": "https://ejpress.org/95223-2/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thestar.com.my",
+      "url": "https://www.thestar.com.my/lifestyle/culture/2026/10/18/sally-rooney-withdrawal-sends-ripples-through-uk-book-trade"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/rubio-says-ukraine-without-access-to-starshield-future-under-discussion/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87414"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87408"
     },
     {
       "kategorie": "Policy",
@@ -84,8 +165,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "aawsat.com",
-      "url": "https://english.aawsat.com/arab-world/5330712-are-iran-backed-iraq-factions-facing-financial-crisis"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87410"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "vijesti.hrt.hr",
+      "url": "https://vijesti.hrt.hr/svijet/zelenski-rusija-je-u-proteklom-tjednu-76-puta-napala-ukrajinski-energetski-sektor-12963493"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thecourier.com.au",
+      "url": "https://www.thecourier.com.au/story/9370348/iran-plan-to-open-shipping-lane-still-on-the-table/"
     }
   ],
   "gkg_alter_stunden": 0.0
