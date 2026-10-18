@@ -1,82 +1,46 @@
 {
-  "erstellt_am": "2026-10-17T22:45:48",
+  "erstellt_am": "2026-10-18T09:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261017204500",
+  "gkg_stand": "20261018074500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 9,
   "ereignisse": [
     {
+      "kategorie": "Policy",
+      "tonalitaet": -8.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/10/irans-oil-lifeline-runs-dry-can-it-outlast-trumps-economic-siege"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87402"
+    },
+    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
+      "tonalitaet": -6.7,
       "treffer": [
-        "crude oil"
+        "tanker"
       ],
-      "domain": "thisdaylive.com",
-      "url": "https://www.thisdaylive.com/2026/10/17/navy-intensifies-crackdown-on-oil-thieves-uncovers-three-underground-reservoirs-containing-75000-litres-of-crude-oil/"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-attacked-people-skiff-yemen-ukmto-says"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
       "treffer": [
-        "sanctions"
+        "oil terminal"
       ],
-      "domain": "dailyliberal.com.au",
-      "url": "https://www.dailyliberal.com.au/story/9370344/masked-settlers-attack-diplomats-in-west-bank-belgium/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/world/article_a55fc6b3-1e8a-5a29-8a74-dc252b4997da.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "fox13now.com",
-      "url": "https://www.fox13now.com/world/europe/trump-pauses-russia-sanctions-as-zelenskyy-urges-allies-to-fight-for-them"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arynews.tv",
-      "url": "https://arynews.tv/israeli-settlers-attack-european-diplomats-beating-french-mayor"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/europe/belgium-condemns-attack-by-israeli-occupiers-on-palestinians-diplomats-in-west-bank/4092140"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/us/treasury-sanctions-iraqi-bank-and-iranian-shadow-networks-6104728"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "humanevents.com",
-      "url": "https://humanevents.com/2026/10/17/trump-signs-executive-order-to-waive-russian-sanctions-before-they-take-effect"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87403"
     },
     {
       "kategorie": "Policy",
@@ -84,26 +48,35 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "dw.com",
-      "url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87400"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/eurasia/zelenskyy-says-russia-sanctions-relief-could-continue-diesel-deal-first-step-/4092076"
+      "domain": "thecourier.com.au",
+      "url": "https://www.thecourier.com.au/story/9370357/zelenskiy-criticises-us-waiver-of-sanctions-on-russia/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.0,
       "treffer": [
+        "oil terminal"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/refined-in-india-bound-for-west-russian-crude-fuel-exports-to-europe-rise-43/articleshow/135024570.cms"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
         "sanctions"
       ],
-      "domain": "thenational.scot",
-      "url": "https://www.thenational.scot/news/26646596.no-police-action-sarah-helm-palestine-action-post/"
+      "domain": "thedailybeast.com",
+      "url": "https://www.thedailybeast.com/rebel-republican-andrew-c-mccarthy-hits-trump-with-treason-accusation-over-vladimir-putin"
     },
     {
       "kategorie": "Policy",
@@ -111,8 +84,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/conflict/russia-says-it-hit-ukrainian-steel-plants-and-ships-c-23036394"
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/arab-world/5330712-are-iran-backed-iraq-factions-facing-financial-crisis"
     }
   ],
   "gkg_alter_stunden": 0.0
