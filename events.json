@@ -1,84 +1,37 @@
 {
-  "erstellt_am": "2026-10-19T14:46:32",
+  "erstellt_am": "2026-10-19T22:46:03",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261019124500",
+  "gkg_stand": "20261019204500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.4,
+      "tonalitaet": -9.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87504"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kashmirlife.net",
-      "url": "https://kashmirlife.net/jammu-kashmir-acb-files-charge-sheet-against-postal-assistant-in-rs-6500-bribery-case-457349/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wmtw.com",
-      "url": "https://www.wmtw.com/article/north-korea-propaganda-broadcasts-weapons-south-border/74177593"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/britain-threatens-sanctions-firms-tied-illegal-west-bank-settlements"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.5,
+      "tonalitaet": -6.9,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "tanker"
       ],
-      "domain": "orissapost.com",
-      "url": "https://www.orissapost.com/houthis-kill-at-least-20-in-yemen-military-camp-strike/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "durangoherald.com",
-      "url": "https://www.durangoherald.com/articles/associated-press/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-20-fighters/"
+      "domain": "tell.ng",
+      "url": "https://www.tell.ng/breaking-tanker-catches-fire-under-otedola-bridge-in-lagos-emergency-responders-mobilised/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "thepoint.gm",
-      "url": "https://thepoint.gm/africa/gambia/headlines/sanna-manjang-denies-role-in-2006-coup-suspects-torture"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/19/zelensky-says-ukraine-got-no-warning-as-russia-launches-major-attack"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87487"
+      "domain": "winnipegfreepress.com",
+      "url": "https://www.winnipegfreepress.com/world/2026/10/19/us-and-cuba-clash-at-un-as-washington-seeks-to-sway-annual-vote-on-economic-embargo"
     },
     {
       "kategorie": "Policy",
@@ -86,17 +39,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ejpress.org",
-      "url": "https://ejpress.org/french-jewish-leader-calls-on-government-to-declare-emergency/"
+      "domain": "jamestown.org",
+      "url": "https://jamestown.org/russian-diesel-deal-and-energy-ceasefire-expose-moscows-limits/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
       "tonalitaet": -4.9,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "cfr.org",
-      "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-over-taiwan"
+      "domain": "deadline.com",
+      "url": "https://deadline.com/2026/10/trump-bbc-lawsuit-jack-smith-1237167854/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "northweststar.com.au",
+      "url": "https://www.northweststar.com.au/story/9370853/the-echidna-across-the-world-we-finally-had-our-day-in-court/"
     },
     {
       "kategorie": "Policy",
@@ -104,17 +66,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87492"
+      "domain": "deadline.com",
+      "url": "https://deadline.com/print-article/1237167854/"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Policy",
       "tonalitaet": -4.7,
       "treffer": [
-        "cyber attack"
+        "sanctions"
       ],
-      "domain": "ianslive.in",
-      "url": "https://ianslive.in/276-million-pieces-of-customers-information-at-hollys-leaked-in-cyber-attack--20261019163756"
+      "domain": "thecourier.com.au",
+      "url": "https://www.thecourier.com.au/story/9370853/the-echidna-across-the-world-we-finally-had-our-day-in-court/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cotswoldjournal.co.uk",
+      "url": "https://www.cotswoldjournal.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kidderminstershuttle.co.uk",
+      "url": "https://www.kidderminstershuttle.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "premiumtimesng.com",
+      "url": "https://www.premiumtimesng.com/news/top-news/918337-6billion-mambilla-power-contract-ex-governor-liyel-imoke-testifies-against-former-power-minister-agunloye.html"
     },
     {
       "kategorie": "Policy",
@@ -122,62 +111,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://knrs.iheart.com/content/2026-10-19-putin-proposes-ukraine-summit-with-us-china-no-ukraine/"
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.2,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "wmtw.com",
-      "url": "https://www.wmtw.com/article/trump-waives-new-russia-sanctions/74176154"
+      "domain": "maritime-executive.com",
+      "url": "https://maritime-executive.com/article/tug-attacked-near-strait-of-hormuz"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kztv10.com",
-      "url": "https://www.kztv10.com/us-news/trump-waives-russia-related-sanctions-before-they-kick-in-prompting-backlash-from-ukraine-and-us-lawmakers"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "oil terminal"
-      ],
-      "domain": "goulburnpost.com.au",
-      "url": "https://www.goulburnpost.com.au/story/9370675/zelenskiy-says-us-trying-to-force-ukraine-capitulation/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "oil terminal"
-      ],
-      "domain": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9370675/zelenskiy-says-us-trying-to-force-ukraine-capitulation/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "yourdemocracy.net",
-      "url": "https://yourdemocracy.net/drupal/node/61479"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thedailybeast.com",
-      "url": "https://www.thedailybeast.com/murdoch-paper-unleashes-savage-verdict-on-trumps-suck-up-to-putin"
+      "domain": "northafricapost.com",
+      "url": "https://northafricapost.com/101030-moroccos-competition-council-delivers-tough-assessment-of-record-breaking-2025.html"
     }
   ],
   "gkg_alter_stunden": 0.0
