@@ -1,110 +1,64 @@
 {
-  "erstellt_am": "2026-10-18T22:46:11",
+  "erstellt_am": "2026-10-19T09:45:53",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261018204500",
+  "gkg_stand": "20261019074500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 9,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.8,
+      "tonalitaet": -6.9,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "sunstar.com.ph",
-      "url": "https://www.sunstar.com.ph/davao/dcpo-acknowledges-ltos-riding-concerns-but-maintains-counterflow-caused-toril-crash"
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/10/19/nufbte-urges-house-of-representatives-to-halt-passage-of-ceta-bill/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "ohiostandard.com",
+      "url": "http://www.ohiostandard.com/news/279383893/cyberattacks-on-critical-financial-infrastructure-could-disrupt-payments-credit-and-market-confidence-imf"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "oil terminal"
-      ],
-      "domain": "foxreno.com",
-      "url": "https://foxreno.com/news/nation-world/ukraine-launches-1000-plus-drones-at-russia-sparking-st-petersburg-oil-fires-1-dead"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailykos.com",
-      "url": "https://www.dailykos.com/stories/2026/10/18/800114142/community/jd-vance-i-have-not-seen-a-single-shred-of-evidence-that-trump-is-corrupt/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "latintimes.com",
-      "url": "https://www.latintimes.com/cubas-blackout-record-shattered-how-one-plant-fire-left-75-island-dark-600298"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wnyc.org",
-      "url": "https://wnyc.org/npr/nx-s1-6007382"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wwno.org",
-      "url": "https://www.wwno.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "courant.com",
-      "url": "https://www.courant.com/2026/10/18/zelenskyy-says-trump-risks-historic-mistake-if-he-backs-russia/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://newsradio967.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -6.0,
       "treffer": [
         "red sea"
       ],
-      "domain": "latintimes.com",
-      "url": "https://www.latintimes.com/zelensky-calls-eu-leaders-real-patriot-missiles-run-out-trumps-ceasefire-collapses-600281"
+      "domain": "californiatelegraph.com",
+      "url": "http://www.californiatelegraph.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/ukraine-launches-over-1000-drones-at-russia-setting-oil-facilities-ablaze/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "ncr-iran.org",
+      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-october-19-2026/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "cairnspost.com.au",
+      "url": "https://www.cairnspost.com.au/news/cairns/teen-denies-knowing-coaccused-planned-to-rape-cairns-woman-during-home-invasion/news-story/10ee38b08da3dfe8a89fc5814dba34e1&memtype=anonymous&mode=premium&nk=ec2be69582fe69e3d72b96cd14e0c84f-1792395131"
     },
     {
       "kategorie": "Policy",
@@ -112,18 +66,27 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279383235/us-treasury-chief-bessent-says-no-one-has-been-tougher-on-russian-sanctions-than-trump"
+      "domain": "thediplomat.com",
+      "url": "https://thediplomat.com/2026/10/indonesian-stock-exchange-plunges-after-fresh-msci-downgrade-threat/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
       "treffer": [
-        "sanctions",
-        "tariffs"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "russiaherald.com",
-      "url": "http://www.russiaherald.com/news/279383190/we-asked-european-allies-to-put-secondary-tariffs-on-india-and-china-for-buying-russian-oil-they-refused-scott-bessent"
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279384142/1st-ld-writethru-iran-says-violating-oil-tanker-exploded-after-hitting-mine-south-of-hormuz-strait"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "rediff.com",
+      "url": "https://www.rediff.com/news/report/rubios-india-visit-the-russian-oil-factor/20261019.htm"
     }
   ],
   "gkg_alter_stunden": 0.0
