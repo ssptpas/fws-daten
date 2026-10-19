@@ -1,64 +1,138 @@
 {
-  "erstellt_am": "2026-10-19T09:45:53",
+  "erstellt_am": "2026-10-19T14:46:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261019074500",
+  "gkg_stand": "20261019124500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 19,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/10/19/nufbte-urges-house-of-representatives-to-halt-passage-of-ceta-bill/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "ohiostandard.com",
-      "url": "http://www.ohiostandard.com/news/279383893/cyberattacks-on-critical-financial-infrastructure-could-disrupt-payments-credit-and-market-confidence-imf"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "californiatelegraph.com",
-      "url": "http://www.californiatelegraph.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
+      "tonalitaet": -8.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/ukraine-launches-over-1000-drones-at-russia-setting-oil-facilities-ablaze/"
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87504"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kashmirlife.net",
+      "url": "https://kashmirlife.net/jammu-kashmir-acb-files-charge-sheet-against-postal-assistant-in-rs-6500-bribery-case-457349/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wmtw.com",
+      "url": "https://www.wmtw.com/article/north-korea-propaganda-broadcasts-weapons-south-border/74177593"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "tonalitaet": -7.5,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-october-19-2026/"
+      "domain": "orissapost.com",
+      "url": "https://www.orissapost.com/houthis-kill-at-least-20-in-yemen-military-camp-strike/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "durangoherald.com",
+      "url": "https://www.durangoherald.com/articles/associated-press/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-20-fighters/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "thepoint.gm",
+      "url": "https://thepoint.gm/africa/gambia/headlines/sanna-manjang-denies-role-in-2006-coup-suspects-torture"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/19/zelensky-says-ukraine-got-no-warning-as-russia-launches-major-attack"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87487"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ejpress.org",
+      "url": "https://ejpress.org/french-jewish-leader-calls-on-government-to-declare-emergency/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.9,
       "treffer": [
         "invasion"
       ],
-      "domain": "cairnspost.com.au",
-      "url": "https://www.cairnspost.com.au/news/cairns/teen-denies-knowing-coaccused-planned-to-rape-cairns-woman-during-home-invasion/news-story/10ee38b08da3dfe8a89fc5814dba34e1&memtype=anonymous&mode=premium&nk=ec2be69582fe69e3d72b96cd14e0c84f-1792395131"
+      "domain": "cfr.org",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-over-taiwan"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87492"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "ianslive.in",
+      "url": "https://ianslive.in/276-million-pieces-of-customers-information-at-hollys-leaked-in-cyber-attack--20261019163756"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iheart.com",
+      "url": "https://knrs.iheart.com/content/2026-10-19-putin-proposes-ukraine-summit-with-us-china-no-ukraine/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wmtw.com",
+      "url": "https://www.wmtw.com/article/trump-waives-new-russia-sanctions/74176154"
     },
     {
       "kategorie": "Policy",
@@ -66,27 +140,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "thediplomat.com",
-      "url": "https://thediplomat.com/2026/10/indonesian-stock-exchange-plunges-after-fresh-msci-downgrade-threat/"
+      "domain": "kztv10.com",
+      "url": "https://www.kztv10.com/us-news/trump-waives-russia-related-sanctions-before-they-kick-in-prompting-backlash-from-ukraine-and-us-lawmakers"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -4.1,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "oil terminal"
       ],
-      "domain": "iranherald.com",
-      "url": "http://www.iranherald.com/news/279384142/1st-ld-writethru-iran-says-violating-oil-tanker-exploded-after-hitting-mine-south-of-hormuz-strait"
+      "domain": "goulburnpost.com.au",
+      "url": "https://www.goulburnpost.com.au/story/9370675/zelenskiy-says-us-trying-to-force-ukraine-capitulation/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -4.1,
       "treffer": [
-        "refinery"
+        "oil terminal"
       ],
-      "domain": "rediff.com",
-      "url": "https://www.rediff.com/news/report/rubios-india-visit-the-russian-oil-factor/20261019.htm"
+      "domain": "edenmagnet.com.au",
+      "url": "https://www.edenmagnet.com.au/story/9370675/zelenskiy-says-us-trying-to-force-ukraine-capitulation/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "yourdemocracy.net",
+      "url": "https://yourdemocracy.net/drupal/node/61479"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thedailybeast.com",
+      "url": "https://www.thedailybeast.com/murdoch-paper-unleashes-savage-verdict-on-trumps-suck-up-to-putin"
     }
   ],
   "gkg_alter_stunden": 0.0
