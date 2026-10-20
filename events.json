@@ -1,73 +1,127 @@
 {
-  "erstellt_am": "2026-10-20T09:45:31",
+  "erstellt_am": "2026-10-20T14:46:20",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261020074500",
+  "gkg_stand": "20261020124500",
   "veraltet": false,
-  "anzahl": 11,
+  "anzahl": 18,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.7,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "pmnewsnigeria.com",
-      "url": "https://pmnewsnigeria.com/2026/10/20/frsc-orders-probe-into-otedola-bridge-tanker-inferno/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -9.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "antaranews.com",
-      "url": "https://en.antaranews.com/news/436725/indonesia-pursues-legal-enforcement-as-fire-suppression-continues"
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/krugman-trump-political-bankruptcy-midterms-risky-decisions-1826734"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/trump-faces-sanctions-bbc-legal-battle-1826732"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "rawstory.com",
+      "url": "https://www.rawstory.com/trump-russia-2678110361/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/magazine/article/hysmh5e3zl"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "gamerheadlines.com",
+      "url": "https://gamerheadlines.com/helldivers-2-devoid-of-liberty-patch-7-2-0-collab-weapons-bile-strain/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "theregister.com",
+      "url": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114"
+    },
+    {
+      "kategorie": "Finanzsystem",
       "tonalitaet": -5.0,
       "treffer": [
-        "air strike"
+        "central bank"
       ],
-      "domain": "pmnewsnigeria.com",
-      "url": "https://pmnewsnigeria.com/2026/10/20/air-strikes-deal-heavy-blow-to-iswap-kill-103-fighters/"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.9,
       "treffer": [
-        "refinery"
+        "red sea"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/906084/ukraine-in-ruins-trump-rejects-zelensky-s-refinery-pledge-in-row-over-us-air-defense"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/uk-to-deploy-typhoon-fighter-jets-to-defend-saudi-arabia-against-houthi-missile-drone-attacks-article-14056041.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.5,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202610200172.html"
+      "domain": "newstribune.com",
+      "url": "https://www.newstribune.com/news/2026/oct/20/zelenskyy-says-trump-is-pushing-ukraine-not-putin/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/trump-says-us-keeps-up-pressure-on-iran-228342"
+      "domain": "rawstory.com",
+      "url": "https://www.rawstory.com/donald-trump-russia-sanctions/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.4,
       "treffer": [
         "missile"
       ],
-      "domain": "hurriyetdailynews.com",
-      "url": "https://www.hurriyetdailynews.com/zelensky-accuses-us-of-delaying-missile-deliveries-228352"
+      "domain": "afghanistansun.com",
+      "url": "http://www.afghanistansun.com/news/279387105/iran-repeats-threat-to-target-undersea-fiberoptic-cables"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279387353/iran-irgc-says-2-violating-oilers-caught-fire-after-hitting-naval-mines-in-hormuz-strait"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
@@ -75,17 +129,26 @@
       "treffer": [
         "missile"
       ],
-      "domain": "huffingtonpost.co.uk",
-      "url": "https://www.huffingtonpost.co.uk/entry/trump-putin-ukraine-russian-missile-chil_uk_6ad6f84fe4b05354557fa8d2"
+      "domain": "wvtm13.com",
+      "url": "https://www.wvtm13.com/article/russian-missile-drone-blitz-ukraine-zelenskyy-norway/74188566"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "1090kaay.com",
-      "url": "https://www.1090kaay.com/2026/10/20/trump-and-zelensky-tensions-deepen-as-us-ukraine-relations-face-growing-distrust/"
+      "domain": "singletonargus.com.au",
+      "url": "https://www.singletonargus.com.au/story/9371515/ukraine-leader-heads-to-norway-as-trump-tensions-mount/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "goulburnpost.com.au",
+      "url": "https://www.goulburnpost.com.au/story/9371515/ukraine-leader-heads-to-norway-as-trump-tensions-mount/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
@@ -93,17 +156,17 @@
       "treffer": [
         "missile"
       ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/world/ukraine-us-missile-trump-summit-zelenskyy-6474291"
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/us-must-balance-ukraine-s-missile-needs-against-those-of-other-allies-says-rubio-article-14056042.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16222681/Putin-Trump-Xi-three-way-meeting-discuss-Ukraine-war-proposed-Moscow-US-president-slammed-Zelensky.html"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending"
     }
   ],
   "gkg_alter_stunden": 0.0
