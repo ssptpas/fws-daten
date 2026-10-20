@@ -1,109 +1,55 @@
 {
-  "erstellt_am": "2026-10-19T22:46:03",
+  "erstellt_am": "2026-10-20T09:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261019204500",
+  "gkg_stand": "20261020074500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/britain-threatens-sanctions-firms-tied-illegal-west-bank-settlements"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "tonalitaet": -8.7,
       "treffer": [
         "tanker"
       ],
-      "domain": "tell.ng",
-      "url": "https://www.tell.ng/breaking-tanker-catches-fire-under-otedola-bridge-in-lagos-emergency-responders-mobilised/"
+      "domain": "pmnewsnigeria.com",
+      "url": "https://pmnewsnigeria.com/2026/10/20/frsc-orders-probe-into-otedola-bridge-tanker-inferno/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.9,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/world/2026/10/19/us-and-cuba-clash-at-un-as-washington-seeks-to-sway-annual-vote-on-economic-embargo"
+      "domain": "antaranews.com",
+      "url": "https://en.antaranews.com/news/436725/indonesia-pursues-legal-enforcement-as-fire-suppression-continues"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.0,
       "treffer": [
-        "sanctions"
+        "air strike"
       ],
-      "domain": "jamestown.org",
-      "url": "https://jamestown.org/russian-diesel-deal-and-energy-ceasefire-expose-moscows-limits/"
+      "domain": "pmnewsnigeria.com",
+      "url": "https://pmnewsnigeria.com/2026/10/20/air-strikes-deal-heavy-blow-to-iswap-kill-103-fighters/"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.9,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "deadline.com",
-      "url": "https://deadline.com/2026/10/trump-bbc-lawsuit-jack-smith-1237167854/"
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/906084/ukraine-in-ruins-trump-rejects-zelensky-s-refinery-pledge-in-row-over-us-air-defense"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -4.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "northweststar.com.au",
-      "url": "https://www.northweststar.com.au/story/9370853/the-echidna-across-the-world-we-finally-had-our-day-in-court/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "deadline.com",
-      "url": "https://deadline.com/print-article/1237167854/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thecourier.com.au",
-      "url": "https://www.thecourier.com.au/story/9370853/the-echidna-across-the-world-we-finally-had-our-day-in-court/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cotswoldjournal.co.uk",
-      "url": "https://www.cotswoldjournal.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kidderminstershuttle.co.uk",
-      "url": "https://www.kidderminstershuttle.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/news/top-news/918337-6billion-mambilla-power-contract-ex-governor-liyel-imoke-testifies-against-former-power-minister-agunloye.html"
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202610200172.html"
     },
     {
       "kategorie": "Policy",
@@ -111,17 +57,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "foxnews.com",
-      "url": "https://www.foxnews.com/world/hungary-poland-defend-tough-migration-policies-france-reels-from-violent-unrest"
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/trump-says-us-keeps-up-pressure-on-iran-228342"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
       "treffer": [
-        "hormuz"
+        "missile"
       ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/tug-attacked-near-strait-of-hormuz"
+      "domain": "hurriyetdailynews.com",
+      "url": "https://www.hurriyetdailynews.com/zelensky-accuses-us-of-delaying-missile-deliveries-228352"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "huffingtonpost.co.uk",
+      "url": "https://www.huffingtonpost.co.uk/entry/trump-putin-ukraine-russian-missile-chil_uk_6ad6f84fe4b05354557fa8d2"
     },
     {
       "kategorie": "Policy",
@@ -129,8 +84,26 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "northafricapost.com",
-      "url": "https://northafricapost.com/101030-moroccos-competition-council-delivers-tough-assessment-of-record-breaking-2025.html"
+      "domain": "1090kaay.com",
+      "url": "https://www.1090kaay.com/2026/10/20/trump-and-zelensky-tensions-deepen-as-us-ukraine-relations-face-growing-distrust/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/ukraine-us-missile-trump-summit-zelenskyy-6474291"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16222681/Putin-Trump-Xi-three-way-meeting-discuss-Ukraine-war-proposed-Moscow-US-president-slammed-Zelensky.html"
     }
   ],
   "gkg_alter_stunden": 0.0
