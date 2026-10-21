@@ -1,64 +1,145 @@
 {
-  "erstellt_am": "2026-10-21T09:45:38",
+  "erstellt_am": "2026-10-21T14:46:00",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261021074500",
+  "gkg_stand": "20261021124500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 16,
   "ereignisse": [
     {
-      "kategorie": "Breite",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "public health emergency"
-      ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/promoted/918741-ebola-ogun-steps-up-surveillance-after-fct-case.html"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "public health emergency"
-      ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202610210120.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-banking-crisis-fears-return-as-government-borrowing-costs-surge/articleshow/135084695.cms"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "africaleader.com",
-      "url": "http://www.africaleader.com/news/279388827/un-condemns-drone-strikes-in-sudan"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -4.8,
+      "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/906277/backstage-bargaining-and-starlink-row-shadow-new-us-push-to-end-ukraine-war"
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/10/21/illegal-mining-is-a-form-of-chemical-warfare-zenator-agyeman-rawlings/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "greekherald.com",
+      "url": "http://www.greekherald.com/news/279389181/world-insights-cost-of-living-protests-highlight-mounting-economic-social-pressures-across-europe"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "tonalitaet": -5.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "thearabianpost.com",
-      "url": "https://thearabianpost.com/britain-assigns-raf-typhoons-to-defend-saudi-airspace/"
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/mid-east/houthis-claims-attack-on-saudi-position-in-aden-while-clashes-flare"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "latimes.com",
+      "url": "https://www.latimes.com/world-nation/story/2026-10-21/russia-releases-detained-american-stephen-hubbard"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279389289/hackers-target-germany-most-popular-party"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bendigoadvertiser.com.au",
+      "url": "https://www.bendigoadvertiser.com.au/story/9373031/russia-releases-american-prisoner-during-us-envoy-visit/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "illawarramercury.com.au",
+      "url": "https://www.illawarramercury.com.au/story/9373031/russia-releases-american-prisoner-during-us-envoy-visit/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theepochtimes.com",
+      "url": "https://www.theepochtimes.com/world/russia-releases-imprisoned-american-stephen-hubbard-witkoff-says-6106943"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mynbc5.com",
+      "url": "https://www.mynbc5.com/article/russia-releases-imprisoned-american-envoy-witkoff-says/74201767"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "airdriecityview.com",
+      "url": "https://www.airdriecityview.com/world-news/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-by-us-envoy-12918662"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "prpeak.com",
+      "url": "https://www.prpeak.com/world-news/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-by-us-envoy-12918663"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "scroll.in",
+      "url": "https://scroll.in/latest/1096555/personal-details-of-nearly-3900-sbi-customers-leaked-on-dark-web-in-cyberattack"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "businessghana.com",
+      "url": "http://www.businessghana.com/site/news/politics/358171/Trump-and-Zelensky-appear-at-loggerheads-despite-new-optimism"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "mirror.co.uk",
+      "url": "https://www.mirror.co.uk/news/world-news/putin-moscow-russia-ukraine-witkoff-37795092"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg"
     },
     {
       "kategorie": "Policy",
@@ -66,17 +147,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "heraldscotland.com",
-      "url": "https://www.heraldscotland.com/news/26654899.alastair-redman-warns-councillor-suspension-risks-local-democracy/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "wlec.com",
-      "url": "https://wlec.com/uncategorized/nj-food-importer-files-lawsuit-challenging-trumps-50-tariffs-on-canadian-goods/"
+      "domain": "dailyadvance.com",
+      "url": "http://www.dailyadvance.com/news/world/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-by/article_6f1b7a6d-0e19-512a-8aac-381259032f48.html"
     }
   ],
   "gkg_alter_stunden": 0.0
