@@ -1,154 +1,102 @@
 {
-  "erstellt_am": "2026-10-21T14:46:00",
+  "erstellt_am": "2026-10-21T22:45:24",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261021124500",
+  "gkg_stand": "20261021204500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "tonalitaet": -6.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ghanamma.com",
-      "url": "https://www.ghanamma.com/2026/10/21/illegal-mining-is-a-form-of-chemical-warfare-zenator-agyeman-rawlings/"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.1,
+      "kategorie": "Policy",
+      "tonalitaet": -6.4,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "greekherald.com",
-      "url": "http://www.greekherald.com/news/279389181/world-insights-cost-of-living-protests-highlight-mounting-economic-social-pressures-across-europe"
+      "domain": "bankinfosecurity.com",
+      "url": "https://www.bankinfosecurity.com/critical-php-patches-address-very-very-bad-vulnerability-a-33162"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "wibailoutpeople.org",
+      "url": "https://wibailoutpeople.org/2026/10/21/britain-deploys-royal-air-force-to-support-saudi-monarchy-against-yemeni-resistance/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "ballistic"
+      ],
+      "domain": "koco.com",
+      "url": "https://www.koco.com/article/ramaswamys-ohio-governor-ad-amy-actons-mom-facts/74208506"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -5.1,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/mid-east/houthis-claims-attack-on-saudi-position-in-aden-while-clashes-flare"
+      "domain": "ipwatchdog.com",
+      "url": "https://ipwatchdog.com/2026/10/21/do-not-let-a-paperwork-gotcha-sink-valuable-medicines/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "latimes.com",
-      "url": "https://www.latimes.com/world-nation/story/2026-10-21/russia-releases-detained-american-stephen-hubbard"
+      "domain": "townhall.com",
+      "url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279389289/hackers-target-germany-most-popular-party"
+      "domain": "newschannel9.com",
+      "url": "https://newschannel9.com/news/nation-world/iran-bets-economic-pain-will-weaken-trumps-position-as-midterms-approach"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bendigoadvertiser.com.au",
-      "url": "https://www.bendigoadvertiser.com.au/story/9373031/russia-releases-american-prisoner-during-us-envoy-visit/"
+      "domain": "local12.com",
+      "url": "https://local12.com/news/nation-world/iran-bets-economic-pain-will-weaken-trumps-position-as-midterms-approach"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.7,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "illawarramercury.com.au",
-      "url": "https://www.illawarramercury.com.au/story/9373031/russia-releases-american-prisoner-during-us-envoy-visit/"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/gambia-jammeh-victims-compensation-2026/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theepochtimes.com",
-      "url": "https://www.theepochtimes.com/world/russia-releases-imprisoned-american-stephen-hubbard-witkoff-says-6106943"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mynbc5.com",
-      "url": "https://www.mynbc5.com/article/russia-releases-imprisoned-american-envoy-witkoff-says/74201767"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "airdriecityview.com",
-      "url": "https://www.airdriecityview.com/world-news/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-by-us-envoy-12918662"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "prpeak.com",
-      "url": "https://www.prpeak.com/world-news/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-by-us-envoy-12918663"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "scroll.in",
-      "url": "https://scroll.in/latest/1096555/personal-details-of-nearly-3900-sbi-customers-leaked-on-dark-web-in-cyberattack"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "businessghana.com",
-      "url": "http://www.businessghana.com/site/news/politics/358171/Trump-and-Zelensky-appear-at-loggerheads-despite-new-optimism"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mirror.co.uk",
-      "url": "https://www.mirror.co.uk/news/world-news/putin-moscow-russia-ukraine-witkoff-37795092"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.2,
       "treffer": [
-        "sanctions"
+        "mandeb"
       ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailyadvance.com",
-      "url": "http://www.dailyadvance.com/news/world/russia-frees-american-stephen-hubbard-after-over-4-years-in-prison-during-a-visit-by/article_6f1b7a6d-0e19-512a-8aac-381259032f48.html"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings"
     }
   ],
   "gkg_alter_stunden": 0.0
