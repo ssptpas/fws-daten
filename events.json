@@ -1,247 +1,82 @@
 {
-  "erstellt_am": "2026-10-20T22:45:35",
+  "erstellt_am": "2026-10-21T09:45:38",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261020204500",
+  "gkg_stand": "20261021074500",
   "veraltet": false,
-  "anzahl": 26,
+  "anzahl": 8,
   "ereignisse": [
     {
+      "kategorie": "Breite",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "public health emergency"
+      ],
+      "domain": "premiumtimesng.com",
+      "url": "https://www.premiumtimesng.com/promoted/918741-ebola-ogun-steps-up-surveillance-after-fct-case.html"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "public health emergency"
+      ],
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202610210120.html"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-banking-crisis-fears-return-as-government-borrowing-costs-surge/articleshow/135084695.cms"
+    },
+    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.2,
+      "tonalitaet": -5.4,
       "treffer": [
         "drone strike"
       ],
-      "domain": "nypost.com",
-      "url": "https://nypost.com/2026/10/20/world-news/photo-reveals-ukrainian-mom-baby-killed-in-drone-strike-at-park/"
+      "domain": "africaleader.com",
+      "url": "http://www.africaleader.com/news/279388827/un-condemns-drone-strikes-in-sudan"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ncregister.com",
-      "url": "https://www.ncregister.com/cna/us-syrian"
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/906277/backstage-bargaining-and-starlink-row-shadow-new-us-push-to-end-ukraine-war"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "islamicinvitationturkey.com",
-      "url": "https://www.islamicinvitationturkey.com/iranian-navy-spots-burning-tanker-in-restricted-strait-of-hormuz-corridor/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "investors.com",
-      "url": "https://www.investors.com/news/oil-prices-wti-futures-110-a-barrel-brent-tanker-attacks-kpler-data/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "northweststar.com.au",
-      "url": "https://www.northweststar.com.au/story/9371811/helen-haines-office-attack-how-social-media-drives-violence/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "redlandcitybulletin.com.au",
-      "url": "https://www.redlandcitybulletin.com.au/story/9371811/helen-haines-office-attack-how-social-media-drives-violence/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "indiawest.com",
-      "url": "https://indiawest.com/europe-rejected-us-call-for-secondary-tariffs-on-india-bessent/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "express.co.uk",
-      "url": "https://www.express.co.uk/news/world/2258983/ww3-fears-erupt-nato-issues"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "northweststar.com.au",
-      "url": "https://www.northweststar.com.au/story/9371524/the-echidna-warning-signs-have-been-there-in-plain-sight/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "redlandcitybulletin.com.au",
-      "url": "https://www.redlandcitybulletin.com.au/story/9371524/the-echidna-warning-signs-have-been-there-in-plain-sight/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "socialistworker.co.uk",
-      "url": "https://socialistworker.co.uk/alex-callinicos/alex-callinicos-ukraine-crisis-shows-europes-leaders-dependence-on-us-empire/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/us-resumed-sharing-intelligence-ukraine-193228000.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailybulletin.com",
-      "url": "https://www.dailybulletin.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "onlineopinion.com.au",
-      "url": "https://www.onlineopinion.com.au/view.asp?article=24214"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kentonline.co.uk",
-      "url": "https://www.kentonline.co.uk/news/national/fairford-shows-us-has-own-defence-needs-says-rubio-amid-ukraine-arms-delay-173234/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hertsad.co.uk",
-      "url": "https://www.hertsad.co.uk/news/national/26655292.fairford-shows-us-defence-needs-says-rubio-amid-ukraine-arms-delay/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "eppingforestguardian.co.uk",
-      "url": "https://www.eppingforestguardian.co.uk/news/national/26655292.fairford-shows-us-defence-needs-says-rubio-amid-ukraine-arms-delay/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "somersetcountygazette.co.uk",
-      "url": "https://www.somersetcountygazette.co.uk/news/national/26655292.fairford-shows-us-defence-needs-says-rubio-amid-ukraine-arms-delay/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiawest.com",
-      "url": "https://indiawest.com/indian-american-lawmakers-lead-backlash-against-trump/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "tert.am",
-      "url": "https://tert.am/en/news/2026/10/20/Kaja%20Kallas/4287552"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cedarnews.net",
-      "url": "https://cedarnews.net/newstasks/1091993/south-dakota-specialty-courts-cost-thousands-less/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "shanghaisun.com",
-      "url": "http://www.shanghaisun.com/news/279387767/china-firmly-opposes-us-sanctions-on-chinese-ai-companies-commerce-ministry"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/business/2026/10/20/new-jersey-food-importer-files-lawsuit-challenging-trumps-50-tariffs-on-canadian-goods"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kool965.com",
-      "url": "https://kool965.com/ixp/658/p/idaho-gas-prices-drop-nine-cents/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
       "treffer": [
         "red sea"
       ],
-      "domain": "kxel.com",
-      "url": "https://kxel.com/2026/10/20/global-oil-prices-hit-highest-level-in-5-months-amid-attacks-on-ships-facilities/"
+      "domain": "thearabianpost.com",
+      "url": "https://thearabianpost.com/britain-assigns-raf-typhoons-to-defend-saudi-airspace/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "heraldscotland.com",
+      "url": "https://www.heraldscotland.com/news/26654899.alastair-redman-warns-councillor-suspension-risks-local-democracy/"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.0,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "warringtonguardian.co.uk",
-      "url": "https://www.warringtonguardian.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/"
+      "domain": "wlec.com",
+      "url": "https://wlec.com/uncategorized/nj-food-importer-files-lawsuit-challenging-trumps-50-tariffs-on-canadian-goods/"
     }
   ],
   "gkg_alter_stunden": 0.0
