@@ -1,48 +1,56 @@
 {
-  "erstellt_am": "2026-10-21T22:45:24",
+  "erstellt_am": "2026-10-22T09:45:38",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261021204500",
+  "gkg_stand": "20261022074500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bankinfosecurity.com",
-      "url": "https://www.bankinfosecurity.com/critical-php-patches-address-very-very-bad-vulnerability-a-33162"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
+      "tonalitaet": -8.0,
       "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
+        "crude oil",
+        "tanker"
       ],
-      "domain": "wibailoutpeople.org",
-      "url": "https://wibailoutpeople.org/2026/10/21/britain-deploys-royal-air-force-to-support-saudi-monarchy-against-yemeni-resistance/"
+      "domain": "freepressjournal.in",
+      "url": "https://www.freepressjournal.in/business/crude-oil-prices-cross-110-per-barrel-know-why-are-oil-rates-rising-and-how-is-the-west-asia-conflict-fueling-the-surge"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sluggerotoole.com",
+      "url": "https://sluggerotoole.com/2026/10/22/the-end-of-morality-part-2/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.6,
       "treffer": [
-        "ballistic"
+        "missile"
       ],
-      "domain": "koco.com",
-      "url": "https://www.koco.com/article/ramaswamys-ohio-governor-ad-amy-actons-mom-facts/74208506"
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/russia-pounds-ukraines-capital-kyiv-with-missiles-and-drones-hours-after-agreeing-to-peace-talks/article_2912b050-624d-5b72-926b-fccc16585a73.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "express.co.uk",
+      "url": "https://www.express.co.uk/news/world/2259367/russia-drone-strikes-weapons"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "wdtimes.com",
+      "url": "http://www.wdtimes.com/news/world/russia-pounds-ukraines-capital-kyiv-with-missiles-and-drones-hours-after-agreeing-to-peace-talks/article_046f5712-b240-50ae-95f0-c86dc8f48bab.html"
     },
     {
       "kategorie": "Policy",
@@ -50,53 +58,62 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ipwatchdog.com",
-      "url": "https://ipwatchdog.com/2026/10/21/do-not-let-a-paperwork-gotcha-sink-valuable-medicines/"
+      "domain": "huffingtonpost.co.uk",
+      "url": "https://www.huffingtonpost.co.uk/entry/private-eye-donald-trump-kremlin_uk_6ad9a0fce4b0ba084e14b58e"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "townhall.com",
-      "url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.0,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "newschannel9.com",
-      "url": "https://newschannel9.com/news/nation-world/iran-bets-economic-pain-will-weaken-trumps-position-as-midterms-approach"
+      "domain": "ohtuleht.ee",
+      "url": "https://www.ohtuleht.ee/1169487/otseblogi-ukraina-kaitsjad-neutraliseerisid-oopaevaga-rekordarvu-sissetungijaid"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "kyivpost.com",
+      "url": "https://www.kyivpost.com/post/87817"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "local12.com",
-      "url": "https://local12.com/news/nation-world/iran-bets-economic-pain-will-weaken-trumps-position-as-midterms-approach"
+      "domain": "express.co.uk",
+      "url": "https://www.express.co.uk/showbiz/tv-radio/2259375/fox-news-halts-breaking-trump"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "businessday.co.za",
+      "url": "https://www.businessday.co.za/news/law/2026-10-22-murderer-wants-prison-boss-to-comply-with-court-order-or-face-prison-time/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.7,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/gambia-jammeh-victims-compensation-2026/"
+      "domain": "durangoherald.com",
+      "url": "https://www.durangoherald.com/articles/associated-press/ukraines-strikes-on-russian-data-centers-disrupt-key-services-and-derail-ai-research/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.3,
       "treffer": [
-        "mandeb"
+        "hormuz"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings"
+      "domain": "greekherald.com",
+      "url": "http://www.greekherald.com/news/279391539/iran-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-hormuz"
     }
   ],
   "gkg_alter_stunden": 0.0
