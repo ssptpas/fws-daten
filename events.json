@@ -1,134 +1,41 @@
 {
-  "erstellt_am": "2026-10-22T14:45:40",
+  "erstellt_am": "2026-10-22T22:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261022124500",
+  "gkg_stand": "20261022204500",
   "veraltet": false,
-  "anzahl": 22,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -20.0,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?update=5073622"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -8.2,
+      "tonalitaet": -9.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/americas/tech-investor-peter-thiel-says-us-should-not-have-launched-war-on-iran-report/4097137"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "kcci.com",
-      "url": "https://www.kcci.com/article/russia-ukraine-missiles-drones-peace-talks/74213360"
+      "domain": "iheart.com",
+      "url": "https://wgiram.iheart.com/content/2026-10-22-judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "crooksandliars.com",
-      "url": "https://crooksandliars.com/2026/10/witkoff-praises-putin-calling-him"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/africa/libya-s-national-oil-corporation-says-individuals-shut-valve-on-hamada-zawiya-crude-oil-pipeline/4097193"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87830"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "dailymaverick.co.za",
-      "url": "https://www.dailymaverick.co.za/article/2026-10-22-beatings-cyberattacks-and-threats-darken-vucics-serbia-ahead-of-elections/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "kcci.com",
-      "url": "https://www.kcci.com/article/iran-oil-tankers-fire-damaged-fears-return-war/74213820"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "tanker"
-      ],
-      "domain": "postregister.com",
-      "url": "http://www.postregister.com/news/national/iran-says-7-oil-tankers-attacked-in-the-strait-of-hormuz-as-fears-grow-of/article_d0205f78-666f-52e3-8ac6-6b962e623dd1.html"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -5.3,
       "treffer": [
-        "sanctions"
-      ],
-      "domain": "kyivpost.com",
-      "url": "https://www.kyivpost.com/post/87845"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
         "hormuz",
         "mandeb",
         "red sea",
         "tanker"
       ],
-      "domain": "dailypress.com",
-      "url": "https://www.dailypress.com/2026/10/22/iran-oil-tankers-attacked-strait-of-hormuz/"
+      "domain": "wisbechstandard.co.uk",
+      "url": "https://www.wisbechstandard.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "kob.com",
+      "url": "https://www.kob.com/ap-top-news/iran-says-7-tankers-damaged-in-strait-of-hormuz-and-other-mideast-news/"
     },
     {
       "kategorie": "Policy",
@@ -136,82 +43,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/europe/european-parliament-backs-3-year-delay-to-methane-emission-rules-for-energy-imports/4097142"
+      "domain": "graphic.com.gh",
+      "url": "https://www.graphic.com.gh/news/general-news/minority-womens-caucus-demands-independent-inquiry-into-obuasi-shts-abuse-allegations.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.2,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "oil field"
       ],
-      "domain": "postregister.com",
-      "url": "http://www.postregister.com/businessreport/business/iran-says-7-tankers-were-damaged-in-the-strait-of-hormuz-and-other-mideast-news/article_2110a8da-7fb2-5642-94f2-ad652a4b20ac.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "postregister.com",
-      "url": "http://www.postregister.com/news/national/almost-all-coral-reef-ecosystems-face-risk-of-collapse-in-50-years-study-warns/article_9f5f696e-fc9f-5a3a-bf35-321b1d16c30e.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "winnipegfreepress.com",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/10/22/almost-all-coral-reef-ecosystems-face-risk-of-collapse-in-50-years-study-warns"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "wdtimes.com",
-      "url": "http://www.wdtimes.com/news/national/almost-all-coral-reef-ecosystems-face-risk-of-collapse-in-50-years-study-warns/article_66ba9599-98b0-5d7b-b6ec-f7649dd17b1e.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "wbap.com",
-      "url": "https://www.wbap.com/2026/10/22/iran-says-7-oil-tankers-were-attacked-in-the-strait-of-hormuz-as-fears-grow-of-a-return-to-war/"
+      "domain": "laosnews.net",
+      "url": "http://www.laosnews.net/news/279393166/nepal-condemns-attacks-on-civilians-after-citizen-killed-by-drone-debris-at-saudi-oil-field"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newsweek.com",
-      "url": "https://www.newsweek.com/dont-mistake-trumps-diesel-deal-for-a-russia-policy-opinion-12604079"
+      "domain": "wishtv.com",
+      "url": "https://www.wishtv.com/news/politics/judge-orders-trump-to-sit-for-deposition-in-10-billion-defamation-lawsuit-against-bbc/"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
       "treffer": [
-        "insolvency"
+        "crude oil"
       ],
-      "domain": "witneygazette.co.uk",
-      "url": "https://www.witneygazette.co.uk/news/26660544.uk-plumbing-company-falls-administration-9-years/"
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/10/22/singaporean-loses-285000-in-alleged-crude-oil-scam-efcc-arraigns-suspect/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.0,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
       "treffer": [
-        "invasion"
+        "red sea"
       ],
-      "domain": "1035kissfmboise.com",
-      "url": "https://1035kissfmboise.com/ixp/658/p/idaho-spiders-winter-invasion-guide/"
+      "domain": "wsbradio.com",
+      "url": "https://www.wsbradio.com/news/science/almost-all-coral/L66X5QKGMY46ZNUUGWKMPTC33U/"
     }
   ],
   "gkg_alter_stunden": 0.0
