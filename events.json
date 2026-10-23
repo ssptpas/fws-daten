@@ -1,10 +1,174 @@
 {
-  "erstellt_am": "2026-10-23T09:45:56",
+  "erstellt_am": "2026-10-23T14:45:34",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": false,
-  "gkg_stand": null,
-  "veraltet": null,
-  "anzahl": 0,
-  "ereignisse": [],
-  "fehler": "HTTP Error 404: Not Found"
+  "gdelt_verfuegbar": true,
+  "gkg_stand": "20261023124500",
+  "veraltet": false,
+  "anzahl": 18,
+  "ereignisse": [
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.3,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "news.az",
+      "url": "https://news.az/news/tigray-rebel-leader-vows-to-continue-fighting-ethiopian-forces"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "https://www.jpost.com/opinion/article-912389"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279394171/don-have-much-more-buffer-zones-iea-chief-warns-of-fuel-price-shocks-hopes-for-resolution-to-iran-conflict"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "bursa.ro",
+      "url": "https://www.bursa.ro/france-under-debt-pressure-record-interest-rates-reignite-fears-of-a-new-euro-crisis-86967064"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "politicsweb.co.za",
+      "url": "https://www.politicsweb.co.za/news/solidarity-movement-rejects-ramaphosas-accusation-of-unpatriotic-conduct"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/ukraine-troops-report-ongoing-problems-120908000.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "rte.ie",
+      "url": "https://www.rte.ie/news/business/2026/1023/1596584-world-oil-prices/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newyorkstatesman.com",
+      "url": "http://www.newyorkstatesman.com/news/279394261/saudi-arabia-postpones-un-forum-until-2027-amid-regional-tensions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iraqsun.com",
+      "url": "http://www.iraqsun.com/news/279394261/saudi-arabia-postpones-un-forum-until-2027-amid-regional-tensions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "livelaw.in",
+      "url": "https://www.livelaw.in/articles/us-sanctions-threat-independent-international-justice-icc-sanctions-555639"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/world/article-russian-diesel-first-tanker-sets-sail-for-us/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3702368"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/343571"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "siasat.com",
+      "url": "https://www.siasat.com/childs-protest-vs-textbook-revisions-a-constitutional-debate-3563133/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "businesstimes.com.sg",
+      "url": "https://www.businesstimes.com.sg/international/bank-japan-warns-risks-ai-market-shock-cyberattacks"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "morningstaronline.co.uk",
+      "url": "https://morningstaronline.co.uk/article/long-march-lessons-overcoming-impossible"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "niagarafallsreview.ca",
+      "url": "https://www.niagarafallsreview.ca/business/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraine-s-protests/article_a16bb533-44f9-5760-a0e9-4c52f1f6039a.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3702339"
+    }
+  ],
+  "gkg_alter_stunden": 0.0
 }
