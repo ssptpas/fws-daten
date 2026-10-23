@@ -1,87 +1,10 @@
 {
-  "erstellt_am": "2026-10-22T22:45:34",
+  "erstellt_am": "2026-10-23T09:45:56",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261022204500",
-  "veraltet": false,
-  "anzahl": 8,
-  "ereignisse": [
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -9.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://wgiram.iheart.com/content/2026-10-22-judge-orders-trump-to-sit-for-deposition-in-bbc-lawsuit/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz",
-        "mandeb",
-        "red sea",
-        "tanker"
-      ],
-      "domain": "wisbechstandard.co.uk",
-      "url": "https://www.wisbechstandard.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "kob.com",
-      "url": "https://www.kob.com/ap-top-news/iran-says-7-tankers-damaged-in-strait-of-hormuz-and-other-mideast-news/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "graphic.com.gh",
-      "url": "https://www.graphic.com.gh/news/general-news/minority-womens-caucus-demands-independent-inquiry-into-obuasi-shts-abuse-allegations.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "oil field"
-      ],
-      "domain": "laosnews.net",
-      "url": "http://www.laosnews.net/news/279393166/nepal-condemns-attacks-on-civilians-after-citizen-killed-by-drone-debris-at-saudi-oil-field"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wishtv.com",
-      "url": "https://www.wishtv.com/news/politics/judge-orders-trump-to-sit-for-deposition-in-10-billion-defamation-lawsuit-against-bbc/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/10/22/singaporean-loses-285000-in-alleged-crude-oil-scam-efcc-arraigns-suspect/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "wsbradio.com",
-      "url": "https://www.wsbradio.com/news/science/almost-all-coral/L66X5QKGMY46ZNUUGWKMPTC33U/"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }
