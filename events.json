@@ -1,83 +1,10 @@
 {
-  "erstellt_am": "2026-10-23T22:45:44",
+  "erstellt_am": "2026-10-24T09:45:25",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261023204500",
-  "veraltet": false,
-  "anzahl": 8,
-  "ereignisse": [
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.5,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "nypost.com",
-      "url": "https://nypost.com/2026/10/23/us-news/tish-james-gop-ag-rival-vows-to-declare-nyc-antisemitism-state-of-emergency/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "journalismpakistan.com",
-      "url": "https://www.journalismpakistan.com/judge-orders-trump-deposition-in-10bn-bbc-lawsuit"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "lynnnews.co.uk",
-      "url": "https://www.lynnnews.co.uk/national/andy-burnham-tells-donald-trump-ukraine-must-have-full-starlink-access-173395/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wtxl.com",
-      "url": "https://www.wtxl.com/investigations/russia-ukraine-war-on-the-ground/ukrainian-civilians-killed-in-russian-attacks-following-trumps-easing-of-sanctions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hotair.com",
-      "url": "https://hotair.com/headlines/2026/10/23/feds-say-bank-of-america-choked-conservatives-accounts-harder-than-drug-cartels-n3820197"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "columbian.com",
-      "url": "https://www.columbian.com/news/2026/oct/23/putin-gave-up-nothing-in-restoring-ties-with-u-s/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/record-tanker-rates-threaten-to-push-u-s-oil-exports-to-asia-to-seven-year-low/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "greatbendpost.com",
-      "url": "https://greatbendpost.com/posts/619abf93-ca1a-48d7-9606-91634d95117f"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }

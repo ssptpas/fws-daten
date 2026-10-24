@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-23T22:45:01",
+  "erstellt_am": "2026-10-24T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.4",
@@ -23,7 +23,7 @@
     },
     "Zinskurve_10J_2J": {
       "wert": "0.31",
-      "beobachtungsdatum": "2026-10-22",
+      "beobachtungsdatum": "2026-10-23",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -47,8 +47,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.32",
-      "beobachtungsdatum": "2026-10-22",
+      "wert": "2.34",
+      "beobachtungsdatum": "2026-10-23",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -62,8 +62,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_5J5J": {
-      "wert": "2.19",
-      "beobachtungsdatum": "2026-10-22",
+      "wert": "2.2",
+      "beobachtungsdatum": "2026-10-23",
       "quelle": "FRED"
     },
     "USD_JPY": {
@@ -565,8 +565,8 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 35.97,
-      "beobachtungsdatum": "2026-10-22",
+      "wert": 38.25,
+      "beobachtungsdatum": "2026-10-23",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -590,12 +590,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 111.54,
+      "wert": 116.72,
       "beobachtungsdatum": "2026-10-23",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 103.37,
+      "wert": 103.27,
       "beobachtungsdatum": "2026-10-23",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
