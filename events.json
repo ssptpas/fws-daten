@@ -1,28 +1,110 @@
 {
-  "erstellt_am": "2026-10-25T09:45:32",
+  "erstellt_am": "2026-10-25T14:45:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261025084500",
+  "gkg_stand": "20261025134500",
   "veraltet": false,
-  "anzahl": 2,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.0,
+      "kategorie": "Policy",
+      "tonalitaet": -7.4,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/no-time-schadenfreude-french-bonds-063000000.html"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/diplomatic-and-financial-isolation-netanyahus-crypto-plan-bypass"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/opposition-leader-says-netanyahu-no-longer-fit-to-lead-israel/4099933"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nbcnewyork.com",
+      "url": "https://www.nbcnewyork.com/news/national-international/elon-musk-spacex-closed-ukraine-starlink-loophole/6562952/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nbcsandiego.com",
+      "url": "https://www.nbcsandiego.com/news/national-international/elon-musk-spacex-closed-ukraine-starlink-loophole/4091812/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/diplomatic-financial-isolation-netanyahu-crypto-plan-bypass-sanctions-draws-rebuke"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1828707.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.8,
+      "tonalitaet": -4.7,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/world/saudi-led-coalition-intercepts-10-houthi-ballistic-missiles-targeting-southern-saudi-arabia/4100014"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dorsetecho.co.uk",
+      "url": "https://www.dorsetecho.co.uk/news/26668052.palestinian-flag-may-fly-weymouth-town-council-office/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
       "treffer": [
         "drone strike"
       ],
-      "domain": "oneindia.com",
-      "url": "https://www.oneindia.com/international/elon-musk-says-starlink-was-used-for-offensive-drone-strikes-defends-ukraine-restrictions-8243001.html"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/americas/defending-restrictions-elon-musk-says-use-of-starlink-for-offensive-drone-strikes-never-permitted/4099937"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/ukraine-unblock-patriot-missile-delivery-zelenskyy-after-deadly/story?id=137550094"
     }
   ],
   "gkg_alter_stunden": 0.0
