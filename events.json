@@ -1,55 +1,28 @@
 {
-  "erstellt_am": "2026-10-24T22:45:34",
+  "erstellt_am": "2026-10-25T09:45:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261024204500",
+  "gkg_stand": "20261025084500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 2,
   "ereignisse": [
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -7.1,
+      "tonalitaet": -6.0,
       "treffer": [
         "central bank"
       ],
-      "domain": "ncr-iran.org",
-      "url": "https://www.ncr-iran.org/en/news/economy/pezeshkian-admits-iran-cannot-plan-as-economic-pressures-deepen/"
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/no-time-schadenfreude-french-bonds-063000000.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.8,
       "treffer": [
-        "sanctions"
+        "drone strike"
       ],
-      "domain": "wpsdlocal6.com",
-      "url": "https://www.wpsdlocal6.com/news/how-title-ix-investigations-work-and-why-experts-say-the-system-failed-cornell-s-jane/article_d4d4cb9b-4c2c-5df7-84b5-3c5ecf9ac234.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theage.com.au",
-      "url": "https://www.theage.com.au/world/middle-east/national-suicide-the-election-issue-tearing-israelis-apart-20261025-p6188e.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "deccanchronicle.com",
-      "url": "https://www.deccanchronicle.com/business/india-may-buy-15-bn-worth-of-venezuelan-oil-this-year-1998622"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "koat.com",
-      "url": "https://www.koat.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633"
+      "domain": "oneindia.com",
+      "url": "https://www.oneindia.com/international/elon-musk-says-starlink-was-used-for-offensive-drone-strikes-defends-ukraine-restrictions-8243001.html"
     }
   ],
   "gkg_alter_stunden": 0.0

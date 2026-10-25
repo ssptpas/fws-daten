@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-24T22:45:01",
+  "erstellt_am": "2026-10-25T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.4",
@@ -590,7 +590,7 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 116.72,
+      "wert": 111.7,
       "beobachtungsdatum": "2026-10-23",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
