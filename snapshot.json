@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-26T09:45:01",
+  "erstellt_am": "2026-10-26T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.4",
@@ -12,7 +12,7 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "19.58",
+      "wert": "19.04",
       "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.9",
-      "beobachtungsdatum": "2026-10-22",
+      "wert": "3.92",
+      "beobachtungsdatum": "2026-10-23",
       "quelle": "FRED"
     },
     "IORB": {
@@ -168,7 +168,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.5",
-      "beobachtungsdatum": "2026-10-23",
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -289,7 +289,7 @@
       "werte": [
         {
           "datum": "2026-10-26",
-          "wert": 19.58
+          "wert": 19.04
         },
         {
           "datum": "2026-10-23",
@@ -404,6 +404,10 @@
     "SOFR_minus_IORB_Historie": {
       "werte": [
         {
+          "datum": "2026-10-23",
+          "wert": 2.0
+        },
+        {
           "datum": "2026-10-22",
           "wert": 0.0
         },
@@ -418,10 +422,6 @@
         {
           "datum": "2026-10-19",
           "wert": -3.0
-        },
-        {
-          "datum": "2026-10-16",
-          "wert": -2.0
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
@@ -454,51 +454,51 @@
       "hinweis": "fuer die Voralarm-Persistenzregel: Ratio > 1,00 an zwei Handelsschluessen, davon einmal > 1,02"
     },
     "Bank_Stress_KBE": {
-      "wert": 65.87,
+      "wert": 66.6,
       "hoch_60T": 71.67,
-      "drawdown_pct": -8.1,
-      "beobachtungsdatum": "2026-10-23",
+      "drawdown_pct": -7.1,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 72.46,
+      "wert": 73.22,
       "hoch_60T": 77.93,
-      "drawdown_pct": -7.0,
-      "beobachtungsdatum": "2026-10-23",
+      "drawdown_pct": -6.0,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Privatkredit_ARCC": {
-      "wert": 18.64,
+      "wert": 18.72,
       "hoch_60T": 20.19,
-      "drawdown_pct": -7.7,
-      "beobachtungsdatum": "2026-10-23",
+      "drawdown_pct": -7.3,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)",
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "Privatkredit_BIZD": {
-      "wert": 11.93,
+      "wert": 11.98,
       "hoch_60T": 13.54,
-      "drawdown_pct": -11.9,
-      "beobachtungsdatum": "2026-10-23",
+      "drawdown_pct": -11.5,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)",
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": 0.0,
-      "beobachtungsdatum": "2026-10-22",
+      "wert": 2.0,
+      "beobachtungsdatum": "2026-10-23",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -5.8,
       "markt_datum": "2026-10-23",
-      "leitzins_datum": "2026-10-23",
+      "leitzins_datum": "2026-10-26",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": -1.6,
-      "markt_datum": "21 Oct 2026",
-      "leitzins_datum": "22 Oct 2026",
+      "wert": -1.5,
+      "markt_datum": "22 Oct 2026",
+      "leitzins_datum": "23 Oct 2026",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -533,8 +533,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.36",
-      "beobachtungsdatum": "2026-10-23",
+      "wert": "3.40",
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -543,18 +543,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.734",
-      "beobachtungsdatum": "21 Oct 2026",
+      "wert": "3.7345",
+      "beobachtungsdatum": "22 Oct 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.3682",
-      "beobachtungsdatum": "21 Oct 2026",
+      "wert": "5.312",
+      "beobachtungsdatum": "22 Oct 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "3.75",
-      "beobachtungsdatum": "22 Oct 2026",
+      "beobachtungsdatum": "23 Oct 2026",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
@@ -570,13 +570,13 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 216.54,
-      "beobachtungsdatum": "2026-10-23",
+      "wert": 217.37,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 759.97,
-      "beobachtungsdatum": "2026-10-23",
+      "wert": 762.98,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
@@ -585,17 +585,17 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 12.61,
-      "beobachtungsdatum": "2026-10-23",
+      "wert": 12.44,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 109.77,
+      "wert": 110.37,
       "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 100.97,
+      "wert": 101.4,
       "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
