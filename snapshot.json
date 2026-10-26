@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-25T22:45:01",
+  "erstellt_am": "2026-10-26T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.4",
@@ -12,8 +12,8 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "19.45",
-      "beobachtungsdatum": "2026-10-23",
+      "wert": "19.58",
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "VIX3M": {
@@ -288,6 +288,10 @@
     "VIX_Historie": {
       "werte": [
         {
+          "datum": "2026-10-26",
+          "wert": 19.58
+        },
+        {
           "datum": "2026-10-23",
           "wert": 19.45
         },
@@ -302,10 +306,6 @@
         {
           "datum": "2026-10-20",
           "wert": 17.31
-        },
-        {
-          "datum": "2026-10-19",
-          "wert": 18.44
         }
       ],
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell) (letzte 5 Handelstage)",
@@ -490,7 +490,7 @@
     },
     "EU_Funding_Spread_bp": {
       "wert": -5.8,
-      "markt_datum": "2026-10-22",
+      "markt_datum": "2026-10-23",
       "leitzins_datum": "2026-10-23",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -539,7 +539,7 @@
     },
     "EU_STR": {
       "wert": "2.442",
-      "beobachtungsdatum": "2026-10-22",
+      "beobachtungsdatum": "2026-10-23",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -548,9 +548,9 @@
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "nicht verfügbar",
-      "quelle": "Bank of England IADB",
-      "fehler": "The read operation timed out"
+      "wert": "5.3682",
+      "beobachtungsdatum": "21 Oct 2026",
+      "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "3.75",
@@ -559,14 +559,14 @@
     },
     "Japan_Tagesgeldsatz": {
       "wert": 1.227,
-      "beobachtungsdatum": "20261021",
+      "beobachtungsdatum": "20261022",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 38.25,
-      "beobachtungsdatum": "2026-10-23",
+      "wert": 34.46,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -590,13 +590,13 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 111.7,
-      "beobachtungsdatum": "2026-10-23",
+      "wert": 109.77,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 103.27,
-      "beobachtungsdatum": "2026-10-23",
+      "wert": 100.97,
+      "beobachtungsdatum": "2026-10-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Implizite_Korrelation_1M": {

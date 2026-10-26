@@ -1,102 +1,10 @@
 {
-  "erstellt_am": "2026-10-25T22:46:20",
+  "erstellt_am": "2026-10-26T09:45:35",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261025214500",
-  "veraltet": false,
-  "anzahl": 10,
-  "ereignisse": [
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.4,
-      "treffer": [
-        "shelling"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/brutal-houthi-siege-and-shelling-drive-taiz-to-humanitarian-disaster-3008231"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ealingtimes.co.uk",
-      "url": "https://www.ealingtimes.co.uk/news/national/26668452.metropolitan-police-reduce-enforcement-tag-breaches/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "japantoday.com",
-      "url": "https://japantoday.com/category/world/saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/how-israeli-settlement-expansion-is-reshaping-palestinian-life-in-the-west-bank-3007882"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dw.com",
-      "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "investinglive.com",
-      "url": "https://investinglive.com/news/weekend-china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-curbs-to-biotech/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "japantoday.com",
-      "url": "https://japantoday.com/category/national/japan-deploys-long-range-missile-launcher-during-major-drill-with-us"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "iraqsun.com",
-      "url": "http://www.iraqsun.com/news/279396653/iran-threatens-to-attack-internet-links-in-the-middle-east"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "investinglive.com",
-      "url": "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran-3008257"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }
