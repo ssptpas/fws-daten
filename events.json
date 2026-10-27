@@ -1,10 +1,111 @@
 {
-  "erstellt_am": "2026-10-26T22:45:35",
+  "erstellt_am": "2026-10-27T09:45:40",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": false,
-  "gkg_stand": null,
-  "veraltet": null,
-  "anzahl": 0,
-  "ereignisse": [],
-  "fehler": "HTTP Error 404: Not Found"
+  "gdelt_verfuegbar": true,
+  "gkg_stand": "20261027084500",
+  "veraltet": false,
+  "anzahl": 11,
+  "ereignisse": [
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/hormuz-tensions-are-not-new-israel-was-linked-to-another-oil-crisis-53-years-ago-elections-benjamin-netanyahu-iran-war-us-101793086352043.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "countercurrents.org",
+      "url": "https://countercurrents.org/2026/10/anti-war-literature-and-the-culture-of-humanitarian-disarmament/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "kenyastar.com",
+      "url": "http://www.kenyastar.com/news/279399272/7-killed-in-jordanian-airstrikes-on-s-syria-amid-coordination-dispute"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "sowetan.co.za",
+      "url": "https://www.sowetan.co.za/news/world/2026-10-27-saudi-led-coalition-intercepts-houthi-missiles-and-drones/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "ugandaonline.net",
+      "url": "https://www.ugandaonline.net/news/2026-10-27--daily-monitor-uganda--monetary-policy-s-dilemma--266224697c37/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "iranherald.com",
+      "url": "http://www.iranherald.com/news/279399328/eu-gas-prices-hit-four-year-high"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "countercurrents.org",
+      "url": "https://countercurrents.org/2026/10/cattle-slaughter-bans-have-numerous-adverse-outcomes-lessons-from-karnataka/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "internazionale.it",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/27/netanyahu-s-political-survival-on-the-line-as-israel-votes"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wiltshiretimes.co.uk",
+      "url": "https://www.wiltshiretimes.co.uk/news/national/26672253.polls-open-israelis-vote-tense-election-seen-referendum-netanyahu/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/articles/netanyahus-political-survival-line-israel-000240854.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "countercurrents.org",
+      "url": "https://countercurrents.org/2026/10/the-mecca-pact-courts-iran-containment-comes-full-circle/"
+    }
+  ],
+  "gkg_alter_stunden": 0.0
 }
