@@ -1,102 +1,10 @@
 {
-  "erstellt_am": "2026-10-27T14:45:50",
+  "erstellt_am": "2026-10-27T22:45:27",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261027134500",
-  "veraltet": false,
-  "anzahl": 10,
-  "ereignisse": [
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.8,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "dw.com",
-      "url": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/10/27/jordan-says-it-killed-more-than-20-islamic-state-militants-in-airstrikes-on-syria"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "sowetan.co.za",
-      "url": "https://www.sowetan.co.za/news/world/2026-10-27-jordan-says-it-killed-more-than-20-islamic-state-militants-in-airstrikes-on-syria/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/343921"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/europe/france-to-seek-eu-sanctions-over-alleged-russian-interference-in-africa/4102519"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1829581.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "leadership.ng",
-      "url": "https://leadership.ng/niger-miners-deaths-panel-recommends-n1-4bn-compensation-for-families-of-victims/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/cbic-clarifies-rules-on-gst-refunds-pre-show-cause-notices-and-export-settlements-in-major-procedural-overhaul-14061460.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/india/first-iranian-oil-then-venezuelan-now-russian-ex-foreign-secretary-recalls-biden-era-pressure-on-india-14061325.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-naval-mine-east-of-strait-of-hormuz/4102560"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }
