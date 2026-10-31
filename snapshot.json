@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-30T22:45:01",
+  "erstellt_am": "2026-10-31T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.26",
@@ -378,11 +378,9 @@
       "einheit": "MBBL"
     },
     "Hormus_Transit": {
-      "wert": 2,
-      "tanker": 1,
-      "beobachtungsdatum": "2026-10-25",
+      "wert": "nicht verfügbar",
       "quelle": "IMF PortWatch",
-      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
+      "fehler": "'features'"
     },
     "BabelMandeb_Transit": {
       "wert": 36,
@@ -565,8 +563,8 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 25.8,
-      "beobachtungsdatum": "2026-10-29",
+      "wert": 33.82,
+      "beobachtungsdatum": "2026-10-30",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -590,12 +588,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 112.33,
+      "wert": 117.64,
       "beobachtungsdatum": "2026-10-30",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 102.95,
+      "wert": 104.12,
       "beobachtungsdatum": "2026-10-30",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
