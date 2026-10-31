@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-10-31T09:45:01",
+  "erstellt_am": "2026-10-31T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.26",
@@ -383,11 +383,9 @@
       "fehler": "'features'"
     },
     "BabelMandeb_Transit": {
-      "wert": 36,
-      "tanker": 13,
-      "beobachtungsdatum": "2026-10-25",
+      "wert": "nicht verfügbar",
       "quelle": "IMF PortWatch",
-      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
+      "fehler": "'features'"
     },
     "Treasury_Auktion": {
       "wert": "2.540000",
