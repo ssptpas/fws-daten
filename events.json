@@ -1,91 +1,28 @@
 {
-  "erstellt_am": "2026-10-31T22:45:33",
+  "erstellt_am": "2026-11-01T09:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261031214500",
+  "gkg_stand": "20261101084500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 2,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/world/dozens-arrested-outside-us-embassy-in-london-for-supporting-proscribed-pro-palestinian-group/article_bfbbf315-a55d-57f7-b80e-05bfd90b01c5.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/344405"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/344409"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bordertelegraph.com",
-      "url": "https://www.bordertelegraph.com/news/national/26687335.dozens-arrested-outside-us-embassy-showing-support-palestine-action/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "theothermccain.com",
-      "url": "https://theothermccain.com/2026/10/31/in-the-mailbox-10-30-26-evening-edition/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/344429"
+      "domain": "theeagleonline.com.ng",
+      "url": "https://theeagleonline.com.ng/sowore-demands-sanctions-as-ikogosi-marathon-bars-him-from-2026-edition/"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.7,
       "treffer": [
-        "cyberattack"
+        "public health emergency"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/news/headlines/921801-us-court-denies-request-to-question-tinubu-over-alleged-cyberattacks-in-foia-case.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/344408"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/344425"
+      "domain": "theeagleonline.com.ng",
+      "url": "https://theeagleonline.com.ng/ncdc-confirms-negative-ebola-tests-in-two-suspected-adamawa-cases/"
     }
   ],
   "gkg_alter_stunden": 0.0
