@@ -1,29 +1,10 @@
 {
-  "erstellt_am": "2026-11-01T09:45:36",
+  "erstellt_am": "2026-11-01T14:45:24",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261101084500",
-  "veraltet": false,
-  "anzahl": 2,
-  "ereignisse": [
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theeagleonline.com.ng",
-      "url": "https://theeagleonline.com.ng/sowore-demands-sanctions-as-ikogosi-marathon-bars-him-from-2026-edition/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "public health emergency"
-      ],
-      "domain": "theeagleonline.com.ng",
-      "url": "https://theeagleonline.com.ng/ncdc-confirms-negative-ebola-tests-in-two-suspected-adamawa-cases/"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }
