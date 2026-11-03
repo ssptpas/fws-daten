@@ -1,102 +1,10 @@
 {
-  "erstellt_am": "2026-11-03T09:46:08",
+  "erstellt_am": "2026-11-03T14:45:38",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": true,
-  "gkg_stand": "20261103084500",
-  "veraltet": false,
-  "anzahl": 10,
-  "ereignisse": [
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "theshillongtimes.com",
-      "url": "https://theshillongtimes.com/2026/11/03/ukraine-russia-report-fake-emergency-alerts-after-cyberattack/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "thesouthafrican.com",
-      "url": "https://www.thesouthafrican.com/news/sahrc-flags-r777m-tanker-bill-amid-gauteng-water-crisis/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailymirror.lk",
-      "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-assistance-to-40-Iranian-sailors-raises-U-S-sanctions-concerns/108-354043"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/houthis-push-closer-aden-biggest-advance-2015"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "theshillongtimes.com",
-      "url": "https://theshillongtimes.com/2026/11/03/2-violating-ships-explode-after-hitting-hormuz-mines/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "thenationonlineng.net",
-      "url": "https://thenationonlineng.net/yemens-houthis-advance-to-within-80-km-of-aden-say-sources/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279408988/iran-vows-dialogue-to-resolve-problems-rejects-surrender-to-enemies"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/us-strikes-iran-qeshm-island-strait-hormuz-shipping-crisis-1877836"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/us-says-iran-strikes-were-defensive-response-missile-threat"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "businesstimes.com.sg",
-      "url": "https://www.businesstimes.com.sg/companies-markets/saudi-aramco-q3-net-profit-rises-34-5-higher-oil-prices-offset-lower-volumes"
-    }
-  ],
-  "gkg_alter_stunden": 0.0
+  "gdelt_verfuegbar": false,
+  "gkg_stand": null,
+  "veraltet": null,
+  "anzahl": 0,
+  "ereignisse": [],
+  "fehler": "HTTP Error 404: Not Found"
 }
