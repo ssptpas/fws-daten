@@ -1,136 +1,101 @@
 {
-  "erstellt_am": "2026-11-02T22:45:44",
+  "erstellt_am": "2026-11-03T09:46:08",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261102214500",
+  "gkg_stand": "20261103084500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -12.6,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "power96radio.com",
-      "url": "https://power96radio.com/ixp/669/p/woma-cut-rochester-home-invasion/"
-    },
-    {
       "kategorie": "Breite",
-      "tonalitaet": -7.4,
+      "tonalitaet": -8.3,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "lankanewspapers.com",
-      "url": "https://www.lankanewspapers.com/2026/11/02/suspected-cyberattacks-cripple-supermarket-freezer-systems-across-europe-sparking-food-safety-crisis"
+      "domain": "theshillongtimes.com",
+      "url": "https://theshillongtimes.com/2026/11/03/ukraine-russia-report-fake-emergency-alerts-after-cyberattack/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
+      "tonalitaet": -6.2,
       "treffer": [
-        "refinery"
+        "tanker"
       ],
-      "domain": "theindianawaaz.com",
-      "url": "https://theindianawaaz.com/massive-fire-at-hpcl-refinery-in-visakhapatnam/"
+      "domain": "thesouthafrican.com",
+      "url": "https://www.thesouthafrican.com/news/sahrc-flags-r777m-tanker-bill-amid-gauteng-water-crisis/"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -6.0,
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://knrs.iheart.com/content/2026-11-02-second-cyberattack-hits-supermarket-freezers-causing-food-to-go-bad/"
+      "domain": "dailymirror.lk",
+      "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-assistance-to-40-Iranian-sailors-raises-U-S-sanctions-concerns/108-354043"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/houthis-push-closer-aden-biggest-advance-2015"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "theshillongtimes.com",
+      "url": "https://theshillongtimes.com/2026/11/03/2-violating-ships-explode-after-hitting-hormuz-mines/"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.1,
       "treffer": [
-        "tanker"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "oilprice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Sanctioned-Iranian-Tanker-Slips-Past-US-Blockade-Delivers-Cargo-to-China.html"
+      "domain": "thenationonlineng.net",
+      "url": "https://thenationonlineng.net/yemens-houthis-advance-to-within-80-km-of-aden-say-sources/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -4.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/comment/myth-of-migrants-and-politics-in-punjab/"
+      "domain": "arabherald.com",
+      "url": "http://www.arabherald.com/news/279408988/iran-vows-dialogue-to-resolve-problems-rejects-surrender-to-enemies"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "zerohedge.com",
-      "url": "http://www.zerohedge.com/political/coup-underway-kunstler-sees-turnstile-next-phase-fourth-turning"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nippon.com",
-      "url": "https://www.nippon.com/en/articles/-/56689"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.3,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "inverelltimes.com.au",
-      "url": "https://www.inverelltimes.com.au/story/9384116/crispin-hull-donald-trump-faces-hugh-risks-by-suing-bbc/"
+      "domain": "ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-strikes-iran-qeshm-island-strait-hormuz-shipping-crisis-1877836"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.6,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "jacarandafm.com",
-      "url": "https://www.jacarandafm.com/news/news/us-to-exclude-south-africa-rwanda-from-agoa/"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/us-says-iran-strikes-were-defensive-response-missile-threat"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.3,
       "treffer": [
-        "cyberattack"
+        "red sea"
       ],
-      "domain": "theage.com.au",
-      "url": "https://www.theage.com.au/world/new-cyberattack-on-european-supermarket-freezers-20261103-p61asg.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "yakimaherald.com",
-      "url": "https://www.yakimaherald.com/opinion/commentary-axis-of-aggressors-how-4-u-s-adversaries-strengthen-each-other/article_2a563054-5c2b-433d-9af8-350767691034.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "idahopress.com",
-      "url": "http://www.idahopress.com/news/world/trump-administration-will-cut-south-africa-and-rwanda-from-the-agoa-trade-program/article_51d0d343-a0ca-598b-bd13-9d6c7afe3ee0.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/business/2026/11/02/trump-administration-will-cut-south-africa-and-rwanda-from-the-agoa-trade-program/"
+      "domain": "businesstimes.com.sg",
+      "url": "https://www.businesstimes.com.sg/companies-markets/saudi-aramco-q3-net-profit-rises-34-5-higher-oil-prices-offset-lower-volumes"
     }
   ],
   "gkg_alter_stunden": 0.0
