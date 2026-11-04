@@ -1,10 +1,129 @@
 {
-  "erstellt_am": "2026-11-04T09:45:30",
+  "erstellt_am": "2026-11-04T12:51:03",
   "quelle": "GDELT GKG",
-  "gdelt_verfuegbar": false,
-  "gkg_stand": null,
-  "veraltet": null,
-  "anzahl": 0,
-  "ereignisse": [],
-  "fehler": "HTTP Error 404: Not Found"
+  "gdelt_verfuegbar": true,
+  "gkg_stand": "20261104111500",
+  "veraltet": false,
+  "anzahl": 13,
+  "ereignisse": [
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "americanthinker.com",
+      "url": "https://www.americanthinker.com/articles/2026/11/when-a-warhawk-is-actually-a-peace-monger/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "windermeresun.com",
+      "url": "https://www.windermeresun.com/2026/11/03/wwiii-threat-assessment/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "financial-news.co.uk",
+      "url": "https://www.financial-news.co.uk/high-court-shuts-manchester-firm-that-sold-distressed-companies-for/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/opinions-analysis/article/ryl9rrdpfe"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "scmagazineuk.com",
+      "url": "https://insight.scmagazineuk.com/suspected-cyberattacks-target-us-military-european-supermarket-freezers"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "lbc.co.uk",
+      "url": "https://www.lbc.co.uk/article/iran-us-trump-midterms-5Hjdkrd_2/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "trinidadexpress.com",
+      "url": "https://trinidadexpress.com/news/local/t-t-abstains-in-icc-vote/article_7fc07fbf-5534-423b-8c50-c3051061ad59.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/11/trump-overruled-his-own-loyalist-that-s-leadership/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "thelocal.se",
+      "url": "https://www.thelocal.se/20261104/today-in-sweden-a-roundup-of-the-latest-news-on-wednesday-270"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "newsday.com",
+      "url": "https://www.newsday.com/news/nation/ukraine-russia-war-kyiv-airstrike-water-m48172"
+    }
+  ],
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261104111500; erfolglos: 20261104120000: HTTP Error 404: Not Found | 20261104114500: HTTP Error 404: Not Found | 20261104113000: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.6
 }
