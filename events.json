@@ -1,129 +1,93 @@
 {
-  "erstellt_am": "2026-11-04T12:51:03",
+  "erstellt_am": "2026-11-05T15:03:07",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261104111500",
+  "gkg_stand": "20261105133000",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "americanthinker.com",
-      "url": "https://www.americanthinker.com/articles/2026/11/when-a-warhawk-is-actually-a-peace-monger/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "tonalitaet": -8.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "windermeresun.com",
-      "url": "https://www.windermeresun.com/2026/11/03/wwiii-threat-assessment/"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/india/delhi-riots-case-umar-khalid-and-sharjeel-imam-challenge-delhi-hcs-bail-refusal-in-supreme-court/articleshow/135573897.cms"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.3,
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
       "treffer": [
-        "insolvency"
+        "sanctions"
       ],
-      "domain": "financial-news.co.uk",
-      "url": "https://www.financial-news.co.uk/high-court-shuts-manchester-firm-that-sold-distressed-companies-for/"
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/11/05/finnish-court-jails-russian-captain-over-baltic-sea-cable-sabotage"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "illinoistimes.com",
+      "url": "https://www.illinoistimes.com/news-opinion/politics-news-opinion/schools-out/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "debt ceiling"
+      ],
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/article-investors-eye-risk-of-debt-ceiling-standoff-after-democratic-sweep/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
+      "tonalitaet": -4.3,
       "treffer": [
-        "red sea"
+        "tanker"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there"
+      "domain": "mercurynews.com",
+      "url": "https://www.mercurynews.com/2026/11/05/tanker-struck-projectiles-persian-gulf-mideast-news/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
       "treffer": [
-        "sanctions"
+        "tanker"
       ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/opinions-analysis/article/ryl9rrdpfe"
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/tanker-struck-by-projectiles-in-the-persian-gulf-off-qatar-and-other-mideast-news/article_9f52ed24-c32f-5171-a219-b471df65336c.html"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -4.5,
+      "tonalitaet": -4.1,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "scmagazineuk.com",
-      "url": "https://insight.scmagazineuk.com/suspected-cyberattacks-target-us-military-european-supermarket-freezers"
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/technology/cyberattack-targets-french-blood-bank-fridges"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "lbc.co.uk",
-      "url": "https://www.lbc.co.uk/article/iran-us-trump-midterms-5Hjdkrd_2/"
+      "domain": "toronto.citynews.ca",
+      "url": "https://toronto.citynews.ca/2026/11/05/heres-how-the-u-s-midterm-election-results-could-affect-canada/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "trinidadexpress.com",
-      "url": "https://trinidadexpress.com/news/local/t-t-abstains-in-icc-vote/article_7fc07fbf-5534-423b-8c50-c3051061ad59.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.6,
       "treffer": [
-        "missile"
-      ],
-      "domain": "americanthinker.com",
-      "url": "https://www.americanthinker.com/blog/2026/11/trump-overruled-his-own-loyalist-that-s-leadership/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "thelocal.se",
-      "url": "https://www.thelocal.se/20261104/today-in-sweden-a-roundup-of-the-latest-news-on-wednesday-270"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "newsday.com",
-      "url": "https://www.newsday.com/news/nation/ukraine-russia-war-kyiv-airstrike-water-m48172"
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/geopolitical/us-suspends-south-africa-rwanda-key-african-trade-program"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261104111500; erfolglos: 20261104120000: HTTP Error 404: Not Found | 20261104114500: HTTP Error 404: Not Found | 20261104113000: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261105133000; erfolglos: 20261105140000: HTTP Error 404: Not Found | 20261105134500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.6
 }
