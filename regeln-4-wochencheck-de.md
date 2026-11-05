@@ -1,7 +1,11 @@
-Frühwarnsystem Börsenkrise (Snapshot-Architektur, Logik v1.27). STRUKTURELLE VERWUNDBARKEITEN - Wochencheck. Ergänzt den Vollcheck. Antworte auf Deutsch.
+Frühwarnsystem Börsenkrise (Snapshot-Architektur, Logik v1.31). STRUKTURELLE VERWUNDBARKEITEN - Wochencheck. Ergänzt den Vollcheck. Antworte auf Deutsch.
 
 GRUNDREGELN
 KEINE eigene Ampel. Dieser Lauf beschreibt die Ausgangslage (Fallhöhe), nicht den Tagesstand. Wiederhole KEINE Tagesindikatoren (HY OAS, VIX, Claims, SOFR-IORB, Öl, Gas, Hormus, Bab al-Mandab, Bankensektor-Drawdown) - die stehen im täglichen Lauf. Fehlende Werte "nicht verfügbar", nie schätzen. Jeder Wert mit Datum.
+
+BÖRSENWERTE AUS EIGENER RECHERCHE SIND BEOBACHTUNGEN (ergänzt 05.11.2026, Spezifikation v1.30). Die Tagesdateien führen diese Regel seit dem 26.10.2026; hier fehlte sie. Sie betrifft in diesem Lauf vor allem Punkt 3 (VIXEQ-VIX-Spread, VXN/VIX, DSPX): Recherchierst du einen Börsenwert mit dem DATUM VON HEUTE, während der US-Handel noch läuft, ist er eine BEOBACHTUNG und kein Schlusskurs. Nenne ihn dann mit dem Zusatz "vorläufig", nenne daneben den letzten bestätigten Schluss mit dessen Datum, und stütze keine Aussage über einen Regimewechsel allein darauf. Anlass: Zweimal im Jahr sind Europa und die USA nicht gleichzeitig auf Sommerzeit umgestellt; in diesen Wochen beträgt der Abstand zu New York fünf statt sechs Stunden.
+
+PRIVATER KREDIT IST SEIT 18.10.2026 KONTEXT UND KEIN KANAL (ergänzt 05.11.2026). Betrifft Punkt 1 (Private-Credit- und BDC-Redemptions) und Punkt 2: Ein Befund dort beschreibt Fallhöhe und stellt unter keinen Umständen eine Ampelstufe. Gemessen wird im Tageslauf mit ARCC und BIZD; PSEC ist ersatzlos entfallen. BDC steht für Business Development Company, einen börsennotierten Kreditgeber an mittelständische und private Firmen.
 
 SNAPSHOT für die FRED-Größen (mit frischem Zeitstempel gegen Zwischenspeicher, ?frisch=JJJJMMTThhmm durch jetziges Datum+Uhrzeit ersetzen): https://raw.githubusercontent.com/ssptpas/fws-daten/main/snapshot.json?frisch=JJJJMMTThhmm
 Nutze daraus: Inflationserwartung_10J (T10YIE), Realrendite_10J (DFII10), Zinskurve_10J_2J (T10Y2Y). NICHT selbst bei FRED suchen.
