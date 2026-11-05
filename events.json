@@ -1,93 +1,130 @@
 {
-  "erstellt_am": "2026-11-05T15:03:07",
+  "erstellt_am": "2026-11-05T22:46:13",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261105133000",
+  "gkg_stand": "20261105213000",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 13,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.1,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/india/delhi-riots-case-umar-khalid-and-sharjeel-imam-challenge-delhi-hcs-bail-refusal-in-supreme-court/articleshow/135573897.cms"
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/sudans-war-turns-on-its-power-grid/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "slguardian.org",
+      "url": "https://slguardian.org/paraguays-president-resigns-amid-banking-crisis-and-protests/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -6.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/2026/11/05/finnish-court-jails-russian-captain-over-baltic-sea-cable-sabotage"
+      "domain": "timescall.com",
+      "url": "https://www.timescall.com/2026/11/05/trump-escalates-cuba-sanctions/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -5.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "illinoistimes.com",
-      "url": "https://www.illinoistimes.com/news-opinion/politics-news-opinion/schools-out/"
+      "domain": "pilotonline.com",
+      "url": "https://www.pilotonline.com/2026/11/05/trump-iran-deportations/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.5,
+      "tonalitaet": -5.8,
       "treffer": [
-        "debt ceiling"
+        "sanctions"
       ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/investing/article-investors-eye-risk-of-debt-ceiling-standoff-after-democratic-sweep/"
+      "domain": "wsls.com",
+      "url": "https://www.wsls.com/news/politics/2026/11/05/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hngn.com",
+      "url": "https://www.hngn.com/articles/273716/20261105/hong-kong-court-sentences-joshua-wong-10-years-collusion.htm"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -5.4,
       "treffer": [
-        "tanker"
+        "refinery"
       ],
-      "domain": "mercurynews.com",
-      "url": "https://www.mercurynews.com/2026/11/05/tanker-struck-projectiles-persian-gulf-mideast-news/"
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/russia-ukraine-oil-refinery-attack-us-diesel-deal-6528411"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wsls.com",
+      "url": "https://www.wsls.com/business/2026/11/05/meat-packer-jbs-faces-complaints-filed-in-europe-over-alleged-links-to-illegal-amazon-deforestation/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jpost.com",
+      "url": "https://www.jpost.com/israel-news/article-914003"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/11/05/exchange-rate-today-november-5-2026-naira-extends-depreciation-against-usd/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.8,
       "treffer": [
+        "red sea"
+      ],
+      "domain": "hngn.com",
+      "url": "https://www.hngn.com/articles/273715/20261105/ethiopia-sudan-expel-diplomats-horn-africa-wars-converge.htm"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "hormuz",
         "tanker"
       ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/tanker-struck-by-projectiles-in-the-persian-gulf-off-qatar-and-other-mideast-news/article_9f52ed24-c32f-5171-a219-b471df65336c.html"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/technology/cyberattack-targets-french-blood-bank-fridges"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "toronto.citynews.ca",
-      "url": "https://toronto.citynews.ca/2026/11/05/heres-how-the-u-s-midterm-election-results-could-affect-canada/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/us-suspends-south-africa-rwanda-key-african-trade-program"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261105133000; erfolglos: 20261105140000: HTTP Error 404: Not Found | 20261105134500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.6
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261105213000; erfolglos: 20261105214500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }

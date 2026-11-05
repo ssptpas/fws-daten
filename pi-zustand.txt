@@ -1,67 +1,67 @@
-Zustand des Pi -- geschrieben 2026-11-05T15:19:21+01:00
+Zustand des Pi -- geschrieben 2026-11-05T22:47:23+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 38 minutes
-Letzter Start: 2026-11-05 14:41:15
+Betriebsdauer: up 7 hours, 16 minutes
+Letzter Start: 2026-11-05 15:31:18
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    50.6'C
+Temperatur:    56.0'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       188Mi       922Mi       6.4Mi       807Mi       1.6Gi
+   Mem:           1.8Gi       273Mi       1.3Gi        16Mi       293Mi       1.5Gi
    Swap:          1.8Gi          0B       1.8Gi
 
 Speicherkarte:
    Filesystem      Size  Used Avail Use% Mounted on
-   /dev/mmcblk0p2   58G  3.8G   52G   7% /
+   /dev/mmcblk0p2   58G  3.9G   52G   8% /
    /dev/mmcblk0p1  505M   67M  438M  14% /boot/firmware
 
 Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
-   [    1.357107]  mmcblk0: p1 p2
-   [    1.357435] mmcblk0: mmc0:aaaa SK64G 59.5 GiB (quirks 0x00004000)
-   [    1.791540]  mmcblk0: p1 p2
-   [    1.997904] EXT4-fs (mmcblk0p2): orphan cleanup on readonly fs
-   [    1.998401] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
-   [    2.048222] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 r/w.
-   [    2.146550] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 ro.
-   [    4.866131] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 r/w.
-   [    5.018342] EXT4-fs (mmcblk0p2): resizing filesystem from 618496 to 15458816 blocks
-   [    5.728761] EXT4-fs (mmcblk0p2): resized filesystem to 15458816
+   [    1.109218] mmc-bcm2835 fe300000.mmcnr: DMA channel allocated
+   [    1.176313] mmc0: SDHCI controller on fe340000.mmc [fe340000.mmc] using ADMA
+   [    1.216429] mmc1: new high speed SDIO card at address 0001
+   [    1.325779] mmc0: new UHS-I speed DDR50 SDXC card at address aaaa
+   [    1.326413] mmcblk0: mmc0:aaaa SK64G 59.5 GiB
+   [    1.328295]  mmcblk0: p1 p2
+   [    1.328607] mmcblk0: mmc0:aaaa SK64G 59.5 GiB (quirks 0x00004000)
+   [    1.786068] EXT4-fs (mmcblk0p2): orphan cleanup on readonly fs
+   [    1.786558] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
+   [    4.361335] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 r/w.
 
 Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
-   Oct 06 02:27:40 raspberrypi kernel: hci_uart_bcm serial0-0: supply vbat not found, using dummy regulator
-   Oct 06 02:27:40 raspberrypi kernel: hci_uart_bcm serial0-0: supply vddio not found, using dummy regulator
-   Oct 06 02:27:41 raspberrypi (udev-worker)[404]: controlC0: Process '/usr/sbin/alsactl -E HOME=/run/alsa -E XDG_RUNTIME_DIR=/run/alsa/runtime restore 0' failed with exit code 2.
-   Oct 06 02:27:41 raspberrypi (udev-worker)[414]: controlC1: Process '/usr/sbin/alsactl -E HOME=/run/alsa -E XDG_RUNTIME_DIR=/run/alsa/runtime restore 1' failed with exit code 99.
-   Oct 06 02:27:41 raspberrypi (udev-worker)[409]: controlC2: Process '/usr/sbin/alsactl -E HOME=/run/alsa -E XDG_RUNTIME_DIR=/run/alsa/runtime restore 2' failed with exit code 99.
-   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
-   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
-   Oct 06 02:27:53 RaspberryPi-4b systemd[1]: Failed to start userconfig.service.
-   Oct 06 02:27:54 RaspberryPi-4b (uetoothd)[1672]: bluetooth.service: ConfigurationDirectory 'bluetooth' already exists but the mode is different. (File system: 755 ConfigurationDirectoryMode: 555)
-   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
-   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
-   Oct 06 02:27:54 RaspberryPi-4b bluetoothd[1672]: Failed to set mode: Failed (0x03)
-   Oct 06 02:27:55 RaspberryPi-4b generate[1807]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
-   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
-   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
-   Oct 06 02:27:57 RaspberryPi-4b generate[1965]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
-   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
-   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
-   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
-   Oct 06 02:27:58 RaspberryPi-4b generate[2058]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
-   Oct 06 02:28:00 RaspberryPi-4b generate[2151]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
-   Oct 06 02:28:02 RaspberryPi-4b wpa_supplicant[1710]: nl80211: kernel reports: Registration to specific type not supported
-   Oct 06 02:28:04 RaspberryPi-4b wpa_supplicant[1710]: bgscan simple: Failed to enable signal strength monitoring
+   Nov 05 15:31:09 RaspberryPi-4b kernel: pci_bus 0000:01: supply vpcie3v3 not found, using dummy regulator
+   Nov 05 15:31:09 RaspberryPi-4b kernel: pci_bus 0000:01: supply vpcie3v3aux not found, using dummy regulator
+   Nov 05 15:31:09 RaspberryPi-4b kernel: pci_bus 0000:01: supply vpcie12v not found, using dummy regulator
+   Nov 05 15:31:10 RaspberryPi-4b systemd-udevd[336]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Nov 05 15:31:10 RaspberryPi-4b systemd-udevd[336]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
+   Nov 05 15:31:10 RaspberryPi-4b systemd-udevd[336]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Nov 05 15:31:10 RaspberryPi-4b systemd-udevd[336]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
+   Nov 05 15:31:10 RaspberryPi-4b kernel: snd_bcm2835: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 05 15:31:10 RaspberryPi-4b kernel: vc_sm_cma: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 05 15:31:10 RaspberryPi-4b kernel: bcm2835_mmal_vchiq: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 05 15:31:10 RaspberryPi-4b kernel: bcm2835_v4l2: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 05 15:31:10 RaspberryPi-4b kernel: bcm2835_isp: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 05 15:31:10 RaspberryPi-4b kernel: bcm2835_codec: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 05 15:31:11 RaspberryPi-4b kernel: hci_uart_bcm serial0-0: supply vbat not found, using dummy regulator
+   Nov 05 15:31:11 RaspberryPi-4b kernel: hci_uart_bcm serial0-0: supply vddio not found, using dummy regulator
+   Nov 05 15:31:13 RaspberryPi-4b (uetoothd)[549]: bluetooth.service: ConfigurationDirectory 'bluetooth' already exists but the mode is different. (File system: 755 ConfigurationDirectoryMode: 555)
+   Nov 05 15:31:14 RaspberryPi-4b bluetoothd[549]: Failed to set mode: Failed (0x03)
+   Nov 05 15:31:15 RaspberryPi-4b generate[674]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 05 15:31:17 RaspberryPi-4b generate[768]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 05 15:31:19 RaspberryPi-4b generate[860]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 05 15:31:20 RaspberryPi-4b generate[952]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 05 15:31:22 RaspberryPi-4b wpa_supplicant[608]: nl80211: kernel reports: Registration to specific type not supported
+   Nov 05 15:31:25 RaspberryPi-4b wpa_supplicant[608]: bgscan simple: Failed to enable signal strength monitoring
+   Nov 05 15:38:16 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 05 15:38:16 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 05 15:38:16 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 05 15:38:16 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 05 15:38:16 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 05 15:38:16 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 05 15:41:38 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
 
 Fehlgeschlagene Dienste:
      UNIT LOAD ACTIVE SUB DESCRIPTION
