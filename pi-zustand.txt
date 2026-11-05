@@ -1,0 +1,69 @@
+Zustand des Pi -- geschrieben 2026-11-05T15:19:21+01:00
+
+Modell:        Raspberry Pi 4 Model B Rev 1.5
+Kern:          6.18.50+rpt-rpi-v8
+Betriebsdauer: up 38 minutes
+Letzter Start: 2026-11-05 14:41:15
+
+Drosselung:    0x0
+   in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
+Temperatur:    50.6'C
+
+Arbeitsspeicher:
+                  total        used        free      shared  buff/cache   available
+   Mem:           1.8Gi       188Mi       922Mi       6.4Mi       807Mi       1.6Gi
+   Swap:          1.8Gi          0B       1.8Gi
+
+Speicherkarte:
+   Filesystem      Size  Used Avail Use% Mounted on
+   /dev/mmcblk0p2   58G  3.8G   52G   7% /
+   /dev/mmcblk0p1  505M   67M  438M  14% /boot/firmware
+
+Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
+   [    1.357107]  mmcblk0: p1 p2
+   [    1.357435] mmcblk0: mmc0:aaaa SK64G 59.5 GiB (quirks 0x00004000)
+   [    1.791540]  mmcblk0: p1 p2
+   [    1.997904] EXT4-fs (mmcblk0p2): orphan cleanup on readonly fs
+   [    1.998401] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
+   [    2.048222] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 r/w.
+   [    2.146550] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 ro.
+   [    4.866131] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 r/w.
+   [    5.018342] EXT4-fs (mmcblk0p2): resizing filesystem from 618496 to 15458816 blocks
+   [    5.728761] EXT4-fs (mmcblk0p2): resized filesystem to 15458816
+
+Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
+   Oct 06 02:27:40 raspberrypi kernel: hci_uart_bcm serial0-0: supply vbat not found, using dummy regulator
+   Oct 06 02:27:40 raspberrypi kernel: hci_uart_bcm serial0-0: supply vddio not found, using dummy regulator
+   Oct 06 02:27:41 raspberrypi (udev-worker)[404]: controlC0: Process '/usr/sbin/alsactl -E HOME=/run/alsa -E XDG_RUNTIME_DIR=/run/alsa/runtime restore 0' failed with exit code 2.
+   Oct 06 02:27:41 raspberrypi (udev-worker)[414]: controlC1: Process '/usr/sbin/alsactl -E HOME=/run/alsa -E XDG_RUNTIME_DIR=/run/alsa/runtime restore 1' failed with exit code 99.
+   Oct 06 02:27:41 raspberrypi (udev-worker)[409]: controlC2: Process '/usr/sbin/alsactl -E HOME=/run/alsa -E XDG_RUNTIME_DIR=/run/alsa/runtime restore 2' failed with exit code 99.
+   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
+   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:45 raspberrypi systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
+   Oct 06 02:27:53 RaspberryPi-4b systemd[1]: Failed to start userconfig.service.
+   Oct 06 02:27:54 RaspberryPi-4b (uetoothd)[1672]: bluetooth.service: ConfigurationDirectory 'bluetooth' already exists but the mode is different. (File system: 755 ConfigurationDirectoryMode: 555)
+   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
+   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:54 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
+   Oct 06 02:27:54 RaspberryPi-4b bluetoothd[1672]: Failed to set mode: Failed (0x03)
+   Oct 06 02:27:55 RaspberryPi-4b generate[1807]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
+   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:55 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
+   Oct 06 02:27:57 RaspberryPi-4b generate[1965]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
+   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Oct 06 02:27:57 RaspberryPi-4b systemd-udevd[386]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
+   Oct 06 02:27:58 RaspberryPi-4b generate[2058]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Oct 06 02:28:00 RaspberryPi-4b generate[2151]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Oct 06 02:28:02 RaspberryPi-4b wpa_supplicant[1710]: nl80211: kernel reports: Registration to specific type not supported
+   Oct 06 02:28:04 RaspberryPi-4b wpa_supplicant[1710]: bgscan simple: Failed to enable signal strength monitoring
+
+Fehlgeschlagene Dienste:
+     UNIT LOAD ACTIVE SUB DESCRIPTION
+   
+   0 loaded units listed.
