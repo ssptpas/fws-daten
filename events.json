@@ -1,83 +1,149 @@
 {
-  "erstellt_am": "2026-11-06T09:46:06",
+  "erstellt_am": "2026-11-06T14:46:15",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261106084500",
+  "gkg_stand": "20261106133000",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 15,
   "ereignisse": [
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -9.6,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "breakingnews.ie",
-      "url": "https://www.breakingnews.ie/ireland/central-bank-asked-to-look-into-jbs-and-blackrock-over-illegal-deforestation-1957178.html"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "tonalitaet": -8.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "zimbabwestar.com",
-      "url": "http://www.zimbabwestar.com/news/279415507/us-targets-offshore-network-behind-alleged-scams"
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202611060280.html"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.9,
       "treffer": [
-        "airstrike"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "ukrweekly.com",
-      "url": "https://subscription.ukrweekly.com/russian-airstrikes-on-humanitarian-aid-center-in-zaporizhzhia-kill-at-least-40-dozens-missing/"
+      "domain": "pakistantoday.com.pk",
+      "url": "https://www.pakistantoday.com.pk/2026/11/06/saudi-arabia-rejects-claims-of-dollar51-billion-houthi-demand-to-end-yemen-conflict"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/national/kerala/sndp-microfinance-case-setback-for-vellappally-natesan-as-kerala-hc-says-no-sanction-needed-to-prosecute-accused/article71673300.ece"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
+      "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/344947"
+      "domain": "nigerianeye.com",
+      "url": "https://www.nigerianeye.com/2026/11/resident-doctors-reject-bill-seeking.html"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "premiumtimesng.com",
+      "url": "https://www.premiumtimesng.com/news/headlines/923159-fighting-somali-piracy-needs-local-leadership-foreign-naval-backing.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.2,
       "treffer": [
-        "sanctions"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/mexico-arrests-7-northeast-cartel-cell-coahuila-2026/"
+      "domain": "baystreet.ca",
+      "url": "https://baystreet.ca/commodities/9078/Indias-HPCL-Struggles-to-Secure-Oil-Tankers-as-Hormuz-Risks-Persist"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "kategorie": "Breite",
+      "tonalitaet": -5.0,
       "treffer": [
-        "sanctions"
+        "cyberattack"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/the-big-read-mexico-6-november-2026/"
+      "domain": "parisguardian.com",
+      "url": "http://www.parisguardian.com/news/279415885/explainer-why-are-refrigeration-systems-becoming-a-new-frontier-for-cyberattacks"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.0,
+      "tonalitaet": -5.0,
       "treffer": [
         "central bank"
       ],
-      "domain": "frontpageafricaonline.com",
-      "url": "https://frontpageafricaonline.com/liberia-npa-unveils-measures-to-ease-port-congestion-as-importers-protest-delays-rising-fees/"
+      "domain": "politico.eu",
+      "url": "https://www.politico.eu/article/france-presidential-candidate-melenchon-previews-eu-confrontation-in-presidential-platform/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "lasvegassun.com",
+      "url": "https://lasvegassun.com/news/2026/nov/06/voters-rejected-tariffs-congress-should-too/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "suez"
+      ],
+      "domain": "newsroomamerica.com",
+      "url": "https://newsroomamerica.com/tag/suez_crisis"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "businessdayghana.com",
+      "url": "https://businessdayghana.com/npa-celebrates-2026-consumer-week-focuses-on-a-safer-downstream-to-boost-consumer-confidence/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "fortune.com",
+      "url": "https://fortune.com/article/price-of-oil-11-06-2026/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "insolvency"
+      ],
+      "domain": "wharfedaleobserver.co.uk",
+      "url": "https://www.wharfedaleobserver.co.uk/news/national/uk-today/26704816.uk-snack-company-collapses-administration-4-years/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "washingtonexaminer.com",
+      "url": "http://www.washingtonexaminer.com/op-eds/4794569/iran-nuclear-deal-hormuz-enriched-uranium/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "cinaradio.com",
+      "url": "https://www.cinaradio.com/2026/11/06/republicans-ran-away-from-trumps-canadian-tariffs-but-not-far-enough/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/article/hjncsejpfe"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261106133000; erfolglos: 20261106134500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
