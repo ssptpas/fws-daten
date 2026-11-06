@@ -1,82 +1,46 @@
 {
-  "erstellt_am": "2026-11-05T22:46:13",
+  "erstellt_am": "2026-11-06T09:46:06",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261105213000",
+  "gkg_stand": "20261106084500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -9.6,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "breakingnews.ie",
+      "url": "https://www.breakingnews.ie/ireland/central-bank-asked-to-look-into-jbs-and-blackrock-over-illegal-deforestation-1957178.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "zimbabwestar.com",
+      "url": "http://www.zimbabwestar.com/news/279415507/us-targets-offshore-network-behind-alleged-scams"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -7.1,
       "treffer": [
-        "red sea"
+        "airstrike"
       ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/sudans-war-turns-on-its-power-grid/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "slguardian.org",
-      "url": "https://slguardian.org/paraguays-president-resigns-amid-banking-crisis-and-protests/"
+      "domain": "ukrweekly.com",
+      "url": "https://subscription.ukrweekly.com/russian-airstrikes-on-humanitarian-aid-center-in-zaporizhzhia-kill-at-least-40-dozens-missing/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "tonalitaet": -6.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "timescall.com",
-      "url": "https://www.timescall.com/2026/11/05/trump-escalates-cuba-sanctions/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "pilotonline.com",
-      "url": "https://www.pilotonline.com/2026/11/05/trump-iran-deportations/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/news/politics/2026/11/05/us-escalates-economic-campaign-against-cuba-and-targets-china-based-suppliers/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hngn.com",
-      "url": "https://www.hngn.com/articles/273716/20261105/hong-kong-court-sentences-joshua-wong-10-years-collusion.htm"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/world/russia-ukraine-oil-refinery-attack-us-diesel-deal-6528411"
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/national/kerala/sndp-microfinance-case-setback-for-vellappally-natesan-as-kerala-hc-says-no-sanction-needed-to-prosecute-accused/article71673300.ece"
     },
     {
       "kategorie": "Policy",
@@ -84,47 +48,36 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/business/2026/11/05/meat-packer-jbs-faces-complaints-filed-in-europe-over-alleged-links-to-illegal-amazon-deforestation/"
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/344947"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -5.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "jpost.com",
-      "url": "https://www.jpost.com/israel-news/article-914003"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/mexico-arrests-7-northeast-cartel-cell-coahuila-2026/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/the-big-read-mexico-6-november-2026/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.0,
       "treffer": [
         "central bank"
       ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/11/05/exchange-rate-today-november-5-2026-naira-extends-depreciation-against-usd/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "hngn.com",
-      "url": "https://www.hngn.com/articles/273715/20261105/ethiopia-sudan-expel-diplomats-horn-africa-wars-converge.htm"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack/"
+      "domain": "frontpageafricaonline.com",
+      "url": "https://frontpageafricaonline.com/liberia-npa-unveils-measures-to-ease-port-congestion-as-importers-protest-delays-rising-fees/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261105213000; erfolglos: 20261105214500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "gkg_alter_stunden": 0.0
 }
