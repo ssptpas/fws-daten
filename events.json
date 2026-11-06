@@ -1,149 +1,128 @@
 {
-  "erstellt_am": "2026-11-06T14:46:15",
+  "erstellt_am": "2026-11-06T22:46:12",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261106133000",
+  "gkg_stand": "20261106214500",
   "veraltet": false,
-  "anzahl": 15,
+  "anzahl": 13,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.1,
+      "tonalitaet": -8.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202611060280.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "pakistantoday.com.pk",
-      "url": "https://www.pakistantoday.com.pk/2026/11/06/saudi-arabia-rejects-claims-of-dollar51-billion-houthi-demand-to-end-yemen-conflict"
+      "domain": "brazilsun.com",
+      "url": "http://www.brazilsun.com/news/279416148/civil-society-call-for-scrutiny-of-united-states-rights-record"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "nigerianeye.com",
-      "url": "https://www.nigerianeye.com/2026/11/resident-doctors-reject-bill-seeking.html"
+      "domain": "ktvh.com",
+      "url": "https://www.ktvh.com/ukraines-stolen-orphans/crisis-deepens-in-ukraine-as-russian-officials-white-house-visit-draws-scrutiny"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "premiumtimesng.com",
-      "url": "https://www.premiumtimesng.com/news/headlines/923159-fighting-somali-piracy-needs-local-leadership-foreign-naval-backing.html"
+      "domain": "miragenews.com",
+      "url": "https://www.miragenews.com/us-sanctions-cripple-networks-sustaining-irans-1773500/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "kategorie": "Policy",
+      "tonalitaet": -6.3,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "sanctions"
       ],
-      "domain": "baystreet.ca",
-      "url": "https://baystreet.ca/commodities/9078/Indias-HPCL-Struggles-to-Secure-Oil-Tankers-as-Hormuz-Risks-Persist"
+      "domain": "globalissues.org",
+      "url": "https://www.globalissues.org/news/2026/11/06/44533"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -5.0,
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "parisguardian.com",
-      "url": "http://www.parisguardian.com/news/279415885/explainer-why-are-refrigeration-systems-becoming-a-new-frontier-for-cyberattacks"
+      "domain": "theonion.com",
+      "url": "https://theonion.com/gavin-newsom-commutes-all-california-death-sentences/"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.2,
       "treffer": [
         "central bank"
       ],
-      "domain": "politico.eu",
-      "url": "https://www.politico.eu/article/france-presidential-candidate-melenchon-previews-eu-confrontation-in-presidential-platform/"
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/comment/demonetisation-at-10-yrs-and-its-reckoning/"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -4.6,
       "treffer": [
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "lasvegassun.com",
-      "url": "https://lasvegassun.com/news/2026/nov/06/voters-rejected-tariffs-congress-should-too/"
+      "domain": "maritime-executive.com",
+      "url": "https://maritime-executive.com/article/sanctioned-russian-merchant-vessels-are-underway"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "caribbeanherald.com",
+      "url": "http://www.caribbeanherald.com/news/279416730/united-states-announces-fresh-iran-related-sanctions-says-treasury-dept"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "kacu.org",
+      "url": "https://www.kacu.org/2026-11-06/health-intel-sharing-group-warns-industry-in-wake-of-cyberattack-on-french-blood-bank"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "npr.org",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/newyork/news/cornell-faculty-senates-no-confidence-vote-results/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -3.2,
       "treffer": [
         "suez"
       ],
-      "domain": "newsroomamerica.com",
-      "url": "https://newsroomamerica.com/tag/suez_crisis"
+      "domain": "kacu.org",
+      "url": "https://www.kacu.org/2026-11-06/israels-arab-led-parties-in-spotlight-after-inconclusive-election"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -3.1,
       "treffer": [
-        "refinery"
+        "red sea"
       ],
-      "domain": "businessdayghana.com",
-      "url": "https://businessdayghana.com/npa-celebrates-2026-consumer-week-focuses-on-a-safer-downstream-to-boost-consumer-confidence/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "fortune.com",
-      "url": "https://fortune.com/article/price-of-oil-11-06-2026/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "wharfedaleobserver.co.uk",
-      "url": "https://www.wharfedaleobserver.co.uk/news/national/uk-today/26704816.uk-snack-company-collapses-administration-4-years/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "washingtonexaminer.com",
-      "url": "http://www.washingtonexaminer.com/op-eds/4794569/iran-nuclear-deal-hormuz-enriched-uranium/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "cinaradio.com",
-      "url": "https://www.cinaradio.com/2026/11/06/republicans-ran-away-from-trumps-canadian-tariffs-but-not-far-enough/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/hjncsejpfe"
+      "domain": "wsls.com",
+      "url": "https://www.wsls.com/news/politics/2026/11/06/rubio-will-venture-to-france-on-first-post-midterm-foreign-trip-to-face-questions-on-trump-policies/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261106133000; erfolglos: 20261106134500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "gkg_alter_stunden": 0.0
 }
