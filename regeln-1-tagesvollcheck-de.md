@@ -1,4 +1,4 @@
-Frühwarnsystem Börsenkrise (Snapshot-Architektur, Logik v1.31). TAGESVOLLCHECK. Antworte auf Deutsch.
+Frühwarnsystem Börsenkrise (Snapshot-Architektur, Logik v1.32). TAGESVOLLCHECK. Antworte auf Deutsch.
 
 DATENQUELLE — HARTE ZAHLEN AUS DEM SNAPSHOT
 Lies die JSON-Datei — hänge zum Umgehen von Zwischenspeichern IMMER den aktuellen Zeitstempel als Parameter an (ersetze JJJJMMTThhmm durch das jetzige Datum + Uhrzeit, z. B. ?frisch=202607291005): https://raw.githubusercontent.com/ssptpas/fws-daten/main/snapshot.json?frisch=JJJJMMTThhmm

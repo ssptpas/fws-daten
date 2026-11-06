@@ -1,0 +1,44 @@
+MENGEN, MONATSBLOCK -- KONTEXT, NIE AMPELWIRKSAM
+Erstellt 2026-11-06 14:24 von monatsblock.py. Keine Zahl darin stellt eine Ampelstufe,
+keine gehoert in 'Auffaellig heute', keine zaehlt fuer die Mehrkanalregel.
+Dieser Block enthaelt ausschliesslich MENGEN und darf nie neben eine
+Transitzahl gestellt werden (Mengenregel v1.28).
+
+Rohoel aus der Golfregion -- Zolldaten der Kaeufer (UN Comtrade, HS 2709)
+  China          12/2024   4.77 Mio. b/d   liegt im Vergleichszeitraum
+  Rep. of Korea  12/2025   1.74 Mio. b/d   2024 12: 1.87      -7 %
+  India          08/2026   1.50 Mio. b/d   2024 08: 1.38      +8 %
+  Japan          08/2026   1.44 Mio. b/d   2024 08: 2.17     -34 %
+  Singapore      03/2026   0.75 Mio. b/d   2024 03: 0.43     +75 %
+  USA            08/2026   0.67 Mio. b/d   2024 08: 0.59     +13 %
+  Thailand       05/2026   0.23 Mio. b/d   2024 05: 0.56     -60 %  [eine Zelle ausgeschlossen, Summe zu niedrig]
+  KEINE Gesamtsumme: die Kaeufer melden bis zu verschiedenen Stichtagen
+  (12/2024, 12/2025, 03/2026, 05/2026, 08/2026). Eine Summe darueber waere ein Mischwert, keine Messung.
+  Vorkriegsmassstab 2024, alle erfassten Kaeufer: 12.89 Mio. b/d
+    davon Umgehung moeglich    7.75 Mio. b/d
+    davon Hormus-gebunden      4.27 Mio. b/d
+    davon ausserhalb Hormus    0.87 Mio. b/d
+  Iran fehlt vollstaendig -- rund 1,3 Mio. b/d laufen unter falscher
+  Herkunft. Der hormusgebundene Anteil ist real hoeher als oben.
+  'Umgehung moeglich' heisst MOEGLICHKEIT, nicht Route: vor dem Krieg
+  lief auch saudisches und emiratisches Oel fast ganz durch Hormus.
+  Ausgeschlossen, weil Wert und Gewicht nicht zueinander passen: 16 Zellen
+    09/2023 China <- Bahrain (31200.0 USD je Tonne)
+    10/2023 China <- Bahrain (77000.0 USD je Tonne)
+    11/2023 China <- Bahrain (31500.0 USD je Tonne)
+
+Diesel, Lagerbestand am Monatsende (JODI, in Mio. Barrel)
+  USA            08/2026     79.9   Mittel aus 5 gleichen Monaten:   112.7    -29 %
+  Indien         03/2026     39.9   Mittel aus 5 gleichen Monaten:    42.2     -5 %
+  Saudi-Arabien  08/2026     18.6   Mittel aus 5 gleichen Monaten:    32.6    -43 %
+  Japan          08/2026     17.5   Mittel aus 5 gleichen Monaten:    17.7     -1 %
+  Suedkorea      08/2026     16.9   Mittel aus 5 gleichen Monaten:    16.1     +5 %
+  Australien     08/2026     16.2   Mittel aus 5 gleichen Monaten:    12.7    +27 %
+  Taiwan         08/2026      8.5   Mittel aus 5 gleichen Monaten:     8.7     -1 %
+  Bahrain        08/2026      2.0   Mittel aus 5 gleichen Monaten:     1.4    +41 %
+  Meldung eingestellt (letzter Bestand): Irak 03/2024, VAE 12/2018, Katar 03/2018, Oman 02/2016
+  Melden ueberhaupt keine Bestaende: CN, KW, SG
+
+Umrechnung Tonnen in Barrel mit 7.33 bbl je Tonne -- Projektkonvention,
+keine Messung. JODI-Werte sind bereits Barrel.
+Naechste Fortschreibung: Anfang 12/2026.
