@@ -1,73 +1,76 @@
 {
-  "erstellt_am": "2026-11-07T09:45:51",
+  "erstellt_am": "2026-11-07T14:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261107083000",
+  "gkg_stand": "20261107133000",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 13,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -10.7,
+      "tonalitaet": -7.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "express.co.uk",
-      "url": "https://www.express.co.uk/news/uk/2262924/should-uk-prep-ww3-poll"
+      "domain": "bruneinews.net",
+      "url": "http://www.bruneinews.net/news/279414900/hong-kong-sentences-activist-joshua-wong-to-10-years-in-prison"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -7.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
       "treffer": [
-        "critical infrastructure"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "pakistantimes.com",
-      "url": "https://www.pakistantimes.com/pakistans-national-cert-warns-of-ai-driven-cyber-threats-to-banks-and-critical-infrastructure-16138/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenational.scot",
-      "url": "https://www.thenational.scot/politics/26708104.democrats-must-make-real-difference-donald-trumps-defeat/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "irishtimes.com",
-      "url": "https://www.irishtimes.com/ireland/2026/11/07/state-exposed-to-exponential-environmental-risks-by-shadow-fleet-vessels-in-irish-waters/"
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/mid-east/yemen-airstrikes-kill-22-wound-30-near-houthi-controlled-capital"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.7,
       "treffer": [
-        "nuclear weapon"
+        "missile"
       ],
-      "domain": "aninews.in",
-      "url": "https://aninews.in/news/world/us/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran20261107132743/"
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/diethni/articles/909719/rapid-developments-as-iran-lifts-missile-range-limits-sparking-terror-in-europe"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.0,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "africaleader.com",
-      "url": "http://www.africaleader.com/news/279418098/global-gas-supplies-could-tighten-in-winter-amid-unprecedented-strait-of-hormuz-supply-shock-iea"
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/2026/11/07/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "japanherald.com",
+      "url": "http://www.japanherald.com/news/279418426/paraguay-president-pena-impeached-placed-under-house-arrest-in-bank-collapse-scandal"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "lancasteronline.com",
+      "url": "https://lancasteronline.com/news/world/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/article_9fbc976d-5283-5b63-ab96-e7d25ed94379.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.2,
       "treffer": [
-        "hormuz"
+        "refinery"
       ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087359822-trump-confirms-us-strikes-on-iran-s-qeshm-island"
+      "domain": "rockymounttelegram.com",
+      "url": "http://www.rockymounttelegram.com/news/world/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_1d68d90b-a403-5134-96c8-8b99c175d2d9.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
@@ -75,65 +78,55 @@
       "treffer": [
         "missile"
       ],
-      "domain": "stardem.com",
-      "url": "http://www.stardem.com/ap/world/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_d6c91f95-8930-51ef-ae4d-bd47e1341040.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/iran-weathering-storm-saudi-arabia-sinking"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087359833-us-sanctions-8-canadian-firms-over-iran-related-transactions"
+      "domain": "rockymounttelegram.com",
+      "url": "http://www.rockymounttelegram.com/news/national/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_1d9ae55d-06da-5e95-97ed-8c9ded78b0fa.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
+      "tonalitaet": -4.0,
       "treffer": [
         "missile"
       ],
       "domain": "wdtimes.com",
-      "url": "http://www.wdtimes.com/news/world/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_efe28a76-8f88-5ed2-b8dc-ba4f05ce23dd.html"
+      "url": "http://www.wdtimes.com/news/national/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_bf930ad4-b8aa-5b07-a8bc-aff81963a913.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "reflector.com",
+      "url": "http://www.reflector.com/news/national/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_b82e1167-f31d-54ac-9bb3-6d2892f453e4.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "eveshamjournal.co.uk",
+      "url": "https://www.eveshamjournal.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.7,
+      "tonalitaet": -3.9,
       "treffer": [
         "missile"
       ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"
+      "domain": "news4jax.com",
+      "url": "https://www.news4jax.com/news/world/2026/11/07/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
       "treffer": [
-        "sanctions"
+        "refinery"
       ],
-      "domain": "nbcnews.com",
-      "url": "https://www.nbcnews.com/news/us-news/us-military-carries-new-targeted-strikes-iran-rcna607969"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "missile",
-        "ballistic"
-      ],
-      "domain": "eaworldview.com",
-      "url": "https://eaworldview.com/2026/11/ukraine-war-kyiv-russia-ballistic-missile-strikes/"
+      "domain": "lancasteronline.com",
+      "url": "https://lancasteronline.com/news/world/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_d2e10b78-8bde-5c9b-a300-a6115a391024.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261107083000; erfolglos: 20261107084500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261107133000; erfolglos: 20261107134500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.3
 }
