@@ -1,37 +1,28 @@
 {
-  "erstellt_am": "2026-11-06T22:46:12",
+  "erstellt_am": "2026-11-07T09:45:51",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261106214500",
+  "gkg_stand": "20261107083000",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.6,
+      "tonalitaet": -10.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "brazilsun.com",
-      "url": "http://www.brazilsun.com/news/279416148/civil-society-call-for-scrutiny-of-united-states-rights-record"
+      "domain": "express.co.uk",
+      "url": "https://www.express.co.uk/news/uk/2262924/should-uk-prep-ww3-poll"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "kategorie": "Breite",
+      "tonalitaet": -7.6,
       "treffer": [
-        "sanctions"
+        "critical infrastructure"
       ],
-      "domain": "ktvh.com",
-      "url": "https://www.ktvh.com/ukraines-stolen-orphans/crisis-deepens-in-ukraine-as-russian-officials-white-house-visit-draws-scrutiny"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "miragenews.com",
-      "url": "https://www.miragenews.com/us-sanctions-cripple-networks-sustaining-irans-1773500/"
+      "domain": "pakistantimes.com",
+      "url": "https://www.pakistantimes.com/pakistans-national-cert-warns-of-ai-driven-cyber-threats-to-banks-and-critical-infrastructure-16138/"
     },
     {
       "kategorie": "Policy",
@@ -39,90 +30,110 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "globalissues.org",
-      "url": "https://www.globalissues.org/news/2026/11/06/44533"
+      "domain": "thenational.scot",
+      "url": "https://www.thenational.scot/politics/26708104.democrats-must-make-real-difference-donald-trumps-defeat/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -6.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theonion.com",
-      "url": "https://theonion.com/gavin-newsom-commutes-all-california-death-sentences/"
+      "domain": "irishtimes.com",
+      "url": "https://www.irishtimes.com/ireland/2026/11/07/state-exposed-to-exponential-environmental-risks-by-shadow-fleet-vessels-in-irish-waters/"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "aninews.in",
+      "url": "https://aninews.in/news/world/us/nobody-hurt-or-killed-in-5-months-trump-says-us-is-not-at-war-with-iran20261107132743/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.2,
       "treffer": [
-        "central bank"
+        "hormuz"
       ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/comment/demonetisation-at-10-yrs-and-its-reckoning/"
+      "domain": "africaleader.com",
+      "url": "http://www.africaleader.com/news/279418098/global-gas-supplies-could-tighten-in-winter-amid-unprecedented-strait-of-hormuz-supply-shock-iea"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "maritime-executive.com",
-      "url": "https://maritime-executive.com/article/sanctioned-russian-merchant-vessels-are-underway"
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087359822-trump-confirms-us-strikes-on-iran-s-qeshm-island"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
       "treffer": [
-        "sanctions"
+        "missile"
       ],
-      "domain": "caribbeanherald.com",
-      "url": "http://www.caribbeanherald.com/news/279416730/united-states-announces-fresh-iran-related-sanctions-says-treasury-dept"
+      "domain": "stardem.com",
+      "url": "http://www.stardem.com/ap/world/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_d6c91f95-8930-51ef-ae4d-bd47e1341040.html"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.0,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "kacu.org",
-      "url": "https://www.kacu.org/2026-11-06/health-intel-sharing-group-warns-industry-in-wake-of-cyberattack-on-french-blood-bank"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "npr.org",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cbsnews.com",
-      "url": "https://www.cbsnews.com/newyork/news/cornell-faculty-senates-no-confidence-vote-results/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "suez"
-      ],
-      "domain": "kacu.org",
-      "url": "https://www.kacu.org/2026-11-06/israels-arab-led-parties-in-spotlight-after-inconclusive-election"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/news/politics/2026/11/06/rubio-will-venture-to-france-on-first-post-midterm-foreign-trip-to-face-questions-on-trump-policies/"
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/geopolitical/iran-weathering-storm-saudi-arabia-sinking"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087359833-us-sanctions-8-canadian-firms-over-iran-related-transactions"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "wdtimes.com",
+      "url": "http://www.wdtimes.com/news/world/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_efe28a76-8f88-5ed2-b8dc-ba4f05ce23dd.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "clickorlando.com",
+      "url": "https://www.clickorlando.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nbcnews.com",
+      "url": "https://www.nbcnews.com/news/us-news/us-military-carries-new-targeted-strikes-iran-rcna607969"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "eaworldview.com",
+      "url": "https://eaworldview.com/2026/11/ukraine-war-kyiv-russia-ballistic-missile-strikes/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261107083000; erfolglos: 20261107084500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }

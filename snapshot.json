@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-06T22:45:01",
+  "erstellt_am": "2026-11-07T09:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "3.48",
@@ -22,8 +22,8 @@
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.38",
-      "beobachtungsdatum": "2026-11-05",
+      "wert": "0.35",
+      "beobachtungsdatum": "2026-11-06",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -33,7 +33,7 @@
     },
     "IORB": {
       "wert": "3.9",
-      "beobachtungsdatum": "2026-11-06",
+      "beobachtungsdatum": "2026-11-09",
       "quelle": "FRED"
     },
     "Initial_Claims": {
@@ -47,23 +47,23 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.24",
-      "beobachtungsdatum": "2026-11-05",
+      "wert": "2.23",
+      "beobachtungsdatum": "2026-11-06",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
-      "wert": "2.64",
-      "beobachtungsdatum": "2026-11-04",
+      "wert": "2.6",
+      "beobachtungsdatum": "2026-11-05",
       "quelle": "FRED"
     },
     "US_Rendite_10J": {
-      "wert": "4.9",
-      "beobachtungsdatum": "2026-11-04",
+      "wert": "4.84",
+      "beobachtungsdatum": "2026-11-05",
       "quelle": "FRED"
     },
     "Inflationserwartung_5J5J": {
-      "wert": "2.22",
-      "beobachtungsdatum": "2026-11-05",
+      "wert": "2.17",
+      "beobachtungsdatum": "2026-11-06",
       "quelle": "FRED"
     },
     "USD_JPY": {
@@ -147,8 +147,8 @@
       "quelle": "FRED"
     },
     "CP_Financial_3M": {
-      "wert": "4.11",
-      "beobachtungsdatum": "2026-11-04",
+      "wert": "3.97",
+      "beobachtungsdatum": "2026-11-05",
       "quelle": "FRED"
     },
     "WTI_Rohoel": {
@@ -242,6 +242,10 @@
     "US_Rendite_10J_Historie": {
       "werte": [
         {
+          "datum": "2026-11-05",
+          "wert": 4.84
+        },
+        {
           "datum": "2026-11-04",
           "wert": 4.9
         },
@@ -276,10 +280,6 @@
         {
           "datum": "2026-10-23",
           "wert": 5.0
-        },
-        {
-          "datum": "2026-10-22",
-          "wert": 4.96
         }
       ],
       "quelle": "FRED (letzte ca. 2 Wochen Handelstage)",
@@ -386,14 +386,18 @@
       "einheit": "MBBL"
     },
     "Hormus_Transit": {
-      "wert": "nicht verfügbar",
+      "wert": 2,
+      "tanker": 1,
+      "beobachtungsdatum": "2026-10-25",
       "quelle": "IMF PortWatch",
-      "fehler": "ArcGIS-Fehler 429: Unable to perform query. Too many requests."
+      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "BabelMandeb_Transit": {
-      "wert": "nicht verfügbar",
+      "wert": 36,
+      "tanker": 13,
+      "beobachtungsdatum": "2026-10-25",
       "quelle": "IMF PortWatch",
-      "fehler": "ArcGIS-Fehler 429: Unable to perform query. Too many requests."
+      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "Treasury_Auktion": {
       "wert": "2.540000",
@@ -507,8 +511,8 @@
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "CP_minus_SOFR_bp": {
-      "wert": 17.0,
-      "beobachtungsdatum": "2026-11-04",
+      "wert": 5.0,
+      "beobachtungsdatum": "2026-11-05",
       "quelle": "FRED (berechnet, SOFR als OIS-Naeherung)"
     },
     "VIX_VIX3M_Ratio": {
@@ -569,8 +573,8 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 33.56,
-      "beobachtungsdatum": "2026-11-05",
+      "wert": 44.6,
+      "beobachtungsdatum": "2026-11-06",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -594,12 +598,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 97.84,
+      "wert": 98.32,
       "beobachtungsdatum": "2026-11-06",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 90.45,
+      "wert": 90.83,
       "beobachtungsdatum": "2026-11-06",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },

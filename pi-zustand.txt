@@ -1,17 +1,17 @@
-Zustand des Pi -- geschrieben 2026-11-06T22:46:44+01:00
+Zustand des Pi -- geschrieben 2026-11-07T09:46:59+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 1 day, 7 hours, 15 minutes
+Betriebsdauer: up 1 day, 18 hours, 15 minutes
 Letzter Start: 2026-11-05 15:31:18
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    57.4'C
+Temperatur:    56.4'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       293Mi       1.2Gi        36Mi       402Mi       1.5Gi
+   Mem:           1.8Gi       304Mi       1.2Gi        36Mi       406Mi       1.5Gi
    Swap:          1.8Gi          0B       1.8Gi
 
 Speicherkarte:
@@ -32,15 +32,12 @@ Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
    [    4.361335] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 r/w.
 
 Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
-   Nov 06 01:07:54 RaspberryPi-4b NetworkManager[659]: <warn>  [1793923674.2771] device (wlan0): link timed out.
-   Nov 06 01:07:54 RaspberryPi-4b NetworkManager[659]: <warn>  [1793923674.2794] device (wlan0): Activation: failed for connection 'netplan-wlan0-Home'
-   Nov 06 01:08:22 RaspberryPi-4b NetworkManager[659]: <warn>  [1793923702.2170] device (wlan0): Activation: (wifi) association took too long
-   Nov 06 01:08:22 RaspberryPi-4b NetworkManager[659]: <warn>  [1793923702.2189] device (wlan0): Activation: (wifi) asking for new secrets
-   Nov 06 01:08:41 RaspberryPi-4b wpa_supplicant[608]: wlan0: Failed to initiate sched scan
-   Nov 06 01:08:47 RaspberryPi-4b NetworkManager[659]: <warn>  [1793923727.2172] device (wlan0): Activation: (wifi) association took too long, failing activation
-   Nov 06 01:08:47 RaspberryPi-4b NetworkManager[659]: <warn>  [1793923727.2198] device (wlan0): Activation: failed for connection 'netplan-wlan0-Home'
-   Nov 06 01:09:16 RaspberryPi-4b wpa_supplicant[608]: bgscan simple: Failed to enable signal strength monitoring
-   Nov 06 01:41:21 RaspberryPi-4b wpa_supplicant[608]: bgscan simple: Failed to enable signal strength monitoring
+   Nov 07 08:17:02 RaspberryPi-4b wpa_supplicant[608]: bgscan simple: Failed to enable signal strength monitoring
+   Nov 07 08:18:04 RaspberryPi-4b kernel: ieee80211 phy0: brcmf_p2p_send_action_frame: Unknown Frame: category 0xa, action 0x8
+   Nov 07 08:18:04 RaspberryPi-4b wpa_supplicant[608]: bgscan simple: Failed to enable signal strength monitoring
+   Nov 07 08:50:28 RaspberryPi-4b wpa_supplicant[608]: bgscan simple: Failed to enable signal strength monitoring
+   Nov 07 08:50:37 RaspberryPi-4b kernel: ieee80211 phy0: brcmf_p2p_send_action_frame: Unknown Frame: category 0xa, action 0x8
+   Nov 07 08:50:37 RaspberryPi-4b wpa_supplicant[608]: bgscan simple: Failed to enable signal strength monitoring
 
 Fehlgeschlagene Dienste:
      UNIT LOAD ACTIVE SUB DESCRIPTION
