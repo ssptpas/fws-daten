@@ -1,67 +1,37 @@
 {
-  "erstellt_am": "2026-11-07T14:45:37",
+  "erstellt_am": "2026-11-07T22:45:40",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261107133000",
+  "gkg_stand": "20261107213000",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.9,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.6,
       "treffer": [
-        "sanctions"
+        "airstrike"
       ],
-      "domain": "bruneinews.net",
-      "url": "http://www.bruneinews.net/news/279414900/hong-kong-sentences-activist-joshua-wong-to-10-years-in-prison"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/mid-east/yemen-airstrikes-kill-22-wound-30-near-houthi-controlled-capital"
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/houthi-run-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
+      "tonalitaet": -5.6,
       "treffer": [
-        "missile"
+        "air strike"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/909719/rapid-developments-as-iran-lifts-missile-range-limits-sparking-terror-in-europe"
+      "domain": "onenewspage.com",
+      "url": "https://www.onenewspage.com/story/houthis-say-at-least-25-killed-in-saudi-air-strike-d1a8c713/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -5.3,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "refinery"
       ],
-      "domain": "clickorlando.com",
-      "url": "https://www.clickorlando.com/news/2026/11/07/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "japanherald.com",
-      "url": "http://www.japanherald.com/news/279418426/paraguay-president-pena-impeached-placed-under-house-arrest-in-bank-collapse-scandal"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "lancasteronline.com",
-      "url": "https://lancasteronline.com/news/world/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/article_9fbc976d-5283-5b63-ab96-e7d25ed94379.html"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-lifts-alert-jazan-home-aramco-refinery-targeted-houthis"
     },
     {
       "kategorie": "Energie/Chokepoints",
@@ -69,64 +39,55 @@
       "treffer": [
         "refinery"
       ],
-      "domain": "rockymounttelegram.com",
-      "url": "http://www.rockymounttelegram.com/news/world/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_1d68d90b-a403-5134-96c8-8b99c175d2d9.html"
+      "domain": "wmur.com",
+      "url": "https://www.wmur.com/article/drone-missile-attacks-wound-9-ukraine-prepares-talks-russia-us/74365237"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "rockymounttelegram.com",
-      "url": "http://www.rockymounttelegram.com/news/national/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_1d9ae55d-06da-5e95-97ed-8c9ded78b0fa.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "wdtimes.com",
-      "url": "http://www.wdtimes.com/news/national/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_bf930ad4-b8aa-5b07-a8bc-aff81963a913.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "reflector.com",
-      "url": "http://www.reflector.com/news/national/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_b82e1167-f31d-54ac-9bb3-6d2892f453e4.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "eveshamjournal.co.uk",
-      "url": "https://www.eveshamjournal.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "news4jax.com",
-      "url": "https://www.news4jax.com/news/world/2026/11/07/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.8,
       "treffer": [
-        "refinery"
+        "missile"
       ],
-      "domain": "lancasteronline.com",
-      "url": "https://lancasteronline.com/news/world/missiles-target-kyiv-and-wound-5-as-ukraine-prepares-for-talks-with-russia-and-the/article_d2e10b78-8bde-5c9b-a300-a6115a391024.html"
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/nation/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_be1dc975-f727-5a6e-985a-e0d9686f3abe.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "hngnews.com",
+      "url": "http://www.hngnews.com/nation_world/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_ce44a16a-25f8-5a92-98c1-84272487ddbd.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "grandprix.com",
+      "url": "https://www.grandprix.com/news/hamiltons-brazil-problems-deepen-as-smoke-ends-final-practice.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-form-government/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "smh.com.au",
+      "url": "https://www.smh.com.au/world/middle-east/israeli-president-asks-netanyahu-rival-s-gadi-eisenkot-to-try-to-form-government-20261108-p61cbe.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261107133000; erfolglos: 20261107134500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261107213000; erfolglos: 20261107214500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.3
 }

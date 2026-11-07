@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-07T14:45:02",
+  "erstellt_am": "2026-11-07T22:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.48",
@@ -386,16 +386,16 @@
       "einheit": "MBBL"
     },
     "Hormus_Transit": {
-      "wert": 2,
+      "wert": 1,
       "tanker": 1,
-      "beobachtungsdatum": "2026-10-25",
+      "beobachtungsdatum": "2026-11-01",
       "quelle": "IMF PortWatch",
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "BabelMandeb_Transit": {
-      "wert": 36,
-      "tanker": 13,
-      "beobachtungsdatum": "2026-10-25",
+      "wert": 30,
+      "tanker": 14,
+      "beobachtungsdatum": "2026-11-01",
       "quelle": "IMF PortWatch",
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
