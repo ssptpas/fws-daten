@@ -1,93 +1,56 @@
 {
-  "erstellt_am": "2026-11-07T22:45:40",
+  "erstellt_am": "2026-11-08T09:45:38",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261107213000",
+  "gkg_stand": "20261108084500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 5,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.6,
+      "tonalitaet": -7.8,
       "treffer": [
         "airstrike"
       ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/houthi-run-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital/"
+      "domain": "ariananews.af",
+      "url": "https://www.ariananews.af/houthi-run-health-ministry-says-airstrikes-kill-33-near-yemen-capital/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
       "treffer": [
-        "air strike"
+        "suez"
       ],
-      "domain": "onenewspage.com",
-      "url": "https://www.onenewspage.com/story/houthis-say-at-least-25-killed-in-saudi-air-strike-d1a8c713/"
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435834"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.3,
       "treffer": [
-        "refinery"
+        "red sea"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-lifts-alert-jazan-home-aramco-refinery-targeted-houthis"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.3,
       "treffer": [
-        "refinery"
+        "hormuz"
       ],
-      "domain": "wmur.com",
-      "url": "https://www.wmur.com/article/drone-missile-attacks-wound-9-ukraine-prepares-talks-russia-us/74365237"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/us/watch-us-centcom-shows-strike-commercial-vessel-in-hormuz-that-allegedly-defied-iran-blockade/articleshow/135652488.cms"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/nation/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_be1dc975-f727-5a6e-985a-e0d9686f3abe.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Policy",
       "tonalitaet": -3.7,
       "treffer": [
-        "missile"
-      ],
-      "domain": "hngnews.com",
-      "url": "http://www.hngnews.com/nation_world/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-and-other-mideast/article_ce44a16a-25f8-5a92-98c1-84272487ddbd.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "grandprix.com",
-      "url": "https://www.grandprix.com/news/hamiltons-brazil-problems-deepen-as-smoke-ends-final-practice.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-form-government/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "smh.com.au",
-      "url": "https://www.smh.com.au/world/middle-east/israeli-president-asks-netanyahu-rival-s-gadi-eisenkot-to-try-to-form-government-20261108-p61cbe.html"
+      "domain": "businesstimes.com.sg",
+      "url": "https://www.businesstimes.com.sg/international/us-task-force-targets-irans-land-caspian-routes-weapons-and-sanctioned-goods"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261107213000; erfolglos: 20261107214500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "gkg_alter_stunden": 0.0
 }
