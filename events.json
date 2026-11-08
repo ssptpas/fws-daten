@@ -1,56 +1,95 @@
 {
-  "erstellt_am": "2026-11-08T09:45:38",
+  "erstellt_am": "2026-11-08T14:45:35",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261108084500",
+  "gkg_stand": "20261108130000",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 9,
   "ereignisse": [
     {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "arkansasonline.com",
+      "url": "https://www.arkansasonline.com/news/2026/nov/08/houthis-strikes-in-yemen-kill-27/"
+    },
+    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.8,
+      "tonalitaet": -6.3,
       "treffer": [
-        "airstrike"
+        "invasion"
       ],
-      "domain": "ariananews.af",
-      "url": "https://www.ariananews.af/houthi-run-health-ministry-says-airstrikes-kill-33-near-yemen-capital/"
+      "domain": "bleedingcool.com",
+      "url": "https://bleedingcool.com/comics/official-zenescope-january-2027-solicits-a-robyn-hood-dark-invasion/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "suez"
-      ],
-      "domain": "israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/435834"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -5.7,
       "treffer": [
         "red sea"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/mid-east/aramco-skyscraper-damaged-by-debris-when-houthis-target-riyadh"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.3,
+      "tonalitaet": -5.0,
       "treffer": [
-        "hormuz"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/us/watch-us-centcom-shows-strike-commercial-vessel-in-hormuz-that-allegedly-defied-iran-blockade/articleshow/135652488.cms"
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/mid-east/iran-reports-3-tanker-fires-as-israel-warns-of-unfinished-mission"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "businesstimes.com.sg",
-      "url": "https://www.businesstimes.com.sg/international/us-task-force-targets-irans-land-caspian-routes-weapons-and-sanctioned-goods"
+      "domain": "fingerlakes1.com",
+      "url": "https://www.fingerlakes1.com/2026/11/08/cornell-faculty-votes-no-confidence-over-sexual-assault-response-trustees-back-kotlikoff/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "northkoreatimes.com",
+      "url": "http://www.northkoreatimes.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "spokesman.com",
+      "url": "https://www.spokesman.com/stories/2026/nov/07/haiti-gang-leader-killed-in-drone-strike-amid-inte/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "northwalespioneer.co.uk",
+      "url": "https://www.northwalespioneer.co.uk/news/26709597.gchq-warns-uk-organisations-freezer-cyber-attacks/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1834407.html"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261108130000; erfolglos: 20261108134500: HTTP Error 404: Not Found | 20261108133000: HTTP Error 404: Not Found | 20261108131500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.8
 }
