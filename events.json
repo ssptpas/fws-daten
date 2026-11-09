@@ -1,37 +1,28 @@
 {
-  "erstellt_am": "2026-11-09T14:45:53",
+  "erstellt_am": "2026-11-09T22:45:45",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261109134500",
+  "gkg_stand": "20261109214500",
   "veraltet": false,
   "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/state_national_news/houthi-rebels-say-at-least-44-killed-in-airstrike-near-yemeni-capital-and-other-mideast/article_fe8b0e53-b7d7-5298-9873-ebd5cc321424.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "interfax.com.ua",
-      "url": "https://en.interfax.com.ua/news/general/1233478.html"
-    },
-    {
       "kategorie": "Breite",
-      "tonalitaet": -5.4,
+      "tonalitaet": -5.5,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "thestar.com.my",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/cyberattack-puts-3762-million-nitori-customer-records-at-risk"
+      "domain": "readingeagle.com",
+      "url": "https://www.readingeagle.com/2026/11/09/iran-cyberattack-supermarket-fridges-france/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ugandaonline.net",
+      "url": "https://www.ugandaonline.net/news/2026-11-09--mbarara-university-resolves-pharmacy-degree-impasse-appoints-new-head--070499fcd50d/"
     },
     {
       "kategorie": "Policy",
@@ -39,35 +30,44 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/opinion/article-canada-must-stand-up-for-human-rights-in-china/"
+      "domain": "kimt.com",
+      "url": "https://www.kimt.com/news/france-blames-iran-for-unprecedented-supermarket-fridge-cyberattack/article_1a959c41-97ec-5915-9637-93b55a596fd6.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/world/article-trump-iran-war-mediator-qatar/"
+      "domain": "techradar.com",
+      "url": "https://www.techradar.com/pro/we-are-not-giving-up-russian-hosting-giant-beget-has-cloud-platform-wiped-in-major-cyberattack"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Finanzsystem",
       "tonalitaet": -3.9,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/politics/2026/11/08/trump-renewed-u-s-strikes-iran-highly-unlikely-talks-progress/"
+      "domain": "dailypost.ng",
+      "url": "https://dailypost.ng/2026/11/09/exchange-rate-today-november-9-2026-naira-depreciates-against-usd-across-fx-markets/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/news/world/we-support-hamas-banners-displayed-at-mass-anti-israel-rally-in-amsterdam"
+      "domain": "graphic.com.gh",
+      "url": "https://www.graphic.com.gh/business/business-news/new-bog-directive-payment-service-providers-cannot-hold-merchant-funds.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nzcity.co.nz",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=457694"
     }
   ],
   "gkg_alter_stunden": 0.0
