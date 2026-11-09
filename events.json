@@ -1,48 +1,74 @@
 {
-  "erstellt_am": "2026-11-09T09:45:41",
+  "erstellt_am": "2026-11-09T14:45:53",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261109083000",
+  "gkg_stand": "20261109134500",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 7,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "mankatofreepress.com",
+      "url": "https://www.mankatofreepress.com/news/state_national_news/houthi-rebels-say-at-least-44-killed-in-airstrike-near-yemeni-capital-and-other-mideast/article_fe8b0e53-b7d7-5298-9873-ebd5cc321424.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "interfax.com.ua",
+      "url": "https://en.interfax.com.ua/news/general/1233478.html"
+    },
+    {
       "kategorie": "Breite",
-      "tonalitaet": -8.0,
+      "tonalitaet": -5.4,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "bangkokpost.com",
-      "url": "https://www.bangkokpost.com/life/tech/3351546/hackers-used-deepseek-ai-in-massive-global-cyberattack"
+      "domain": "thestar.com.my",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/cyberattack-puts-3762-million-nitori-customer-records-at-risk"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "ualrpublicradio.org",
-      "url": "https://www.ualrpublicradio.org/npr-news/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president"
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/opinion/article-canada-must-stand-up-for-human-rights-in-china/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "dailypioneer.com",
-      "url": "https://dailypioneer.com/world/19-indian-seafarers-evacuated-from-yemen"
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/world/article-trump-iran-war-mediator-qatar/"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.3,
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "euronews.com",
-      "url": "https://www.euronews.com/2026/11/09/europe-today-poland-in-shock-after-deadly-krakow-attack-ukraine-peace-talks-in-abu-dhabi"
+      "domain": "breitbart.com",
+      "url": "https://www.breitbart.com/politics/2026/11/08/trump-renewed-u-s-strikes-iran-highly-unlikely-talks-progress/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jns.org",
+      "url": "https://www.jns.org/news/world/we-support-hamas-banners-displayed-at-mass-anti-israel-rally-in-amsterdam"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261109083000; erfolglos: 20261109084500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "gkg_alter_stunden": 0.0
 }
