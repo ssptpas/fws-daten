@@ -1,75 +1,48 @@
 {
-  "erstellt_am": "2026-11-08T22:45:36",
+  "erstellt_am": "2026-11-09T09:45:41",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261108210000",
+  "gkg_stand": "20261109083000",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 4,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "kategorie": "Breite",
+      "tonalitaet": -8.0,
       "treffer": [
-        "sanctions"
+        "cyberattack"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam"
+      "domain": "bangkokpost.com",
+      "url": "https://www.bangkokpost.com/life/tech/3351546/hackers-used-deepseek-ai-in-massive-global-cyberattack"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "jpost.com",
-      "url": "https://www.jpost.com/international/article-914250"
+      "domain": "ualrpublicradio.org",
+      "url": "https://www.ualrpublicradio.org/npr-news/2026-11-09/how-a-bank-collapse-left-millions-in-limbo-and-toppled-paraguays-president"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "yourdemocracy.net.au",
-      "url": "https://www.yourdemocracy.net.au/drupal/node/61764"
+      "domain": "dailypioneer.com",
+      "url": "https://dailypioneer.com/world/19-indian-seafarers-evacuated-from-yemen"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.3,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "dailymaverick.co.za",
-      "url": "https://www.dailymaverick.co.za/article/2026-11-08-trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress-3010577"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/world/article-us-iran-war-trump/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "saharareporters.com",
-      "url": "https://saharareporters.com/2026/11/08/russia-attacks-ukraine-rescue-site-where-55-died-bomb-strike-leaves-over-600000-without"
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/11/09/europe-today-poland-in-shock-after-deadly-krakow-attack-ukraine-peace-talks-in-abu-dhabi"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261108210000; erfolglos: 20261108214500: HTTP Error 404: Not Found | 20261108213000: HTTP Error 404: Not Found | 20261108211500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.8
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261109083000; erfolglos: 20261109084500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
