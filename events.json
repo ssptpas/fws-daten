@@ -1,100 +1,66 @@
 {
-  "erstellt_am": "2026-11-10T14:46:14",
+  "erstellt_am": "2026-11-10T22:45:43",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261110134500",
+  "gkg_stand": "20261110214500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -10.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/business-and-innovation/all-news/article-914441"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/nation/overnight-strikes-in-yemen-kill-at-least-1-person-and-wound-9-and-other-mideast/article_c2ddf553-668d-5ff1-9cc5-2795c98951e1.html"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "infosecurity-magazine.com",
-      "url": "https://www.infosecurity-magazine.com/news/france-blames-iran-supermarket/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "patriotpost.us",
-      "url": "https://patriotpost.us/opinion/1002697-war-tariffs-and-assigning-blame"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wellandtribune.ca",
-      "url": "https://www.wellandtribune.ca/news/world/overnight-strikes-in-yemen-kill-at-least-1-person-and-injure-9-and-other-mideast-news/article_4d2125b9-b940-5730-b26d-b6f56b51115e.html"
-    },
-    {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -12.3,
       "treffer": [
         "tanker"
       ],
-      "domain": "thestar.com.my",
-      "url": "https://www.thestar.com.my/news/nation/2026/11/10/biker-killed-in-crash-involving-two-tanker-lorries-in-nilai"
+      "domain": "wdsu.com",
+      "url": "https://www.wdsu.com/article/boutte-tanker-overturn-molasses-spill/74389243"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "state of emergency"
+      ],
+      "domain": "krcrtv.com",
+      "url": "https://krcrtv.com/north-coast-news/eureka-local-news/mp18-fire-prompts-newsom-to-declare-state-of-emergency-for-humboldt-county"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.2,
+      "tonalitaet": -5.6,
       "treffer": [
         "red sea"
       ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/publicpolicy/us-holds-off-strikes-after-qatari-mediation"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/could-iran-linked-cyberattacks-reach-europes-homes-and-critical-infrastructure-3010925"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "mandeb",
+        "red sea",
+        "suez"
+      ],
+      "domain": "wccbcharlotte.com",
+      "url": "https://www.wccbcharlotte.com/2026/11/10/exclusive-ap-granted-rare-access-to-european-union-naval-patrol-fighting-piracy-in-the-gulf-of-aden/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/345348"
+      "domain": "kazu.org",
+      "url": "https://www.kazu.org/npr-news/2026-11-10/u-s-boycotts-u-n-human-rights-review-for-second-year-running"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -3.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
       "treffer": [
-        "cyberattack"
+        "hormuz"
       ],
-      "domain": "thestar.com.my",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/sph-media-hit-by-cyberattacks-no-payment-card-details-or-financial-information-compromised"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/middle-east/iran-news/article-914439"
+      "domain": "upnorthlive.com",
+      "url": "https://upnorthlive.com/news/nation-world/average-gas-price-drops-below-4-per-gallon-for-first-time-since-july-aaa-iran-war-oil-president-trump-strait-of-hormuz-jd-vance-midterm-elections-rrt"
     }
   ],
   "gkg_alter_stunden": 0.0
