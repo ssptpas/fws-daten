@@ -1,17 +1,17 @@
-Zustand des Pi -- geschrieben 2026-11-10T09:46:08+01:00
+Zustand des Pi -- geschrieben 2026-11-10T14:46:45+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 4 days, 18 hours, 14 minutes
+Betriebsdauer: up 4 days, 23 hours, 15 minutes
 Letzter Start: 2026-11-05 15:31:18
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    56.9'C
+Temperatur:    57.4'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       298Mi       1.2Gi        36Mi       426Mi       1.5Gi
+   Mem:           1.8Gi       314Mi       1.2Gi        36Mi       427Mi       1.5Gi
    Swap:          1.8Gi          0B       1.8Gi
 
 Speicherkarte:
@@ -40,7 +40,7 @@ Fehlgeschlagene Dienste:
    0 loaded units listed.
 
 Pruefsummen der Regeldateien (md5, Fassung wie auf GitHub):
-04618a8c57dc5acf7dd729f1a65668ac  regeln-1-tagesvollcheck-de.md
-72e7af9dde04d5c19a0cf38cdaa0d516  regeln-2-mittags-de.md
-f7e67266c51970034a597a7e6a70690f  regeln-3-abendlauf-de.md
-a9449cf0ddb780f6e6656f206a34f786  regeln-4-wochencheck-de.md
+0a19dafd8f5e6cf296289a7247b009eb  regeln-1-tagesvollcheck-de.md
+6fbdfdd3162c91de6bbf9d44d2adb21c  regeln-2-mittags-de.md
+eb1593fee7baffc124d36ef5f77d29a5  regeln-3-abendlauf-de.md
+7106aea8e695ac9d1b9c3f95b3f64178  regeln-4-wochencheck-de.md

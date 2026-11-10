@@ -1,91 +1,100 @@
 {
-  "erstellt_am": "2026-11-10T09:45:41",
+  "erstellt_am": "2026-11-10T14:46:14",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261110084500",
+  "gkg_stand": "20261110134500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "tonalitaet": -10.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "chimpreports.com",
-      "url": "https://chimpreports.com/revealed-amanyire-secretly-begged-katushabe-for-forgiveness-over-social-media-attacks/"
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/business-and-innovation/all-news/article-914441"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/nation/overnight-strikes-in-yemen-kill-at-least-1-person-and-wound-9-and-other-mideast/article_c2ddf553-668d-5ff1-9cc5-2795c98951e1.html"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "infosecurity-magazine.com",
+      "url": "https://www.infosecurity-magazine.com/news/france-blames-iran-supermarket/"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -5.3,
       "treffer": [
-        "sanctions"
+        "tariffs"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/world/france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran-3010881"
+      "domain": "patriotpost.us",
+      "url": "https://patriotpost.us/opinion/1002697-war-tariffs-and-assigning-blame"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/geopolitical/what-could-eurasian-order-look-if-trump-cuts-series-deals-save-maga"
+      "domain": "wellandtribune.ca",
+      "url": "https://www.wellandtribune.ca/news/world/overnight-strikes-in-yemen-kill-at-least-1-person-and-injure-9-and-other-mideast-news/article_4d2125b9-b940-5730-b26d-b6f56b51115e.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -5.0,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "thestar.com.my",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/10/biker-killed-in-crash-involving-two-tanker-lorries-in-nilai"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.2,
       "treffer": [
         "red sea"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/10/780373/building-owned-by-yemeni-oil-company-gas-station-damaged-in-fresh-saudi-strikes"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/10/780376/beyond-reverse-engineering-irgc-advisor-hails-advancement-of-irans-missile-program"
+      "domain": "peakoil.com",
+      "url": "https://peakoil.com/publicpolicy/us-holds-off-strikes-after-qatari-mediation"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -3.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/no-probe-yet-into-m-sian-firm-linked-to-nvidia-scandal"
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/345348"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "thestar.com.my",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/sph-media-hit-by-cyberattacks-no-payment-card-details-or-financial-information-compromised"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -3.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/10/780378/us-midterm-testament-to-trump-economic-failures"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2620954/benzene-shutdown-haifa-refinery-group-reveals-idled-plant-is-costing-it-a-fortune-every-day-weighs-suing-environment-ministry.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/World/20261110/4517951.html"
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/middle-east/iran-news/article-914439"
     }
   ],
   "gkg_alter_stunden": 0.0

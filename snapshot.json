@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-10T09:45:01",
+  "erstellt_am": "2026-11-10T14:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "3.42",
@@ -12,7 +12,7 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "19.81",
+      "wert": "20.55",
       "beobachtungsdatum": "2026-11-10",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.89",
-      "beobachtungsdatum": "2026-11-06",
+      "wert": "3.88",
+      "beobachtungsdatum": "2026-11-09",
       "quelle": "FRED"
     },
     "IORB": {
@@ -168,7 +168,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.5",
-      "beobachtungsdatum": "2026-11-09",
+      "beobachtungsdatum": "2026-11-10",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -289,7 +289,7 @@
       "werte": [
         {
           "datum": "2026-11-10",
-          "wert": 19.81
+          "wert": 20.55
         },
         {
           "datum": "2026-11-09",
@@ -386,16 +386,16 @@
       "einheit": "MBBL"
     },
     "Hormus_Transit": {
-      "wert": 1,
+      "wert": 3,
       "tanker": 1,
-      "beobachtungsdatum": "2026-11-01",
+      "beobachtungsdatum": "2026-11-08",
       "quelle": "IMF PortWatch",
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "BabelMandeb_Transit": {
-      "wert": 30,
-      "tanker": 14,
-      "beobachtungsdatum": "2026-11-01",
+      "wert": 24,
+      "tanker": 6,
+      "beobachtungsdatum": "2026-11-08",
       "quelle": "IMF PortWatch",
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
@@ -412,6 +412,10 @@
     "SOFR_minus_IORB_Historie": {
       "werte": [
         {
+          "datum": "2026-11-09",
+          "wert": -2.0
+        },
+        {
           "datum": "2026-11-06",
           "wert": -1.0
         },
@@ -426,10 +430,6 @@
         {
           "datum": "2026-11-03",
           "wert": 7.0
-        },
-        {
-          "datum": "2026-11-02",
-          "wert": 5.0
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
@@ -492,21 +492,21 @@
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": -1.0,
-      "beobachtungsdatum": "2026-11-06",
+      "wert": -2.0,
+      "beobachtungsdatum": "2026-11-09",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -5.8,
       "markt_datum": "2026-11-09",
-      "leitzins_datum": "2026-11-09",
+      "leitzins_datum": "2026-11-10",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": -1.8,
-      "markt_datum": "05 Nov 2026",
-      "leitzins_datum": "06 Nov 2026",
+      "wert": -1.5,
+      "markt_datum": "06 Nov 2026",
+      "leitzins_datum": "09 Nov 2026",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -541,8 +541,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.30",
-      "beobachtungsdatum": "2026-11-09",
+      "wert": "3.28",
+      "beobachtungsdatum": "2026-11-10",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -551,18 +551,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.9824",
-      "beobachtungsdatum": "05 Nov 2026",
+      "wert": "3.9852",
+      "beobachtungsdatum": "06 Nov 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.1317",
-      "beobachtungsdatum": "05 Nov 2026",
+      "wert": "5.1419",
+      "beobachtungsdatum": "06 Nov 2026",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "4",
-      "beobachtungsdatum": "06 Nov 2026",
+      "beobachtungsdatum": "09 Nov 2026",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
@@ -598,12 +598,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 90.2,
+      "wert": 89.6,
       "beobachtungsdatum": "2026-11-10",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 84.55,
+      "wert": 84.53,
       "beobachtungsdatum": "2026-11-10",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
