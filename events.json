@@ -1,19 +1,19 @@
 {
-  "erstellt_am": "2026-11-09T22:45:45",
+  "erstellt_am": "2026-11-10T09:45:41",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261109214500",
+  "gkg_stand": "20261110084500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Breite",
-      "tonalitaet": -5.5,
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "readingeagle.com",
-      "url": "https://www.readingeagle.com/2026/11/09/iran-cyberattack-supermarket-fridges-france/"
+      "domain": "chimpreports.com",
+      "url": "https://chimpreports.com/revealed-amanyire-secretly-begged-katushabe-for-forgiveness-over-social-media-attacks/"
     },
     {
       "kategorie": "Policy",
@@ -21,44 +21,62 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "ugandaonline.net",
-      "url": "https://www.ugandaonline.net/news/2026-11-09--mbarara-university-resolves-pharmacy-degree-impasse-appoints-new-head--070499fcd50d/"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/world/france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran-3010881"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -4.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kimt.com",
-      "url": "https://www.kimt.com/news/france-blames-iran-for-unprecedented-supermarket-fridge-cyberattack/article_1a959c41-97ec-5915-9637-93b55a596fd6.html"
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/geopolitical/what-could-eurasian-order-look-if-trump-cuts-series-deals-save-maga"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/10/780373/building-owned-by-yemeni-oil-company-gas-station-damaged-in-fresh-saudi-strikes"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/10/780376/beyond-reverse-engineering-irgc-advisor-hails-advancement-of-irans-missile-program"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "techradar.com",
-      "url": "https://www.techradar.com/pro/we-are-not-giving-up-russian-hosting-giant-beget-has-cloud-platform-wiped-in-major-cyberattack"
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/no-probe-yet-into-m-sian-firm-linked-to-nvidia-scandal"
     },
     {
-      "kategorie": "Finanzsystem",
+      "kategorie": "Policy",
       "tonalitaet": -3.9,
       "treffer": [
-        "central bank"
-      ],
-      "domain": "dailypost.ng",
-      "url": "https://dailypost.ng/2026/11/09/exchange-rate-today-november-9-2026-naira-depreciates-against-usd-across-fx-markets/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
         "sanctions"
       ],
-      "domain": "graphic.com.gh",
-      "url": "https://www.graphic.com.gh/business/business-news/new-bog-directive-payment-service-providers-cannot-hold-merchant-funds.html"
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/10/780378/us-midterm-testament-to-trump-economic-failures"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2620954/benzene-shutdown-haifa-refinery-group-reveals-idled-plant-is-costing-it-a-fortune-every-day-weighs-suing-environment-ministry.html"
     },
     {
       "kategorie": "Policy",
@@ -66,8 +84,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "nzcity.co.nz",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=457694"
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/World/20261110/4517951.html"
     }
   ],
   "gkg_alter_stunden": 0.0
