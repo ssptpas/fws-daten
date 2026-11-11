@@ -1,0 +1,28 @@
+# Soll-Pruefsummen des Fruehwarnsystems (md5)
+#
+# Hier steht, WELCHE FASSUNG laufen soll. fruehwarnsystem.sh vergleicht bei jedem
+# Lauf die tatsaechlich auf dem Pi liegenden Dateien damit und schreibt das
+# Ergebnis als Zeile "BETRIEBSSTAND: ..." in pi-zustand.txt.
+#
+# Angelegt am 11.11.2026. Anlass: Eine neue ampel_logik.py lag den ganzen Tag in
+# /tmp auf dem Pi und ging nie in Betrieb. Kopiert ist nicht eingesetzt.
+#
+# WER EINE DATEI AUSTAUSCHT, ZIEHT DIESE LISTE NACH -- in derselben Sitzung.
+# Vergessen meldet sich als ABWEICHUNG, und das ist beabsichtigt: Es hat sich
+# etwas geaendert, also gehoert es gesehen.
+#
+# Format: md5-Summe, Leerraum, Pfad relativ zu /home/chris. # ist Kommentar.
+# Die Regeldateien stehen mit ihrer Fassung AUF GITHUB, nicht der auf dem Mac.
+
+126b8d85ca806bb4a4b09eaca7d5580c  ampel_logik.py
+0e6957d65e9d507bcb8412a9b2fd72f3  test-skript.py
+b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
+e3042c9dd4811f695c6e20b7dd91712d  ausgangskontrolle.py
+665163c72ce905c3c28e6ab0079c461b  fruehwarnsystem.sh
+
+e9aa0fb825a45e0735b58892f887aba8  fws-daten/erwartetes-alter.txt
+
+c8e9ae3b8f84b0e5a0ed8587d992e4f4  fws-daten/regeln-1-tagesvollcheck-de.md
+c28225e546faa1ae7555dd0ca6a49347  fws-daten/regeln-2-mittags-de.md
+cc7eac19608d92c1485e0b758273c984  fws-daten/regeln-3-abendlauf-de.md
+87d2159ef6339bc17c685ebae6cc7d12  fws-daten/regeln-4-wochencheck-de.md
