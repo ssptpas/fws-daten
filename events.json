@@ -1,139 +1,103 @@
 {
-  "erstellt_am": "2026-11-11T14:45:42",
+  "erstellt_am": "2026-11-11T22:45:43",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261111131500",
+  "gkg_stand": "20261111213000",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "nigeriasun.com",
-      "url": "http://www.nigeriasun.com/news/279426085/south-sudan-historic-vote-could-trigger-crisis-envoys"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "washingtonexaminer.com",
-      "url": "http://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://mobile.naharnet.com/stories/en/323706-yemenis-in-sanaa-mourn-dozens-killed-in-strike-blamed-on-saudi-arabia"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -7.8,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/news/hundreds-british-jews-accuse-board-deputies-genocide-denial-open-letter"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/israeli-settler-representative-turned-back-after-arriving-in-france-101794429139456.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/iran-warns-domestic-gas-shortages-war-winter"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/yemen-security-sources-report-strikes-on-aden-101794429010354.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://55krc.iheart.com/content/2026-11-11-scott-bessent-moved-to-military-base-after-reported-threats/"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.2,
       "treffer": [
-        "sanctions"
+        "tanker"
       ],
-      "domain": "iheart.com",
-      "url": "https://wvoc.iheart.com/content/2026-11-11-scott-bessent-moved-to-military-base-after-reported-threats/"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/tankers-burn-in-the-middle-east-despite-hopes-for-deescalation-101794428765375.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.2,
       "treffer": [
-        "sanctions"
+        "drone strike"
       ],
-      "domain": "egyptindependent.com",
-      "url": "https://www.egyptindependent.com/trumps-board-of-peace-chides-israel-for-insufficient-response-to-gaza-flooding/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mercurynews.com",
-      "url": "https://www.mercurynews.com/2026/11/11/commentary-the-next-congress-shouldnt-let-iran-become-a-background-war-2/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://mobile.naharnet.com/stories/en/323664-iran-calls-on-us-to-meet-its-demands-to-end-war"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/europe/russian-drone-strikes-hit-industrial-facilities-in-ukraines-kyiv-region-killing-one-535536"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
+      "tonalitaet": -5.1,
       "treffer": [
         "hormuz"
       ],
-      "domain": "surinametimes.com",
-      "url": "https://www.surinametimes.com/artikel/iran-urges-us-to-meet-hormuz-demands-as-trump-sees-momentum-to-end-war"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "naharnet.com",
-      "url": "https://mobile.naharnet.com/stories/en/323660-trump-sees-positive-momentum-on-iran-after-qatar-pm-talks"
+      "domain": "katu.com",
+      "url": "https://katu.com/news/nation-world/trump-sees-less-need-for-iran-strikes-but-diplomacy-offers-no-easy-answers-strait-of-hormuz-uranium-enrichment-nuclear-weapon"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -4.5,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "naharnet.com",
-      "url": "https://mobile.naharnet.com/stories/en/323676-iran-says-two-oil-tankers-on-fire-in-hormuz"
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca-101794426812479.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/asia/yemens-houthis-say-they-struck-saudi-oil-pumping-station-with-drone-535540"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/iran-sets-7-conditions-for-reopening-strait-of-hormuz-resuming-talks-with-us-101794424536128.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "israelherald.com",
-      "url": "http://www.israelherald.com/news/279426090/iranian-security-chief-insists-enriched-uranium-wont-leave-country"
+      "domain": "abc7.com",
+      "url": "https://abc7.com/story/treasury-secretary-scott-bessent-moved-military-base-sources-say/20033645/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "thespec.com",
+      "url": "https://www.thespec.com/news/crime/hamilton-police-probe-upper-stoney-creek-home-invasion/article_0801e737-0ec9-594d-8537-cd1b84303f3d.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261111131500; erfolglos: 20261111134500: HTTP Error 404: Not Found | 20261111133000: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.5
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261111213000; erfolglos: 20261111214500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }

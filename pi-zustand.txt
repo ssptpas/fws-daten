@@ -1,17 +1,17 @@
-Zustand des Pi -- geschrieben 2026-11-11T14:47:10+01:00
+Zustand des Pi -- geschrieben 2026-11-11T22:46:52+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 5 days, 23 hours, 15 minutes
+Betriebsdauer: up 6 days, 7 hours, 15 minutes
 Letzter Start: 2026-11-05 15:31:18
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    57.9'C
+Temperatur:    56.0'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       306Mi       1.2Gi        33Mi       429Mi       1.5Gi
+   Mem:           1.8Gi       305Mi       1.2Gi        36Mi       435Mi       1.5Gi
    Swap:          1.8Gi          0B       1.8Gi
 
 Speicherkarte:
@@ -40,7 +40,18 @@ Fehlgeschlagene Dienste:
    0 loaded units listed.
 
 Pruefsummen der Regeldateien (md5, Fassung wie auf GitHub):
-516cdf08a410d2c32a64527681e24ce0  regeln-1-tagesvollcheck-de.md
-7971cad25e25af0ae692dfd12417785a  regeln-2-mittags-de.md
-54d182a343893966856e41176b7e7eba  regeln-3-abendlauf-de.md
-be4d0139d9634a648d51637b62dd233e  regeln-4-wochencheck-de.md
+c8e9ae3b8f84b0e5a0ed8587d992e4f4  regeln-1-tagesvollcheck-de.md
+c28225e546faa1ae7555dd0ca6a49347  regeln-2-mittags-de.md
+cc7eac19608d92c1485e0b758273c984  regeln-3-abendlauf-de.md
+87d2159ef6339bc17c685ebae6cc7d12  regeln-4-wochencheck-de.md
+
+Pruefsummen der Skripte (md5, Fassung wie auf dem Pi):
+126b8d85ca806bb4a4b09eaca7d5580c  ampel_logik.py
+0e6957d65e9d507bcb8412a9b2fd72f3  test-skript.py
+b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
+665163c72ce905c3c28e6ab0079c461b  fruehwarnsystem.sh
+e3042c9dd4811f695c6e20b7dd91712d  ausgangskontrolle.py
+
+BETRIEBSSTAND: OK -- 10 Dateien geprueft, alle Pruefsummen wie vorgesehen
+
+BETRIEBSSTAND: OK -- 65 Werte geprueft, alle mit lesbarem Datum, keines in der Zukunft, keines ueber seiner Altersgrenze
