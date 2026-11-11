@@ -1,19 +1,55 @@
 {
-  "erstellt_am": "2026-11-11T09:45:35",
+  "erstellt_am": "2026-11-11T14:45:42",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261111083000",
+  "gkg_stand": "20261111131500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 14,
   "ereignisse": [
     {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "nigeriasun.com",
+      "url": "http://www.nigeriasun.com/news/279426085/south-sudan-historic-vote-could-trigger-crisis-envoys"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "washingtonexaminer.com",
+      "url": "http://www.washingtonexaminer.com/news/world/4799512/south-yemeni-leaders-us-independence-houthis/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://mobile.naharnet.com/stories/en/323706-yemenis-in-sanaa-mourn-dozens-killed-in-strike-blamed-on-saudi-arabia"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "tonalitaet": -7.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/cuba-prison-abuse-october-2026-cubalex/"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/hundreds-british-jews-accuse-board-deputies-genocide-denial-open-letter"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/iran-warns-domestic-gas-shortages-war-winter"
     },
     {
       "kategorie": "Policy",
@@ -21,83 +57,83 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20261111-gaza-is-protected-by-international-law-why-are-its-people-still-unprotected/"
+      "domain": "iheart.com",
+      "url": "https://55krc.iheart.com/content/2026-11-11-scott-bessent-moved-to-military-base-after-reported-threats/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailyliberal.com.au",
-      "url": "https://www.dailyliberal.com.au/story/9390082/us-treasury-chief-moved-after-iranian-threats-sources/"
+      "domain": "iheart.com",
+      "url": "https://wvoc.iheart.com/content/2026-11-11-scott-bessent-moved-to-military-base-after-reported-threats/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.2,
+      "tonalitaet": -5.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "yahoo.com",
-      "url": "https://www.yahoo.com/news/articles/us-treasury-chief-bessent-moved-010010728.html"
+      "domain": "egyptindependent.com",
+      "url": "https://www.egyptindependent.com/trumps-board-of-peace-chides-israel-for-insufficient-response-to-gaza-flooding/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.5,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/345390"
+      "domain": "mercurynews.com",
+      "url": "https://www.mercurynews.com/2026/11/11/commentary-the-next-congress-shouldnt-let-iran-become-a-background-war-2/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://mobile.naharnet.com/stories/en/323664-iran-calls-on-us-to-meet-its-demands-to-end-war"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.7,
       "treffer": [
         "hormuz"
       ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20261111-rezaei-strait-of-hormuz-will-remain-closed-until-irans-seven-conditions-are-met/"
+      "domain": "surinametimes.com",
+      "url": "https://www.surinametimes.com/artikel/iran-urges-us-to-meet-hormuz-demands-as-trump-sees-momentum-to-end-war"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://mobile.naharnet.com/stories/en/323660-trump-sees-positive-momentum-on-iran-after-qatar-pm-talks"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.4,
       "treffer": [
         "hormuz",
         "tanker"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "newsradio1029.com",
-      "url": "https://www.newsradio1029.com/2026/11/11/strait-of-hormuz-shipping-risks-push-oil-prices-up-from-two-month-lows/"
+      "domain": "naharnet.com",
+      "url": "https://mobile.naharnet.com/stories/en/323676-iran-says-two-oil-tankers-on-fire-in-hormuz"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "asiaone.com",
-      "url": "https://www.asiaone.com:443/world/rubio-says-no-need-major-combat-operations-against-iran-given-us-economic-campaign"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "floridastatesman.com",
-      "url": "http://www.floridastatesman.com/news/279422437/china-keeps-24-tariff-on-us-goods-on-hold-for-two-months"
+      "domain": "israelherald.com",
+      "url": "http://www.israelherald.com/news/279426090/iranian-security-chief-insists-enriched-uranium-wont-leave-country"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261111083000; erfolglos: 20261111084500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261111131500; erfolglos: 20261111134500: HTTP Error 404: Not Found | 20261111133000: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.5
 }
