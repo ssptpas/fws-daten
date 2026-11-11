@@ -1,67 +1,103 @@
 {
-  "erstellt_am": "2026-11-10T22:45:43",
+  "erstellt_am": "2026-11-11T09:45:35",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261110214500",
+  "gkg_stand": "20261111083000",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -12.3,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "wdsu.com",
-      "url": "https://www.wdsu.com/article/boutte-tanker-overturn-molasses-spill/74389243"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "krcrtv.com",
-      "url": "https://krcrtv.com/north-coast-news/eureka-local-news/mp18-fire-prompts-newsom-to-declare-state-of-emergency-for-humboldt-county"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/could-iran-linked-cyberattacks-reach-europes-homes-and-critical-infrastructure-3010925"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "mandeb",
-        "red sea",
-        "suez"
-      ],
-      "domain": "wccbcharlotte.com",
-      "url": "https://www.wccbcharlotte.com/2026/11/10/exclusive-ap-granted-rare-access-to-european-union-naval-patrol-fighting-piracy-in-the-gulf-of-aden/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -7.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kazu.org",
-      "url": "https://www.kazu.org/npr-news/2026-11-10/u-s-boycotts-u-n-human-rights-review-for-second-year-running"
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/cuba-prison-abuse-october-2026-cubalex/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261111-gaza-is-protected-by-international-law-why-are-its-people-still-unprotected/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailyliberal.com.au",
+      "url": "https://www.dailyliberal.com.au/story/9390082/us-treasury-chief-moved-after-iranian-threats-sources/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/articles/us-treasury-chief-bessent-moved-010010728.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/345390"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
+      "tonalitaet": -4.2,
       "treffer": [
         "hormuz"
       ],
-      "domain": "upnorthlive.com",
-      "url": "https://upnorthlive.com/news/nation-world/average-gas-price-drops-below-4-per-gallon-for-first-time-since-july-aaa-iran-war-oil-president-trump-strait-of-hormuz-jd-vance-midterm-elections-rrt"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261111-rezaei-strait-of-hormuz-will-remain-closed-until-irans-seven-conditions-are-met/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "thehindu.com",
+      "url": "https://www.thehindu.com/news/international/iran-says-tanker-struck-mine-caught-fire-in-hormuz/article71688841.ece"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "newsradio1029.com",
+      "url": "https://www.newsradio1029.com/2026/11/11/strait-of-hormuz-shipping-risks-push-oil-prices-up-from-two-month-lows/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "asiaone.com",
+      "url": "https://www.asiaone.com:443/world/rubio-says-no-need-major-combat-operations-against-iran-given-us-economic-campaign"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "floridastatesman.com",
+      "url": "http://www.floridastatesman.com/news/279422437/china-keeps-24-tariff-on-us-goods-on-hold-for-two-months"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261111083000; erfolglos: 20261111084500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }

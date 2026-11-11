@@ -1,17 +1,17 @@
-Zustand des Pi -- geschrieben 2026-11-10T22:46:13+01:00
+Zustand des Pi -- geschrieben 2026-11-11T09:46:43+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 5 days, 7 hours, 14 minutes
+Betriebsdauer: up 5 days, 18 hours, 15 minutes
 Letzter Start: 2026-11-05 15:31:18
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    56.4'C
+Temperatur:    55.5'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       306Mi       1.2Gi        36Mi       429Mi       1.5Gi
+   Mem:           1.8Gi       301Mi       1.2Gi        33Mi       428Mi       1.5Gi
    Swap:          1.8Gi          0B       1.8Gi
 
 Speicherkarte:
