@@ -1,26 +1,26 @@
 Wochenvergleich der Kennzahlen -- auf dem Pi gerechnet, nicht geschaetzt.
-Erzeugt: 2026-11-12T14:45:02
-Vergleich: Lauf vom 2026-10-15T09:45:01 gegen Lauf vom 2026-11-12T14:45:02, tatsaechlicher Abstand 28 Tage
+Erzeugt: 2026-11-12T22:45:01
+Vergleich: Lauf vom 2026-10-15T09:45:01 gegen Lauf vom 2026-11-12T22:45:01, tatsaechlicher Abstand 28 Tage
 Angefragt waren 28 Tage; genommen wurde der naechstgelegene vorhandene Lauf.
 Die Daten in Klammern sind BEOBACHTUNGSDATEN der Werte, nicht die Laufzeitpunkte.
 
-hy_oas                             3.16 (2026-10-13)  ->          3.34 (2026-11-09)   +0.18 Prozentpunkte
-ig_oas                             0.83 (2026-10-13)  ->          0.91 (2026-11-09)   +0.08 Prozentpunkte
+hy_oas                             3.16 (2026-10-13)  ->           3.3 (2026-11-11)   +0.14 Prozentpunkte
+ig_oas                             0.83 (2026-10-13)  ->           0.9 (2026-11-11)   +0.07 Prozentpunkte
 sofr_iorb_bp                       -1.0 (2026-10-13)  ->          -1.0 (2026-11-10)   +0 bp
-us_rendite_10j                     5.21 (2026-10-13)  ->          4.88 (2026-11-09)   -0.33 Prozentpunkte
-kbe_drawdown_pct                  -12.8 (2026-10-14)  ->          -3.9 (2026-11-11)   +8.9 Prozentpunkte
-kre_drawdown_pct                  -12.0 (2026-10-14)  ->          -3.1 (2026-11-11)   +8.9 Prozentpunkte
-arcc_drawdown_pct                  -7.9 (2026-10-14)  ->          -3.0 (2026-11-11)   +4.9 Prozentpunkte
-vix                               15.27 (2026-10-13)  ->         19.02 (2026-11-12)   +3.75 Punkte  (+24.6 % von 15.27)
-vix_vix3m_ratio                  0.8502 (2026-10-13)  ->         0.909 (2026-11-11)   +0.0588   (+6.9 % von 0.8502)
-rsp_spy_ratio                    0.2756 (ohne Datum)  ->         0.293 (2026-11-11)   +0.0174   (+6.3 % von 0.2756)
+us_rendite_10j                     5.21 (2026-10-13)  ->          4.98 (2026-11-10)   -0.23 Prozentpunkte
+kbe_drawdown_pct                  -12.8 (2026-10-14)  ->          -4.5 (2026-11-12)   +8.3 Prozentpunkte
+kre_drawdown_pct                  -12.0 (2026-10-14)  ->          -3.7 (2026-11-12)   +8.3 Prozentpunkte
+arcc_drawdown_pct                  -7.9 (2026-10-14)  ->          -4.8 (2026-11-12)   +3.1 Prozentpunkte
+vix                               15.27 (2026-10-13)  ->          18.7 (2026-11-12)   +3.43 Punkte  (+22.5 % von 15.27)
+vix_vix3m_ratio                  0.8502 (2026-10-13)  ->        0.9322 (2026-11-12)   +0.082   (+9.6 % von 0.8502)
+rsp_spy_ratio                    0.2756 (ohne Datum)  ->        0.2915 (2026-11-12)   +0.0159   (+5.8 % von 0.2756)
 brent_spot                       125.44 (2026-10-06)  ->        107.03 (2026-11-03)   -18.41 USD/Barrel  (-14.7 % von 125.44)
 diesel_crack                      95.49 (2026-10-06)  ->         90.41 (2026-11-03)   -5.08 USD/Barrel  (-5.3 % von 95.49)
 initial_claims                   197000 (2026-10-03)  ->        200000 (2026-11-07)   +3000 Antraege  (+1.5 % von 197000)
 hormus_transit_ais                    2 (2026-10-11)  ->             3 (2026-11-08)   +1 Schiffe/Tag (AIS-sichtbar)  (+50.0 % von 2)
 babelmandeb_transit_ais              31 (2026-10-11)  ->            24 (2026-11-08)   -7 Schiffe/Tag (AIS-sichtbar)  (-22.6 % von 31)
 dollar_index                   121.6023 (2026-10-09)  ->      121.8803 (2026-11-06)   +0.278 Indexpunkte  (+0.2 % von 121.6023)
-rohoel_lager_usa                 424134 (2026-10-02)  ->        409760 (2026-10-30)   -14374 Tausend Barrel  (-3.4 % von 424134)
+rohoel_lager_usa                 424134 (2026-10-02)  ->        414417 (2026-11-06)   -9717 Tausend Barrel  (-2.3 % von 424134)
 
 17 von 19 Groessen vergleichbar.
 Nicht vergleichbar: bizd_drawdown_pct (damals kein Wert); brent_termin (damals kein Wert)
