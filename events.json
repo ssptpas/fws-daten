@@ -1,48 +1,121 @@
 {
-  "erstellt_am": "2026-11-12T09:45:43",
+  "erstellt_am": "2026-11-12T14:45:49",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261112083000",
+  "gkg_stand": "20261112130000",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 12,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "air strike"
-      ],
-      "domain": "abc.net.au",
-      "url": "https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "grenadachronicle.com",
-      "url": "https://grenadachronicle.com/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20261112/iran-oman-reached-understanding-on-navigation-in-strait-of-hormuz--ghalibaf-1125056252.html"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -10.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20261112/cuban-icus-critically-low-on-drugs-equipment-amid-us-sanctions---medic-1125056864.html"
+      "domain": "newsonjapan.com",
+      "url": "https://newsonjapan.com/article/151346.php"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.6,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "newstodaynet.com",
+      "url": "https://newstodaynet.com/2026/11/12/israeli-airstrike-on-southern-gaza-hospital-kills-four/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -7.5,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "mercopress.com",
+      "url": "https://en.mercopress.com/2026/11/12/paraguay-s-banking-superintendent-arrested-in-the-ueno-bank-investigation"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "sierraleonetimes.com",
+      "url": "http://www.sierraleonetimes.com/news/279428578/drone-strike-kills-nine-civilians-in-war-torn-sudan"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/12/780547/irgc-two-violating-oil-tankers-explode-in-strait-of-hormuz-after-ignoring-warnings"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sofiaglobe.com",
+      "url": "https://sofiaglobe.com/2026/11/12/european-parliament-demands-that-russia-returns-deported-ukrainian-children/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.7,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/12/780567/iran-lost-28-of-gas-production-in-three-minutes-during-march-attacks-nigc-chief"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "patriotpost.us",
+      "url": "https://patriotpost.us/opinion/1002769-the-midterms-an-autopsy"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "bristolpost.co.uk",
+      "url": "https://www.bristolpost.co.uk/news/bristol-news/full-recovery-school-cyber-attack-11238682"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "morningstar.com",
+      "url": "https://www.morningstar.com/news/dow-jones/202611126696/dow-jones-top-markets-headlines-at-7-am-et-nvidia-leadership-crisis-drags-on-us-stock-futures-pressures-ai-trade-uk"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thelocal.it",
+      "url": "https://www.thelocal.it/20261112/travellers-accused-of-overstaying-eus-90-day-rule-after-being-caught-up-in-ees-chaos"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thenassauguardian.com",
+      "url": "https://www.thenassauguardian.com/opinion/columnists/caught-between-a-rock-and-a-hard-place/article_7da41e71-638b-465c-9dbd-fc9c9571f708.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261112083000; erfolglos: 20261112084500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261112130000; erfolglos: 20261112134500: HTTP Error 404: Not Found | 20261112133000: HTTP Error 404: Not Found | 20261112131500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.8
 }
