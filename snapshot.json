@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-11T22:45:01",
+  "erstellt_am": "2026-11-12T09:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "3.34",
@@ -12,8 +12,8 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "17.49",
-      "beobachtungsdatum": "2026-11-11",
+      "wert": "18.46",
+      "beobachtungsdatum": "2026-11-12",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "VIX3M": {
@@ -33,9 +33,8 @@
     },
     "IORB": {
       "wert": "3.9",
-      "beobachtungsdatum": "2026-11-11",
-      "quelle": "FRED",
-      "hinweis": "FRED fuehrt bereits einen Wert zum 2026-11-12; hier steht der heute gueltige"
+      "beobachtungsdatum": "2026-11-12",
+      "quelle": "FRED"
     },
     "Initial_Claims": {
       "wert": "189000",
@@ -289,6 +288,10 @@
     "VIX_Historie": {
       "werte": [
         {
+          "datum": "2026-11-12",
+          "wert": 18.46
+        },
+        {
           "datum": "2026-11-11",
           "wert": 17.49
         },
@@ -311,10 +314,6 @@
         {
           "datum": "2026-11-04",
           "wert": 16.61
-        },
-        {
-          "datum": "2026-11-03",
-          "wert": 20.83
         }
       ],
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell) (letzte 7 Handelstage)",
@@ -498,8 +497,8 @@
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
-      "wert": -5.8,
-      "markt_datum": "2026-11-10",
+      "wert": -6.1,
+      "markt_datum": "2026-11-11",
       "leitzins_datum": "2026-11-11",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
@@ -548,8 +547,8 @@
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
-      "wert": "2.442",
-      "beobachtungsdatum": "2026-11-10",
+      "wert": "2.439",
+      "beobachtungsdatum": "2026-11-11",
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
@@ -568,15 +567,15 @@
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
-      "wert": 1.228,
-      "beobachtungsdatum": "2026-11-09",
+      "wert": 1.227,
+      "beobachtungsdatum": "2026-11-10",
       "quelle": "Bank of Japan (Time-Series Data Search API)"
     }
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 36.25,
-      "beobachtungsdatum": "2026-11-10",
+      "wert": 36.08,
+      "beobachtungsdatum": "2026-11-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -600,13 +599,13 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 92.55,
-      "beobachtungsdatum": "2026-11-11",
+      "wert": 93.5,
+      "beobachtungsdatum": "2026-11-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 86.41,
-      "beobachtungsdatum": "2026-11-11",
+      "wert": 87.24,
+      "beobachtungsdatum": "2026-11-12",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Implizite_Korrelation_1M": {

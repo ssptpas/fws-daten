@@ -1,103 +1,48 @@
 {
-  "erstellt_am": "2026-11-11T22:45:43",
+  "erstellt_am": "2026-11-12T09:45:43",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261111213000",
+  "gkg_stand": "20261112083000",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 4,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.7,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -8.2,
       "treffer": [
-        "sanctions"
+        "air strike"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/israeli-settler-representative-turned-back-after-arriving-in-france-101794429139456.html"
+      "domain": "abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.4,
+      "tonalitaet": -6.0,
       "treffer": [
         "red sea"
       ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/yemen-security-sources-report-strikes-on-aden-101794429010354.html"
+      "domain": "grenadachronicle.com",
+      "url": "https://grenadachronicle.com/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/tankers-burn-in-the-middle-east-despite-hopes-for-deescalation-101794428765375.html"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/europe/russian-drone-strikes-hit-industrial-facilities-in-ukraines-kyiv-region-killing-one-535536"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
+      "tonalitaet": -4.8,
       "treffer": [
         "hormuz"
       ],
-      "domain": "katu.com",
-      "url": "https://katu.com/news/nation-world/trump-sees-less-need-for-iran-strikes-but-diplomacy-offers-no-easy-answers-strait-of-hormuz-uranium-enrichment-nuclear-weapon"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca-101794426812479.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/asia/yemens-houthis-say-they-struck-saudi-oil-pumping-station-with-drone-535540"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/world-news/us-news/iran-sets-7-conditions-for-reopening-strait-of-hormuz-resuming-talks-with-us-101794424536128.html"
+      "domain": "sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20261112/iran-oman-reached-understanding-on-navigation-in-strait-of-hormuz--ghalibaf-1125056252.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -4.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "abc7.com",
-      "url": "https://abc7.com/story/treasury-secretary-scott-bessent-moved-military-base-sources-say/20033645/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "thespec.com",
-      "url": "https://www.thespec.com/news/crime/hamilton-police-probe-upper-stoney-creek-home-invasion/article_0801e737-0ec9-594d-8537-cd1b84303f3d.html"
+      "domain": "sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20261112/cuban-icus-critically-low-on-drugs-equipment-amid-us-sanctions---medic-1125056864.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261111213000; erfolglos: 20261111214500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261112083000; erfolglos: 20261112084500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.3
 }
