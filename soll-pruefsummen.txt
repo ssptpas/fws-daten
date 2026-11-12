@@ -14,7 +14,7 @@
 # Format: md5-Summe, Leerraum, Pfad relativ zu /home/chris. # ist Kommentar.
 # Die Regeldateien stehen mit ihrer Fassung AUF GITHUB, nicht der auf dem Mac.
 
-126b8d85ca806bb4a4b09eaca7d5580c  ampel_logik.py
+ba78c2e5a49460f1036d26631bf15ced  ampel_logik.py
 0e6957d65e9d507bcb8412a9b2fd72f3  test-skript.py
 b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
 e3042c9dd4811f695c6e20b7dd91712d  ausgangskontrolle.py
