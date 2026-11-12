@@ -17,12 +17,12 @@
 ba78c2e5a49460f1036d26631bf15ced  ampel_logik.py
 0e6957d65e9d507bcb8412a9b2fd72f3  test-skript.py
 b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
-e3042c9dd4811f695c6e20b7dd91712d  ausgangskontrolle.py
+a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
 665163c72ce905c3c28e6ab0079c461b  fruehwarnsystem.sh
 
-e9aa0fb825a45e0735b58892f887aba8  fws-daten/erwartetes-alter.txt
+f9b9f4e7548d695d556c5fc6a49bd0c7  fws-daten/erwartetes-alter.txt
 
-c8e9ae3b8f84b0e5a0ed8587d992e4f4  fws-daten/regeln-1-tagesvollcheck-de.md
-c28225e546faa1ae7555dd0ca6a49347  fws-daten/regeln-2-mittags-de.md
-cc7eac19608d92c1485e0b758273c984  fws-daten/regeln-3-abendlauf-de.md
-87d2159ef6339bc17c685ebae6cc7d12  fws-daten/regeln-4-wochencheck-de.md
+ca2723131766a9013ce7e2e0d5479674  fws-daten/regeln-1-tagesvollcheck-de.md
+e9d673222f1439debce6fca0fc22a568  fws-daten/regeln-2-mittags-de.md
+ff78f22a7b46404a92497b809108d83c  fws-daten/regeln-3-abendlauf-de.md
+53605106ec1e8e24a6479b988a7dcb7c  fws-daten/regeln-4-wochencheck-de.md

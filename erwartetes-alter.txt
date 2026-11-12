@@ -18,63 +18,63 @@
 # Format: Reihe, Leerraum, Hoechstalter in Tagen. # ist Kommentar.
 # Eine Reihe, die hier fehlt, wird NICHT auf Alter geprueft -- nur auf Datum und Zukunft.
 
-BabelMandeb_Transit          20   # gemessen: hoechstens 13 Tage in 303 Beobachtungen
-Baltic_Dry_Proxy_BDRY         8   # gemessen: hoechstens 4 Tage in 303 Beobachtungen
-Bank_Stress_KBE               8   # gemessen: hoechstens 4 Tage in 302 Beobachtungen
-Bank_Stress_KRE               8   # gemessen: hoechstens 4 Tage in 302 Beobachtungen
-Breadth_ETF_RSP               8   # gemessen: hoechstens 4 Tage in 305 Beobachtungen
-Breadth_ETF_SPY               8   # gemessen: hoechstens 4 Tage in 305 Beobachtungen
-Brent_EIA_verzoegert         16   # gemessen: hoechstens 9 Tage in 324 Beobachtungen
-Brent_Terminkurs              6   # gemessen: hoechstens 2 Tage in 75 Beobachtungen
+BabelMandeb_Transit           20  13  # gemessen: hoechstens 13 Tage in 303 Beobachtungen
+Baltic_Dry_Proxy_BDRY          8   4  # gemessen: hoechstens 4 Tage in 303 Beobachtungen
+Bank_Stress_KBE                8   4  # gemessen: hoechstens 4 Tage in 302 Beobachtungen
+Bank_Stress_KRE                8   4  # gemessen: hoechstens 4 Tage in 302 Beobachtungen
+Breadth_ETF_RSP                8   4  # gemessen: hoechstens 4 Tage in 305 Beobachtungen
+Breadth_ETF_SPY                8   4  # gemessen: hoechstens 4 Tage in 305 Beobachtungen
+Brent_EIA_verzoegert          16   9  # gemessen: hoechstens 9 Tage in 324 Beobachtungen
+Brent_Terminkurs               6   2  # gemessen: hoechstens 2 Tage in 75 Beobachtungen
 # CHF_je_USD: H.10, siehe Dollar_Index
 CHF_je_USD                   14   # (rhythmus)
-CP_Financial_3M              18   # gemessen: hoechstens 11 Tage in 303 Beobachtungen
-CP_minus_SOFR_bp             18   # gemessen: hoechstens 11 Tage in 302 Beobachtungen
-DE_Rendite_10J                8   # gemessen: hoechstens 4 Tage in 306 Beobachtungen
-Diesel_Crack_USD_bbl         16   # gemessen: hoechstens 9 Tage in 306 Beobachtungen
-Diesel_Spot_GulfCoast        16   # gemessen: hoechstens 9 Tage in 306 Beobachtungen
+CP_Financial_3M               18  11  # gemessen: hoechstens 11 Tage in 303 Beobachtungen
+CP_minus_SOFR_bp              18  11  # gemessen: hoechstens 11 Tage in 302 Beobachtungen
+DE_Rendite_10J                 8   4  # gemessen: hoechstens 4 Tage in 306 Beobachtungen
+Diesel_Crack_USD_bbl          16   9  # gemessen: hoechstens 9 Tage in 306 Beobachtungen
+Diesel_Spot_GulfCoast         16   9  # gemessen: hoechstens 9 Tage in 306 Beobachtungen
 # Dollar_Index: H.10 der US-Notenbank, woechentlich montags fuer Daten bis zum Vorfreitag
 Dollar_Index                 14   # (rhythmus)
-ECB_Einlagesatz               7   # gemessen: hoechstens 3 Tage in 300 Beobachtungen
-EM_Corp_OAS                   9   # gemessen: hoechstens 5 Tage in 306 Beobachtungen
-EU_Funding_Spread_bp          7   # gemessen: hoechstens 3 Tage in 297 Beobachtungen
-EU_STR                        7   # gemessen: hoechstens 3 Tage in 304 Beobachtungen
-Einzelwert_Volatilitaet       7   # gemessen: hoechstens 3 Tage in 75 Beobachtungen
-EuroHY_OAS                    9   # gemessen: hoechstens 5 Tage in 306 Beobachtungen
-Fed_Reverse_Repo_USD_Mrd      8   # gemessen: hoechstens 4 Tage in 303 Beobachtungen
-HY_OAS                        9   # gemessen: hoechstens 5 Tage in 324 Beobachtungen
-Hormus_Transit               20   # gemessen: hoechstens 13 Tage in 301 Beobachtungen
-IG_OAS                        9   # gemessen: hoechstens 5 Tage in 322 Beobachtungen
-IORB                          4   # gemessen: hoechstens 0 Tage in 325 Beobachtungen
-IT_Rendite_10J_Monatlich    136   # gemessen: hoechstens 106 Tage in 306 Beobachtungen
-Implizite_Korrelation_1M      7   # gemessen: hoechstens 3 Tage in 75 Beobachtungen
-Inflationserwartung_10J       8   # gemessen: hoechstens 4 Tage in 324 Beobachtungen
-Inflationserwartung_5J5J      7   # gemessen: hoechstens 3 Tage in 74 Beobachtungen
+ECB_Einlagesatz                7   3  # gemessen: hoechstens 3 Tage in 300 Beobachtungen
+EM_Corp_OAS                    9   5  # gemessen: hoechstens 5 Tage in 306 Beobachtungen
+EU_Funding_Spread_bp           7   3  # gemessen: hoechstens 3 Tage in 297 Beobachtungen
+EU_STR                         7   3  # gemessen: hoechstens 3 Tage in 304 Beobachtungen
+Einzelwert_Volatilitaet        7   3  # gemessen: hoechstens 3 Tage in 75 Beobachtungen
+EuroHY_OAS                     9   5  # gemessen: hoechstens 5 Tage in 306 Beobachtungen
+Fed_Reverse_Repo_USD_Mrd       8   4  # gemessen: hoechstens 4 Tage in 303 Beobachtungen
+HY_OAS                         9   5  # gemessen: hoechstens 5 Tage in 324 Beobachtungen
+Hormus_Transit                20  13  # gemessen: hoechstens 13 Tage in 301 Beobachtungen
+IG_OAS                         9   5  # gemessen: hoechstens 5 Tage in 322 Beobachtungen
+IORB                           4   0  # gemessen: hoechstens 0 Tage in 325 Beobachtungen
+IT_Rendite_10J_Monatlich     136 106  # gemessen: hoechstens 106 Tage in 306 Beobachtungen
+Implizite_Korrelation_1M       7   3  # gemessen: hoechstens 3 Tage in 75 Beobachtungen
+Inflationserwartung_10J        8   4  # gemessen: hoechstens 4 Tage in 324 Beobachtungen
+Inflationserwartung_5J5J       7   3  # gemessen: hoechstens 3 Tage in 74 Beobachtungen
 # Initial_Claims: US-Arbeitsministerium, donnerstags fuer die Woche bis zum Vorsamstag
 Initial_Claims               16   # (rhythmus)
-JOLTS_Quits_Rate            125   # gemessen: hoechstens 95 Tage in 303 Beobachtungen
-Japan_Tagesgeldsatz          16   # gemessen: hoechstens 9 Tage in 307 Beobachtungen
-Jet_Crack_USD_bbl            16   # gemessen: hoechstens 9 Tage in 306 Beobachtungen
-Jet_Spot_GulfCoast           16   # gemessen: hoechstens 9 Tage in 306 Beobachtungen
-MOVE_Index                    8   # gemessen: hoechstens 4 Tage in 303 Beobachtungen
-Nikkei_Volatilitaet           9   # gemessen: hoechstens 5 Tage in 307 Beobachtungen
-Privatkredit_ARCC             8   # gemessen: hoechstens 4 Tage in 253 Beobachtungen
-Privatkredit_BIZD             7   # gemessen: hoechstens 3 Tage in 70 Beobachtungen
-RSP_SPY_Ratio                 5   # gemessen: hoechstens 1 Tage in 1 Beobachtungen
-Realrendite_10J               9   # gemessen: hoechstens 5 Tage in 324 Beobachtungen
+JOLTS_Quits_Rate             125  95  # gemessen: hoechstens 95 Tage in 303 Beobachtungen
+Japan_Tagesgeldsatz           16   9  # gemessen: hoechstens 9 Tage in 307 Beobachtungen
+Jet_Crack_USD_bbl             16   9  # gemessen: hoechstens 9 Tage in 306 Beobachtungen
+Jet_Spot_GulfCoast            16   9  # gemessen: hoechstens 9 Tage in 306 Beobachtungen
+MOVE_Index                     8   4  # gemessen: hoechstens 4 Tage in 303 Beobachtungen
+Nikkei_Volatilitaet            9   5  # gemessen: hoechstens 5 Tage in 307 Beobachtungen
+Privatkredit_ARCC              8   4  # gemessen: hoechstens 4 Tage in 253 Beobachtungen
+Privatkredit_BIZD              7   3  # gemessen: hoechstens 3 Tage in 70 Beobachtungen
+RSP_SPY_Ratio                  5   1  # gemessen: hoechstens 1 Tage in 1 Beobachtungen
+Realrendite_10J                9   5  # gemessen: hoechstens 5 Tage in 324 Beobachtungen
 # Rohoel_Lager_USA: EIA Weekly Petroleum Status Report, mittwochs fuer die Woche bis zum Vorfreitag
 Rohoel_Lager_USA             17   # (rhythmus)
 # SGD_je_USD: H.10, siehe Dollar_Index
 SGD_je_USD                   14   # (rhythmus)
-SOFR                          9   # gemessen: hoechstens 5 Tage in 324 Beobachtungen
-SOFR_minus_IORB_bp            9   # gemessen: hoechstens 5 Tage in 324 Beobachtungen
-Sahm_Regel                   97   # gemessen: hoechstens 67 Tage in 303 Beobachtungen
+SOFR                           9   5  # gemessen: hoechstens 5 Tage in 324 Beobachtungen
+SOFR_minus_IORB_bp             9   5  # gemessen: hoechstens 5 Tage in 324 Beobachtungen
+Sahm_Regel                    97  67  # gemessen: hoechstens 67 Tage in 303 Beobachtungen
 # Treasury_Auktion: UNGEKLAERT: Veroeffentlichungsrhythmus nicht ermittelt. Die 34 Tage, aus denen diese Grenze stammt, waren selbst ein Befund (08.11.2026). Grenze bewusst weit, damit sie nicht staendig anschlaegt -- nachzuziehen, sobald der Rhythmus feststeht.
 Treasury_Auktion             64   # (rhythmus)
-UK_Bank_Rate                  9   # gemessen: hoechstens 5 Tage in 300 Beobachtungen
-UK_Funding_Spread_bp         10   # gemessen: hoechstens 6 Tage in 300 Beobachtungen
-UK_Rendite_10J               10   # gemessen: hoechstens 6 Tage in 306 Beobachtungen
-UK_SONIA                     10   # gemessen: hoechstens 6 Tage in 306 Beobachtungen
+UK_Bank_Rate                   9   5  # gemessen: hoechstens 5 Tage in 300 Beobachtungen
+UK_Funding_Spread_bp          10   6  # gemessen: hoechstens 6 Tage in 300 Beobachtungen
+UK_Rendite_10J                10   6  # gemessen: hoechstens 6 Tage in 306 Beobachtungen
+UK_SONIA                      10   6  # gemessen: hoechstens 6 Tage in 306 Beobachtungen
 # USD_CNY: H.10, siehe Dollar_Index
 USD_CNY                      14   # (rhythmus)
 # USD_EUR: H.10, siehe Dollar_Index
@@ -87,12 +87,12 @@ USD_KRW                      14   # (rhythmus)
 USD_je_AUD                   14   # (rhythmus)
 # USD_je_GBP: H.10, siehe Dollar_Index
 USD_je_GBP                   14   # (rhythmus)
-US_Rendite_10J                9   # gemessen: hoechstens 5 Tage in 92 Beobachtungen
-VIX                          11   # gemessen: hoechstens 7 Tage in 326 Beobachtungen
-VIX3M                        11   # gemessen: hoechstens 7 Tage in 324 Beobachtungen
-VIX_VIX3M_Ratio              11   # gemessen: hoechstens 7 Tage in 324 Beobachtungen
-WTI_Rohoel                   16   # gemessen: hoechstens 9 Tage in 306 Beobachtungen
-WTI_Terminkurs                6   # gemessen: hoechstens 2 Tage in 75 Beobachtungen
+US_Rendite_10J                 9   5  # gemessen: hoechstens 5 Tage in 92 Beobachtungen
+VIX                           11   7  # gemessen: hoechstens 7 Tage in 326 Beobachtungen
+VIX3M                         11   7  # gemessen: hoechstens 7 Tage in 324 Beobachtungen
+VIX_VIX3M_Ratio               11   7  # gemessen: hoechstens 7 Tage in 324 Beobachtungen
+WTI_Rohoel                    16   9  # gemessen: hoechstens 9 Tage in 306 Beobachtungen
+WTI_Terminkurs                 6   2  # gemessen: hoechstens 2 Tage in 75 Beobachtungen
 # ZAR_je_USD: H.10, siehe Dollar_Index
 ZAR_je_USD                   14   # (rhythmus)
-Zinskurve_10J_2J              8   # gemessen: hoechstens 4 Tage in 324 Beobachtungen
+Zinskurve_10J_2J               8   4  # gemessen: hoechstens 4 Tage in 324 Beobachtungen
