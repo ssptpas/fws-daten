@@ -1,59 +1,105 @@
 {
-  "erstellt_am": "2026-11-12T22:45:43",
+  "erstellt_am": "2026-11-13T09:45:41",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261112210000",
+  "gkg_stand": "20261113080000",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 10,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "ibtimes.com",
-      "url": "https://www.ibtimes.com/strait-hormuz-oil-spills-shipping-attacks-3809688"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -11.2,
       "treffer": [
         "hormuz",
         "tanker"
       ],
-      "domain": "marinelink.com",
-      "url": "https://www.marinelink.com/news/four-oil-tankers-struck-hormuz-explosions-544333"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-says-tanker-explodes-after-hitting-sea-mine-hormuz-strait"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -5.0,
+      "kategorie": "Policy",
+      "tonalitaet": -8.4,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "eurasiareview.com",
-      "url": "https://www.eurasiareview.com/12112026-when-hackers-move-at-machine-speed-central-banks-must-move-faster-oped/"
+      "domain": "philippinetimes.com",
+      "url": "http://www.philippinetimes.com/news/279430034/france-sweeping-bill-threatens-peaceful-protest-rights"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -7.8,
       "treffer": [
-        "mandeb",
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/iran-targets-us-radar-bahrain-reports-tanker-explosion-hormuz"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/business/microsoft-rules-out-cyberattack-as-global-outage-hits-outlook-teams-and-copilot/articleshow/135793622.cms"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
         "red sea"
       ],
-      "domain": "gulfcoastnewsnow.com",
-      "url": "https://www.gulfcoastnewsnow.com/article/trump-vance-iran-negotiations-corruption/74414969"
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/houthis-claim-strike-saudi-arabias-east-west-oil-pipeline"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/%5Cqnd%5Csomalia%5Carticles%5C20261106115600.aspx"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.2,
+      "tonalitaet": -5.1,
       "treffer": [
-        "invasion"
+        "missile",
+        "ballistic"
       ],
-      "domain": "radaronline.com",
-      "url": "https://radaronline.com/p/mexico-president-defies-trump-migrant-caravan-rejects-invasion-tariff-threats/"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-expanding-its-ballistic-missile-programme"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "gulte.com",
+      "url": "https://www.gulte.com/trends/441543/microsoft-global-outage-technical-issue-or-cyberattack"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "middle-east-online.com",
+      "url": "https://www.middle-east-online.com/en/trump-says-iran-deal-unnecessary-redirects-vance-us-crime-drive"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/world/business/microsoft-global-outage-is-a-cyberattack-behind-major-service-disruption-tech-giants-top-executive-clears-the-air-as-millions-of-users-face-trouble-using-outlook-teams/articleshow/135793654.cms"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261112210000; erfolglos: 20261112214500: HTTP Error 404: Not Found | 20261112213000: HTTP Error 404: Not Found | 20261112211500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261113080000; erfolglos: 20261113084500: HTTP Error 404: Not Found | 20261113083000: HTTP Error 404: Not Found | 20261113081500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.8
 }
