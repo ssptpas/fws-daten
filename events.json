@@ -1,102 +1,155 @@
 {
-  "erstellt_am": "2026-11-13T14:45:51",
+  "erstellt_am": "2026-11-13T22:46:00",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261113131500",
+  "gkg_stand": "20261113214500",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 16,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -11.8,
+      "tonalitaet": -13.4,
       "treffer": [
-        "drone strike"
+        "invasion"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/cis-countries/ukrainian-drone-strike-on-samara-kills-four-535924"
+      "domain": "candgnews.com",
+      "url": "https://www.candgnews.com/articles/police-courts-fire/sterling-heights-man-bound-over-on-murder-home-invasion-charges/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -6.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "naharnet.com",
-      "url": "https://mobile.naharnet.com/stories/en/323728-erdogan-urges-return-to-diplomacy-to-end-iran-us-conflict"
+      "domain": "mymotherlode.com",
+      "url": "https://mymotherlode.com/news/world/11306861/international-criminal-court-limits-afghanistan-investigation-to-taliban-crimes.html"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "tribuneindia.com",
+      "url": "https://www.tribuneindia.com/news/haryana/industrialists-workers-hit-streets-against-arbitrary-pollution-checks/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/markets/irresponsible-dangerous-bessent-slams-wsj-over-publishing-photo-home-irgc-threats-force"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -5.4,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "elpais.com",
-      "url": "https://english.elpais.com/technology/2026-11-13/from-the-refrigerator-to-tap-water-and-electricity-cyberattacks-already-affect-everyday-life.html"
+      "domain": "iefimerida.gr",
+      "url": "https://www.iefimerida.gr/english/greek-auditors-find-beach-businesses-flout-rules-little-oversight"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -4.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "phoenixherald.com",
-      "url": "http://www.phoenixherald.com/news/279429073/russia-launches-massive-overnight-attacks-on-ukraine"
+      "domain": "npr.org",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "nbc16.com",
+      "url": "https://nbc16.com/news/nation-world/tanker-collides-with-river-cruise-ship-on-mississippi-river-in-new-orleans-oil-emergency-response-boat-vessel-collision-crash-first-responders-american-cruise-lines-american-heritage"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "rnz.co.nz",
+      "url": "https://www.rnz.co.nz/news/world/2589741/cruise-ship-tipped-on-its-side-after-new-orleans-tanker-crash"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.1,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tennesseedaily.com",
-      "url": "http://www.tennesseedaily.com/news/279429073/russia-launches-massive-overnight-attacks-on-ukraine"
+      "domain": "wdiy.org",
+      "url": "https://www.wdiy.org/npr-news/2026-11-13/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.1,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
       "treffer": [
-        "missile"
+        "tanker"
       ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279429073/russia-says-it-hit-ukrainian-drone-missile-factories"
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/markets/dramatic-footage-shows-canal-ferry-colliding-tanker-near-port-new-orleans"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.7,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
       "treffer": [
-        "nuclear weapon"
+        "tanker"
       ],
-      "domain": "middleeaststar.com",
-      "url": "http://www.middleeaststar.com/news/279430270/us-israel-military-action-may-have-strengthened-iran-resolve-to-pursue-nuclear-weapons-former-diplomat-anil-trigunayat"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279430687/china-says-acts-of-japanese-right-wing-forces-blatantly-challenge-postwar-intl-order"
+      "domain": "kesq.com",
+      "url": "https://kesq.com/news/national-world/cnn-national/2026/11/13/tanker-collides-with-river-cruiser-near-port-of-new-orleans/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "elpais.com",
-      "url": "https://english.elpais.com/international/2026-11-13/colombias-peace-tribunal-chief-warns-government-cuts-could-trigger-international-criminal-court-scrutiny.html"
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/political/watch-greta-laughs-climate-kids-she-left-behind-gaza"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "ksl.com",
+      "url": "https://www.ksl.com:443/article/51645733/tanker-collides-with-river-cruiser-near-port-of-new-orleans"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "tmz.com",
+      "url": "https://www.tmz.com/2026/11/13/riverboat-cruise-crashes-with-oil-tanker-near-new-orleans/"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "hngn.com",
+      "url": "https://www.hngn.com/articles/273830/20261113/trump-wants-cuba-done-before-leaving-office-would-weigh-force.htm"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.0,
       "treffer": [
-        "sanctions"
+        "tanker"
       ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks"
+      "domain": "listenupyall.com",
+      "url": "https://listenupyall.com/2026/11/13/tanker-collides-with-docked-cruise-ship-on-mississippi-river-near-port-of-new-orleans-rescue-operations-underway/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261113131500; erfolglos: 20261113134500: HTTP Error 404: Not Found | 20261113133000: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.5
+  "gkg_alter_stunden": 0.0
 }

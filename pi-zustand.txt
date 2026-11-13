@@ -1,17 +1,17 @@
-Zustand des Pi -- geschrieben 2026-11-13T14:47:20+01:00
+Zustand des Pi -- geschrieben 2026-11-13T22:46:31+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 22 hours, 4 minutes
+Betriebsdauer: up 1 day, 6 hours, 3 minutes
 Letzter Start: 2026-11-12 16:42:34
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    59.9'C
+Temperatur:    58.4'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       290Mi       1.3Gi        31Mi       334Mi       1.5Gi
+   Mem:           1.8Gi       296Mi       1.3Gi        45Mi       348Mi       1.5Gi
    Swap:             0B          0B          0B
 
 Speicherkarte:
@@ -32,14 +32,6 @@ Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
    [    1.824257] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
 
 Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
-   Nov 13 06:51:59 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 13 06:51:59 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 13 06:51:59 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 13 06:51:59 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 13 06:51:59 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 13 11:35:51 RaspberryPi-4b NetworkManager[654]: <warn>  [1794566151.7856] device (wlan0): link timed out.
-   Nov 13 11:35:51 RaspberryPi-4b NetworkManager[654]: <warn>  [1794566151.7884] device (wlan0): Activation: failed for connection 'netplan-wlan0-Home'
-   Nov 13 11:35:51 RaspberryPi-4b systemd-remount-fs[4007]: /usr/bin/mount for / exited with exit status 32.
    Nov 13 11:35:51 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
    Nov 13 11:35:51 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
    Nov 13 11:35:51 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
@@ -62,6 +54,14 @@ Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
    Nov 13 11:42:28 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
    Nov 13 11:42:28 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
    Nov 13 11:42:28 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 13 19:42:45 RaspberryPi-4b systemd-remount-fs[5356]: /usr/bin/mount for / exited with exit status 32.
+   Nov 13 19:42:45 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 13 19:42:45 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 13 19:42:45 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 13 19:42:45 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 13 19:42:45 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 13 19:42:45 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 13 19:42:45 RaspberryPi-4b systemd[1]: Dependency failed for rpi-zram-writeback.service - zram writeback service.
 
 Fehlgeschlagene Dienste:
      UNIT                       LOAD   ACTIVE SUB    DESCRIPTION
@@ -88,4 +88,4 @@ a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
 
 BETRIEBSSTAND: OK -- 10 Dateien geprueft, alle Pruefsummen wie vorgesehen
 
-BETRIEBSSTAND: OK -- 65 Werte geprueft, alle mit lesbarem Datum, keines in der Zukunft, keines ueber seiner Altersgrenze
+BETRIEBSSTAND: OK -- 63 Werte geprueft, alle mit lesbarem Datum, keines in der Zukunft, keines ueber seiner Altersgrenze
