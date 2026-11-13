@@ -1,16 +1,16 @@
 Wochenvergleich der Kennzahlen -- auf dem Pi gerechnet, nicht geschaetzt.
-Erzeugt: 2026-11-13T09:45:01
-Vergleich: Lauf vom 2026-10-16T09:45:02 gegen Lauf vom 2026-11-13T09:45:01, tatsaechlicher Abstand 28 Tage
+Erzeugt: 2026-11-13T14:45:01
+Vergleich: Lauf vom 2026-10-16T09:45:02 gegen Lauf vom 2026-11-13T14:45:01, tatsaechlicher Abstand 28 Tage
 Angefragt waren 28 Tage; genommen wurde der naechstgelegene vorhandene Lauf.
 Die Daten in Klammern sind BEOBACHTUNGSDATEN der Werte, nicht die Laufzeitpunkte.
 
 hy_oas                             3.25 (2026-10-14)  ->           3.3 (2026-11-11)   +0.05 Prozentpunkte
-sofr_iorb_bp                       -2.0 (2026-10-14)  ->          -1.0 (2026-11-10)   +1 bp
+sofr_iorb_bp                       -2.0 (2026-10-14)  ->           0.0 (2026-11-12)   +2 bp
 us_rendite_10j                     5.19 (2026-10-14)  ->          4.98 (2026-11-10)   -0.21 Prozentpunkte
 kbe_drawdown_pct                  -11.3 (2026-10-15)  ->          -4.5 (2026-11-12)   +6.8 Prozentpunkte
 kre_drawdown_pct                  -10.5 (2026-10-15)  ->          -3.7 (2026-11-12)   +6.8 Prozentpunkte
 arcc_drawdown_pct                  -6.3 (2026-10-15)  ->          -4.8 (2026-11-12)   +1.5 Prozentpunkte
-vix                               16.87 (2026-10-14)  ->         18.94 (2026-11-13)   +2.07 Punkte  (+12.3 % von 16.87)
+vix                               16.87 (2026-10-14)  ->         17.99 (2026-11-13)   +1.12 Punkte  (+6.6 % von 16.87)
 vix_vix3m_ratio                  0.8978 (2026-10-14)  ->        0.9322 (2026-11-12)   +0.0344   (+3.8 % von 0.8978)
 rsp_spy_ratio                    0.2786 (ohne Datum)  ->        0.2915 (2026-11-12)   +0.0129   (+4.6 % von 0.2786)
 brent_spot                       126.55 (2026-10-14)  ->         92.14 (2026-11-11)   -34.41 USD/Barrel  (-27.2 % von 126.55)

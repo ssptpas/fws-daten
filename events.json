@@ -1,105 +1,102 @@
 {
-  "erstellt_am": "2026-11-13T09:45:41",
+  "erstellt_am": "2026-11-13T14:45:51",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261113080000",
+  "gkg_stand": "20261113131500",
   "veraltet": false,
   "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -11.2,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -11.8,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "drone strike"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-says-tanker-explodes-after-hitting-sea-mine-hormuz-strait"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/cis-countries/ukrainian-drone-strike-on-samara-kills-four-535924"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.4,
+      "tonalitaet": -6.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "philippinetimes.com",
-      "url": "http://www.philippinetimes.com/news/279430034/france-sweeping-bill-threatens-peaceful-protest-rights"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/iran-targets-us-radar-bahrain-reports-tanker-explosion-hormuz"
+      "domain": "naharnet.com",
+      "url": "https://mobile.naharnet.com/stories/en/323728-erdogan-urges-return-to-diplomacy-to-end-iran-us-conflict"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -7.0,
+      "tonalitaet": -5.4,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/business/microsoft-rules-out-cyberattack-as-global-outage-hits-outlook-teams-and-copilot/articleshow/135793622.cms"
+      "domain": "elpais.com",
+      "url": "https://english.elpais.com/technology/2026-11-13/from-the-refrigerator-to-tap-water-and-electricity-cyberattacks-already-affect-everyday-life.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/houthis-claim-strike-saudi-arabias-east-west-oil-pipeline"
+      "domain": "phoenixherald.com",
+      "url": "http://www.phoenixherald.com/news/279429073/russia-launches-massive-overnight-attacks-on-ukraine"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "kategorie": "Policy",
+      "tonalitaet": -5.1,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "strategypage.com",
-      "url": "http://www.strategypage.com/%5Cqnd%5Csomalia%5Carticles%5C20261106115600.aspx"
+      "domain": "tennesseedaily.com",
+      "url": "http://www.tennesseedaily.com/news/279429073/russia-launches-massive-overnight-attacks-on-ukraine"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.1,
       "treffer": [
-        "missile",
-        "ballistic"
+        "missile"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-expanding-its-ballistic-missile-programme"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279429073/russia-says-it-hit-ukrainian-drone-missile-factories"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -4.3,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.7,
       "treffer": [
-        "cyberattack"
+        "nuclear weapon"
       ],
-      "domain": "gulte.com",
-      "url": "https://www.gulte.com/trends/441543/microsoft-global-outage-technical-issue-or-cyberattack"
+      "domain": "middleeaststar.com",
+      "url": "http://www.middleeaststar.com/news/279430270/us-israel-military-action-may-have-strengthened-iran-resolve-to-pursue-nuclear-weapons-former-diplomat-anil-trigunayat"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279430687/china-says-acts-of-japanese-right-wing-forces-blatantly-challenge-postwar-intl-order"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.0,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "middle-east-online.com",
-      "url": "https://www.middle-east-online.com/en/trump-says-iran-deal-unnecessary-redirects-vance-us-crime-drive"
+      "domain": "elpais.com",
+      "url": "https://english.elpais.com/international/2026-11-13/colombias-peace-tribunal-chief-warns-government-cuts-could-trigger-international-criminal-court-scrutiny.html"
     },
     {
-      "kategorie": "Breite",
-      "tonalitaet": -3.9,
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/world/business/microsoft-global-outage-is-a-cyberattack-behind-major-service-disruption-tech-giants-top-executive-clears-the-air-as-millions-of-users-face-trouble-using-outlook-teams/articleshow/135793654.cms"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261113080000; erfolglos: 20261113084500: HTTP Error 404: Not Found | 20261113083000: HTTP Error 404: Not Found | 20261113081500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.8
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261113131500; erfolglos: 20261113134500: HTTP Error 404: Not Found | 20261113133000: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.5
 }
