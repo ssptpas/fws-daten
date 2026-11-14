@@ -1,57 +1,66 @@
 {
-  "erstellt_am": "2026-11-14T14:45:56",
+  "erstellt_am": "2026-11-14T22:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261114130000",
+  "gkg_stand": "20261114211500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.8,
+      "tonalitaet": -12.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "graphic.com.gh",
-      "url": "https://www.graphic.com.gh/features/opinion/prostitution-on-wheels-time-to-regulate-or-crack-down-hard.html"
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/14/780733/iran-us-admits-pursuing-war-crimes-compounding-atrocities-in-wars-of-aggression-economic-terrorism"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "newser.com",
+      "url": "https://www.newser.com/story/400041/port-of-new-orleans-quickly-sues-tankers-owners.html"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "ksat.com",
+      "url": "https://www.ksat.com/news/2026/11/14/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "nola.com",
+      "url": "https://www.nola.com/news/crime_police/new-orleans-tanker-deficiencies-wreck/article_0aa2ec0e-c4a9-4989-9577-84733086335f.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "businessinsurance.com",
+      "url": "https://www.businessinsurance.com/gard-covers-tanker-in-new-orleans-collision/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wn.com",
-      "url": "https://article.wn.com/view/2026/11/14/Protesters_in_London_urge_UK_to_sanction_Israel_over_Gaza_ge/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/world/zelenskyy-says-a-new-european-security-framework-floated-by-us-could-benefit-putin/article_6202125e-aa95-5565-8a9c-ca7191b7adc0.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "graphic.com.gh",
-      "url": "https://www.graphic.com.gh/features/opinion/ghana-news-the-mahama-paradox-international-prestige-and-domestic-struggles.html"
+      "domain": "pilotonline.com",
+      "url": "https://www.pilotonline.com/2026/11/14/zelenskyy-european-security-framework/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261114130000; erfolglos: 20261114134500: HTTP Error 404: Not Found | 20261114133000: HTTP Error 404: Not Found | 20261114131500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.8
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261114211500; erfolglos: 20261114214500: HTTP Error 404: Not Found | 20261114213000: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.5
 }
