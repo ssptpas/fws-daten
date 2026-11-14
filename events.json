@@ -1,109 +1,76 @@
 {
-  "erstellt_am": "2026-11-13T22:46:00",
+  "erstellt_am": "2026-11-14T09:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261113214500",
+  "gkg_stand": "20261114084500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 8,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -13.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.0,
       "treffer": [
-        "invasion"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "candgnews.com",
-      "url": "https://www.candgnews.com/articles/police-courts-fire/sterling-heights-man-bound-over-on-murder-home-invasion-charges/"
+      "domain": "bignewsnetwork.com",
+      "url": "http://www.bignewsnetwork.com/news/279432156/two-oil-tankers-explode-catch-fire-after-hitting-naval-mines-near-hormuz-iran-irgc-navy"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.1,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "mymotherlode.com",
-      "url": "https://mymotherlode.com/news/world/11306861/international-criminal-court-limits-afghanistan-investigation-to-taliban-crimes.html"
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/ice-reviews-deficient-care-detainee-deaths-1832186"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "theintelligencer.net",
+      "url": "https://www.theintelligencer.net/news/top-headlines/2026/11/w-va-supreme-court-upholds-admonishment-of-judge-sweeney/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "tribuneindia.com",
-      "url": "https://www.tribuneindia.com/news/haryana/industrialists-workers-hit-streets-against-arbitrary-pollution-checks/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/markets/irresponsible-dangerous-bessent-slams-wsj-over-publishing-photo-home-irgc-threats-force"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iefimerida.gr",
-      "url": "https://www.iefimerida.gr/english/greek-auditors-find-beach-businesses-flout-rules-little-oversight"
-    },
-    {
-      "kategorie": "Policy",
       "tonalitaet": -4.8,
       "treffer": [
-        "sanctions"
+        "tanker"
       ],
-      "domain": "npr.org",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+      "domain": "gdnonline.com",
+      "url": "https://www.gdnonline.com:443/Details/1412803/Tanker-collides-with-cruise-ship-in-New-Orleans,-32-hospitalised"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
+      "tonalitaet": -4.3,
       "treffer": [
+        "hormuz",
         "tanker"
       ],
-      "domain": "nbc16.com",
-      "url": "https://nbc16.com/news/nation-world/tanker-collides-with-river-cruise-ship-on-mississippi-river-in-new-orleans-oil-emergency-response-boat-vessel-collision-crash-first-responders-american-cruise-lines-american-heritage"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "rnz.co.nz",
-      "url": "https://www.rnz.co.nz/news/world/2589741/cruise-ship-tipped-on-its-side-after-new-orleans-tanker-crash"
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/strait-hormuz-oil-tankers-mines-iran-6551256"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.2,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wdiy.org",
-      "url": "https://www.wdiy.org/npr-news/2026-11-13/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+      "domain": "livemint.com",
+      "url": "https://www.livemint.com/newsletters/jensen-huang-resigns-nvidia-ceo-news-pete-hegseth-11794641963002.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -3.6,
       "treffer": [
+        "hormuz",
         "tanker"
       ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/markets/dramatic-footage-shows-canal-ferry-colliding-tanker-near-port-new-orleans"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "kesq.com",
-      "url": "https://kesq.com/news/national-world/cnn-national/2026/11/13/tanker-collides-with-river-cruiser-near-port-of-new-orleans/"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire"
     },
     {
       "kategorie": "Policy",
@@ -111,44 +78,8 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/political/watch-greta-laughs-climate-kids-she-left-behind-gaza"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "ksl.com",
-      "url": "https://www.ksl.com:443/article/51645733/tanker-collides-with-river-cruiser-near-port-of-new-orleans"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "tmz.com",
-      "url": "https://www.tmz.com/2026/11/13/riverboat-cruise-crashes-with-oil-tanker-near-new-orleans/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "hngn.com",
-      "url": "https://www.hngn.com/articles/273830/20261113/trump-wants-cuba-done-before-leaving-office-would-weigh-force.htm"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "listenupyall.com",
-      "url": "https://listenupyall.com/2026/11/13/tanker-collides-with-docked-cruise-ship-on-mississippi-river-near-port-of-new-orleans-rescue-operations-underway/"
+      "domain": "legallyindia.com",
+      "url": "https://www.legallyindia.com/Blogs/sexual-harassment-prevention-and-intervention-practices-your-company-must-implement/"
     }
   ],
   "gkg_alter_stunden": 0.0
