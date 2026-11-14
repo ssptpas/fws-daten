@@ -1,6 +1,6 @@
 Wochenvergleich der Kennzahlen -- auf dem Pi gerechnet, nicht geschaetzt.
-Erzeugt: 2026-11-14T09:45:01
-Vergleich: Lauf vom 2026-10-17T09:45:01 gegen Lauf vom 2026-11-14T09:45:01, tatsaechlicher Abstand 28 Tage
+Erzeugt: 2026-11-14T14:45:01
+Vergleich: Lauf vom 2026-10-17T09:45:01 gegen Lauf vom 2026-11-14T14:45:01, tatsaechlicher Abstand 28 Tage
 Angefragt waren 28 Tage; genommen wurde der naechstgelegene vorhandene Lauf.
 Die Daten in Klammern sind BEOBACHTUNGSDATEN der Werte, nicht die Laufzeitpunkte.
 

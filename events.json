@@ -1,86 +1,57 @@
 {
-  "erstellt_am": "2026-11-14T09:45:36",
+  "erstellt_am": "2026-11-14T14:45:56",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261114084500",
+  "gkg_stand": "20261114130000",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 5,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "bignewsnetwork.com",
-      "url": "http://www.bignewsnetwork.com/news/279432156/two-oil-tankers-explode-catch-fire-after-hitting-naval-mines-near-hormuz-iran-irgc-navy"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "tonalitaet": -9.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/ice-reviews-deficient-care-detainee-deaths-1832186"
+      "domain": "graphic.com.gh",
+      "url": "https://www.graphic.com.gh/features/opinion/prostitution-on-wheels-time-to-regulate-or-crack-down-hard.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theintelligencer.net",
-      "url": "https://www.theintelligencer.net/news/top-headlines/2026/11/w-va-supreme-court-upholds-admonishment-of-judge-sweeney/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "gdnonline.com",
-      "url": "https://www.gdnonline.com:443/Details/1412803/Tanker-collides-with-cruise-ship-in-New-Orleans,-32-hospitalised"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.3,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "sanctions"
       ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/world/strait-hormuz-oil-tankers-mines-iran-6551256"
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/newsletters/jensen-huang-resigns-nvidia-ceo-news-pete-hegseth-11794641963002.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire"
+      "domain": "wn.com",
+      "url": "https://article.wn.com/view/2026/11/14/Protesters_in_London_urge_UK_to_sanction_Israel_over_Gaza_ge/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -4.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "legallyindia.com",
-      "url": "https://www.legallyindia.com/Blogs/sexual-harassment-prevention-and-intervention-practices-your-company-must-implement/"
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/world/zelenskyy-says-a-new-european-security-framework-floated-by-us-could-benefit-putin/article_6202125e-aa95-5565-8a9c-ca7191b7adc0.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "graphic.com.gh",
+      "url": "https://www.graphic.com.gh/features/opinion/ghana-news-the-mahama-paradox-international-prestige-and-domestic-struggles.html"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261114130000; erfolglos: 20261114134500: HTTP Error 404: Not Found | 20261114133000: HTTP Error 404: Not Found | 20261114131500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.8
 }
