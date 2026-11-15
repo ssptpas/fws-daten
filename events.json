@@ -1,39 +1,50 @@
 {
-  "erstellt_am": "2026-11-15T09:45:37",
+  "erstellt_am": "2026-11-15T14:45:48",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261115080000",
+  "gkg_stand": "20261115133000",
   "veraltet": false,
-  "anzahl": 3,
+  "anzahl": 4,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.2,
+      "tonalitaet": -6.3,
       "treffer": [
-        "refinery"
+        "red sea",
+        "suez"
       ],
-      "domain": "dailykos.com",
-      "url": "https://www.dailykos.com/stories/2026/11/14/800128833/community/1725/"
+      "domain": "english.news.cn",
+      "url": "https://english.news.cn/20261115/f874afd8de8a47ed9a99531dbca684ec/c.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "nbcnews.com",
+      "url": "https://www.nbcnews.com/world/yemen/yemen-forces-withdraw-area-bab-el-mandeb-strait-houthis-rcna609389"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -4.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theshillongtimes.com",
-      "url": "https://theshillongtimes.com/2026/11/15/new-european-security-framework-floated-by-us-likely-to-benefit-putin-zelenskyy/"
+      "domain": "westhawaiitoday.com",
+      "url": "https://www.westhawaiitoday.com/2026/11/15/nation-world-news/ukraines-starshield-access-is-being-restricted-again-zelenskyy-says/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.0,
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
       "treffer": [
-        "nuclear weapon"
+        "tariffs"
       ],
-      "domain": "nuclear-news.net",
-      "url": "https://nuclear-news.net/2026/11/15/3-b-inside-the-suffolk-village-next-to-a-us-airbase-with-nuclear-weapons/"
+      "domain": "businesstoday.in",
+      "url": "https://www.businesstoday.in/latest/economy/story/learn-to-live-with-us-tariffs-raghuram-rajan-cautions-india-despite-trumps-midterm-defeat-567510-2026-11-15"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261115080000; erfolglos: 20261115084500: HTTP Error 404: Not Found | 20261115083000: HTTP Error 404: Not Found | 20261115081500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.8
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261115133000; erfolglos: 20261115134500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
