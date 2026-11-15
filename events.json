@@ -1,66 +1,39 @@
 {
-  "erstellt_am": "2026-11-14T22:45:37",
+  "erstellt_am": "2026-11-15T09:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261114211500",
+  "gkg_stand": "20261115080000",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 3,
   "ereignisse": [
     {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "dailykos.com",
+      "url": "https://www.dailykos.com/stories/2026/11/14/800128833/community/1725/"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -12.4,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/14/780733/iran-us-admits-pursuing-war-crimes-compounding-atrocities-in-wars-of-aggression-economic-terrorism"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "newser.com",
-      "url": "https://www.newser.com/story/400041/port-of-new-orleans-quickly-sues-tankers-owners.html"
+      "domain": "theshillongtimes.com",
+      "url": "https://theshillongtimes.com/2026/11/15/new-european-security-framework-floated-by-us-likely-to-benefit-putin-zelenskyy/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.9,
+      "tonalitaet": -4.0,
       "treffer": [
-        "drone strike"
+        "nuclear weapon"
       ],
-      "domain": "ksat.com",
-      "url": "https://www.ksat.com/news/2026/11/14/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "nola.com",
-      "url": "https://www.nola.com/news/crime_police/new-orleans-tanker-deficiencies-wreck/article_0aa2ec0e-c4a9-4989-9577-84733086335f.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "businessinsurance.com",
-      "url": "https://www.businessinsurance.com/gard-covers-tanker-in-new-orleans-collision/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "pilotonline.com",
-      "url": "https://www.pilotonline.com/2026/11/14/zelenskyy-european-security-framework/"
+      "domain": "nuclear-news.net",
+      "url": "https://nuclear-news.net/2026/11/15/3-b-inside-the-suffolk-village-next-to-a-us-airbase-with-nuclear-weapons/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261114211500; erfolglos: 20261114214500: HTTP Error 404: Not Found | 20261114213000: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.5
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261115080000; erfolglos: 20261115084500: HTTP Error 404: Not Found | 20261115083000: HTTP Error 404: Not Found | 20261115081500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.8
 }

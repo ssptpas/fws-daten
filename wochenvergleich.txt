@@ -1,6 +1,6 @@
 Wochenvergleich der Kennzahlen -- auf dem Pi gerechnet, nicht geschaetzt.
-Erzeugt: 2026-11-14T22:45:01
-Vergleich: Lauf vom 2026-10-17T09:45:01 gegen Lauf vom 2026-11-14T22:45:01, tatsaechlicher Abstand 28 Tage
+Erzeugt: 2026-11-15T09:45:02
+Vergleich: Lauf vom 2026-10-18T09:45:01 gegen Lauf vom 2026-11-15T09:45:02, tatsaechlicher Abstand 28 Tage
 Angefragt waren 28 Tage; genommen wurde der naechstgelegene vorhandene Lauf.
 Die Daten in Klammern sind BEOBACHTUNGSDATEN der Werte, nicht die Laufzeitpunkte.
 
@@ -15,6 +15,7 @@ vix                               16.46 (2026-10-15)  ->          19.3 (2026-11-
 vix_vix3m_ratio                  0.8902 (2026-10-15)  ->         0.936 (2026-11-13)   +0.0458   (+5.1 % von 0.8902)
 rsp_spy_ratio                    0.2805 (ohne Datum)  ->        0.2932 (2026-11-13)   +0.0127   (+4.5 % von 0.2805)
 brent_spot                       126.55 (2026-10-14)  ->         92.14 (2026-11-11)   -34.41 USD/Barrel  (-27.2 % von 126.55)
+brent_termin                     109.86 (2026-10-16)  ->         95.84 (2026-11-13)   -14.02 USD/Barrel  (-12.8 % von 109.86)
 diesel_crack                     101.54 (2026-10-14)  ->         82.83 (2026-11-11)   -18.71 USD/Barrel  (-18.4 % von 101.54)
 initial_claims                   199000 (2026-10-10)  ->        200000 (2026-11-07)   +1000 Antraege  (+0.5 % von 199000)
 hormus_transit_ais                    2 (2026-10-11)  ->             3 (2026-11-08)   +1 Schiffe/Tag (AIS-sichtbar)  (+50.0 % von 2)
@@ -22,7 +23,7 @@ babelmandeb_transit_ais              31 (2026-10-11)  ->            24 (2026-11-
 dollar_index                   121.6023 (2026-10-09)  ->      121.8803 (2026-11-06)   +0.278 Indexpunkte  (+0.2 % von 121.6023)
 rohoel_lager_usa                 415577 (2026-10-09)  ->        414417 (2026-11-06)   -1160 Tausend Barrel  (-0.3 % von 415577)
 
-17 von 19 Groessen vergleichbar.
-Nicht vergleichbar: bizd_drawdown_pct (damals kein Wert); brent_termin (damals kein Wert)
+18 von 19 Groessen vergleichbar.
+Nicht vergleichbar: bizd_drawdown_pct (damals kein Wert)
 
 KEINE BEWERTUNG. Diese Datei stellt gegenueber, sie urteilt nicht.
