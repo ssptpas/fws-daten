@@ -1,50 +1,75 @@
 {
-  "erstellt_am": "2026-11-15T14:45:48",
+  "erstellt_am": "2026-11-15T22:46:06",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261115133000",
+  "gkg_stand": "20261115210000",
   "veraltet": false,
-  "anzahl": 4,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "red sea",
-        "suez"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20261115/f874afd8de8a47ed9a99531dbca684ec/c.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "nbcnews.com",
-      "url": "https://www.nbcnews.com/world/yemen/yemen-forces-withdraw-area-bab-el-mandeb-strait-houthis-rcna609389"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -6.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "westhawaiitoday.com",
-      "url": "https://www.westhawaiitoday.com/2026/11/15/nation-world-news/ukraines-starshield-access-is-being-restricted-again-zelenskyy-says/"
+      "domain": "ktvz.com",
+      "url": "https://ktvz.com/news/national-world/cnn-world/2026/11/15/estonia-to-shut-its-border-with-russia-blaming-the-kremlin-for-failed-arson-attack/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -5.1,
       "treffer": [
-        "tariffs"
+        "sanctions"
       ],
-      "domain": "businesstoday.in",
-      "url": "https://www.businesstoday.in/latest/economy/story/learn-to-live-with-us-tariffs-raghuram-rajan-cautions-india-despite-trumps-midterm-defeat-567510-2026-11-15"
+      "domain": "therecord.com",
+      "url": "https://www.therecord.com/business/thousands-run-cuba-s-marabana-marathon-as-many-protest-us-sanctions/article_ed6dade9-0ebd-54a7-b3c4-65c6f311a943.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kiro7.com",
+      "url": "https://www.kiro7.com/news/local/everett-drug-trafficker-sentenced-after-delivering-meth-law-enforcement-officer/VY5EXZYOKVC6JPUA7BB6ILOFPQ/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "clevelandjewishnews.com",
+      "url": "https://www.clevelandjewishnews.com/jns/saudi-arabia-says-it-intercepted-houthi-missiles-targeting-riyadh/article_e034c782-e1fa-5990-983c-856dcae6758c.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "fox4news.com",
+      "url": "https://www.fox4news.com/news/injured-captain-last-leave-new-orleans-cruise-ship-after-tanker-collision"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261115133000; erfolglos: 20261115134500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261115210000; erfolglos: 20261115214500: HTTP Error 404: Not Found | 20261115213000: HTTP Error 404: Not Found | 20261115211500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.8
 }
