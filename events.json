@@ -1,75 +1,110 @@
 {
-  "erstellt_am": "2026-11-16T14:46:07",
+  "erstellt_am": "2026-11-16T22:46:11",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261116130000",
+  "gkg_stand": "20261116214500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 17,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.5,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "invasion"
       ],
-      "domain": "postregister.com",
-      "url": "http://www.postregister.com/news/national/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast/article_1c17e1f7-0208-5ff6-9dc1-3ade0ed1e041.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "sandiegouniontribune.com",
-      "url": "https://www.sandiegouniontribune.com/2026/11/16/houthis-saudi-arabia-strikes-mideast-news/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/16/ecb-warns-of-market-risks-if-ai-boom-stalls"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "deccanchronicle.com",
-      "url": "https://www.deccanchronicle.com/west-asia/middle-east-tensions-escalate-as-houthis-blame-saudi-arabia-for-strikes-2004898"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/iran-s-fm-says-neighbouring-asian-states-back-2-day-hormuz-plan"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "investinglive.com",
-      "url": "https://investinglive.com/commodities/crude-oil-remains-supported-amid-the-prolonged-us-iran-standoff-and-risks-of-military-escalation/"
+      "domain": "perthnow.com.au",
+      "url": "https://www.perthnow.com.au/news/man-rushed-to-hospital-after-violent-early-morning-home-invasion-in-sydneys-southwest-c-23170883"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -3.7,
+      "tonalitaet": -8.3,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "capitalethiopia.com",
-      "url": "https://capitalethiopia.com/2026/11/08/why-governments-are-telling-us-to-stockpile-and-what-it-means-for-us-in-ethiopia/"
+      "domain": "bankinfosecurity.com",
+      "url": "https://www.bankinfosecurity.com/google-warns-ai-agents-are-accelerating-cyberattacks-a-33404"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.6,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "kotaradio.com",
+      "url": "https://www.kotaradio.com/2026/11/16/meade-county-dispatch-disruption-caused-by-equipment-failure-not-cyberattack/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "coup"
+      ],
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/israeli-opposition-accuses-netanyahu-of-attempted-coup/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "critical infrastructure"
+      ],
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/90-day-blackout-happening-nov-212139000.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wrvo.org",
+      "url": "https://www.wrvo.org/2026-11-16/u-n-talks-seek-to-rein-in-killer-robots-as-fears-over-ai-weapons-grow"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "bankinfosecurity.com",
+      "url": "https://www.bankinfosecurity.com/europe-sanctions-pro-russian-hackers-disinfo-factory-a-33407"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "katu.com",
+      "url": "https://katu.com/news/nation-world/iran-threats-prompt-us-officials-to-shelter-on-bases-raising-alarms-for-trumps-security-strait-hormuz"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "readingchronicle.co.uk",
+      "url": "https://www.readingchronicle.co.uk/news/national/26734948.third-us-aircraft-carrier-arrives-middle-east-trump-keeps-options-open/"
     },
     {
       "kategorie": "Policy",
@@ -77,10 +112,55 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "cityam.com",
-      "url": "https://www.cityam.com/saffery-slapped-with-near-1m-fine-over-greensill-audit-failures/"
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/general/2623886/fridge-attack-france-pushes-eu-sanctions-over-supermarket-cyberattack-it-blames-on-irans-revolutionary-guard.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "bostonglobe.com",
+      "url": "https://www.bostonglobe.com/2026/11/16/nation/trump-tariffs-democrats-congress/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "awate.com",
+      "url": "https://awate.com/silence-on-reconciliation-sqtan-erqn/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "euobserver.com",
+      "url": "https://euobserver.com/249258/more-eu-sanctions-on-russian-propagandists-and-hackers-as-thousands-of-fake-accounts-target-voters/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "kut.org",
+      "url": "https://www.kut.org/crime-justice/2026-11-16/abbott-paxton-garza-legislature-election"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "bank run"
+      ],
+      "domain": "gizmodo.com",
+      "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261116130000; erfolglos: 20261116134500: HTTP Error 404: Not Found | 20261116133000: HTTP Error 404: Not Found | 20261116131500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.8
+  "gkg_alter_stunden": 0.0
 }
