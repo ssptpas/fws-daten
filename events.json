@@ -1,75 +1,67 @@
 {
-  "erstellt_am": "2026-11-15T22:46:06",
+  "erstellt_am": "2026-11-16T09:46:00",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261115210000",
+  "gkg_stand": "20261116080000",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ktvz.com",
-      "url": "https://ktvz.com/news/national-world/cnn-world/2026/11/15/estonia-to-shut-its-border-with-russia-blaming-the-kremlin-for-failed-arson-attack/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "therecord.com",
-      "url": "https://www.therecord.com/business/thousands-run-cuba-s-marabana-marathon-as-many-protest-us-sanctions/article_ed6dade9-0ebd-54a7-b3c4-65c6f311a943.html"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.0,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "kiro7.com",
-      "url": "https://www.kiro7.com/news/local/everett-drug-trafficker-sentenced-after-delivering-meth-law-enforcement-officer/VY5EXZYOKVC6JPUA7BB6ILOFPQ/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "clevelandjewishnews.com",
-      "url": "https://www.clevelandjewishnews.com/jns/saudi-arabia-says-it-intercepted-houthi-missiles-targeting-riyadh/article_e034c782-e1fa-5990-983c-856dcae6758c.html"
+      "domain": "the-star.co.ke",
+      "url": "https://www.the-star.co.ke/news/world/2026-11-16-yemeni-forces-retreat-leaves-houthis-in-control-of-key-red-sea-waterway"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/british-authority-tanker-targeted-by-unknown-projectile-in-strait-of-hormuz-fire-erupts-3012196"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087360362-saudi-arabia-intercepts-drones-missiles-over-makkah-madinah-riyadh"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "nknews.org",
+      "url": "https://www.nknews.org/2026/11/rubio-says-kim-jong-un-wants-nukes-for-regime-survival-not-to-support-invasions/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
       "treffer": [
         "mandeb"
       ],
       "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+      "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation"
     },
     {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -3.5,
       "treffer": [
-        "tanker"
+        "sanctions"
       ],
-      "domain": "fox4news.com",
-      "url": "https://www.fox4news.com/news/injured-captain-last-leave-new-orleans-cruise-ship-after-tanker-collision"
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087360361-iran-warns-it-won-t-wait-for-us-attack-rules-out-deal"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261115210000; erfolglos: 20261115214500: HTTP Error 404: Not Found | 20261115213000: HTTP Error 404: Not Found | 20261115211500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261116080000; erfolglos: 20261116084500: HTTP Error 404: Not Found | 20261116083000: HTTP Error 404: Not Found | 20261116081500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.8
 }

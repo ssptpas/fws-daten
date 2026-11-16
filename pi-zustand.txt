@@ -1,8 +1,8 @@
-Zustand des Pi -- geschrieben 2026-11-15T22:47:54+01:00
+Zustand des Pi -- geschrieben 2026-11-16T09:47:48+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 3 days, 6 hours, 5 minutes
+Betriebsdauer: up 3 days, 17 hours, 5 minutes
 Letzter Start: 2026-11-12 16:42:34
 
 Drosselung:    0x0
@@ -11,7 +11,7 @@ Temperatur:    56.4'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       306Mi       1.3Gi        45Mi       349Mi       1.5Gi
+   Mem:           1.8Gi       295Mi       1.3Gi        45Mi       349Mi       1.5Gi
    Swap:             0B          0B          0B
 
 Speicherkarte:
@@ -32,21 +32,36 @@ Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
    [    1.824257] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
 
 Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
-   Nov 15 19:43:34 RaspberryPi-4b systemd-remount-fs[14979]: /usr/bin/mount for / exited with exit status 32.
-   Nov 15 19:43:34 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 15 19:43:34 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 15 19:43:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 15 19:43:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 15 19:43:34 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 15 19:43:34 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 15 19:43:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-zram-writeback.service - zram writeback service.
-   Nov 15 22:46:44 RaspberryPi-4b systemd-remount-fs[15595]: /usr/bin/mount for / exited with exit status 32.
-   Nov 15 22:46:44 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 15 22:46:44 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 15 22:46:44 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 15 22:46:44 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 15 22:46:44 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 15 22:46:44 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 16 00:08:09 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 16 00:08:09 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 16 00:47:10 RaspberryPi-4b systemd-remount-fs[16030]: /usr/bin/mount for / exited with exit status 32.
+   Nov 16 00:47:10 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 16 00:47:10 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 16 00:47:10 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 16 00:47:10 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 16 00:47:10 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 16 00:47:10 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 16 06:56:34 RaspberryPi-4b systemd-remount-fs[17097]: /usr/bin/mount for / exited with exit status 32.
+   Nov 16 06:56:34 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 16 06:56:34 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 16 06:56:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 16 06:56:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 16 06:56:34 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 16 06:56:34 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 16 07:47:34 RaspberryPi-4b systemd-remount-fs[17301]: /usr/bin/mount for / exited with exit status 32.
+   Nov 16 07:47:34 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 16 07:47:34 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 16 07:47:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 16 07:47:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 16 07:47:34 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 16 07:47:34 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 16 07:59:10 RaspberryPi-4b systemd-remount-fs[17383]: /usr/bin/mount for / exited with exit status 32.
+   Nov 16 07:59:10 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 16 07:59:10 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 16 07:59:10 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 16 07:59:10 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 16 07:59:10 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 16 07:59:10 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
 
 Fehlgeschlagene Dienste:
      UNIT                       LOAD   ACTIVE SUB    DESCRIPTION
@@ -73,9 +88,12 @@ a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
 
 BETRIEBSSTAND: OK -- 10 Dateien geprueft, alle Pruefsummen wie vorgesehen
 
-BETRIEBSSTAND: OK -- 64 Werte geprueft, alle mit lesbarem Datum, keines in der Zukunft, keines ueber seiner Altersgrenze
-BETRIEBSSTAND: HINWEIS -- IT_Rendite_10J_Monatlich ist 106 Tage alt (2026-08-01) und damit an seinem gemessenen Hoechstalter von 106 Tagen; harte Grenze 136
-BETRIEBSSTAND: HINWEIS -- EU_Funding_Spread_bp ist 3 Tage alt (2026-11-12) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
-BETRIEBSSTAND: HINWEIS -- Brent_Terminkurs ist 2 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 2 Tagen; harte Grenze 6
-BETRIEBSSTAND: HINWEIS -- WTI_Terminkurs ist 2 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 2 Tagen; harte Grenze 6
-BETRIEBSSTAND: HINWEIS -- EU_STR ist 3 Tage alt (2026-11-12) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
+BETRIEBSSTAND: OK -- 65 Werte geprueft, alle mit lesbarem Datum, keines in der Zukunft, keines ueber seiner Altersgrenze
+BETRIEBSSTAND: HINWEIS -- ECB_Einlagesatz ist 3 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
+BETRIEBSSTAND: HINWEIS -- IT_Rendite_10J_Monatlich ist 107 Tage alt (2026-08-01) und damit ueber seinem gemessenen Hoechstalter von 106 Tagen; harte Grenze 136
+BETRIEBSSTAND: HINWEIS -- Inflationserwartung_5J5J ist 3 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
+BETRIEBSSTAND: HINWEIS -- EU_Funding_Spread_bp ist 3 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
+BETRIEBSSTAND: HINWEIS -- Privatkredit_BIZD ist 3 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
+BETRIEBSSTAND: HINWEIS -- Einzelwert_Volatilitaet ist 3 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
+BETRIEBSSTAND: HINWEIS -- Implizite_Korrelation_1M ist 3 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
+BETRIEBSSTAND: HINWEIS -- EU_STR ist 3 Tage alt (2026-11-13) und damit an seinem gemessenen Hoechstalter von 3 Tagen; harte Grenze 7
