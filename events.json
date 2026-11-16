@@ -1,67 +1,86 @@
 {
-  "erstellt_am": "2026-11-16T09:46:00",
+  "erstellt_am": "2026-11-16T14:46:07",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261116080000",
+  "gkg_stand": "20261116130000",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 8,
   "ereignisse": [
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
+      "tonalitaet": -8.0,
       "treffer": [
+        "mandeb",
         "red sea"
       ],
-      "domain": "the-star.co.ke",
-      "url": "https://www.the-star.co.ke/news/world/2026-11-16-yemeni-forces-retreat-leaves-houthis-in-control-of-key-red-sea-waterway"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/british-authority-tanker-targeted-by-unknown-projectile-in-strait-of-hormuz-fire-erupts-3012196"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087360362-saudi-arabia-intercepts-drones-missiles-over-makkah-madinah-riyadh"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "nknews.org",
-      "url": "https://www.nknews.org/2026/11/rubio-says-kim-jong-un-wants-nukes-for-regime-survival-not-to-support-invasions/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation"
+      "domain": "postregister.com",
+      "url": "http://www.postregister.com/news/national/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast/article_1c17e1f7-0208-5ff6-9dc1-3ade0ed1e041.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -7.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087360361-iran-warns-it-won-t-wait-for-us-attack-rules-out-deal"
+      "domain": "sandiegouniontribune.com",
+      "url": "https://www.sandiegouniontribune.com/2026/11/16/houthis-saudi-arabia-strikes-mideast-news/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/16/ecb-warns-of-market-risks-if-ai-boom-stalls"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/west-asia/middle-east-tensions-escalate-as-houthis-blame-saudi-arabia-for-strikes-2004898"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "freemalaysiatoday.com",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/iran-s-fm-says-neighbouring-asian-states-back-2-day-hormuz-plan"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "crude oil"
+      ],
+      "domain": "investinglive.com",
+      "url": "https://investinglive.com/commodities/crude-oil-remains-supported-amid-the-prolonged-us-iran-standoff-and-risks-of-military-escalation/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "capitalethiopia.com",
+      "url": "https://capitalethiopia.com/2026/11/08/why-governments-are-telling-us-to-stockpile-and-what-it-means-for-us-in-ethiopia/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cityam.com",
+      "url": "https://www.cityam.com/saffery-slapped-with-near-1m-fine-over-greensill-audit-failures/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261116080000; erfolglos: 20261116084500: HTTP Error 404: Not Found | 20261116083000: HTTP Error 404: Not Found | 20261116081500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 3 Viertelstunde(n) auf 20261116130000; erfolglos: 20261116134500: HTTP Error 404: Not Found | 20261116133000: HTTP Error 404: Not Found | 20261116131500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.8
 }
