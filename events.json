@@ -1,224 +1,190 @@
 {
-  "erstellt_am": "2026-11-17T14:46:14",
+  "erstellt_am": "2026-11-17T22:45:43",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261117134500",
+  "gkg_stand": "20261117214500",
   "veraltet": false,
-  "anzahl": 23,
+  "anzahl": 20,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "thefrontierpost.com",
-      "url": "https://thefrontierpost.com/ukraine-missile-strike-severs-russias-crimean-bridge/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/11/iran-attacks-us-military-radar-system-bahrain-despite-talks-mediators"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -10.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "hrw.org",
-      "url": "https://www.hrw.org/news/2026/11/17/icc-afghanistan-decision-risks-narrowing-access-to-justice"
+      "domain": "okcfox.com",
+      "url": "https://okcfox.com/news/local/ou-sanctions-alpha-tau-omega-fraternity-following-hazing-investigation"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.3,
+      "tonalitaet": -9.3,
       "treffer": [
-        "missile"
+        "drone strike"
       ],
-      "domain": "kawc.org",
-      "url": "https://www.kawc.org/npr-news/2026-11-17/ukraine-strikes-major-russian-bridge-with-drones-and-missiles-as-aerial-attacks-escalate"
+      "domain": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wapt.com",
+      "url": "https://www.wapt.com/article/jackson-council-vote-censure-ward-3-stokes/74456544"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/world/italy-approves-antisemitism-law-as-debate-over-criticism-of-israel-intensifies/article_85f1ba66-319d-5195-b09f-0db029e413d9.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
+      "tonalitaet": -8.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "wboc.com",
-      "url": "https://www.wboc.com/news/international/a-2-month-lull-ends-with-iran-s-third-strike-on-us-targets-in-bahrain/article_6e96fd34-7e4b-5d66-9398-0f3763aae7e7.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/uk/2026/11/17/uk-imposes-sanctions-on-companies-building-settlements-in-west-bank/"
+      "domain": "eastlothiancourier.com",
+      "url": "https://www.eastlothiancourier.com/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "eadt.co.uk",
+      "url": "https://www.eadt.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/11/17/italy-approves-antisemitism-law-as-debate-over-criticism-of-israel-intensifies/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.1,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "iheart.com",
+      "url": "https://wrno.iheart.com/content/2026-11-17-two-american-heritage-crew-members-lawyer-up-after-tanker-crash/"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -5.9,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "sanctions"
       ],
-      "domain": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/world/article_4284914a-7710-518e-a849-1177da53202d.html"
+      "domain": "areanews.com.au",
+      "url": "https://www.areanews.com.au/story/9393568/sanctions-first-for-construction-firm-in-west-bank/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/uk-freezes-assets-of-west-bank-settlement-builders-and-israeli-group-that-blockades-gaza-aid-3012489"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "standard.net.au",
+      "url": "https://www.standard.net.au/story/9393568/sanctions-first-for-construction-firm-in-west-bank/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "tonalitaet": -5.3,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "tanker"
       ],
-      "domain": "sandiegouniontribune.com",
-      "url": "https://www.sandiegouniontribune.com/2026/11/17/saudi-backed-forces-yemen-houthis-mideast-news/"
+      "domain": "maritime-executive.com",
+      "url": "https://maritime-executive.com/article/lpg-tanker-abandoned-off-oman-after-two-strikes-and-in-danger-of-exploding"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -5.7,
+      "tonalitaet": -5.1,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "shafaqna.com",
-      "url": "https://en.shafaqna.com/492681/cyberattack-targets-high-traffic-websites/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/usher-wire-transfers-700000-repayment-dispute-1832858"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "4029tv.com",
-      "url": "https://www.4029tv.com/article/ukraine-strikes-major-russian-bridge-drones-missiles/74452039"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "freemalaysiatoday.com",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/17/britain-sanctions-israeli-settlement-firms-in-push-to-protect-two-state-solution"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "al-monitor.com",
-      "url": "https://www.al-monitor.com/originals/2026/11/britain-sanctions-israeli-settlement-firms-push-protect-two-state-solution"
+      "domain": "wgal.com",
+      "url": "https://www.wgal.com/article/websites-cyberattack-full-list/74454449"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
+      "tonalitaet": -5.1,
       "treffer": [
         "red sea"
       ],
-      "domain": "hackneygazette.co.uk",
-      "url": "https://www.hackneygazette.co.uk/news/national/26736144.two-month-lull-ends-irans-third-strike-us-targets-bahrain/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "4029tv.com",
-      "url": "https://www.4029tv.com/article/a-2-month-lull-ends-iran-third-strike-us-targets-bahrain/74451635"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "greatbendpost.com",
-      "url": "https://greatbendpost.com/posts/9b9f3e86-2d73-4b06-947f-f300f45980ca"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "the-messenger.com",
-      "url": "https://www.the-messenger.com/news/world/article_612231c6-7128-52e1-9ed1-2222f3e97084.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "leadertelegram.com",
-      "url": "http://www.leadertelegram.com/news/nation-world/saudi-backed-forces-in-yemen-beef-up-defenses-outside-aden-to-thwart-houthis-and-other/article_8e3ed94a-5ba5-5849-8d8a-8940448affaf.html"
+      "domain": "wctrib.com",
+      "url": "https://www.wctrib.com/opinion/columns/james-stavridis-world-war-ii-still-has-lessons-for-todays-wars"
     },
     {
       "kategorie": "Policy",
       "tonalitaet": -4.7,
       "treffer": [
-        "export controls"
+        "sanctions"
       ],
-      "domain": "english.pravda.ru",
-      "url": "https://english.pravda.ru/news/world/173181-us-ai-chip-export-controls-southeast-asia/"
+      "domain": "medianama.com",
+      "url": "https://world.medianama.com/south-koreas-telecom-regulator-plans-to-link-voice-spam-reports-from-call-apps-to-national-system/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "ktvu.com",
+      "url": "https://www.ktvu.com/news/airline-bank-outage-reason-tech-glitch-cyber-attack"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "export controls"
-      ],
-      "domain": "theverge.com",
-      "url": "https://www.theverge.com/tech/1035195/oh-so-now-nvidia-cares-about-national-security-and-export-controls"
+      "domain": "clickondetroit.com",
+      "url": "https://www.clickondetroit.com/news/world/2026/11/17/angry-crowds-rally-against-slovakias-pro-russian-leader-on-velvet-revolution-anniversary/"
     },
     {
       "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.5,
       "treffer": [
-        "hormuz",
-        "tanker"
+        "missile"
       ],
-      "domain": "arabherald.com",
-      "url": "http://www.arabherald.com/news/279438305/panama-flagged-lpg-tanker-carrying-24-indians-targeted-in-hormuz-missile-attack-all-crew-safe-shipping-minister-sonowal"
+      "domain": "theepochtimes.com",
+      "url": "https://www.theepochtimes.com/world/us-forces-strike-missile-launch-site-on-irans-qeshm-island-6126074"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "tonalitaet": -3.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/news/world/uk-sanctions-eight-israeli-firms-activist-group-over-judea-and-samaria-gaza-aid"
+      "domain": "townhall.com",
+      "url": "https://townhall.com/news/amy-curtis/2026/11/17/john-fetterman-opponent-wont-deny-hes-pro-hamas-n2686592"
     }
   ],
   "gkg_alter_stunden": 0.0
