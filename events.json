@@ -1,165 +1,110 @@
 {
-  "erstellt_am": "2026-11-16T22:46:11",
+  "erstellt_am": "2026-11-17T09:46:00",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261116214500",
+  "gkg_stand": "20261117084500",
   "veraltet": false,
-  "anzahl": 17,
+  "anzahl": 11,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.5,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/man-rushed-to-hospital-after-violent-early-morning-home-invasion-in-sydneys-southwest-c-23170883"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "bankinfosecurity.com",
-      "url": "https://www.bankinfosecurity.com/google-warns-ai-agents-are-accelerating-cyberattacks-a-33404"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "kotaradio.com",
-      "url": "https://www.kotaradio.com/2026/11/16/meade-county-dispatch-disruption-caused-by-equipment-failure-not-cyberattack/"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "coup"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/israeli-opposition-accuses-netanyahu-of-attempted-coup/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.2,
-      "treffer": [
-        "critical infrastructure"
-      ],
-      "domain": "aol.com",
-      "url": "https://www.aol.com/articles/90-day-blackout-happening-nov-212139000.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -8.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wrvo.org",
-      "url": "https://www.wrvo.org/2026-11-16/u-n-talks-seek-to-rein-in-killer-robots-as-fears-over-ai-weapons-grow"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bankinfosecurity.com",
-      "url": "https://www.bankinfosecurity.com/europe-sanctions-pro-russian-hackers-disinfo-factory-a-33407"
+      "domain": "iheart.com",
+      "url": "https://newsradiori.iheart.com/content/2026-11-17-russell-brands-prison-statement-under-investigation/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
+      "tonalitaet": -7.3,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "cincinnatisun.com",
+      "url": "http://www.cincinnatisun.com/news/279432850/iran-claims-17th-us-mq-1-drone-destroyed-2-tankers-catch-fire-in-strait-of-hormuz"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "oneindia.com",
+      "url": "https://www.oneindia.com/india/cyberattack-hits-178-organisations-including-hsbc-bbc-zoom-payment-data-exposed-8261809.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "juancole.com",
+      "url": "https://www.juancole.com/2026/11/injustice-legitimizes-apartheid.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.6,
       "treffer": [
         "hormuz"
       ],
-      "domain": "katu.com",
-      "url": "https://katu.com/news/nation-world/iran-threats-prompt-us-officials-to-shelter-on-bases-raising-alarms-for-trumps-security-strait-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "readingchronicle.co.uk",
-      "url": "https://www.readingchronicle.co.uk/news/national/26734948.third-us-aircraft-carrier-arrives-middle-east-trump-keeps-options-open/"
+      "domain": "al-monitor.com",
+      "url": "https://www.al-monitor.com/originals/2026/11/oman-iran-discuss-safeguarding-maritime-corridors-attacks-hormuz-increase"
     },
     {
       "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "pakobserver.net",
+      "url": "https://pakobserver.net/eu-tightens-russia-sanctions-targets-50-banks-113-individuals/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/11/17/police-raid-turkish-pro-opposition-broadcaster-sozcu-tv-carry-out-arrests"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "blueprint.ng",
+      "url": "https://blueprint.ng/food-safety-non-negotiable-lagos-tells-restaurants-hotels-others/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
+        "hormuz"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/oil-seen-at-78-by-2027-amid-supply-glut-expectation-mirae-asset-sharekhan-126111700435_1.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
         "sanctions"
       ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/general/2623886/fridge-attack-france-pushes-eu-sanctions-over-supermarket-cyberattack-it-blames-on-irans-revolutionary-guard.html"
+      "domain": "thefrontierpost.com",
+      "url": "https://thefrontierpost.com/france-expects-eu-sanctions-on-iran-in-december-over-fridge-hack/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "bostonglobe.com",
-      "url": "https://www.bostonglobe.com/2026/11/16/nation/trump-tariffs-democrats-congress/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "awate.com",
-      "url": "https://awate.com/silence-on-reconciliation-sqtan-erqn/"
-    },
-    {
-      "kategorie": "Policy",
+      "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -3.1,
       "treffer": [
-        "sanctions"
+        "nuclear weapon"
       ],
-      "domain": "euobserver.com",
-      "url": "https://euobserver.com/249258/more-eu-sanctions-on-russian-propagandists-and-hackers-as-thousands-of-fake-accounts-target-voters/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "kut.org",
-      "url": "https://www.kut.org/crime-justice/2026-11-16/abbott-paxton-garza-legislature-election"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "bank run"
-      ],
-      "domain": "gizmodo.com",
-      "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-xi-putin-summit-can-the-three-find-common-ground-on-war-oil-nukes-oil-prices-ukraine-iran-china-apec-summit-nuclear-weapons-disarmament/articleshow/135916179.cms"
     }
   ],
   "gkg_alter_stunden": 0.0
