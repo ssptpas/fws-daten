@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-18T09:45:02",
+  "erstellt_am": "2026-11-18T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.34",
@@ -12,7 +12,7 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "23.97",
+      "wert": "24.49",
       "beobachtungsdatum": "2026-11-18",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.93",
-      "beobachtungsdatum": "2026-11-16",
+      "wert": "3.92",
+      "beobachtungsdatum": "2026-11-17",
       "quelle": "FRED"
     },
     "IORB": {
@@ -168,7 +168,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.5",
-      "beobachtungsdatum": "2026-11-17",
+      "beobachtungsdatum": "2026-11-18",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -289,7 +289,7 @@
       "werte": [
         {
           "datum": "2026-11-18",
-          "wert": 23.97
+          "wert": 24.49
         },
         {
           "datum": "2026-11-17",
@@ -412,6 +412,10 @@
     "SOFR_minus_IORB_Historie": {
       "werte": [
         {
+          "datum": "2026-11-17",
+          "wert": 2.0
+        },
+        {
           "datum": "2026-11-16",
           "wert": 3.0
         },
@@ -426,10 +430,6 @@
         {
           "datum": "2026-11-10",
           "wert": -1.0
-        },
-        {
-          "datum": "2026-11-09",
-          "wert": -2.0
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
@@ -492,21 +492,21 @@
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": 3.0,
-      "beobachtungsdatum": "2026-11-16",
+      "wert": 2.0,
+      "beobachtungsdatum": "2026-11-17",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -5.9,
       "markt_datum": "2026-11-17",
-      "leitzins_datum": "2026-11-17",
+      "leitzins_datum": "2026-11-18",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
       "wert": -1.7,
-      "markt_datum": "2026-11-13",
-      "leitzins_datum": "2026-11-16",
+      "markt_datum": "2026-11-16",
+      "leitzins_datum": "2026-11-17",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -542,8 +542,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.39",
-      "beobachtungsdatum": "2026-11-17",
+      "wert": "3.41",
+      "beobachtungsdatum": "2026-11-18",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -552,18 +552,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.9832",
-      "beobachtungsdatum": "2026-11-13",
+      "wert": "3.9833",
+      "beobachtungsdatum": "2026-11-16",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.3224",
-      "beobachtungsdatum": "2026-11-13",
+      "wert": "5.3337",
+      "beobachtungsdatum": "2026-11-16",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "4",
-      "beobachtungsdatum": "2026-11-16",
+      "beobachtungsdatum": "2026-11-17",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
@@ -599,12 +599,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 89.05,
+      "wert": 89.93,
       "beobachtungsdatum": "2026-11-18",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 82.98,
+      "wert": 83.95,
       "beobachtungsdatum": "2026-11-18",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
