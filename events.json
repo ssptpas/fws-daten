@@ -1,146 +1,83 @@
 {
-  "erstellt_am": "2026-11-18T14:45:49",
+  "erstellt_am": "2026-11-18T22:45:44",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261118134500",
+  "gkg_stand": "20261118214500",
   "veraltet": false,
-  "anzahl": 19,
+  "anzahl": 14,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.6,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "thepeterboroughexaminer.com",
-      "url": "https://www.thepeterboroughexaminer.com/news/world/middle-east/protesters-rally-in-a-town-in-southwestern-iran-after-a-road-crash-killed-13-refinery-workers/article_4c5b99d3-e83d-58e2-bcef-5dcf8d359e37.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "english.news.cn",
-      "url": "https://english.news.cn/20261118/5152a652633049369caa82b0be576d36/c.html"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ecfr.eu",
-      "url": "https://ecfr.eu/article/fridges-to-fighter-bases-the-rise-in-iranian-hybrid-attacks-in-europe/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -6.9,
       "treffer": [
-        "mandeb"
+        "sanctions"
       ],
-      "domain": "wvtm13.com",
-      "url": "https://www.wvtm13.com/article/iran-gulf-attacks-us-air-base-kuwait-bahrain/74461869"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/15-years-later-international-criminal-court-is-to-open-trial-over-torture-and-rape-at-libyan-prison-3012804"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.5,
       "treffer": [
-        "mandeb"
+        "missile"
       ],
-      "domain": "idahopress.com",
-      "url": "http://www.idahopress.com/news/world/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in/article_4ac91b57-73ec-5d0b-8168-8c88ac08ff34.html"
+      "domain": "jns.org",
+      "url": "https://www.jns.org/opinion/column/mitchell-bard/tehran-has-america-on-the-run"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
+      "kategorie": "Policy",
+      "tonalitaet": -5.6,
       "treffer": [
-        "mandeb"
+        "sanctions"
       ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/world/article-iran-attacks-gulf-neighbours-kuwait-bahrain/"
+      "domain": "thevermilion.com",
+      "url": "https://www.thevermilion.com/revolut-from-equalize-spies-to-4-6-million-disappeared-whats-behind-the-stop-to-the-digital-bank/article_22976/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "denverpost.com",
-      "url": "https://www.denverpost.com/2026/11/18/iran-gulf-attacks-us-air-base-kuwait-2/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "denverpost.com",
-      "url": "https://www.denverpost.com/2026/11/18/iran-gulf-attacks-us-air-base-kuwait/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "mandeb"
-      ],
-      "domain": "wisbechstandard.co.uk",
-      "url": "https://www.wisbechstandard.co.uk/news/national/26740606.iran-widens-gulf-attacks-fires-us-base-kuwait-targets-bahrain/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
+      "kategorie": "Policy",
       "tonalitaet": -5.3,
       "treffer": [
-        "hormuz"
+        "state of emergency"
       ],
-      "domain": "ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/oil-prices-fall-us-inventories-strait-hormuz-risks-1878842"
+      "domain": "iheart.com",
+      "url": "https://us1035.iheart.com/content/2026-11-18-state-of-emergency-declared-in-broward/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "newarkadvertiser.co.uk",
-      "url": "https://www.newarkadvertiser.co.uk/news/newark-dealer-who-sold-heroin-and-cocaine-was-caught-flushin-9491850/"
+      "domain": "iheart.com",
+      "url": "https://powertalk1360.iheart.com/content/2026-11-18-drug-kingpin-the-kraken-arrested-in-california-after-years-long-manhunt/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.4,
+      "tonalitaet": -4.8,
       "treffer": [
-        "hormuz"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenextweb.com",
-      "url": "https://thenextweb.com/news/citi-and-jpmorgan-reportedly-add-chip-curbs-clause-to-bain-data-centre-loan"
+      "domain": "wwd.com",
+      "url": "https://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tanker-attacks-container-shipping-port-congestion-1239425422/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -4.6,
       "treffer": [
-        "mandeb",
         "red sea"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/18/houthis-100km-from-aden-but-imminent-attack-said-to-be-unlikely/"
+      "domain": "dailypress.com",
+      "url": "https://www.dailypress.com/2026/11/18/iran-gulf-attacks-us-air-base-kuwait/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.5,
       "treffer": [
-        "hormuz"
+        "airstrike"
       ],
-      "domain": "ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/us-strikes-iranian-missile-site-hormuz-closure-1878846"
+      "domain": "punchng.com",
+      "url": "https://punchng.com/airstrikes-kill-21-terrorists-in-borno/"
     },
     {
       "kategorie": "Policy",
@@ -148,35 +85,53 @@
       "treffer": [
         "sanctions"
       ],
+      "domain": "srilankasource.com",
+      "url": "http://www.srilankasource.com/news/279441345/xi-vows-to-resist-protectionism-as-putin-attacks-western-sanctions"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/hegseth-signs-defence-pact-in-surprise-venezuela-visit/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "jns.org",
+      "url": "https://www.jns.org/news/israel-news/european-countries-push-new-pro-palestinian-un-resolution-with-expanded-criticism-of-israel"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "chinanationalnews.com",
+      "url": "http://www.chinanationalnews.com/news/279441574/this-is-not-a-cyberattack-trump-administration-rules-out-coordinated-hostile-activity-behind-tech-outages"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/al-shabaab-mortar-attack-puntland-base-af-urur/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
       "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/India/20261118/4521451.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "cyprus-mail.com",
-      "url": "https://cyprus-mail.com/2026/11/18/xi-putin-blast-western-protectionism-and-sanctions-as-trump-lands-in-china"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "shabait.com",
-      "url": "https://shabait.com/2026/11/18/our-sea-our-sovereignty-eritrea-will-not-be-redrawn/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/canada/article-canadian-judge-on-international-criminal-court-speaks-out-against/"
+      "url": "https://news.webindia123.com/news/Articles/World/20261119/4521572.html"
     }
   ],
   "gkg_alter_stunden": 0.0
