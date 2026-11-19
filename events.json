@@ -1,138 +1,87 @@
 {
-  "erstellt_am": "2026-11-18T22:45:44",
+  "erstellt_am": "2026-11-19T09:45:46",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261118214500",
+  "gkg_stand": "20261119083000",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 8,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.9,
+      "tonalitaet": -8.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/15-years-later-international-criminal-court-is-to-open-trial-over-torture-and-rape-at-libyan-prison-3012804"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/opinion/column/mitchell-bard/tehran-has-america-on-the-run"
+      "domain": "ianslive.in",
+      "url": "https://ianslive.in/exiled-east-turkistan-authorities-urge-world-leaders-to-confront-xi-over-xinjiang-genocide--20261119124245"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thevermilion.com",
-      "url": "https://www.thevermilion.com/revolut-from-equalize-spies-to-4-6-million-disappeared-whats-behind-the-stop-to-the-digital-bank/article_22976/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "state of emergency"
-      ],
-      "domain": "iheart.com",
-      "url": "https://us1035.iheart.com/content/2026-11-18-state-of-emergency-declared-in-broward/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iheart.com",
-      "url": "https://powertalk1360.iheart.com/content/2026-11-18-drug-kingpin-the-kraken-arrested-in-california-after-years-long-manhunt/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "wwd.com",
-      "url": "https://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tanker-attacks-container-shipping-port-congestion-1239425422/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "dailypress.com",
-      "url": "https://www.dailypress.com/2026/11/18/iran-gulf-attacks-us-air-base-kuwait/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/airstrikes-kill-21-terrorists-in-borno/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "srilankasource.com",
-      "url": "http://www.srilankasource.com/news/279441345/xi-vows-to-resist-protectionism-as-putin-attacks-western-sanctions"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/hegseth-signs-defence-pact-in-surprise-venezuela-visit/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jns.org",
-      "url": "https://www.jns.org/news/israel-news/european-countries-push-new-pro-palestinian-un-resolution-with-expanded-criticism-of-israel"
+      "domain": "techdirt.com",
+      "url": "http://www.techdirt.com/2026/11/16/federal-judge-permanently-kicks-doj-lawyer-to-the-curb-for-lying-to-the-court/"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -3.2,
+      "tonalitaet": -5.0,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "chinanationalnews.com",
-      "url": "http://www.chinanationalnews.com/news/279441574/this-is-not-a-cyberattack-trump-administration-rules-out-coordinated-hostile-activity-behind-tech-outages"
+      "domain": "brazilsun.com",
+      "url": "http://www.brazilsun.com/news/279442024/these-are-individual-events-trump-tells-americans-to-relax-amid-tech-and-banking-outages-dismisses-cyberattack-fears"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "queanbeyanage.com.au",
+      "url": "https://www.queanbeyanage.com.au/story/9394288/houthi-missile-fired-towards-riyadh-damages-skyscraper/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "theadvocate.com.au",
+      "url": "https://www.theadvocate.com.au/story/9394288/houthi-missile-fired-towards-riyadh-damages-skyscraper/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/al-shabaab-mortar-attack-puntland-base-af-urur/"
+      "domain": "crash.net",
+      "url": "https://www.crash.net/f1/news/1110180/1/charles-leclerc-speaks-out-f1-journalist-ban-controversy-after-article-criticism"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "edenmagnet.com.au",
+      "url": "https://www.edenmagnet.com.au/story/9394288/houthi-missile-fired-towards-riyadh-damages-skyscraper/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.1,
+      "tonalitaet": -3.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/World/20261119/4521572.html"
+      "domain": "tribune.net.ph",
+      "url": "https://tribune.net.ph/topic/united-states-department-of-agriculture-usda"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261119083000; erfolglos: 20261119084500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
