@@ -1,5 +1,13 @@
 # Amtliche Wechselkurse, Jahresmittel. Weltbank PA.NUS.FCRF.
-# Abgerufen am Lauftag dieses Skripts, ohne Zugangsschluessel.
+# Abgerufen am 2026-11-19, ohne Zugangsschluessel.
+# DIESE DATEI IST EINE MOMENTAUFNAHME DER QUELLE. Das juengste Jahr
+#   ist NICHT fuer alle Laender dasselbe: Die Weltbank uebernimmt den
+#   Wert, sobald das Land ihn meldet. Am 19.11.2026 hatten 194 von 217
+#   Laendern einen Wert fuer 2025, 23 nicht -- darunter Tansania, das
+#   schlicht spaet meldet, und Laender mit Sanktionen oder mehreren
+#   Kursen (Afghanistan, Kuba, Aethiopien, Iran, Venezuela).
+#   Ein fehlendes Jahr ist also eine Luecke der Meldung, kein Ende der
+#   Waehrung. Beim naechsten Abruf fuellt es sich von selbst.
 # lcu_je_usd = Landeswaehrung je 1 US-Dollar (so liefert es die Quelle).
 # usd_je_einheit = 1 / lcu_je_usd, damit Kreuzkurse eine Division sind,
 #   genau wie in waehrungen_usd_je_einheit.csv.
