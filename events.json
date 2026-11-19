@@ -1,87 +1,158 @@
 {
-  "erstellt_am": "2026-11-19T09:45:46",
+  "erstellt_am": "2026-11-19T16:10:56",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261119083000",
+  "gkg_stand": "20261119150000",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 16,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.2,
+      "tonalitaet": -8.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ianslive.in",
-      "url": "https://ianslive.in/exiled-east-turkistan-authorities-urge-world-leaders-to-confront-xi-over-xinjiang-genocide--20261119124245"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261119-sanctions-are-preserving-the-colonial-enterprise/"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.0,
       "treffer": [
-        "sanctions"
+        "hormuz"
       ],
-      "domain": "techdirt.com",
-      "url": "http://www.techdirt.com/2026/11/16/federal-judge-permanently-kicks-doj-lawyer-to-the-curb-for-lying-to-the-court/"
+      "domain": "ualrpublicradio.org",
+      "url": "https://www.ualrpublicradio.org/npr-news/2026-11-19/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -5.0,
+      "tonalitaet": -7.1,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "brazilsun.com",
-      "url": "http://www.brazilsun.com/news/279442024/these-are-individual-events-trump-tells-americans-to-relax-amid-tech-and-banking-outages-dismisses-cyberattack-fears"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "queanbeyanage.com.au",
-      "url": "https://www.queanbeyanage.com.au/story/9394288/houthi-missile-fired-towards-riyadh-damages-skyscraper/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "theadvocate.com.au",
-      "url": "https://www.theadvocate.com.au/story/9394288/houthi-missile-fired-towards-riyadh-damages-skyscraper/"
+      "domain": "middleeastmonitor.com",
+      "url": "https://www.middleeastmonitor.com/20261119-us-reveals-iranian-cyberattacks-targeting-key-sectors/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "crash.net",
-      "url": "https://www.crash.net/f1/news/1110180/1/charles-leclerc-speaks-out-f1-journalist-ban-controversy-after-article-criticism"
+      "domain": "fox29.com",
+      "url": "https://www.fox29.com/news/what-is-latest-cornell-fraternity-rape-case-heres-where-things-stand"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "morungexpress.com",
+      "url": "https://www.morungexpress.com/houthi-media-says-saudi-airstrikes-kill-11-saudi-led-coalition-reports-interception"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "asiabulletin.com",
+      "url": "http://www.asiabulletin.com/news/279442870/etge-urges-apec-leaders-to-confront-xi-jinping-over-uyghur-genocide-calls-for-sanctions-and-east-turkistan-independence"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "tonalitaet": -5.6,
+      "treffer": [
+        "red sea",
+        "refinery"
+      ],
+      "domain": "industrialinfo.com",
+      "url": "https://www.industrialinfo.com/news/article/surplus-signal-drag-oil-prices-lower-but-global-risks-remain--364903"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "newsweek.com",
+      "url": "https://www.newsweek.com/cyberattack-map-countries-november-full-list-12739233"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "newstribune.com",
+      "url": "https://www.newstribune.com/news/2026/nov/19/commentary-scrap-nukes-before-our-luck-runs-out/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "capitalgazette.com",
+      "url": "https://www.capitalgazette.com/2026/11/19/missile-attack-riyadh-mideast-news/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.7,
       "treffer": [
         "mandeb",
         "red sea"
       ],
-      "domain": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9394288/houthi-missile-fired-towards-riyadh-damages-skyscraper/"
+      "domain": "hngn.com",
+      "url": "https://www.hngn.com/articles/273877/20261119/iran-widens-attacks-kuwait-after-us-strike-qeshm.htm"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.5,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "newstribune.com",
+      "url": "https://www.newstribune.com/news/2026/nov/19/us-hits-island-in-hormuz-iran-targets-kuwait-as/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "techtimes.com",
+      "url": "https://www.techtimes.com/articles/331076/20261119/ecb-draws-subprime-parallels-over-4-trillion-ai-debt-like-commitments-stay-off-balance-sheets.htm"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.4,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tribune.net.ph",
-      "url": "https://tribune.net.ph/topic/united-states-department-of-agriculture-usda"
+      "domain": "morungexpress.com",
+      "url": "https://www.morungexpress.com/india-emerges-as-key-player-in-world-oil-market-report"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "el-balad.com",
+      "url": "https://www.el-balad.com/17068232"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "scmagazineuk.com",
+      "url": "https://insight.scmagazineuk.com/british-hackers-face-sentencing-for-major-cyberattacks"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261119083000; erfolglos: 20261119084500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261119150000; erfolglos: 20261119151500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.2
 }
