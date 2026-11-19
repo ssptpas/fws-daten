@@ -1,158 +1,57 @@
 {
-  "erstellt_am": "2026-11-19T16:10:56",
+  "erstellt_am": "2026-11-19T22:45:43",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261119150000",
+  "gkg_stand": "20261119214500",
   "veraltet": false,
-  "anzahl": 16,
+  "anzahl": 5,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20261119-sanctions-are-preserving-the-colonial-enterprise/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.0,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "ualrpublicradio.org",
-      "url": "https://www.ualrpublicradio.org/npr-news/2026-11-19/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "middleeastmonitor.com",
-      "url": "https://www.middleeastmonitor.com/20261119-us-reveals-iranian-cyberattacks-targeting-key-sectors/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "fox29.com",
-      "url": "https://www.fox29.com/news/what-is-latest-cornell-fraternity-rape-case-heres-where-things-stand"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "morungexpress.com",
-      "url": "https://www.morungexpress.com/houthi-media-says-saudi-airstrikes-kill-11-saudi-led-coalition-reports-interception"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
+      "tonalitaet": -8.2,
       "treffer": [
         "sanctions"
       ],
       "domain": "asiabulletin.com",
-      "url": "http://www.asiabulletin.com/news/279442870/etge-urges-apec-leaders-to-confront-xi-jinping-over-uyghur-genocide-calls-for-sanctions-and-east-turkistan-independence"
+      "url": "http://www.asiabulletin.com/news/279443820/icj-finds-myanmar-responsible-for-genocide-against-rohingya-orders-reparations-safe-return-of-displaced-community"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.6,
+      "tonalitaet": -6.6,
       "treffer": [
-        "red sea",
-        "refinery"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "industrialinfo.com",
-      "url": "https://www.industrialinfo.com/news/article/surplus-signal-drag-oil-prices-lower-but-global-risks-remain--364903"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "newsweek.com",
-      "url": "https://www.newsweek.com/cyberattack-map-countries-november-full-list-12739233"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "newstribune.com",
-      "url": "https://www.newstribune.com/news/2026/nov/19/commentary-scrap-nukes-before-our-luck-runs-out/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "capitalgazette.com",
-      "url": "https://www.capitalgazette.com/2026/11/19/missile-attack-riyadh-mideast-news/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "mandeb",
-        "red sea"
-      ],
-      "domain": "hngn.com",
-      "url": "https://www.hngn.com/articles/273877/20261119/iran-widens-attacks-kuwait-after-us-strike-qeshm.htm"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "newstribune.com",
-      "url": "https://www.newstribune.com/news/2026/nov/19/us-hits-island-in-hormuz-iran-targets-kuwait-as/"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "techtimes.com",
-      "url": "https://www.techtimes.com/articles/331076/20261119/ecb-draws-subprime-parallels-over-4-trillion-ai-debt-like-commitments-stay-off-balance-sheets.htm"
+      "domain": "investors.com",
+      "url": "https://www.investors.com:443/news/oil-prices-tanker-rates-attacks-hormuz-tanker-stocks/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "morungexpress.com",
-      "url": "https://www.morungexpress.com/india-emerges-as-key-player-in-world-oil-market-report"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "el-balad.com",
-      "url": "https://www.el-balad.com/17068232"
+      "domain": "peoplesworld.org",
+      "url": "https://www.peoplesworld.org/article/trump-administration-manipulates-cuba-blockade-votes-at-un/"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -3.1,
+      "tonalitaet": -4.1,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "scmagazineuk.com",
-      "url": "https://insight.scmagazineuk.com/british-hackers-face-sentencing-for-major-cyberattacks"
+      "domain": "breitbart.com",
+      "url": "https://www.breitbart.com/tech/2026/11/19/jpmorgan-chase-customer-data-leaked-after-cyberattack-it-claims-isnt-related-to-recent-banking-outage/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/bac-investors-have-opportunity-to-lead-bank-of-america-corporation-securities-fraud-lawsuit-with-sbs-law-302946098.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261119150000; erfolglos: 20261119151500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.2
+  "gkg_alter_stunden": 0.0
 }
