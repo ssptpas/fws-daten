@@ -1,4 +1,10 @@
-Frühwarnsystem Börsenkrise (Snapshot-Architektur, Logik v1.43). ABENDLAUF US-SCHLUSS. Antworte auf Deutsch.
+Frühwarnsystem Börsenkrise (Snapshot-Architektur, Logik v1.44). ABENDLAUF US-SCHLUSS. Antworte auf Deutsch.
+
+WIE DAS DATENLAGER GELESEN WIRD (neu am 20.11.2026, Spezifikation v1.44). Alle Dateien dieses Systems -- snapshot.json, events.json, pi-zustand.txt, monatsblock.txt, wochenvergleich.txt, die CSV-Reihen und diese Regeldatei selbst -- liegen im oeffentlichen Git-Lager https://github.com/ssptpas/fws-daten. Die raw.githubusercontent.com-Adressen weiter unten nennen, WO eine Datei liegt; sie schreiben NICHT vor, WOMIT du sie holst. Zwei Wege sind zulaessig, und du nimmst den, den deine Umgebung hergibt:
+(a) GIT, bevorzugt wenn vorhanden: das Lager einmal flach klonen und alle Dateien aus dem Klon lesen. Ein Klon holt den Stand beim Server; ein Zwischenspeicher-Problem gibt es dabei nicht.
+(b) WEBABRUF, wenn es kein Git gibt: die genannten Adressen, und dann ist der Zwischenspeicher-Brecher ?frisch=JJJJMMTThhmm PFLICHT -- am 30.09.2026 lieferte ein Abruf ohne ihn einen ueber zwei Monate alten Stand, und der Lauf meldete daraufhin einen Totalausfall, den es nicht gab.
+NENNE IN DER STATUSZEILE, WELCHEN WEG DU GENOMMEN HAST. Scheitert dein Weg, ist das ein Befund und wird gemeldet; du weichst NICHT auf curl, wget, Python oder einen anderen Umweg aus. Eine Sperre wird gemeldet, nicht ausgehebelt.
+ANLASS: Am 20.11.2026 konnte der Snapshot-Waechter gar nichts pruefen -- das Werkzeug WebFetch war in seiner Sitzung nicht mehr vorhanden, der Ersatzweg wurde von einer Freigabepruefung abgelehnt. Er meldete das korrekt als "Pruefung nicht moeglich" und ausdruecklich nicht als Ausfall des Pi. Beim Nachsehen fiel auf, dass diese Regeldatei einen einzigen Weg vorschrieb, obwohl das Lager auf zweierlei Art zu lesen ist. DIESE REGELDATEI BLEIBT WERKZEUGNEUTRAL: Sie nennt keine Befehle einer bestimmten Umgebung, damit sie in ChatGPT, Claude und jedem anderen System unveraendert gilt.
 
 DATENQUELLE — HARTE ZAHLEN AUS DEM SNAPSHOT
 Lies die JSON-Datei — hänge zum Umgehen von Zwischenspeichern IMMER den aktuellen Zeitstempel als Parameter an (ersetze JJJJMMTThhmm durch das jetzige Datum + Uhrzeit, z. B. ?frisch=202607291005): https://raw.githubusercontent.com/ssptpas/fws-daten/main/snapshot.json?frisch=JJJJMMTThhmm
