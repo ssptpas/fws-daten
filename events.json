@@ -1,128 +1,138 @@
 {
-  "erstellt_am": "2026-11-20T15:51:48",
+  "erstellt_am": "2026-11-20T22:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261120150000",
+  "gkg_stand": "20261120214500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 14,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.6,
+      "tonalitaet": -7.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-refuses-to-quash-murder-charges-against-promoter-after-15-died-in-building-collapse-559355"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.8,
-      "treffer": [
-        "government shutdown"
-      ],
-      "domain": "wknofm.org",
-      "url": "https://www.wknofm.org/2026-11-20/sen-ron-johnson-on-efforts-to-avert-government-shutdown-during-lame-duck-session"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nuclear-news.net",
-      "url": "https://nuclear-news.net/2026/11/20/2-b1-ukraines-collapse-will-be-sudden-and-catastrophic-and-europe-is-still-acting-like-its-winning/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20261120/the-us-opens-up-to-multipolar-future-as-europe-remains-divided-on-the-way-forward--expert-1125122776.html"
+      "domain": "wlec.com",
+      "url": "https://wlec.com/uncategorized/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
+      "tonalitaet": -6.8,
       "treffer": [
-        "red sea"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "prokerala.com",
-      "url": "https://www.prokerala.com/news/articles/a1839119.html"
+      "domain": "gcaptain.com",
+      "url": "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-maritime-attacks-surge-worldwide/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "newsroomamerica.com",
+      "url": "https://newsroomamerica.com/tag/mahan_air"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.5,
+      "tonalitaet": -6.0,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "okayafrica.com",
+      "url": "https://www.okayafrica.com/today-in-africa-nov-20-2026-nearly-600-women-killed-in-south-africa-in-three-months-migrants-deported-to-south-sudan-from-us-face-hunger-and-isolation/1442146"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
       "treffer": [
         "red sea"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-threaten-saudi-energy-and-financial-infrastructure"
+      "domain": "greanvillepost.com",
+      "url": "https://www.greanvillepost.com/shenzhen-hypocritical-nonsense-war-escalation-in-ukraine-and-asia/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "columbian.com",
+      "url": "https://www.columbian.com/news/2026/nov/20/ukraine-reports-russian-missile-blitz-after-putin-met-with-trump/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "marinelink.com",
+      "url": "https://www.marinelink.com/news/saudi-forces-strike-hodeidah-port-houthis-544509"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -5.0,
       "treffer": [
-        "missile"
+        "red sea"
       ],
-      "domain": "10news.com",
-      "url": "https://www.10news.com/politics/russia/russia-launches-massive-missile-and-drone-attack-on-ukraine-killing-at-least-8"
+      "domain": "gcaptain.com",
+      "url": "https://gcaptain.com/houthis-order-ships-to-leave-saudi-red-sea-ports-after-hodeidah-airstrikes/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "cphpost.dk",
-      "url": "https://cphpost.dk/2026-11-20/global/suspected-russian-cruise-missile-falls-in-poland/"
+      "domain": "hrw.org",
+      "url": "https://www.hrw.org/news/2026/11/20/us-tries-but-fails-to-dilute-un-human-rights-resolutions"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "nvdaily.com",
+      "url": "https://www.nvdaily.com/associated_press_national/trump-says-iran-wants-a-deal-saudi-arabia-and-yemens-houthis-exchange-fire-and-other/article_8307cf41-cc52-52cf-b5ef-ddba8a95297d.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
       "tonalitaet": -4.1,
       "treffer": [
-        "missile"
+        "crude oil"
       ],
-      "domain": "nypost.com",
-      "url": "https://nypost.com/2026/11/20/world-news/russian-missiles-crash-in-poland-was-likely-an-intentional-provocation-polish-pm-says/"
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/3716888/crude-oil-advances-amid-ongoing-u-s-iran-saudi-arabia-houthi-hostilities.aspx"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.8,
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "wharfedaleobserver.co.uk",
-      "url": "https://www.wharfedaleobserver.co.uk/news/national/26748713.russian-missile-strike-poland-utterly-unacceptable-andy-burnham-says/"
+      "domain": "el-observador.com",
+      "url": "https://el-observador.com/2026/11/20/a-former-tps-holder-navigates-san-franciscos-matrix-of-surveillance-cameras/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "marinelink.com",
+      "url": "https://www.marinelink.com/news/oil-prices-drop-third-week-straight-544510"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.2,
       "treffer": [
         "central bank"
       ],
-      "domain": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3716775"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "dailysabah.com",
-      "url": "https://www.dailysabah.com/world/europe/us-says-russia-open-to-nato-style-security-guarantees-for-ukraine"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "livelaw.in",
-      "url": "https://www.livelaw.in/top-stories/pan-india-case-on-unauthorised-construction-shifted-from-justice-amanullahs-bench-559361"
+      "domain": "newsroomamerica.com",
+      "url": "https://newsroomamerica.com/?before=123762"
     }
   ],
-  "gkg_alter_stunden": -0.1
+  "gkg_alter_stunden": 0.0
 }
