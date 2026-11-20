@@ -14,11 +14,17 @@
 # Format: md5-Summe, Leerraum, Pfad relativ zu /home/chris. # ist Kommentar.
 # Die Regeldateien stehen mit ihrer Fassung AUF GITHUB, nicht der auf dem Mac.
 
-ba78c2e5a49460f1036d26631bf15ced  ampel_logik.py
-0e6957d65e9d507bcb8412a9b2fd72f3  test-skript.py
+3218fb0f783ca24bf5d4b231df01e7e0  ampel_logik.py
+6740decc960c5f1392004d105fa050fe  test-skript.py
 b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
 a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
 665163c72ce905c3c28e6ab0079c461b  fruehwarnsystem.sh
+b1b3686d1f3402b0246a2d960d18cfbc  tripwire.py
+e27c15bbf616723e37183cb441070a4c  pi-zustand.sh
+fc8cca748e1893705df49042581a6041  gdelt_fetch.py
+3402971a9c034b5ab06c1facaa0619bc  monatsblock.py
+33fd1862757116067ec5276173e3263b  importmatrix.py
+6dbc10ff9b52bcb94f8ad0ffe8254c4a  vorlaeufig.py
 
 f9b9f4e7548d695d556c5fc6a49bd0c7  fws-daten/erwartetes-alter.txt
 
