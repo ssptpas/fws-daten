@@ -1,103 +1,128 @@
 {
-  "erstellt_am": "2026-11-20T14:45:54",
+  "erstellt_am": "2026-11-20T15:51:48",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261120133000",
+  "gkg_stand": "20261120150000",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 13,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -11.4,
+      "kategorie": "Policy",
+      "tonalitaet": -9.6,
       "treffer": [
-        "invasion"
+        "sanctions"
       ],
-      "domain": "guampdn.com",
-      "url": "https://www.guampdn.com/news/yigo-home-invasion-suspect-seeks-release-on-electronic-monitoring/article_8122c844-8f91-49d9-86cd-2488460cfbb5.html"
+      "domain": "livelaw.in",
+      "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-refuses-to-quash-murder-charges-against-promoter-after-15-died-in-building-collapse-559355"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -8.8,
+      "treffer": [
+        "government shutdown"
+      ],
+      "domain": "wknofm.org",
+      "url": "https://www.wknofm.org/2026-11-20/sen-ron-johnson-on-efforts-to-avert-government-shutdown-during-lame-duck-session"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -7.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "nuclear-news.net",
+      "url": "https://nuclear-news.net/2026/11/20/2-b1-ukraines-collapse-will-be-sudden-and-catastrophic-and-europe-is-still-acting-like-its-winning/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20261120/the-us-opens-up-to-multipolar-future-as-europe-remains-divided-on-the-way-forward--expert-1125122776.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.8,
+      "tonalitaet": -5.7,
       "treffer": [
         "red sea"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Nov/20/saudi-coalition-issues-hodeida-evacuation-warning-sparking-houthi-threats"
+      "domain": "prokerala.com",
+      "url": "https://www.prokerala.com/news/articles/a1839119.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.5,
       "treffer": [
-        "sanctions"
+        "red sea"
       ],
-      "domain": "moneymarketing.co.uk",
-      "url": "https://www.moneymarketing.co.uk/news/reality-tv-star-fined-in-fca-finfluencer-crackdown/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "theguardian.com",
-      "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/912301/kyiv-celebrates-the-genocide-of-ukrainians-says-russia-s-zakharova-on-maidan-anniversary"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-threaten-saudi-energy-and-financial-infrastructure"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.0,
       "treffer": [
-        "missile",
-        "invasion"
+        "missile"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/912302/terror-in-poland-over-invasion-russia-accused-of-airspace-violation-with-2-missiles-and-a-drone"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "nola.com",
-      "url": "https://www.nola.com/news/courts/tanker-crash-riverboat-lawsuits/article_18b75612-a52e-4241-b48d-9421b459a605.html"
+      "domain": "10news.com",
+      "url": "https://www.10news.com/politics/russia/russia-launches-massive-missile-and-drone-attack-on-ukraine-killing-at-least-8"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.3,
       "treffer": [
         "missile"
       ],
-      "domain": "newindianexpress.com",
-      "url": "https://www.newindianexpress.com/world/2026/Nov/20/russian-missile-hit-south-east-poland-during-attack-on-ukraine-no-one-hurt-warsaw"
+      "domain": "cphpost.dk",
+      "url": "https://cphpost.dk/2026-11-20/global/suspected-russian-cruise-missile-falls-in-poland/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.6,
+      "tonalitaet": -4.1,
       "treffer": [
         "missile"
       ],
-      "domain": "wral.com",
-      "url": "https://www.wral.com/news/ap/16c39-saudi-arabia-intercepts-more-yemen-houthi-missiles-and-drones-and-other-mideast-news/"
+      "domain": "nypost.com",
+      "url": "https://nypost.com/2026/11/20/world-news/russian-missiles-crash-in-poland-was-likely-an-intentional-provocation-polish-pm-says/"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "wharfedaleobserver.co.uk",
+      "url": "https://www.wharfedaleobserver.co.uk/news/national/26748713.russian-missile-strike-poland-utterly-unacceptable-andy-burnham-says/"
+    },
+    {
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "central bank"
+      ],
+      "domain": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3716775"
+    },
+    {
+      "kategorie": "Policy",
       "tonalitaet": -3.2,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "techradar.com",
-      "url": "https://www.techradar.com/computing/cyber-security/yes-its-been-the-worst-week-of-major-outages-for-13-years-but-ai-cyberattacks-arent-to-blame-heres-whats-happening"
+      "domain": "dailysabah.com",
+      "url": "https://www.dailysabah.com/world/europe/us-says-russia-open-to-nato-style-security-guarantees-for-ukraine"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "livelaw.in",
+      "url": "https://www.livelaw.in/top-stories/pan-india-case-on-unauthorised-construction-shifted-from-justice-amanullahs-bench-559361"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261120133000; erfolglos: 20261120134500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "gkg_alter_stunden": -0.1
 }
