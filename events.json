@@ -1,137 +1,64 @@
 {
-  "erstellt_am": "2026-11-20T22:45:37",
+  "erstellt_am": "2026-11-21T09:45:29",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261120214500",
+  "gkg_stand": "20261121084500",
   "veraltet": false,
-  "anzahl": 14,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wlec.com",
-      "url": "https://wlec.com/uncategorized/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.8,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-maritime-attacks-surge-worldwide/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "newsroomamerica.com",
-      "url": "https://newsroomamerica.com/tag/mahan_air"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "okayafrica.com",
-      "url": "https://www.okayafrica.com/today-in-africa-nov-20-2026-nearly-600-women-killed-in-south-africa-in-three-months-migrants-deported-to-south-sudan-from-us-face-hunger-and-isolation/1442146"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "greanvillepost.com",
-      "url": "https://www.greanvillepost.com/shenzhen-hypocritical-nonsense-war-escalation-in-ukraine-and-asia/"
-    },
-    {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.6,
+      "tonalitaet": -7.5,
       "treffer": [
-        "missile"
+        "airstrike"
       ],
-      "domain": "columbian.com",
-      "url": "https://www.columbian.com/news/2026/nov/20/ukraine-reports-russian-missile-blitz-after-putin-met-with-trump/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "marinelink.com",
-      "url": "https://www.marinelink.com/news/saudi-forces-strike-hodeidah-port-houthis-544509"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "gcaptain.com",
-      "url": "https://gcaptain.com/houthis-order-ships-to-leave-saudi-red-sea-ports-after-hodeidah-airstrikes/"
+      "domain": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-gazans-wounded-one-critically-israeli-gunfire-and-airstrikes"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "hrw.org",
-      "url": "https://www.hrw.org/news/2026/11/20/us-tries-but-fails-to-dilute-un-human-rights-resolutions"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "nvdaily.com",
-      "url": "https://www.nvdaily.com/associated_press_national/trump-says-iran-wants-a-deal-saudi-arabia-and-yemens-houthis-exchange-fire-and-other/article_8307cf41-cc52-52cf-b5ef-ddba8a95297d.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "crude oil"
-      ],
-      "domain": "rttnews.com",
-      "url": "https://www.rttnews.com/3716888/crude-oil-advances-amid-ongoing-u-s-iran-saudi-arabia-houthi-hostilities.aspx"
+      "domain": "iranoilgas.com",
+      "url": "https://www.iranoilgas.com/news/details.aspx?id=29223&title=US+escalates+its+sanctions+against+Iran,+targets+four+nationals+"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -4.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "el-observador.com",
-      "url": "https://el-observador.com/2026/11/20/a-former-tps-holder-navigates-san-franciscos-matrix-of-surveillance-cameras/"
+      "domain": "sana.sy",
+      "url": "https://sana.sy/en/international/2360405/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.2,
       "treffer": [
         "red sea"
       ],
-      "domain": "marinelink.com",
-      "url": "https://www.marinelink.com/news/oil-prices-drop-third-week-straight-544510"
+      "domain": "sana.sy",
+      "url": "https://sana.sy/en/middle-east/2360393/"
     },
     {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.2,
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
       "treffer": [
-        "central bank"
+        "sanctions"
       ],
-      "domain": "newsroomamerica.com",
-      "url": "https://newsroomamerica.com/?before=123762"
+      "domain": "cubaheadlines.com",
+      "url": "https://www.cubaheadlines.com/articles/346192"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "thenationalnews.com",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/21/iran-exaggerates-hormuz-sea-mine-threat-but-uses-fear-to-tighten-grip/"
     }
   ],
   "gkg_alter_stunden": 0.0

@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-20T22:45:01",
+  "erstellt_am": "2026-11-21T09:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.52",
@@ -22,8 +22,8 @@
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.28",
-      "beobachtungsdatum": "2026-11-19",
+      "wert": "0.29",
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "FRED"
     },
     "SOFR": {
@@ -33,7 +33,7 @@
     },
     "IORB": {
       "wert": "3.9",
-      "beobachtungsdatum": "2026-11-20",
+      "beobachtungsdatum": "2026-11-21",
       "quelle": "FRED",
       "hinweis": "FRED fuehrt bereits einen Wert zum 2026-11-23; hier steht der heute gueltige"
     },
@@ -48,8 +48,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_10J": {
-      "wert": "2.16",
-      "beobachtungsdatum": "2026-11-19",
+      "wert": "2.15",
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "FRED"
     },
     "Realrendite_10J": {
@@ -63,8 +63,8 @@
       "quelle": "FRED"
     },
     "Inflationserwartung_5J5J": {
-      "wert": "2.1",
-      "beobachtungsdatum": "2026-11-19",
+      "wert": "2.12",
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "FRED"
     },
     "USD_JPY": {
@@ -575,8 +575,8 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 30.64,
-      "beobachtungsdatum": "2026-11-19",
+      "wert": 33.07,
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -600,12 +600,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 89.99,
+      "wert": 92.57,
       "beobachtungsdatum": "2026-11-20",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 83.69,
+      "wert": 83.98,
       "beobachtungsdatum": "2026-11-20",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
