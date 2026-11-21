@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-21T14:05:30",
+  "erstellt_am": "2026-11-21T14:15:11",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
   "gkg_stand": "20261121130000",
@@ -158,5 +158,5 @@
     }
   ],
   "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261121130000; erfolglos: 20261121131500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.1
+  "gkg_alter_stunden": 0.3
 }
