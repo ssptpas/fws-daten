@@ -1,8 +1,8 @@
-Zustand des Pi -- geschrieben 2026-11-21T14:16:16+01:00
+Zustand des Pi -- geschrieben 2026-11-21T14:20:47+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 13 minutes
+Betriebsdauer: up 17 minutes
 Letzter Start: 2026-11-21 14:02:49
 
 Drosselung:    0x0
@@ -11,7 +11,7 @@ Temperatur:    54.0'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       254Mi       1.4Gi       5.6Mi       220Mi       1.6Gi
+   Mem:           1.8Gi       241Mi       1.4Gi       5.6Mi       221Mi       1.6Gi
    Swap:          1.8Gi          0B       1.8Gi
 
 Speicherkarte:
@@ -86,7 +86,6 @@ b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
 260f7593f36ce7366649f7c22de85a2e  fruehwarnsystem.sh
 a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
 
-BETRIEBSSTAND: ABWEICHUNG -- fruehwarnsystem.sh laeuft mit 260f7593f36ce7366649f7c22de85a2e, erwartet 665163c72ce905c3c28e6ab0079c461b
-BETRIEBSSTAND: 1 von 16 Dateien weichen ab. Was laeuft, ist nicht, was festgelegt wurde.
+BETRIEBSSTAND: OK -- 16 Dateien geprueft, alle Pruefsummen wie vorgesehen
 
 BETRIEBSSTAND: OK -- 65 Werte geprueft, alle mit lesbarem Datum, keines in der Zukunft, keines ueber seiner Altersgrenze
