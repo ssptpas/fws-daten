@@ -1,77 +1,141 @@
 {
-  "erstellt_am": "2026-11-21T14:45:32",
+  "erstellt_am": "2026-11-21T17:42:03",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261121133000",
+  "gkg_stand": "20261121163000",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 14,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.3,
+      "kategorie": "Breite",
+      "tonalitaet": -11.1,
       "treffer": [
-        "tanker"
+        "cyberattack"
       ],
-      "domain": "arabtimesonline.com",
-      "url": "https://www.arabtimesonline.com/news/iranian-regime-says-it-has-no-choice-but-to-break-us-blockade-as-14-oil-tankers-prepare-to-challenge-restrictions/"
+      "domain": "cedarnews.net",
+      "url": "https://cedarnews.net/newstasks/1175937/fbi-probes-second-cyberattack-months-hackers-breach/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.8,
+      "tonalitaet": -9.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "cyprus-mail.com",
+      "url": "https://cyprus-mail.com/2026/11/21/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.8,
+      "treffer": [
+        "invasion"
+      ],
+      "domain": "zerohedge.com",
+      "url": "http://www.zerohedge.com/geopolitical/ceuta-sexual-assaults-soar-650-after-migrant-invasion-over-half-cases-involve-kids"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "foxnews.com",
+      "url": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.5,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-mine-in-strait-of-hormuz/4133044"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "zerohedge.com",
+      "url": "http://www.zerohedge.com/technology/fbi-probes-suspected-hack-critical-nationwide-crime-database-cyber-pandemic-fears-mount"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.7,
       "treffer": [
         "missile",
         "ballistic"
       ],
-      "domain": "leighjournal.co.uk",
-      "url": "https://www.leighjournal.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/"
+      "domain": "countytimes.co.uk",
+      "url": "https://www.countytimes.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.5,
+      "tonalitaet": -5.7,
       "treffer": [
-        "missile"
+        "missile",
+        "ballistic"
       ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/conflict/missile-attack-on-zelenskiys-hometown-kills-two-c-23195124"
+      "domain": "basingstokegazette.co.uk",
+      "url": "https://www.basingstokegazette.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
+      "kategorie": "Policy",
+      "tonalitaet": -5.4,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "goulburnpost.com.au",
-      "url": "https://www.goulburnpost.com.au/story/9395785/missile-attack-on-zelenskiys-hometown-kills-two/"
+      "domain": "euronews.com",
+      "url": "https://www.euronews.com/2026/11/21/estonia-russia-border-closure-sends-residents-rushing-to-cross-before-deadline"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.1,
       "treffer": [
-        "hormuz",
-        "red sea"
+        "hormuz"
       ],
-      "domain": "wtae.com",
-      "url": "https://www.wtae.com/article/lewis-pugh-strait-of-hormuz-swim-iran-war/74497133"
+      "domain": "basingstokegazette.co.uk",
+      "url": "https://www.basingstokegazette.co.uk/news/national/26750618.briton-swims-strait-hormuz-highlight-environmental-cost-war/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "kake.com",
+      "url": "https://www.kake.com/news/national/usda-hit-with-cyberattack-sources/article_803d3bfb-4fe2-461f-9e4b-a05e92ac7583.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
       "tonalitaet": -3.7,
       "treffer": [
-        "hormuz"
+        "tanker"
       ],
-      "domain": "wharfedaleobserver.co.uk",
-      "url": "https://www.wharfedaleobserver.co.uk/news/national/26750618.briton-swims-strait-hormuz-highlight-environmental-cost-war/"
+      "domain": "idahopress.com",
+      "url": "http://www.idahopress.com/ap_news/us/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_d69706d0-0aa1-5a72-85d7-55f28dbbb892.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
       "treffer": [
-        "sanctions"
+        "tanker"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/foreign-policy/denmark-pushes-eu-to-tighten-travel-curbs-on-russians-after-foiled-plot-537665"
+      "domain": "wboc.com",
+      "url": "https://www.wboc.com/news/international/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_01da6b4b-0bb9-5d63-96fd-a41f63b4e2d6.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.0,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "rockymounttelegram.com",
+      "url": "http://www.rockymounttelegram.com/news/national/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_cf8214ba-1461-56d3-9213-344895893f91.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261121133000; erfolglos: 20261121134500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261121163000; erfolglos: 20261121164500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.2
 }

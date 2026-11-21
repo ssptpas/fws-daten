@@ -1,77 +1,70 @@
-Zustand des Pi -- geschrieben 2026-11-21T14:46:37+01:00
+Zustand des Pi -- geschrieben 2026-11-21T17:45:51+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 20 minutes
-Letzter Start: 2026-11-21 14:26:15
+Betriebsdauer: up 11 minutes
+Letzter Start: 2026-11-21 17:34:09
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    56.0'C
+Temperatur:    58.9'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       258Mi       1.3Gi        11Mi       291Mi       1.6Gi
-   Swap:             0B          0B          0B
+   Mem:           1.8Gi       250Mi       1.4Gi       5.6Mi       217Mi       1.6Gi
+   Swap:          1.8Gi          0B       1.8Gi
 
 Speicherkarte:
    Filesystem      Size  Used Avail Use% Mounted on
-   overlayroot     924M  6.4M  918M   1% /
+   /dev/mmcblk0p2   58G  4.0G   52G   8% /
    /dev/mmcblk0p1  505M   68M  437M  14% /boot/firmware
 
 Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
-   [    1.116147] mmc-bcm2835 fe300000.mmcnr: mmc_debug:0 mmc_debug2:0
-   [    1.116160] mmc-bcm2835 fe300000.mmcnr: DMA channel allocated
-   [    1.184180] mmc0: SDHCI controller on fe340000.mmc [fe340000.mmc] using ADMA
-   [    1.222319] mmc1: new high speed SDIO card at address 0001
-   [    1.334326] mmc0: new UHS-I speed DDR50 SDXC card at address aaaa
-   [    1.334964] mmcblk0: mmc0:aaaa SK64G 59.5 GiB
-   [    1.336888]  mmcblk0: p1 p2
-   [    1.337677] mmcblk0: mmc0:aaaa SK64G 59.5 GiB (quirks 0x00004000)
-   [    1.977757] EXT4-fs (mmcblk0p2): orphan cleanup on readonly fs
-   [    1.978276] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
+   [    1.115999] mmc-bcm2835 fe300000.mmcnr: DMA channel allocated
+   [    1.182700] mmc0: SDHCI controller on fe340000.mmc [fe340000.mmc] using ADMA
+   [    1.220964] mmc1: new high speed SDIO card at address 0001
+   [    1.332409] mmc0: new UHS-I speed DDR50 SDXC card at address aaaa
+   [    1.333062] mmcblk0: mmc0:aaaa SK64G 59.5 GiB
+   [    1.334877]  mmcblk0: p1 p2
+   [    1.335259] mmcblk0: mmc0:aaaa SK64G 59.5 GiB (quirks 0x00004000)
+   [    1.930288] EXT4-fs (mmcblk0p2): orphan cleanup on readonly fs
+   [    1.930782] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
+   [    5.475264] EXT4-fs (mmcblk0p2): re-mounted 02f61d5e-92cb-4f9c-a781-099d97795020 r/w.
 
 Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
-   Nov 21 14:26:24 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 21 14:26:24 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 21 14:26:24 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 21 14:26:24 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 21 14:26:27 RaspberryPi-4b systemd-remount-fs[1103]: /usr/bin/mount for / exited with exit status 32.
-   Nov 21 14:26:27 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 21 14:26:27 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 21 14:26:27 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 21 14:26:27 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 21 14:26:27 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 21 14:26:27 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 21 14:26:28 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
-   Nov 21 14:26:28 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
-   Nov 21 14:26:28 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
-   Nov 21 14:26:28 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
-   Nov 21 14:26:28 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
-   Nov 21 14:27:34 RaspberryPi-4b systemd-remount-fs[1156]: /usr/bin/mount for / exited with exit status 32.
-   Nov 21 14:27:34 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 21 14:27:34 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 21 14:27:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 21 14:27:34 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 21 14:27:34 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 21 14:27:34 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 21 14:27:42 RaspberryPi-4b systemd-remount-fs[1209]: /usr/bin/mount for / exited with exit status 32.
-   Nov 21 14:27:42 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 21 14:27:42 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 21 14:27:42 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 21 14:27:42 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 21 14:27:42 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 21 14:27:42 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 21 14:26:05 RaspberryPi-4b kernel: pci_bus 0000:01: supply vpcie3v3 not found, using dummy regulator
+   Nov 21 14:26:05 RaspberryPi-4b kernel: pci_bus 0000:01: supply vpcie3v3aux not found, using dummy regulator
+   Nov 21 14:26:05 RaspberryPi-4b kernel: pci_bus 0000:01: supply vpcie12v not found, using dummy regulator
+   Nov 21 14:26:06 RaspberryPi-4b systemd-udevd[339]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Nov 21 14:26:06 RaspberryPi-4b systemd-udevd[339]: /usr/lib/udev/rules.d/90-alsa-restore.rules:18 The line has no effect any more, dropping.
+   Nov 21 14:26:06 RaspberryPi-4b systemd-udevd[339]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 GOTO="alsa_restore_std" has no matching label, ignoring.
+   Nov 21 14:26:06 RaspberryPi-4b systemd-udevd[339]: /usr/lib/udev/rules.d/90-alsa-restore.rules:22 The line has no effect any more, dropping.
+   Nov 21 14:26:06 RaspberryPi-4b kernel: snd_bcm2835: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 21 14:26:06 RaspberryPi-4b kernel: vc_sm_cma: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 21 14:26:06 RaspberryPi-4b kernel: bcm2835_mmal_vchiq: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 21 14:26:06 RaspberryPi-4b kernel: bcm2835_v4l2: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 21 14:26:06 RaspberryPi-4b kernel: bcm2835_isp: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 21 14:26:06 RaspberryPi-4b kernel: bcm2835_codec: module is from the staging directory, the quality is unknown, you have been warned.
+   Nov 21 14:26:06 RaspberryPi-4b kernel: hci_uart_bcm serial0-0: supply vbat not found, using dummy regulator
+   Nov 21 14:26:06 RaspberryPi-4b kernel: hci_uart_bcm serial0-0: supply vddio not found, using dummy regulator
+   Nov 21 14:26:11 RaspberryPi-4b (uetoothd)[572]: bluetooth.service: ConfigurationDirectory 'bluetooth' already exists but the mode is different. (File system: 755 ConfigurationDirectoryMode: 555)
+   Nov 21 14:26:12 RaspberryPi-4b bluetoothd[572]: Failed to set mode: Failed (0x03)
+   Nov 21 14:26:15 RaspberryPi-4b generate[699]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 21 14:26:17 RaspberryPi-4b generate[791]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 21 14:26:18 RaspberryPi-4b generate[883]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 21 14:26:20 RaspberryPi-4b generate[975]: Permissions for /lib/netplan/00-network-manager-all.yaml are too open. Netplan configuration should NOT be accessible by others.
+   Nov 21 14:26:22 RaspberryPi-4b wpa_supplicant[635]: nl80211: kernel reports: Registration to specific type not supported
+   Nov 21 14:26:25 RaspberryPi-4b wpa_supplicant[635]: bgscan simple: Failed to enable signal strength monitoring
+   Nov 21 14:26:29 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 21 14:26:29 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 21 14:26:29 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 21 14:26:29 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
+   Nov 21 14:26:29 RaspberryPi-4b kernel: netlink: 'nordvpnd': attribute type 3 has an invalid length.
 
 Fehlgeschlagene Dienste:
-     UNIT                       LOAD   ACTIVE SUB    DESCRIPTION
-   ● systemd-remount-fs.service loaded failed failed Remount Root and Kernel File Systems
+     UNIT LOAD ACTIVE SUB DESCRIPTION
    
-   Legend: LOAD   → Reflects whether the unit definition was properly loaded.
-           ACTIVE → The high-level unit activation state, i.e. generalization of SUB.
-           SUB    → The low-level unit activation state, values depend on unit type.
-   
-   1 loaded units listed.
+   0 loaded units listed.
 
 Netzadressen (hostname -I):
    192.168.178.123 192.168.178.119 100.122.254.156 2a02:8108:3082:ec00:9afe:54ff:fe22:8ff5 2a02:8108:3082:ec00:9afe:54ff:fe22:8ff6 
@@ -81,14 +74,14 @@ Aktive Schnittstellen:
    nordlynx  100.122.254.156/10
 
 Pruefsummen der Regeldateien (md5, Fassung wie auf GitHub):
-1d67630735c22bfc605d7323b851e5bc  regeln-1-tagesvollcheck-de.md
-4f8f81ca5704bbd5f1a85e2a6e0c4d46  regeln-2-mittags-de.md
-8d3115618e86600dd15fd5ba59ab36d7  regeln-3-abendlauf-de.md
-09904400bd8f36326bcb98add261cb5d  regeln-4-wochencheck-de.md
+ec961ec8d85690f3d98f9cbde0ae4aa3  regeln-1-tagesvollcheck-de.md
+561cf9e38b38ddac9d8f723de5cf80d7  regeln-2-mittags-de.md
+c0407b96ecb63d2865d2cdbc1b2dd790  regeln-3-abendlauf-de.md
+7a1a3b9d2428e3790f579d71e760f0eb  regeln-4-wochencheck-de.md
 
 Pruefsummen der Skripte (md5, Fassung wie auf dem Pi):
-3218fb0f783ca24bf5d4b231df01e7e0  ampel_logik.py
-6740decc960c5f1392004d105fa050fe  test-skript.py
+7aa32dfe5609cc6bdf6b3c22d06622b0  ampel_logik.py
+f23ad83daa7e57a30e72c4a3891f733d  test-skript.py
 b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
 260f7593f36ce7366649f7c22de85a2e  fruehwarnsystem.sh
 a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
