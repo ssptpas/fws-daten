@@ -14,8 +14,8 @@
 # Format: md5-Summe, Leerraum, Pfad relativ zu /home/chris. # ist Kommentar.
 # Die Regeldateien stehen mit ihrer Fassung AUF GITHUB, nicht der auf dem Mac.
 
-3218fb0f783ca24bf5d4b231df01e7e0  ampel_logik.py
-6740decc960c5f1392004d105fa050fe  test-skript.py
+7aa32dfe5609cc6bdf6b3c22d06622b0  ampel_logik.py
+f23ad83daa7e57a30e72c4a3891f733d  test-skript.py
 b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
 a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
 260f7593f36ce7366649f7c22de85a2e  fruehwarnsystem.sh
@@ -28,7 +28,7 @@ fc8cca748e1893705df49042581a6041  gdelt_fetch.py
 
 f9b9f4e7548d695d556c5fc6a49bd0c7  fws-daten/erwartetes-alter.txt
 
-1d67630735c22bfc605d7323b851e5bc  fws-daten/regeln-1-tagesvollcheck-de.md
-4f8f81ca5704bbd5f1a85e2a6e0c4d46  fws-daten/regeln-2-mittags-de.md
-8d3115618e86600dd15fd5ba59ab36d7  fws-daten/regeln-3-abendlauf-de.md
-09904400bd8f36326bcb98add261cb5d  fws-daten/regeln-4-wochencheck-de.md
+ec961ec8d85690f3d98f9cbde0ae4aa3  fws-daten/regeln-1-tagesvollcheck-de.md
+561cf9e38b38ddac9d8f723de5cf80d7  fws-daten/regeln-2-mittags-de.md
+c0407b96ecb63d2865d2cdbc1b2dd790  fws-daten/regeln-3-abendlauf-de.md
+7a1a3b9d2428e3790f579d71e760f0eb  fws-daten/regeln-4-wochencheck-de.md
