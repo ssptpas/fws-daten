@@ -18,7 +18,7 @@
 6740decc960c5f1392004d105fa050fe  test-skript.py
 b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
 a9ba9e113b8cda533da0d798d59a8048  ausgangskontrolle.py
-665163c72ce905c3c28e6ab0079c461b  fruehwarnsystem.sh
+260f7593f36ce7366649f7c22de85a2e  fruehwarnsystem.sh
 b1b3686d1f3402b0246a2d960d18cfbc  tripwire.py
 e27c15bbf616723e37183cb441070a4c  pi-zustand.sh
 fc8cca748e1893705df49042581a6041  gdelt_fetch.py
