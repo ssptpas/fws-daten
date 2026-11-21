@@ -1,0 +1,33 @@
+# AMPEL-STAND -- mechanische Rechnung des Pi, geschrieben bei jedem Lauf.
+#
+# Das ist NICHT das fertige Urteil, sondern die Rechnung von ampel_logik.py.
+# Eine Zeile 'Hinweis:' bedeutet NICHT Rot. Sie bedeutet, dass Fall (b) der
+# Rot-Regel zur Pruefung ansteht: zwei oder mehr Kanaele stehen gleichzeitig
+# auf Voralarm oder hoeher -- sind ihre Ursachen voneinander UNABHAENGIG
+# (Spezifikation 4.7) oder zwei Symptome desselben Ereignisses?
+# Wer einen Bericht schreibt, MUSS diese Frage ausdruecklich beantworten;
+# ein unbeantworteter Hinweis ist ein Mangel. Siehe die Regeldateien.
+#
+# Geschrieben am: 2026-11-21T14:07:54+01:00
+
+Snapshot-Stand: 2026-11-21T14:04:59
+🟠 GESAMTLAGE: ORANGE (159 %)
+  🟡 Kredit: GELB (51 %)
+  🟢 Funding: GRUEN (2 %)
+  🟠 Volatilitaet: ORANGE (159 %)
+  🟢 Arbeitsmarkt: GRUEN (2 %)
+  ⚪ Energie_Geopolitik: nicht bewertbar
+  🟢 Bankensektor: GRUEN (36 %)
+  ⚪ Privater_Kredit: Kontext, stellt keine Ampel
+  Hinweis: Zwei oder mehr Kanaele gleichzeitig bei Voralarm+ -- pruefen, ob die Ursachen wirklich unabhaengig sind (4.7). Wenn ja: von Hand/per Prompt auf ROT anheben.
+  Vergleichsregeln Volatilitaet (Messfeld, OHNE Ampelwirkung):
+    Produktion_K4: an
+    K1: an
+    Niveau_22: an
+    Ampel_laufend: an
+    VIX-Anstieg ueber fuenf Handelstage: +86.0 %
+Vergleichsregeln: Zeile angehaengt
+Kennzahlen-Verlauf: Zeile angehaengt
+Wochenvergleich: Datei neu geschrieben
+
+(Hinweis: Energie/Geopolitik nicht angegeben, siehe --energie-Flag oben)

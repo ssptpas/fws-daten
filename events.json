@@ -1,65 +1,162 @@
 {
-  "erstellt_am": "2026-11-21T09:45:29",
+  "erstellt_am": "2026-11-21T14:05:30",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261121084500",
+  "gkg_stand": "20261121130000",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 16,
   "ereignisse": [
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.5,
+      "tonalitaet": -10.3,
       "treffer": [
-        "airstrike"
+        "missile",
+        "ballistic"
       ],
-      "domain": "middleeasteye.net",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-gazans-wounded-one-critically-israeli-gunfire-and-airstrikes"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "iranoilgas.com",
-      "url": "https://www.iranoilgas.com/news/details.aspx?id=29223&title=US+escalates+its+sanctions+against+Iran,+targets+four+nationals+"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "sana.sy",
-      "url": "https://sana.sy/en/international/2360405/"
+      "domain": "breakingnews.ie",
+      "url": "https://www.breakingnews.ie/world/young-boy-one-of-two-killed-in-ballistic-missile-attack-on-zelenskys-home-town-1959531.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -9.6,
       "treffer": [
         "red sea"
       ],
-      "domain": "sana.sy",
-      "url": "https://sana.sy/en/middle-east/2360393/"
+      "domain": "naharnet.com",
+      "url": "https://mobile.naharnet.com/stories/en/323923-saudi-coalition-issues-hodeida-evacuation-warning-sparking-houthi-threats"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.8,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "heraldseries.co.uk",
+      "url": "https://www.heraldseries.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-town/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.3,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "wral.com",
+      "url": "https://www.wral.com/news/ap/bfdee-ballistic-missile-attack-on-zelenskyys-hometown-in-central-ukraine-kills-2-and-wounds-scores/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "missile",
+        "ballistic"
+      ],
+      "domain": "krmg.com",
+      "url": "https://krmg.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-in-central-ukraine-kills-2-and-wounds-scores/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "bendigoadvertiser.com.au",
+      "url": "https://www.bendigoadvertiser.com.au/story/9395785/missile-attack-on-zelenskiys-hometown-kills-two/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.1,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "queanbeyanage.com.au",
+      "url": "https://www.queanbeyanage.com.au/story/9395785/missile-attack-on-zelenskiys-hometown-kills-two/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "sconeadvocate.com.au",
+      "url": "https://www.sconeadvocate.com.au/story/9395785/missile-attack-on-zelenskiys-hometown-kills-two/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "tonalitaet": -4.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "cubaheadlines.com",
-      "url": "https://www.cubaheadlines.com/articles/346192"
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/11/21/europe-between-a-new-world-war-and-geopolitical-defeat-strategic-energy-miscalculations-geopolitical-ambitions-and-american-pragmatism/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "globalarabnetwork.com",
+      "url": "https://english.globalarabnetwork.com/2026/11/21/us-treasury-secretary-vows-continued-pressure-on-iran-amid-threats/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
+      "tonalitaet": -4.0,
       "treffer": [
         "hormuz"
       ],
-      "domain": "thenationalnews.com",
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/21/iran-exaggerates-hormuz-sea-mine-threat-but-uses-fear-to-tighten-grip/"
+      "domain": "fenlandcitizen.co.uk",
+      "url": "https://www.fenlandcitizen.co.uk/national/briton-swims-in-strait-of-hormuz-to-highlight-environmental-cost-of-war-174588/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.9,
+      "treffer": [
+        "hormuz",
+        "red sea"
+      ],
+      "domain": "wmur.com",
+      "url": "https://www.wmur.com/article/lewis-pugh-strait-of-hormuz-swim-iran-war/74497133"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "yourlocalguardian.co.uk",
+      "url": "https://www.yourlocalguardian.co.uk/news/national/26750618.briton-swims-strait-hormuz-highlight-environmental-cost-war/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "organiser.org",
+      "url": "https://organiser.org/2026/11/21/428056/international/poland-reports-russian-missiles-near-european-drills-nato-calls-incident-grave-as-military-tensions-take-a-new-turn/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "naharnet.com",
+      "url": "https://mobile.naharnet.com/stories/en/323898-mideast-nations-ramp-up-efforts-to-avert-all-out-war-as-israel-urges-iran-strikes"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "aawsat.com",
+      "url": "https://english.aawsat.com/opinion/5343935-shenzhen-summit-and-iran-file"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261121130000; erfolglos: 20261121131500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.1
 }
