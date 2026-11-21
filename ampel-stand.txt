@@ -8,9 +8,9 @@
 # Wer einen Bericht schreibt, MUSS diese Frage ausdruecklich beantworten;
 # ein unbeantworteter Hinweis ist ein Mangel. Siehe die Regeldateien.
 #
-# Geschrieben am: 2026-11-21T17:45:51+01:00
+# Geschrieben am: 2026-11-21T18:02:49+01:00
 
-Snapshot-Stand: 2026-11-21T17:41:34
+Snapshot-Stand: 2026-11-21T17:59:16
 🟠 GESAMTLAGE: ORANGE (159 %)
   🟡 Kredit: GELB (51 %)
   🟢 Funding: GRUEN (2 %)
@@ -26,7 +26,6 @@ Snapshot-Stand: 2026-11-21T17:41:34
     Niveau_22: an
     Ampel_laufend: an
     VIX-Anstieg ueber fuenf Handelstage: +86.0 %
-vergleichsregeln-vola.csv: Kopfzeile erweitert (Spalte schluss_bestaetigt), 54 Altzeilen uebernommen (Werte unveraendert).
 Vergleichsregeln: Zeile angehaengt
 Kennzahlen-Verlauf: Zeile angehaengt
 Wochenvergleich: Datei neu geschrieben
