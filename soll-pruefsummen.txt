@@ -32,3 +32,4 @@ ec961ec8d85690f3d98f9cbde0ae4aa3  fws-daten/regeln-1-tagesvollcheck-de.md
 561cf9e38b38ddac9d8f723de5cf80d7  fws-daten/regeln-2-mittags-de.md
 c0407b96ecb63d2865d2cdbc1b2dd790  fws-daten/regeln-3-abendlauf-de.md
 7a1a3b9d2428e3790f579d71e760f0eb  fws-daten/regeln-4-wochencheck-de.md
+a1839c2f46a646ad1306a98d92ad8a70  waehrungen-fortschreiben.py
