@@ -1,58 +1,55 @@
 {
-  "erstellt_am": "2026-11-21T17:59:45",
+  "erstellt_am": "2026-11-21T22:45:34",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261121170000",
+  "gkg_stand": "20261121214500",
   "veraltet": false,
-  "anzahl": 8,
+  "anzahl": 6,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.5,
+      "kategorie": "Policy",
+      "tonalitaet": -11.3,
       "treffer": [
-        "missile"
+        "sanctions"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf/articleshow/136058641.cms"
+      "domain": "tucson.com",
+      "url": "https://tucson.com/news/local/education/college/article_d84b51ce-ac9b-4e14-8d7a-c4190215284e.html"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
+      "tonalitaet": -7.4,
       "treffer": [
-        "missile",
-        "ballistic"
+        "invasion"
       ],
-      "domain": "thurrockgazette.co.uk",
-      "url": "https://www.thurrockgazette.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/"
+      "domain": "breitbart.com",
+      "url": "https://www.breitbart.com/europe/2026/11/21/sexual-assaults-in-spanish-city-ceuta-surged-by-650-per-cent-since-migrant-invasion-report/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.7,
+      "kategorie": "Policy",
+      "tonalitaet": -6.5,
       "treffer": [
-        "missile",
-        "ballistic"
+        "sanctions"
       ],
-      "domain": "kilburntimes.co.uk",
-      "url": "https://www.kilburntimes.co.uk/news/national/26750572.young-boy-one-two-killed-ballistic-missile-attack-zelenskys-home-city/"
+      "domain": "breitbart.com",
+      "url": "https://www.breitbart.com/news/russian-cargo-ship-hit-by-drone-in-baltic-finland-says/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
       "tonalitaet": -5.2,
       "treffer": [
-        "missile",
         "ballistic"
       ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece"
+      "domain": "irishmirror.ie",
+      "url": "https://www.irishmirror.ie/news/irish-news/gardai-seize-gun-drugs-worth-37902775"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.1,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.8,
       "treffer": [
-        "hormuz"
+        "missile"
       ],
-      "domain": "kilburntimes.co.uk",
-      "url": "https://www.kilburntimes.co.uk/news/national/26750618.briton-swims-strait-hormuz-highlight-environmental-cost-war/"
+      "domain": "breitbart.com",
+      "url": "https://www.breitbart.com/europe/2026/11/21/russian-missile-attack-on-zelenskys-hometown-in-central-ukraine-kills-two-wounds-dozens/"
     },
     {
       "kategorie": "Policy",
@@ -60,27 +57,9 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "orlandosentinel.com",
-      "url": "https://www.orlandosentinel.com/2026/11/20/trump-iran-next-steps/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.7,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "hngnews.com",
-      "url": "http://www.hngnews.com/nation_world/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/article_0f4d40b4-c5be-579c-8709-5a1109731f91.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "news.az",
-      "url": "https://news.az/news/denmark-seeks-tougher-eu-travel-curbs-on-russians-after-foiled-plot"
+      "domain": "tribune.com.pk",
+      "url": "https://tribune.com.pk/story/2641558/china-renews-unsc-push-to-sanction-bla-majeed-brigade"
     }
   ],
-  "gkg_alter_stunden": -0.0
+  "gkg_alter_stunden": 0.0
 }
