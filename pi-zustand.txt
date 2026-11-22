@@ -1,22 +1,22 @@
-Zustand des Pi -- geschrieben 2026-11-22T09:48:36+01:00
+Zustand des Pi -- geschrieben 2026-11-22T14:49:18+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 15 hours, 50 minutes
+Betriebsdauer: up 20 hours, 51 minutes
 Letzter Start: 2026-11-21 17:58:13
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    57.9'C
+Temperatur:    59.4'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       293Mi       1.3Gi        43Mi       347Mi       1.5Gi
+   Mem:           1.8Gi       304Mi       1.3Gi        44Mi       348Mi       1.5Gi
    Swap:             0B          0B          0B
 
 Speicherkarte:
    Filesystem      Size  Used Avail Use% Mounted on
-   overlayroot     924M  7.8M  917M   1% /
+   overlayroot     924M  8.7M  916M   1% /
    /dev/mmcblk0p1  505M   68M  437M  14% /boot/firmware
 
 Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
@@ -32,20 +32,6 @@ Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
    [    2.025085] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
 
 Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
-   Nov 22 00:22:38 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 22 00:22:38 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 22 00:53:08 RaspberryPi-4b systemd-remount-fs[2350]: /usr/bin/mount for / exited with exit status 32.
-   Nov 22 00:53:08 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 22 00:53:08 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 22 00:53:08 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 22 00:53:08 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 22 00:53:08 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 22 00:53:08 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 22 03:11:20 RaspberryPi-4b systemd-remount-fs[2790]: /usr/bin/mount for / exited with exit status 32.
-   Nov 22 03:11:20 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 22 03:11:20 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 22 03:11:20 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 22 03:11:20 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
    Nov 22 03:11:20 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
    Nov 22 03:11:20 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
    Nov 22 06:41:08 RaspberryPi-4b systemd-remount-fs[3472]: /usr/bin/mount for / exited with exit status 32.
@@ -62,6 +48,20 @@ Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
    Nov 22 08:30:12 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
    Nov 22 08:30:12 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
    Nov 22 08:30:12 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 22 11:09:23 RaspberryPi-4b systemd-remount-fs[4507]: /usr/bin/mount for / exited with exit status 32.
+   Nov 22 11:09:23 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 22 11:09:23 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 22 11:09:23 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 22 11:09:23 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 22 11:09:23 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 22 11:09:23 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 22 11:54:40 RaspberryPi-4b systemd-remount-fs[4612]: /usr/bin/mount for / exited with exit status 32.
+   Nov 22 11:54:40 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 22 11:54:40 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 22 11:54:40 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 22 11:54:40 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 22 11:54:40 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 22 11:54:40 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
 
 Fehlgeschlagene Dienste:
      UNIT                       LOAD   ACTIVE SUB    DESCRIPTION
@@ -81,10 +81,10 @@ Aktive Schnittstellen:
    nordlynx  100.122.254.156/10
 
 Pruefsummen der Regeldateien (md5, Fassung wie auf GitHub):
-ec961ec8d85690f3d98f9cbde0ae4aa3  regeln-1-tagesvollcheck-de.md
-561cf9e38b38ddac9d8f723de5cf80d7  regeln-2-mittags-de.md
-c0407b96ecb63d2865d2cdbc1b2dd790  regeln-3-abendlauf-de.md
-7a1a3b9d2428e3790f579d71e760f0eb  regeln-4-wochencheck-de.md
+e298fe66988afd19a1d200929a61faed  regeln-1-tagesvollcheck-de.md
+b504a4d6dac5cfaebcfd03d879935fef  regeln-2-mittags-de.md
+37cca75664add84d332beb35abe471aa  regeln-3-abendlauf-de.md
+7642b93d1f9c3ff5f40eb96eefab28d3  regeln-4-wochencheck-de.md
 
 Pruefsummen der Skripte (md5, Fassung wie auf dem Pi):
 7aa32dfe5609cc6bdf6b3c22d06622b0  ampel_logik.py

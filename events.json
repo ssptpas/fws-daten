@@ -1,93 +1,75 @@
 {
-  "erstellt_am": "2026-11-22T09:45:32",
+  "erstellt_am": "2026-11-22T14:45:33",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261122084500",
+  "gkg_stand": "20261122133000",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 7,
   "ereignisse": [
     {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -10.2,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "mankatofreepress.com",
+      "url": "https://www.mankatofreepress.com/news/state_national_news/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_76b0de85-85d2-5ebe-ad7c-8a47cace144c.html"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -8.8,
+      "tonalitaet": -8.6,
       "treffer": [
         "sanctions"
       ],
       "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/sk4z3lxyxg"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.9,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "businesstoday.in",
-      "url": "https://www.businesstoday.in/world/story/tankers-on-fire-marine-life-at-risk-uk-swimmers-15-km-hormuz-swim-highlights-environmental-crisis-568923-2026-11-22"
+      "url": "https://www.ynetnews.com/article/sjzfnxejqe"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "tonalitaet": -7.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "strategypage.com",
-      "url": "http://www.strategypage.com/qnd/korea/articles/20261122032426.aspx"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "europesun.com",
-      "url": "http://www.europesun.com/news/279448127/daily-world-briefing-nov-22"
+      "domain": "niagarafallsreview.ca",
+      "url": "https://www.niagarafallsreview.ca/news/world/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_ee4ca1e3-1483-52f7-8954-121740b9e5ac.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thejournal.ie",
-      "url": "https://www.thejournal.ie/bahrain-accuses-iran-of-striking-industrial-facility-7234134-Nov2026/"
+      "domain": "globalarabnetwork.com",
+      "url": "https://english.globalarabnetwork.com/2026/11/22/us-imposes-sanctions-on-iranian-oil-smuggling-network/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.4,
+      "tonalitaet": -6.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "punchng.com",
-      "url": "https://punchng.com/serap-sues-ndpc-inec-over-ai-manipulation-of-voters-register/"
+      "domain": "webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/India/20261122/4523063.html"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
+      "kategorie": "Breite",
+      "tonalitaet": -5.0,
       "treffer": [
-        "ballistic"
+        "cyberattack"
       ],
-      "domain": "thejournal.ie",
-      "url": "https://www.thejournal.ie/glock-pistol-around-e1-8m-worth-drugs-seized-searches-dublin-8-7234108-Nov2026/"
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-22-cybersecurity-firm-openai-found-critical-java-vulnerability.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "kategorie": "Policy",
+      "tonalitaet": -3.9,
       "treffer": [
-        "red sea"
+        "sanctions"
       ],
-      "domain": "zerohedge.com",
-      "url": "https://www.zerohedge.com/energy/doug-casey-coming-collapse-saudi-arabia-and-what-it-means-petrodollar"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "internationalviewpoint.org",
-      "url": "https://internationalviewpoint.org/Oppose-global-militarization-defend-a-just-peace"
+      "domain": "examiner.com.au",
+      "url": "https://www.examiner.com.au/story/9395800/russian-cargo-ship-hit-by-drones-in-baltic-still-ablaze/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261122133000; erfolglos: 20261122134500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
