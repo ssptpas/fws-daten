@@ -1,75 +1,93 @@
 {
-  "erstellt_am": "2026-11-22T14:45:33",
+  "erstellt_am": "2026-11-22T22:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261122133000",
+  "gkg_stand": "20261122213000",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -10.2,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "mankatofreepress.com",
-      "url": "https://www.mankatofreepress.com/news/state_national_news/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_76b0de85-85d2-5ebe-ad7c-8a47cace144c.html"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -8.6,
+      "tonalitaet": -9.4,
       "treffer": [
         "sanctions"
       ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/sjzfnxejqe"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.7,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "niagarafallsreview.ca",
-      "url": "https://www.niagarafallsreview.ca/news/world/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_ee4ca1e3-1483-52f7-8954-121740b9e5ac.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "globalarabnetwork.com",
-      "url": "https://english.globalarabnetwork.com/2026/11/22/us-imposes-sanctions-on-iranian-oil-smuggling-network/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.5,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "webindia123.com",
-      "url": "https://news.webindia123.com/news/Articles/India/20261122/4523063.html"
+      "domain": "indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/us/every-american-with-a-retirement-account-is-in-the-blast-radius-doj-targets-chinese-crypto-scam-network-freezes-52-million-and-shuts-13-compounds-in-madagascar/articleshow/136082724.cms"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -5.0,
+      "tonalitaet": -7.6,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-22-cybersecurity-firm-openai-found-critical-java-vulnerability.html"
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/americas/us-ports-face-surge-in-cyberattack-attempts-threatening-vital-trade-routes-report/4133812"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.5,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "timesofmalta.com",
+      "url": "https://timesofmalta.com/article/libya-suspects-drone-strike-russian-ship-caused-blast-benghazi.1137511"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.4,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/11/22/drone-strikes-hit-homes-un-building-in-sudans-capital/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -6.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "examiner.com.au",
-      "url": "https://www.examiner.com.au/story/9395800/russian-cargo-ship-hit-by-drones-in-baltic-still-ablaze/"
+      "domain": "abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16313533/SNP-ministers-NHS-chiefs-law-unto-changes-needless-deaths-continue.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "aa.com.tr",
+      "url": "https://aa.com.tr/en/middle-east/iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz/4133736"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "onlineopinion.com.au",
+      "url": "https://www.onlineopinion.com.au/view.asp?article=24260"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "ghanamma.com",
+      "url": "https://www.ghanamma.com/2026/11/22/the-detrimental-impact-of-monetization-in-political-parties-internal-elections-on-legislative-competence/"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261122133000; erfolglos: 20261122134500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261122213000; erfolglos: 20261122214500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.3
 }
