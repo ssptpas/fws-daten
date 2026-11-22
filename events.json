@@ -1,64 +1,92 @@
 {
-  "erstellt_am": "2026-11-21T22:45:34",
+  "erstellt_am": "2026-11-22T09:45:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261121214500",
+  "gkg_stand": "20261122084500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 9,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -11.3,
+      "tonalitaet": -8.8,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tucson.com",
-      "url": "https://tucson.com/news/local/education/college/article_d84b51ce-ac9b-4e14-8d7a-c4190215284e.html"
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/article/sk4z3lxyxg"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.9,
       "treffer": [
-        "invasion"
+        "hormuz",
+        "tanker"
       ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/europe/2026/11/21/sexual-assaults-in-spanish-city-ceuta-surged-by-650-per-cent-since-migrant-invasion-report/"
+      "domain": "businesstoday.in",
+      "url": "https://www.businesstoday.in/world/story/tankers-on-fire-marine-life-at-risk-uk-swimmers-15-km-hormuz-swim-highlights-environmental-crisis-568923-2026-11-22"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.5,
+      "tonalitaet": -6.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/news/russian-cargo-ship-hit-by-drone-in-baltic-finland-says/"
+      "domain": "strategypage.com",
+      "url": "http://www.strategypage.com/qnd/korea/articles/20261122032426.aspx"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "europesun.com",
+      "url": "http://www.europesun.com/news/279448127/daily-world-briefing-nov-22"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thejournal.ie",
+      "url": "https://www.thejournal.ie/bahrain-accuses-iran-of-striking-industrial-facility-7234134-Nov2026/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "punchng.com",
+      "url": "https://punchng.com/serap-sues-ndpc-inec-over-ai-manipulation-of-voters-register/"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.2,
+      "tonalitaet": -4.3,
       "treffer": [
         "ballistic"
       ],
-      "domain": "irishmirror.ie",
-      "url": "https://www.irishmirror.ie/news/irish-news/gardai-seize-gun-drugs-worth-37902775"
+      "domain": "thejournal.ie",
+      "url": "https://www.thejournal.ie/glock-pistol-around-e1-8m-worth-drugs-seized-searches-dublin-8-7234108-Nov2026/"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.8,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
       "treffer": [
-        "missile"
+        "red sea"
       ],
-      "domain": "breitbart.com",
-      "url": "https://www.breitbart.com/europe/2026/11/21/russian-missile-attack-on-zelenskys-hometown-in-central-ukraine-kills-two-wounds-dozens/"
+      "domain": "zerohedge.com",
+      "url": "https://www.zerohedge.com/energy/doug-casey-coming-collapse-saudi-arabia-and-what-it-means-petrodollar"
     },
     {
-      "kategorie": "Policy",
+      "kategorie": "Finanzsystem",
       "tonalitaet": -3.8,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "tribune.com.pk",
-      "url": "https://tribune.com.pk/story/2641558/china-renews-unsc-push-to-sanction-bla-majeed-brigade"
+      "domain": "internationalviewpoint.org",
+      "url": "https://internationalviewpoint.org/Oppose-global-militarization-defend-a-just-peace"
     }
   ],
   "gkg_alter_stunden": 0.0
