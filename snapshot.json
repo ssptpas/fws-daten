@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-23T09:45:02",
+  "erstellt_am": "2026-11-23T14:45:02",
   "reihen": {
     "HY_OAS": {
       "wert": "3.52",
@@ -27,8 +27,8 @@
       "quelle": "FRED"
     },
     "SOFR": {
-      "wert": "3.91",
-      "beobachtungsdatum": "2026-11-19",
+      "wert": "3.92",
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "FRED"
     },
     "IORB": {
@@ -162,13 +162,13 @@
       "quelle": "FRED"
     },
     "Jet_Spot_GulfCoast": {
-      "wert": "3.763",
-      "beobachtungsdatum": "2026-11-17",
-      "quelle": "FRED"
+      "wert": "nicht verfügbar",
+      "quelle": "FRED",
+      "fehler": "HTTP Error 500: Internal Server Error"
     },
     "ECB_Einlagesatz": {
       "wert": "2.5",
-      "beobachtungsdatum": "2026-11-20",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -412,6 +412,10 @@
     "SOFR_minus_IORB_Historie": {
       "werte": [
         {
+          "datum": "2026-11-20",
+          "wert": 2.0
+        },
+        {
           "datum": "2026-11-19",
           "wert": 1.0
         },
@@ -426,10 +430,6 @@
         {
           "datum": "2026-11-16",
           "wert": 3.0
-        },
-        {
-          "datum": "2026-11-13",
-          "wert": 0.0
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
@@ -492,21 +492,21 @@
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": 1.0,
-      "beobachtungsdatum": "2026-11-19",
+      "wert": 2.0,
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -5.6,
       "markt_datum": "2026-11-20",
-      "leitzins_datum": "2026-11-20",
+      "leitzins_datum": "2026-11-23",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
       "wert": -1.6,
-      "markt_datum": "2026-11-18",
-      "leitzins_datum": "2026-11-19",
+      "markt_datum": "2026-11-19",
+      "leitzins_datum": "2026-11-20",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -527,10 +527,7 @@
       "formel": "Diesel_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "Jet_Crack_USD_bbl": {
-      "wert": 68.52,
-      "beobachtungsdatum": "2026-11-17",
-      "quelle": "FRED/EIA (selbst berechnet, kein fertiger Index)",
-      "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
+      "wert": "nicht berechenbar (kein gemeinsames Datum)"
     },
     "RSP_SPY_Ratio": {
       "wert": 0.3007,
@@ -542,8 +539,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.37",
-      "beobachtungsdatum": "2026-11-20",
+      "wert": "3.35",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -552,18 +549,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.984",
-      "beobachtungsdatum": "2026-11-18",
+      "wert": "3.9841",
+      "beobachtungsdatum": "2026-11-19",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.2894",
-      "beobachtungsdatum": "2026-11-18",
+      "wert": "5.3035",
+      "beobachtungsdatum": "2026-11-19",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "4",
-      "beobachtungsdatum": "2026-11-19",
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
@@ -599,12 +596,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 89.31,
+      "wert": 88.01,
       "beobachtungsdatum": "2026-11-23",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 82.8,
+      "wert": 81.68,
       "beobachtungsdatum": "2026-11-23",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },

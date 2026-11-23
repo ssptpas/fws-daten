@@ -1,56 +1,100 @@
 {
-  "erstellt_am": "2026-11-23T09:46:09",
+  "erstellt_am": "2026-11-23T14:46:12",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261123084500",
+  "gkg_stand": "20261123134500",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Breite",
-      "tonalitaet": -7.4,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -9.5,
       "treffer": [
-        "cyberattack"
+        "hormuz"
       ],
-      "domain": "businesstoday.in",
-      "url": "https://www.businesstoday.in/technology/news/story/one-cyberattack-thousands-of-claims-could-a-cloud-outage-overwhelm-indias-insurance-industry-569036-2026-11-23"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -7.4,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "tokyoreporter.com",
-      "url": "https://www.tokyoreporter.com/japan-news/massive-cyberattack-strikes-tower-records-exposing-personal-data-of-11-million-users/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "jpost.com",
-      "url": "http://www.jpost.com/middle-east/iran-news/article-915787"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/bj5weubkxg"
+      "domain": "hellenicshippingnews.com",
+      "url": "https://www.hellenicshippingnews.com/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-saudi-arabia-escalate/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -6.9,
       "treffer": [
-        "mandeb",
-        "red sea"
+        "mandeb"
       ],
-      "domain": "ynetnews.com",
-      "url": "https://www.ynetnews.com/article/rjb11nw11k7x"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/ukraine-claims-drone-strikes-on-russian-ships-off-libya-what-do-we-know/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "redlandsdailyfacts.com",
+      "url": "https://www.redlandsdailyfacts.com/2026/05/05/derrick-michael-reid-ca-47-candidate-2026-primary-election-questionnaire/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "cyber attack"
+      ],
+      "domain": "lancashiretelegraph.co.uk",
+      "url": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/26753556.next-reports-data-breach-following-recent-cyber-attack/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "ballistic"
+      ],
+      "domain": "citizen.co.za",
+      "url": "https://www.citizen.co.za/news/south-africa/courts/shebeshxt-bail-hearing-investigating-officer-defends-ballistic-evidence-in-court/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "missile"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279447448/missiles-land-in-poland-russia-accused-of-provocation"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thejournal.ie",
+      "url": "https://www.thejournal.ie/ukraine-drone-attack-libya-7234783-Nov2026/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.0,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "firerescue1.com",
+      "url": "https://www.firerescue1.com/fire-apparatus/n-c-fire-engine-overrun-by-flames-during-grass-fire"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -3.8,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "theregister.com",
+      "url": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "abc13.com",
+      "url": "https://abc13.com/story/strait-hormuz-attacks-have-increased-highest-level-iran-war-began/20069523/"
     }
   ],
   "gkg_alter_stunden": 0.0
