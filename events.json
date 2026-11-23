@@ -1,93 +1,57 @@
 {
-  "erstellt_am": "2026-11-22T22:45:37",
+  "erstellt_am": "2026-11-23T09:46:09",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261122213000",
+  "gkg_stand": "20261123084500",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 5,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -9.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/world/us/every-american-with-a-retirement-account-is-in-the-blast-radius-doj-targets-chinese-crypto-scam-network-freezes-52-million-and-shuts-13-compounds-in-madagascar/articleshow/136082724.cms"
-    },
-    {
       "kategorie": "Breite",
-      "tonalitaet": -7.6,
+      "tonalitaet": -7.4,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/americas/us-ports-face-surge-in-cyberattack-attempts-threatening-vital-trade-routes-report/4133812"
+      "domain": "businesstoday.in",
+      "url": "https://www.businesstoday.in/technology/news/story/one-cyberattack-thousands-of-claims-could-a-cloud-outage-overwhelm-indias-insurance-industry-569036-2026-11-23"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "drone strike"
-      ],
-      "domain": "timesofmalta.com",
-      "url": "https://timesofmalta.com/article/libya-suspects-drone-strike-russian-ship-caused-blast-benghazi.1137511"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
+      "kategorie": "Breite",
       "tonalitaet": -7.4,
       "treffer": [
-        "drone strike"
+        "cyberattack"
       ],
-      "domain": "ghanamma.com",
-      "url": "https://www.ghanamma.com/2026/11/22/drone-strikes-hit-homes-un-building-in-sudans-capital/"
+      "domain": "tokyoreporter.com",
+      "url": "https://www.tokyoreporter.com/japan-news/massive-cyberattack-strikes-tower-records-exposing-personal-data-of-11-million-users/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.8,
+      "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "abc.net.au",
-      "url": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280"
+      "domain": "jpost.com",
+      "url": "http://www.jpost.com/middle-east/iran-news/article-915787"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -6.2,
+      "tonalitaet": -6.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16313533/SNP-ministers-NHS-chiefs-law-unto-changes-needless-deaths-continue.html"
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/article/bj5weubkxg"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
+      "tonalitaet": -3.9,
       "treffer": [
-        "hormuz"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "aa.com.tr",
-      "url": "https://aa.com.tr/en/middle-east/iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz/4133736"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "onlineopinion.com.au",
-      "url": "https://www.onlineopinion.com.au/view.asp?article=24260"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ghanamma.com",
-      "url": "https://www.ghanamma.com/2026/11/22/the-detrimental-impact-of-monetization-in-political-parties-internal-elections-on-legislative-competence/"
+      "domain": "ynetnews.com",
+      "url": "https://www.ynetnews.com/article/rjb11nw11k7x"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261122213000; erfolglos: 20261122214500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "gkg_alter_stunden": 0.0
 }

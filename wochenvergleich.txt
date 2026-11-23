@@ -1,6 +1,6 @@
 Wochenvergleich der Kennzahlen -- auf dem Pi gerechnet, nicht geschaetzt.
-Erzeugt: 2026-11-22T22:45:01
-Vergleich: Lauf vom 2026-10-25T09:45:01 gegen Lauf vom 2026-11-22T22:45:01, tatsaechlicher Abstand 28 Tage
+Erzeugt: 2026-11-23T09:45:02
+Vergleich: Lauf vom 2026-10-26T09:45:01 gegen Lauf vom 2026-11-23T09:45:02, tatsaechlicher Abstand 28 Tage
 Angefragt waren 28 Tage; genommen wurde der naechstgelegene vorhandene Lauf.
 Die Daten in Klammern sind BEOBACHTUNGSDATEN der Werte, nicht die Laufzeitpunkte.
 
@@ -12,11 +12,11 @@ kbe_drawdown_pct                   -8.1 (2026-10-23)  ->         -10.1 (2026-11-
 kre_drawdown_pct                   -7.0 (2026-10-23)  ->          -9.2 (2026-11-20)   -2.2 Prozentpunkte
 arcc_drawdown_pct                  -7.7 (2026-10-23)  ->          -8.2 (2026-11-20)   -0.5 Prozentpunkte
 bizd_drawdown_pct                 -11.9 (2026-10-23)  ->         -11.8 (2026-11-20)   +0.1 Prozentpunkte
-vix                               19.45 (2026-10-23)  ->         35.89 (2026-11-20)   +16.44 Punkte  (+84.5 % von 19.45)
+vix                               19.58 (2026-10-26)  ->         31.19 (2026-11-23)   +11.61 Punkte  (+59.3 % von 19.58)
 vix_vix3m_ratio                  0.9497 (2026-10-23)  ->          1.16 (2026-11-20)   +0.2103   (+22.1 % von 0.9497)
 rsp_spy_ratio                    0.2849 (ohne Datum)  ->        0.3007 (2026-11-20)   +0.0158   (+5.5 % von 0.2849)
 brent_spot                       115.22 (2026-10-20)  ->         92.94 (2026-11-17)   -22.28 USD/Barrel  (-19.3 % von 115.22)
-brent_termin                      111.7 (2026-10-23)  ->         89.95 (2026-11-20)   -21.75 USD/Barrel  (-19.5 % von 111.7)
+brent_termin                     109.77 (2026-10-26)  ->         89.31 (2026-11-23)   -20.46 USD/Barrel  (-18.6 % von 109.77)
 diesel_crack                     100.51 (2026-10-20)  ->         76.08 (2026-11-17)   -24.43 USD/Barrel  (-24.3 % von 100.51)
 initial_claims                   194000 (2026-10-17)  ->        203000 (2026-11-14)   +9000 Antraege  (+4.6 % von 194000)
 hormus_transit_ais                    4 (2026-10-18)  ->             2 (2026-11-15)   -2 Schiffe/Tag (AIS-sichtbar)  (-50.0 % von 4)

@@ -8,9 +8,9 @@
 # Wer einen Bericht schreibt, MUSS diese Frage ausdruecklich beantworten;
 # ein unbeantworteter Hinweis ist ein Mangel. Siehe die Regeldateien.
 #
-# Geschrieben am: 2026-11-22T22:49:23+01:00
+# Geschrieben am: 2026-11-23T09:49:13+01:00
 
-Snapshot-Stand: 2026-11-22T22:45:01
+Snapshot-Stand: 2026-11-23T09:45:02
 🟠 GESAMTLAGE: ORANGE (159 %)
   🟡 Kredit: GELB (51 %)
   🟢 Funding: GRUEN (2 %)
@@ -25,7 +25,7 @@ Snapshot-Stand: 2026-11-22T22:45:01
     K1: an
     Niveau_22: an
     Ampel_laufend: an
-    VIX-Anstieg ueber fuenf Handelstage: +86.0 %
+    VIX-Anstieg ueber fuenf Handelstage: +36.1 %
 Vergleichsregeln: Zeile angehaengt
 Kennzahlen-Verlauf: Zeile angehaengt
 Wochenvergleich: Datei neu geschrieben
