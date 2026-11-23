@@ -1,37 +1,37 @@
 {
-  "erstellt_am": "2026-11-23T14:46:12",
+  "erstellt_am": "2026-11-23T22:46:00",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261123134500",
+  "gkg_stand": "20261123213000",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -9.5,
+      "kategorie": "Policy",
+      "tonalitaet": -8.2,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "hellenicshippingnews.com",
-      "url": "https://www.hellenicshippingnews.com/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-saudi-arabia-escalate/"
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2626936/massacre-foiled-former-mossad-chief-says-israeli-intelligence-helped-save-hundreds-from-vienna-concert-attack.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -8.2,
       "treffer": [
-        "mandeb"
+        "central bank"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/ukraine-claims-drone-strikes-on-russian-ships-off-libya-what-do-we-know/"
+      "domain": "naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-11-23-21k-rally-paris-cost-of-living-protests-france.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.8,
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.9,
       "treffer": [
-        "hormuz"
+        "drone strike"
       ],
-      "domain": "redlandsdailyfacts.com",
-      "url": "https://www.redlandsdailyfacts.com/2026/05/05/derrick-michael-reid-ca-47-candidate-2026-primary-election-questionnaire/"
+      "domain": "wmra.org",
+      "url": "https://www.wmra.org/2026-11-23/ukraine-war-expands-as-zelenskyy-claims-sea-drone-strike-in-libya"
     },
     {
       "kategorie": "Breite",
@@ -39,63 +39,56 @@
       "treffer": [
         "cyber attack"
       ],
-      "domain": "lancashiretelegraph.co.uk",
-      "url": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/26753556.next-reports-data-breach-following-recent-cyber-attack/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "ballistic"
-      ],
-      "domain": "citizen.co.za",
-      "url": "https://www.citizen.co.za/news/south-africa/courts/shebeshxt-bail-hearing-investigating-officer-defends-ballistic-evidence-in-court/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "missile"
-      ],
-      "domain": "heraldglobe.com",
-      "url": "http://www.heraldglobe.com/news/279447448/missiles-land-in-poland-russia-accused-of-provocation"
+      "domain": "swindonadvertiser.co.uk",
+      "url": "https://www.swindonadvertiser.co.uk/news/26755814.next-reports-data-breach-following-recent-cyber-attack/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.3,
+      "tonalitaet": -5.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "thejournal.ie",
-      "url": "https://www.thejournal.ie/ukraine-drone-attack-libya-7234783-Nov2026/"
+      "domain": "iheart.com",
+      "url": "https://kogo.iheart.com/content/2026-11-23-la-rep-gomez-to-resign-after-ethics-panel-finds-misconduct/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.0,
+      "tonalitaet": -3.9,
       "treffer": [
+        "hormuz",
         "tanker"
       ],
-      "domain": "firerescue1.com",
-      "url": "https://www.firerescue1.com/fire-apparatus/n-c-fire-engine-overrun-by-flames-during-grass-fire"
+      "domain": "theyeshivaworld.com",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2626959/hormuz-showdown-uae-oil-giant-runs-u-s-protected-tanker-convoys-despite-repeated-iranian-attacks.html"
     },
     {
-      "kategorie": "Breite",
+      "kategorie": "Policy",
       "tonalitaet": -3.8,
       "treffer": [
-        "cyberattack"
+        "sanctions"
       ],
-      "domain": "theregister.com",
-      "url": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598"
+      "domain": "wgauradio.com",
+      "url": "https://www.wgauradio.com/news/world/bukele-reveals/G2O23SCFI4YVZCMBTRV3TKRXJY/"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.6,
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
       "treffer": [
-        "hormuz"
+        "sanctions"
       ],
-      "domain": "abc13.com",
-      "url": "https://abc13.com/story/strait-hormuz-attacks-have-increased-highest-level-iran-war-began/20069523/"
+      "domain": "reporterherald.com",
+      "url": "https://www.reporterherald.com/2026/11/23/congress-house-ethics-jimmy-gomez/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "wgauradio.com",
+      "url": "https://www.wgauradio.com/news/politics/ethics-probe-finds/QCNQEELSHE6SPLAJHPHN6J4HMU/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261123213000; erfolglos: 20261123214500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
