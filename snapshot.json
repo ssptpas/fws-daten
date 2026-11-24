@@ -1,24 +1,24 @@
 {
-  "erstellt_am": "2026-11-24T14:45:01",
+  "erstellt_am": "2026-11-24T22:45:01",
   "reihen": {
     "HY_OAS": {
-      "wert": "3.76",
-      "beobachtungsdatum": "2026-11-20",
+      "wert": "3.63",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "IG_OAS": {
-      "wert": "0.98",
-      "beobachtungsdatum": "2026-11-20",
+      "wert": "0.97",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "29.58",
+      "wert": "26.36",
       "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "VIX3M": {
-      "wert": "25.5",
-      "beobachtungsdatum": "2026-11-23",
+      "wert": "25.47",
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "Zinskurve_10J_2J": {
@@ -34,7 +34,8 @@
     "IORB": {
       "wert": "3.9",
       "beobachtungsdatum": "2026-11-24",
-      "quelle": "FRED"
+      "quelle": "FRED",
+      "hinweis": "FRED fuehrt bereits einen Wert zum 2026-11-25; hier steht der heute gueltige"
     },
     "Initial_Claims": {
       "wert": "203000",
@@ -52,13 +53,13 @@
       "quelle": "FRED"
     },
     "Realrendite_10J": {
-      "wert": "2.77",
-      "beobachtungsdatum": "2026-11-20",
+      "wert": "2.79",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "US_Rendite_10J": {
       "wert": "4.92",
-      "beobachtungsdatum": "2026-11-20",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "Inflationserwartung_5J5J": {
@@ -117,13 +118,13 @@
       "quelle": "FRED"
     },
     "EuroHY_OAS": {
-      "wert": "3.54",
-      "beobachtungsdatum": "2026-11-20",
+      "wert": "3.52",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "EM_Corp_OAS": {
-      "wert": "1.98",
-      "beobachtungsdatum": "2026-11-20",
+      "wert": "1.96",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "IT_Rendite_10J_Monatlich": {
@@ -142,13 +143,13 @@
       "quelle": "FRED"
     },
     "Fed_Reverse_Repo_USD_Mrd": {
-      "wert": "0.35",
-      "beobachtungsdatum": "2026-11-23",
+      "wert": "0.301",
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "FRED"
     },
     "CP_Financial_3M": {
-      "wert": "4.41",
-      "beobachtungsdatum": "2026-11-20",
+      "wert": "4.37",
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED"
     },
     "WTI_Rohoel": {
@@ -242,6 +243,10 @@
     "US_Rendite_10J_Historie": {
       "werte": [
         {
+          "datum": "2026-11-23",
+          "wert": 4.92
+        },
+        {
           "datum": "2026-11-20",
           "wert": 4.92
         },
@@ -276,10 +281,6 @@
         {
           "datum": "2026-11-09",
           "wert": 4.88
-        },
-        {
-          "datum": "2026-11-06",
-          "wert": 4.86
         }
       ],
       "quelle": "FRED (letzte ca. 2 Wochen Handelstage)",
@@ -289,7 +290,7 @@
       "werte": [
         {
           "datum": "2026-11-24",
-          "wert": 29.58
+          "wert": 26.36
         },
         {
           "datum": "2026-11-23",
@@ -322,6 +323,10 @@
     "HY_OAS_Historie": {
       "werte": [
         {
+          "datum": "2026-11-23",
+          "wert": 3.63
+        },
+        {
           "datum": "2026-11-20",
           "wert": 3.76
         },
@@ -340,10 +345,6 @@
         {
           "datum": "2026-11-16",
           "wert": 3.34
-        },
-        {
-          "datum": "2026-11-13",
-          "wert": 3.23
         }
       ],
       "quelle": "FRED (letzte ca. 6 Handelstage)",
@@ -351,6 +352,10 @@
     },
     "IG_OAS_Historie": {
       "werte": [
+        {
+          "datum": "2026-11-23",
+          "wert": 0.97
+        },
         {
           "datum": "2026-11-20",
           "wert": 0.98
@@ -370,10 +375,6 @@
         {
           "datum": "2026-11-16",
           "wert": 0.9
-        },
-        {
-          "datum": "2026-11-13",
-          "wert": 0.89
         }
       ],
       "quelle": "FRED (letzte ca. 6 Handelstage)",
@@ -393,9 +394,11 @@
       "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "BabelMandeb_Transit": {
-      "wert": "nicht verfügbar",
+      "wert": 20,
+      "tanker": 5,
+      "beobachtungsdatum": "2026-11-22",
       "quelle": "IMF PortWatch",
-      "fehler": "ArcGIS-Fehler 400: Invalid URL"
+      "einheit": "Schiffe/Tag (ca. 1 Woche verzoegert)"
     },
     "Treasury_Auktion": {
       "wert": "2.540000",
@@ -436,6 +439,10 @@
     "VIX_VIX3M_Ratio_Historie": {
       "werte": [
         {
+          "datum": "2026-11-24",
+          "wert": 1.0349
+        },
+        {
           "datum": "2026-11-23",
           "wert": 1.0439
         },
@@ -450,42 +457,38 @@
         {
           "datum": "2026-11-18",
           "wert": 1.0111
-        },
-        {
-          "datum": "2026-11-17",
-          "wert": 1.0192
         }
       ],
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell) (berechnet, letzte 5 gemeinsamen Handelstage)",
       "hinweis": "fuer die Voralarm-Persistenzregel: Ratio > 1,00 an zwei Handelsschluessen, davon einmal > 1,02"
     },
     "Bank_Stress_KBE": {
-      "wert": 63.56,
+      "wert": 63.87,
       "hoch_60T": 69.34,
-      "drawdown_pct": -8.3,
-      "beobachtungsdatum": "2026-11-23",
+      "drawdown_pct": -7.9,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Bank_Stress_KRE": {
-      "wert": 69.54,
+      "wert": 69.76,
       "hoch_60T": 75.27,
-      "drawdown_pct": -7.6,
-      "beobachtungsdatum": "2026-11-23",
+      "drawdown_pct": -7.3,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Privatkredit_ARCC": {
-      "wert": 18.76,
-      "hoch_60T": 20.07,
-      "drawdown_pct": -6.5,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 18.85,
+      "hoch_60T": 20.04,
+      "drawdown_pct": -5.9,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)",
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "Privatkredit_BIZD": {
-      "wert": 12.13,
-      "hoch_60T": 13.51,
-      "drawdown_pct": -10.2,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 12.21,
+      "hoch_60T": 13.35,
+      "drawdown_pct": -8.5,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)",
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
@@ -509,13 +512,13 @@
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "CP_minus_SOFR_bp": {
-      "wert": 49.0,
-      "beobachtungsdatum": "2026-11-20",
+      "wert": 45.0,
+      "beobachtungsdatum": "2026-11-23",
       "quelle": "FRED (berechnet, SOFR als OIS-Naeherung)"
     },
     "VIX_VIX3M_Ratio": {
-      "wert": 1.0439,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 1.0349,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell) (berechnet)"
     },
     "Diesel_Crack_USD_bbl": {
@@ -531,8 +534,8 @@
       "formel": "Jet_Spot_GulfCoast (USD/Gallone) * 42 - WTI_Rohoel (USD/Barrel)"
     },
     "RSP_SPY_Ratio": {
-      "wert": 0.2946,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 0.2977,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, selbst berechnet)",
       "formel": "Breadth_ETF_RSP / Breadth_ETF_SPY",
       "hinweis": "fallende Ratio = engere Marktfuehrung/Konzentrationsrisiko"
@@ -572,48 +575,48 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 31.51,
-      "beobachtungsdatum": "2026-11-24",
+      "wert": 33.07,
+      "beobachtungsdatum": "2026-11-20",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
-      "wert": 212.82,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 213.96,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_SPY": {
-      "wert": 722.29,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 718.78,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "MOVE_Index": {
-      "wert": 100.91,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 98.84,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Baltic_Dry_Proxy_BDRY": {
-      "wert": 12.66,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 12.65,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 87.46,
+      "wert": 88.36,
       "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 80.77,
+      "wert": 81.52,
       "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Implizite_Korrelation_1M": {
-      "wert": 25.68,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 24.62,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Einzelwert_Volatilitaet": {
-      "wert": 49.09,
-      "beobachtungsdatum": "2026-11-23",
+      "wert": 50.04,
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     }
   }
