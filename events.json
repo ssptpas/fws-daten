@@ -1,83 +1,83 @@
 {
-  "erstellt_am": "2026-11-23T22:46:00",
+  "erstellt_am": "2026-11-24T09:46:22",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261123213000",
+  "gkg_stand": "20261124081500",
   "veraltet": false,
   "anzahl": 9,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -10.1,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "arynews.tv",
+      "url": "https://arynews.tv/israeli-airstrike-kills-at-least-three-palestinians-in-southern-gaza-medics-say"
+    },
+    {
       "kategorie": "Policy",
-      "tonalitaet": -8.2,
+      "tonalitaet": -6.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2626936/massacre-foiled-former-mossad-chief-says-israeli-intelligence-helped-save-hundreds-from-vienna-concert-attack.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-11-23-21k-rally-paris-cost-of-living-protests-france.html"
+      "domain": "theuknews.com",
+      "url": "http://www.theuknews.com/news/279451221/14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
+      "tonalitaet": -5.8,
       "treffer": [
-        "drone strike"
+        "nuclear weapon"
       ],
-      "domain": "wmra.org",
-      "url": "https://www.wmra.org/2026-11-23/ukraine-war-expands-as-zelenskyy-claims-sea-drone-strike-in-libya"
+      "domain": "nypost.com",
+      "url": "https://nypost.com/2026/11/24/world-news/russia-warns-of-preventive-nuclear-attack-as-medvedev-claims-ukraine-nato-crossed-line/"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -5.2,
+      "tonalitaet": -4.9,
       "treffer": [
-        "cyber attack"
+        "cyberattack"
       ],
-      "domain": "swindonadvertiser.co.uk",
-      "url": "https://www.swindonadvertiser.co.uk/news/26755814.next-reports-data-breach-following-recent-cyber-attack/"
+      "domain": "wisn.com",
+      "url": "https://www.wisn.com/article/eu-academy-data-leak-ai-driven-cyberattack/74515041"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.0,
+      "tonalitaet": -4.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "iheart.com",
-      "url": "https://kogo.iheart.com/content/2026-11-23-la-rep-gomez-to-resign-after-ethics-panel-finds-misconduct/"
+      "domain": "idahostatejournal.com",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-12-04-a-m-est/article_e59d50dd-7c27-5d01-af4e-428a64d31464.html"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.5,
       "treffer": [
         "hormuz",
-        "tanker"
+        "crude oil"
       ],
-      "domain": "theyeshivaworld.com",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2626959/hormuz-showdown-uae-oil-giant-runs-u-s-protected-tanker-convoys-despite-repeated-iranian-attacks.html"
+      "domain": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat/article71737296.ece"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wgauradio.com",
-      "url": "https://www.wgauradio.com/news/world/bukele-reveals/G2O23SCFI4YVZCMBTRV3TKRXJY/"
+      "domain": "oceanfm.ie",
+      "url": "https://www.oceanfm.ie/news/hse-chief-executive-dispute-set-to-be-raised-in-dail-1563175"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "reporterherald.com",
-      "url": "https://www.reporterherald.com/2026/11/23/congress-house-ethics-jimmy-gomez/"
+      "domain": "netscape.com",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20261124/831297473fcc9a83d92d02ca5ee770f5"
     },
     {
       "kategorie": "Policy",
@@ -85,10 +85,10 @@
       "treffer": [
         "sanctions"
       ],
-      "domain": "wgauradio.com",
-      "url": "https://www.wgauradio.com/news/politics/ethics-probe-finds/QCNQEELSHE6SPLAJHPHN6J4HMU/"
+      "domain": "goskagit.com",
+      "url": "http://www.goskagit.com/news/ap_business/north-korea-reviews-switzerland-relations-after-sanctions-on-youth-camp-linked-to-russia-ukraine-war/article_acf161be-d2d9-53ea-b14b-14193bb7d16a.html"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261123213000; erfolglos: 20261123214500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261124081500; erfolglos: 20261124084500: HTTP Error 404: Not Found | 20261124083000: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.5
 }
