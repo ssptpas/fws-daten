@@ -1,94 +1,77 @@
 {
-  "erstellt_am": "2026-11-24T09:46:22",
+  "erstellt_am": "2026-11-24T14:46:16",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261124081500",
+  "gkg_stand": "20261124133000",
   "veraltet": false,
-  "anzahl": 9,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -10.1,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "arynews.tv",
-      "url": "https://arynews.tv/israeli-airstrike-kills-at-least-three-palestinians-in-southern-gaza-medics-say"
-    },
-    {
       "kategorie": "Policy",
-      "tonalitaet": -6.0,
+      "tonalitaet": -8.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "theuknews.com",
-      "url": "http://www.theuknews.com/news/279451221/14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "nuclear weapon"
-      ],
-      "domain": "nypost.com",
-      "url": "https://nypost.com/2026/11/24/world-news/russia-warns-of-preventive-nuclear-attack-as-medvedev-claims-ukraine-nato-crossed-line/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "wisn.com",
-      "url": "https://www.wisn.com/article/eu-academy-data-leak-ai-driven-cyberattack/74515041"
+      "domain": "english.news.cn",
+      "url": "https://english.news.cn/20261124/d53bb5595e514565b241dd0b978e7808/c.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.9,
+      "tonalitaet": -8.3,
       "treffer": [
-        "sanctions"
+        "government shutdown"
       ],
-      "domain": "idahostatejournal.com",
-      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-12-04-a-m-est/article_e59d50dd-7c27-5d01-af4e-428a64d31464.html"
+      "domain": "iheart.com",
+      "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-11-24-jeffries-draws-fire-after-refusing-to-rule-out-government-shutdown/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.5,
+      "tonalitaet": -6.5,
       "treffer": [
-        "hormuz",
-        "crude oil"
+        "mandeb",
+        "red sea"
       ],
-      "domain": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat/article71737296.ece"
+      "domain": "israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/437007"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "nuclear weapon"
+      ],
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/germany-russia-nuclear-capable-satellite-security-concern-1834451"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "mandeb",
+        "red sea"
+      ],
+      "domain": "hngn.com",
+      "url": "https://www.hngn.com/articles/273940/20261124/strike-yemen-buses-kills-26-rivals-trade-blame.htm"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -5.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "oceanfm.ie",
-      "url": "https://www.oceanfm.ie/news/hse-chief-executive-dispute-set-to-be-raised-in-dail-1563175"
+      "domain": "wsbradio.com",
+      "url": "https://www.wsbradio.com/news/world/iran-insists-no/P24ZCW2W7I745GZC67TAPOXQYE/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "tonalitaet": -3.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "netscape.com",
-      "url": "https://isp.netscape.com:443/pf/story/0001/20261124/831297473fcc9a83d92d02ca5ee770f5"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "goskagit.com",
-      "url": "http://www.goskagit.com/news/ap_business/north-korea-reviews-switzerland-relations-after-sanctions-on-youth-camp-linked-to-russia-ukraine-war/article_acf161be-d2d9-53ea-b14b-14193bb7d16a.html"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/opinion/genocide-ruling-changes-terms-of-engagement-with-myanmar-3013074"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 2 Viertelstunde(n) auf 20261124081500; erfolglos: 20261124084500: HTTP Error 404: Not Found | 20261124083000: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.5
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261124133000; erfolglos: 20261124134500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
