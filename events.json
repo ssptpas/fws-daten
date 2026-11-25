@@ -1,64 +1,127 @@
 {
-  "erstellt_am": "2026-11-25T09:45:37",
+  "erstellt_am": "2026-11-25T14:46:01",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261125084500",
+  "gkg_stand": "20261125134500",
   "veraltet": false,
-  "anzahl": 6,
+  "anzahl": 13,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.3,
+      "tonalitaet": -11.1,
       "treffer": [
         "sanctions"
       ],
-      "domain": "oneindia.com",
-      "url": "https://www.oneindia.com/india/supreme-court-refuses-interim-bail-to-umar-khalid-sharjeel-imam-in-2020-delhi-riots-case-8269419.html"
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/watch/huawei-convicted-in-us-stealing-trade-secrets-violating-iran-sanctions-6581671"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.7,
+      "tonalitaet": -8.6,
       "treffer": [
         "sanctions"
-      ],
-      "domain": "allafrica.com",
-      "url": "https://allafrica.com/stories/202611250075.html"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "cyber attack"
-      ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/news/us-news/us-financial-crimes-bureau-takes-some-systems-offline-after-unauthorised-access-as-cyber-attacks-continue-11795594540875.html"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/business/ikea-store-in-belgium-hit-by-fridge-cyberattack-refrigeration-systems-impacted-as-supermarkets-across-europe-face-issues/articleshow/135465467.cms"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "cyberattack"
       ],
       "domain": "organiser.org",
-      "url": "https://organiser.org/2026/11/25/428841/international/major-cybersecurity-scare-in-us-cia-odni-systems-targeted-in-apparent-cyberattack-classified-data-unaffected/"
+      "url": "https://organiser.org/2026/11/25/428869/international/us-chinese-tech-firm-huawei-convicted-in-trade-secret-theft-case-amid-deepening-nvidia-spy-allegations-against-beijing/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "air strike"
+      ],
+      "domain": "globalarabnetwork.com",
+      "url": "https://english.globalarabnetwork.com/2026/11/25/at-least-six-palestinians-killed-in-gaza-air-strikes/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "koreatimes.co.kr",
+      "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20261125/additional-personal-info-leaked-from-bithumb-in-cyberattacks"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -5.0,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "channelnewsasia.com",
+      "url": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.8,
+      "treffer": [
+        "hormuz"
+      ],
+      "domain": "oedigital.com",
+      "url": "https://www.oedigital.com/news/544578-oil-falls-as-supply-glut-concerns-overshadow-hormuz-shipping-risks"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wiky.com",
-      "url": "https://wiky.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/"
+      "domain": "warontherocks.com",
+      "url": "https://warontherocks.com/does-congress-really-want-its-war-powers-back/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "mandeb"
+      ],
+      "domain": "khabaragency.net",
+      "url": "https://www.khabaragency.net/news256223.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.1,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "haitisun.com",
+      "url": "http://www.haitisun.com/news/279450982/bipartisan-coalition-in-congress-weighs-new-ukraine-support-measure"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.7,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "riotimesonline.com",
+      "url": "https://www.riotimesonline.com/sudan-drone-attacks-damazin-roseires-blue-nile/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.6,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "wdtimes.com",
+      "url": "http://www.wdtimes.com/news/national/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/article_68567389-ea3d-596f-9c25-fbe4eb90346d.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "koat.com",
+      "url": "https://www.koat.com/article/us-new-tariffs-china-eu-subsidized-production/74525712"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.4,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "dailyadvertiser.com.au",
+      "url": "https://www.dailyadvertiser.com.au/story/9398042/trump-to-reignite-trade-tensions-with-new-tariffs/"
     }
   ],
   "gkg_alter_stunden": 0.0

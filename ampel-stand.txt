@@ -8,12 +8,12 @@
 # Wer einen Bericht schreibt, MUSS diese Frage ausdruecklich beantworten;
 # ein unbeantworteter Hinweis ist ein Mangel. Siehe die Regeldateien.
 #
-# Geschrieben am: 2026-11-25T09:48:42+01:00
+# Geschrieben am: 2026-11-25T14:49:06+01:00
 
-Snapshot-Stand: 2026-11-25T09:45:02
+Snapshot-Stand: 2026-11-25T14:45:01
 🟡 GESAMTLAGE: GELB (64 %)
-  🟡 Kredit: GELB (56 %)
-  🟢 Funding: GRUEN (4 %)
+  🟢 Kredit: GRUEN (32 %)
+  🟢 Funding: GRUEN (8 %)
   🟡 Volatilitaet: GELB (64 %)
   ⚪ Arbeitsmarkt: Kontext, stellt keine Ampel
   ⚪ Energie_Geopolitik: nicht bewertbar
@@ -24,7 +24,7 @@ Snapshot-Stand: 2026-11-25T09:45:02
     K1: an
     Niveau_22: an
     Ampel_laufend: an
-    VIX-Anstieg ueber fuenf Handelstage: +13.5 %
+    VIX-Anstieg ueber fuenf Handelstage: +25.2 %
 Vergleichsregeln: Zeile angehaengt
 Kennzahlen-Verlauf: Zeile angehaengt
 Wochenvergleich: Datei neu geschrieben
