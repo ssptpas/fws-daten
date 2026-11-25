@@ -1,172 +1,64 @@
 {
-  "erstellt_am": "2026-11-24T22:45:42",
+  "erstellt_am": "2026-11-25T09:45:37",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261124214500",
+  "gkg_stand": "20261125084500",
   "veraltet": false,
-  "anzahl": 18,
+  "anzahl": 6,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -9.7,
+      "tonalitaet": -7.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "peakoil.com",
-      "url": "https://peakoil.com/production/iran-faces-a-deepening-natural-gas-crisis-ahead-of-winter"
+      "domain": "oneindia.com",
+      "url": "https://www.oneindia.com/india/supreme-court-refuses-interim-bail-to-umar-khalid-sharjeel-imam-in-2020-delhi-riots-case-8269419.html"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.3,
+      "tonalitaet": -5.7,
       "treffer": [
         "sanctions"
       ],
-      "domain": "globalnews.ca",
-      "url": "https://globalnews.ca/news/12164733/huawei-guilty-steal-trade-secrets-conspiracy-us-jury/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thehindu.com",
-      "url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -8.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "nbcconnecticut.com",
-      "url": "https://www.nbcconnecticut.com/news/national-international/huawei-guilty-conspiracy-steal-trade-secrets-us-jury-finds/3799394/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "chicagotribune.com",
-      "url": "https://www.chicagotribune.com/2026/11/24/chinese-tech-huawei-trade-secrets/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.1,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mendocinobeacon.com",
-      "url": "https://www.mendocinobeacon.com/2026/11/24/huawei-guilty-conspiracy-trial/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wgauradio.com",
-      "url": "https://www.wgauradio.com/news/chinese-tech-giant/WA35MSUQ6Q7X3P6FVC76USWWBA/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.6,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "antiwar.com",
-      "url": "https://news.antiwar.com/2026/11/24/saudi-airstrikes-on-equestrian-club-in-yemen-kill-dozens-of-horses/"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.1,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "antiwar.com",
-      "url": "https://news.antiwar.com/2026/11/24/saudi-airstrikes-on-buses-and-trucks-in-southwest-yemens-lahj-province-kill-26/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "edenmagnet.com.au",
-      "url": "https://www.edenmagnet.com.au/story/9397719/watchdog-flags-more-penalties-following-audit-scandals/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "mwnation.com",
-      "url": "https://mwnation.com/us-rights-group-protests-hrdc-deregistration/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.6,
-      "treffer": [
-        "suez"
-      ],
-      "domain": "greanvillepost.com",
-      "url": "https://www.greanvillepost.com/the-chris-hedges-report-zionism-unmasked/"
+      "domain": "allafrica.com",
+      "url": "https://allafrica.com/stories/202611250075.html"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -4.4,
+      "tonalitaet": -5.4,
       "treffer": [
-        "cyberattack"
+        "cyber attack"
       ],
-      "domain": "koco.com",
-      "url": "https://www.koco.com/article/unclassified-cia-system-breached-cyberattack/74523336"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "el-balad.com",
-      "url": "https://www.el-balad.com/17069738"
+      "domain": "livemint.com",
+      "url": "https://www.livemint.com/news/us-news/us-financial-crimes-bureau-takes-some-systems-offline-after-unauthorised-access-as-cyber-attacks-continue-11795594540875.html"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -3.6,
+      "tonalitaet": -4.9,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "krmg.com",
-      "url": "https://krmg.com/2026/11/24/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/business/ikea-store-in-belgium-hit-by-fridge-cyberattack-refrigeration-systems-impacted-as-supermarkets-across-europe-face-issues/articleshow/135465467.cms"
     },
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -3.4,
+      "kategorie": "Breite",
+      "tonalitaet": -3.8,
       "treffer": [
-        "nuclear weapon"
+        "cyberattack"
       ],
-      "domain": "weartv.com",
-      "url": "https://weartv.com/news/nation-world/western-intelligence-warns-russia-could-launch-nuclear-weapon-into-space-soon-nato-russia"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "houstonpublicmedia.org",
-      "url": "https://www.houstonpublicmedia.org/articles/news/traffic/2026/11/24/567828/houston-tanker-fire-causes-traffic-delays-along-eastex-freeway-near-610/"
+      "domain": "organiser.org",
+      "url": "https://organiser.org/2026/11/25/428841/international/major-cybersecurity-scare-in-us-cia-odni-systems-targeted-in-apparent-cyberattack-classified-data-unaffected/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.0,
+      "tonalitaet": -3.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "intelligencer.ca",
-      "url": "https://www.intelligencer.ca/press-releases/pr-newswire/decision-notice-ciro-sanctions-vachana-cissy-terance/"
+      "domain": "wiky.com",
+      "url": "https://wiky.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/"
     }
   ],
   "gkg_alter_stunden": 0.0
