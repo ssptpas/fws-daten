@@ -28,8 +28,8 @@ fc8cca748e1893705df49042581a6041  gdelt_fetch.py
 
 f9b9f4e7548d695d556c5fc6a49bd0c7  fws-daten/erwartetes-alter.txt
 
-eb3bed4cb357134edf6620d20a3d016b  fws-daten/regeln-1-tagesvollcheck-de.md
-8ffd491c5234ed24033f1f1c5e5db760  fws-daten/regeln-2-mittags-de.md
-96553279eaad30eea9ab63708ddb1923  fws-daten/regeln-3-abendlauf-de.md
-490235e16b0a04db332c653969d6b06e  fws-daten/regeln-4-wochencheck-de.md
+390d9fcae9ffce4182a72a4405f9cf07  fws-daten/regeln-1-tagesvollcheck-de.md
+9f380d8658c5cd0ba4208268ed88b887  fws-daten/regeln-2-mittags-de.md
+997e03bed21a823d07d94c5adb5df147  fws-daten/regeln-3-abendlauf-de.md
+b8c12efe73c6c88709176c87386590ce  fws-daten/regeln-4-wochencheck-de.md
 a1839c2f46a646ad1306a98d92ad8a70  waehrungen-fortschreiben.py
