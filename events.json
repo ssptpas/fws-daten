@@ -1,127 +1,119 @@
 {
-  "erstellt_am": "2026-11-25T14:46:01",
+  "erstellt_am": "2026-11-25T22:46:21",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261125134500",
+  "gkg_stand": "20261125214500",
   "veraltet": false,
-  "anzahl": 13,
+  "anzahl": 12,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -11.1,
+      "tonalitaet": -8.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/watch/huawei-convicted-in-us-stealing-trade-secrets-violating-iran-sanctions-6581671"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/middle-east/how-the-houthi-siege-of-taiz-is-leaving-yemens-children-vulnerable-to-preventable-diseases-3013973"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -8.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -8.2,
       "treffer": [
-        "sanctions"
+        "tanker"
       ],
-      "domain": "organiser.org",
-      "url": "https://organiser.org/2026/11/25/428869/international/us-chinese-tech-firm-huawei-convicted-in-trade-secret-theft-case-amid-deepening-nvidia-spy-allegations-against-beijing/"
+      "domain": "smh.com.au",
+      "url": "https://www.smh.com.au/world/at-least-30-people-have-been-killed-in-egypt-when-a-petrol-tanker-overturned-on-a-road-in-the-capital-cairo-20261126-p61hdz.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -7.5,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "huntspost.co.uk",
+      "url": "https://www.huntspost.co.uk/news/national/26763777.dozens-killed-fuel-tanker-crash-ignites-massive-fire-major-road-near-cairo/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "samaa.tv",
+      "url": "https://www.samaa.tv/2087361024-saudi-led-coalition-reports-projectile-strike-on-jazan-port"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "tanker"
+      ],
+      "domain": "smh.com.au",
+      "url": "https://www.smh.com.au/world/the-petrol-tanker-fire-that-killed-30-people-near-cairo-20261126-p61he5.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.7,
+      "treffer": [
+        "hormuz",
+        "tanker"
+      ],
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/25/781588/tanker-violating-transit-rules-catches-fire-in-hormuz-strait-irans-navy"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -5.9,
+      "tonalitaet": -6.0,
       "treffer": [
-        "air strike"
+        "invasion"
       ],
-      "domain": "globalarabnetwork.com",
-      "url": "https://english.globalarabnetwork.com/2026/11/25/at-least-six-palestinians-killed-in-gaza-air-strikes/"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "koreatimes.co.kr",
-      "url": "https://www.koreatimes.co.kr/economy/cryptocurrency/20261125/additional-personal-info-leaked-from-bithumb-in-cyberattacks"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "channelnewsasia.com",
-      "url": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566"
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/canada/article-toronto-home-invasion-poplar-plains-road-november-25/"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.8,
+      "tonalitaet": -5.3,
       "treffer": [
         "hormuz"
       ],
-      "domain": "oedigital.com",
-      "url": "https://www.oedigital.com/news/544578-oil-falls-as-supply-glut-concerns-overshadow-hormuz-shipping-risks"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "warontherocks.com",
-      "url": "https://warontherocks.com/does-congress-really-want-its-war-powers-back/"
+      "domain": "kcby.com",
+      "url": "https://kcby.com/news/nation-world/trump-says-iran-war-funded-through-january-as-israel-warns-of-chemical-weapons-development-strait-hormuz"
     },
     {
       "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -4.2,
+      "tonalitaet": -5.3,
       "treffer": [
-        "mandeb"
+        "hormuz"
       ],
-      "domain": "khabaragency.net",
-      "url": "https://www.khabaragency.net/news256223.html"
+      "domain": "weartv.com",
+      "url": "https://weartv.com/news/nation-world/trump-says-iran-war-funded-through-january-as-israel-warns-of-chemical-weapons-development-strait-hormuz"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.1,
+      "tonalitaet": -3.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "haitisun.com",
-      "url": "http://www.haitisun.com/news/279450982/bipartisan-coalition-in-congress-weighs-new-ukraine-support-measure"
+      "domain": "kake.com",
+      "url": "https://www.kake.com/home/missouri-police-officer-shot-and-killed-during-standoff-suspect-later-found-dead/article_05e617eb-d259-4dd0-99d1-095943f0aed9.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.7,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -3.5,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "riotimesonline.com",
-      "url": "https://www.riotimesonline.com/sudan-drone-attacks-damazin-roseires-blue-nile/"
+      "domain": "smn-news.com",
+      "url": "https://www.smn-news.com/index.php/st-maarten-st-martin-news/52481-teatt-minister-heavily-criticized-in-parliament-over-transaction-tax-proposal-mps-demand-course-correction-and-finance-minister-s-involvement.html"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -3.1,
       "treffer": [
-        "tariffs"
+        "hormuz"
       ],
-      "domain": "wdtimes.com",
-      "url": "http://www.wdtimes.com/news/national/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production/article_68567389-ea3d-596f-9c25-fbe4eb90346d.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "koat.com",
-      "url": "https://www.koat.com/article/us-new-tariffs-china-eu-subsidized-production/74525712"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.4,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "dailyadvertiser.com.au",
-      "url": "https://www.dailyadvertiser.com.au/story/9398042/trump-to-reignite-trade-tensions-with-new-tariffs/"
+      "domain": "presstv.co.uk",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/25/781591/iran-tightens-control-over-strait-of-hormuz-with-new-systems-army-spokesman"
     }
   ],
   "gkg_alter_stunden": 0.0

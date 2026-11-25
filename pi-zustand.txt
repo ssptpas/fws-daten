@@ -1,67 +1,67 @@
-Zustand des Pi -- geschrieben 2026-11-25T14:49:06+01:00
+Zustand des Pi -- geschrieben 2026-11-25T22:49:27+01:00
 
 Modell:        Raspberry Pi 4 Model B Rev 1.5
 Kern:          6.18.50+rpt-rpi-v8
-Betriebsdauer: up 3 days, 20 hours, 50 minutes
-Letzter Start: 2026-11-21 17:58:13
+Betriebsdauer: up 6 hours, 11 minutes
+Letzter Start: 2026-11-25 16:38:15
 
 Drosselung:    0x0
    in Ordnung -- keine Unterspannung, keine Drosselung seit dem Start
-Temperatur:    56.9'C
+Temperatur:    55.0'C
 
 Arbeitsspeicher:
                   total        used        free      shared  buff/cache   available
-   Mem:           1.8Gi       309Mi       1.3Gi        46Mi       351Mi       1.5Gi
+   Mem:           1.8Gi       262Mi       1.3Gi        12Mi       313Mi       1.5Gi
    Swap:             0B          0B          0B
 
 Speicherkarte:
    Filesystem      Size  Used Avail Use% Mounted on
-   overlayroot     924M   11M  914M   2% /
+   overlayroot     924M  7.3M  917M   1% /
    /dev/mmcblk0p1  505M   68M  437M  14% /boot/firmware
 
 Kartenmeldungen des Systems (mmc/mmcblk), letzte 10:
-   [    1.132208] mmc-bcm2835 fe300000.mmcnr: mmc_debug:0 mmc_debug2:0
-   [    1.132220] mmc-bcm2835 fe300000.mmcnr: DMA channel allocated
-   [    1.197640] mmc0: SDHCI controller on fe340000.mmc [fe340000.mmc] using ADMA
-   [    1.235666] mmc1: new high speed SDIO card at address 0001
-   [    1.351181] mmc0: new UHS-I speed DDR50 SDXC card at address aaaa
-   [    1.351786] mmcblk0: mmc0:aaaa SK64G 59.5 GiB
-   [    1.353616]  mmcblk0: p1 p2
-   [    1.353972] mmcblk0: mmc0:aaaa SK64G 59.5 GiB (quirks 0x00004000)
-   [    2.024584] EXT4-fs (mmcblk0p2): orphan cleanup on readonly fs
-   [    2.025085] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
+   [    1.132645] mmc-bcm2835 fe300000.mmcnr: mmc_debug:0 mmc_debug2:0
+   [    1.132657] mmc-bcm2835 fe300000.mmcnr: DMA channel allocated
+   [    1.198915] mmc0: SDHCI controller on fe340000.mmc [fe340000.mmc] using ADMA
+   [    1.240434] mmc1: new high speed SDIO card at address 0001
+   [    1.349457] mmc0: new UHS-I speed DDR50 SDXC card at address aaaa
+   [    1.354314] mmcblk0: mmc0:aaaa SK64G 59.5 GiB
+   [    1.356053]  mmcblk0: p1 p2
+   [    1.356411] mmcblk0: mmc0:aaaa SK64G 59.5 GiB (quirks 0x00004000)
+   [    2.011400] EXT4-fs (mmcblk0p2): orphan cleanup on readonly fs
+   [    2.011895] EXT4-fs (mmcblk0p2): mounted filesystem 02f61d5e-92cb-4f9c-a781-099d97795020 ro with ordered data mode. Quota mode: none.
 
 Systemmeldungen dieses Starts ab Warnstufe, letzte 30:
-   Nov 25 00:00:22 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 25 00:00:22 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 25 00:47:22 RaspberryPi-4b systemd-remount-fs[10146]: /usr/bin/mount for / exited with exit status 32.
-   Nov 25 00:47:22 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 25 00:47:22 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 25 00:47:22 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 25 00:47:22 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 25 00:47:22 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 25 00:47:22 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 25 03:58:22 RaspberryPi-4b systemd-remount-fs[10357]: /usr/bin/mount for / exited with exit status 32.
-   Nov 25 03:58:22 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 25 03:58:22 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 25 03:58:22 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 25 03:58:22 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 25 03:58:22 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 25 03:58:22 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 25 06:27:12 RaspberryPi-4b systemd-remount-fs[10537]: /usr/bin/mount for / exited with exit status 32.
-   Nov 25 06:27:12 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 25 06:27:12 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 25 06:27:12 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 25 06:27:12 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 25 06:27:12 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 25 06:27:12 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
-   Nov 25 12:44:38 RaspberryPi-4b systemd-remount-fs[11111]: /usr/bin/mount for / exited with exit status 32.
-   Nov 25 12:44:38 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
-   Nov 25 12:44:38 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
-   Nov 25 12:44:38 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
-   Nov 25 12:44:38 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
-   Nov 25 12:44:38 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
-   Nov 25 12:44:38 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 25 16:59:13 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 25 16:59:56 RaspberryPi-4b systemd-remount-fs[1379]: /usr/bin/mount for / exited with exit status 32.
+   Nov 25 16:59:56 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 25 16:59:56 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 25 16:59:56 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 25 16:59:56 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 25 16:59:56 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 25 16:59:56 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 25 17:22:29 RaspberryPi-4b systemd-remount-fs[1444]: /usr/bin/mount for / exited with exit status 32.
+   Nov 25 17:22:29 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 25 17:22:29 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 25 17:22:29 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 25 17:22:29 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 25 17:22:29 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 25 17:22:29 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 25 17:59:59 RaspberryPi-4b systemd-remount-fs[1487]: /usr/bin/mount for / exited with exit status 32.
+   Nov 25 17:59:59 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 25 17:59:59 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 25 17:59:59 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 25 17:59:59 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 25 17:59:59 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 25 17:59:59 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
+   Nov 25 19:38:19 RaspberryPi-4b systemd-remount-fs[1604]: /usr/bin/mount for / exited with exit status 32.
+   Nov 25 19:38:19 RaspberryPi-4b systemd[1]: systemd-remount-fs.service: Failed with result 'exit-code'.
+   Nov 25 19:38:19 RaspberryPi-4b systemd[1]: Failed to start systemd-remount-fs.service - Remount Root and Kernel File Systems.
+   Nov 25 19:38:19 RaspberryPi-4b systemd[1]: Dependency failed for rpi-setup-loop@var-swap.service - rpi-setup-loop - set up file on loop device.
+   Nov 25 19:38:19 RaspberryPi-4b systemd[1]: Dependency failed for systemd-zram-setup@zram0.service - Create swap on /dev/zram0.
+   Nov 25 19:38:19 RaspberryPi-4b systemd[1]: Dependency failed for dev-zram0.swap - rpi-swap managed swap device (zram+file).
+   Nov 25 19:38:19 RaspberryPi-4b systemd[1]: Dependency failed for rpi-zram-writeback.service - zram writeback service.
+   Nov 25 19:38:19 RaspberryPi-4b systemd[1]: Dependency failed for rpi-resize-swap-file.service - rpi-resize-var-swap-service - resize swapfile.
 
 Fehlgeschlagene Dienste:
      UNIT                       LOAD   ACTIVE SUB    DESCRIPTION
@@ -81,13 +81,13 @@ Aktive Schnittstellen:
    nordlynx  100.122.254.156/10
 
 Pruefsummen der Regeldateien (md5, Fassung wie auf GitHub):
-eb3bed4cb357134edf6620d20a3d016b  regeln-1-tagesvollcheck-de.md
-8ffd491c5234ed24033f1f1c5e5db760  regeln-2-mittags-de.md
-96553279eaad30eea9ab63708ddb1923  regeln-3-abendlauf-de.md
-490235e16b0a04db332c653969d6b06e  regeln-4-wochencheck-de.md
+046ad46b6e58f0934d7fb726730fdf41  regeln-1-tagesvollcheck-de.md
+902f9e878d52cbe119a3a4adcdf0c670  regeln-2-mittags-de.md
+7a78c81903862a8b084e77737a24a623  regeln-3-abendlauf-de.md
+912e5278112b8cb8be426929b80c19ce  regeln-4-wochencheck-de.md
 
 Pruefsummen der Skripte (md5, Fassung wie auf dem Pi):
-7aa32dfe5609cc6bdf6b3c22d06622b0  ampel_logik.py
+c1ade26300f6c91c9665a334183bc79d  ampel_logik.py
 f23ad83daa7e57a30e72c4a3891f733d  test-skript.py
 b2d78c1b0fcb5d55655ebe0bb6864a3c  oel-fortschreiben.py
 260f7593f36ce7366649f7c22de85a2e  fruehwarnsystem.sh
