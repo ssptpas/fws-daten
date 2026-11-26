@@ -1,119 +1,75 @@
 {
-  "erstellt_am": "2026-11-25T22:46:21",
+  "erstellt_am": "2026-11-26T09:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261125214500",
+  "gkg_stand": "20261126084500",
   "veraltet": false,
-  "anzahl": 12,
+  "anzahl": 7,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -8.3,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/middle-east/how-the-houthi-siege-of-taiz-is-leaving-yemens-children-vulnerable-to-preventable-diseases-3013973"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.2,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "smh.com.au",
-      "url": "https://www.smh.com.au/world/at-least-30-people-have-been-killed-in-egypt-when-a-petrol-tanker-overturned-on-a-road-in-the-capital-cairo-20261126-p61hdz.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -7.5,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "huntspost.co.uk",
-      "url": "https://www.huntspost.co.uk/news/national/26763777.dozens-killed-fuel-tanker-crash-ignites-massive-fire-major-road-near-cairo/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "samaa.tv",
-      "url": "https://www.samaa.tv/2087361024-saudi-led-coalition-reports-projectile-strike-on-jazan-port"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "tanker"
-      ],
-      "domain": "smh.com.au",
-      "url": "https://www.smh.com.au/world/the-petrol-tanker-fire-that-killed-30-people-near-cairo-20261126-p61he5.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -6.7,
-      "treffer": [
-        "hormuz",
-        "tanker"
-      ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/25/781588/tanker-violating-transit-rules-catches-fire-in-hormuz-strait-irans-navy"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "invasion"
-      ],
-      "domain": "theglobeandmail.com",
-      "url": "https://www.theglobeandmail.com/canada/article-toronto-home-invasion-poplar-plains-road-november-25/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "kcby.com",
-      "url": "https://kcby.com/news/nation-world/trump-says-iran-war-funded-through-january-as-israel-warns-of-chemical-weapons-development-strait-hormuz"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "hormuz"
-      ],
-      "domain": "weartv.com",
-      "url": "https://weartv.com/news/nation-world/trump-says-iran-war-funded-through-january-as-israel-warns-of-chemical-weapons-development-strait-hormuz"
+      "domain": "dominicanrepublicpost.com",
+      "url": "https://dominicanrepublicpost.com/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.9,
+      "tonalitaet": -4.7,
+      "treffer": [
+        "sanctions",
+        "tariffs"
+      ],
+      "domain": "bostonglobe.com",
+      "url": "https://www.bostonglobe.com/2026/11/25/business/us-hike-tariffs-china-eu-brazil/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "kake.com",
-      "url": "https://www.kake.com/home/missouri-police-officer-shot-and-killed-during-standoff-suspect-later-found-dead/article_05e617eb-d259-4dd0-99d1-095943f0aed9.html"
+      "domain": "nbcphiladelphia.com",
+      "url": "https://www.nbcphiladelphia.com/news/national-international/judge-blocks-fcc-from-early-license-review-for-abc/4503472/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.2,
+      "treffer": [
+        "tariffs"
+      ],
+      "domain": "indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-proposes-tariffs-on-countries-india-china-japan-singapore-vietnam-brazil-react-/articleshow/136181116.cms"
     },
     {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -3.5,
+      "tonalitaet": -4.1,
       "treffer": [
         "central bank"
       ],
-      "domain": "smn-news.com",
-      "url": "https://www.smn-news.com/index.php/st-maarten-st-martin-news/52481-teatt-minister-heavily-criticized-in-parliament-over-transaction-tax-proposal-mps-demand-course-correction-and-finance-minister-s-involvement.html"
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/south-korea-s-central-bank-raises-key-interest-rate-to-fight-inflation-126112600198_1.html"
     },
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -3.1,
+      "kategorie": "Policy",
+      "tonalitaet": -3.8,
       "treffer": [
-        "hormuz"
+        "sanctions",
+        "tariffs"
       ],
-      "domain": "presstv.co.uk",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/25/781591/iran-tightens-control-over-strait-of-hormuz-with-new-systems-army-spokesman"
+      "domain": "jamaica-gleaner.com",
+      "url": "https://jamaica-gleaner.com/article/world-news/20261126/trump-administration-targets-china-eu-brazil-new-tariffs"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "livemint.com",
+      "url": "https://www.livemint.com/science/health/fssai-vs-bisleri-what-is-bromate-how-does-it-impact-human-body-and-can-it-cause-cancer-explained-11795679072015.html"
     }
   ],
   "gkg_alter_stunden": 0.0
