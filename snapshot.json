@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-26T14:45:01",
+  "erstellt_am": "2026-11-26T22:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.72",
@@ -12,7 +12,7 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "26.94",
+      "wert": "26.8",
       "beobachtungsdatum": "2026-11-26",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
@@ -169,7 +169,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.5",
-      "beobachtungsdatum": "2026-11-25",
+      "beobachtungsdatum": "2026-11-26",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -290,7 +290,7 @@
       "werte": [
         {
           "datum": "2026-11-26",
-          "wert": 26.94
+          "wert": 26.8
         },
         {
           "datum": "2026-11-25",
@@ -500,7 +500,7 @@
     "EU_Funding_Spread_bp": {
       "wert": -5.6,
       "markt_datum": "2026-11-25",
-      "leitzins_datum": "2026-11-25",
+      "leitzins_datum": "2026-11-26",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -575,8 +575,8 @@
   },
   "reihen_inoffiziell": {
     "Nikkei_Volatilitaet": {
-      "wert": 31.13,
-      "beobachtungsdatum": "2026-11-26",
+      "wert": 33.39,
+      "beobachtungsdatum": "2026-11-25",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Breadth_ETF_RSP": {
@@ -600,12 +600,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 91.26,
+      "wert": 91.73,
       "beobachtungsdatum": "2026-11-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 84.63,
+      "wert": 84.91,
       "beobachtungsdatum": "2026-11-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },

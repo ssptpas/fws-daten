@@ -1,101 +1,57 @@
 {
-  "erstellt_am": "2026-11-26T14:45:39",
+  "erstellt_am": "2026-11-26T22:45:36",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261126134500",
+  "gkg_stand": "20261126213000",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 5,
   "ereignisse": [
     {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -9.2,
+      "treffer": [
+        "drone strike"
+      ],
+      "domain": "livemint.com",
+      "url": "https://www.livemint.com/news/kuwait-says-iranian-drone-strike-killed-two-italian-workers-11795725187362.html"
+    },
+    {
       "kategorie": "Finanzsystem",
-      "tonalitaet": -7.5,
+      "tonalitaet": -6.3,
       "treffer": [
-        "central bank"
+        "insolvency"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/analyseis-ektheseis/articles/913420/the-big-crash-is-coming-grim-prophecy-from-scope-when-the-ai-bubble-bursts-nothing-will-be-left-standing%20title="
+      "domain": "el-balad.com",
+      "url": "https://www.el-balad.com/17070281"
     },
     {
-      "kategorie": "Policy",
-      "tonalitaet": -6.6,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -6.2,
       "treffer": [
-        "sanctions"
+        "insolvency"
       ],
-      "domain": "en.apa.az",
-      "url": "https://en.apa.az/europe/european-parliament-adopts-another-resolution-against-georgian-authorities-538725"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "thenewsnigeria.com.ng",
-      "url": "https://thenewsnigeria.com.ng/2026/11/26/police-confirm-six-deaths-in-attack-on-omo-ageges-campaign-convoy-vow-sanctions/"
+      "domain": "chroniclelive.co.uk",
+      "url": "https://www.chroniclelive.co.uk/news/uk-news/tommy-robinsons-ex-wife-avoids-34972609"
     },
     {
       "kategorie": "Breite",
-      "tonalitaet": -5.9,
+      "tonalitaet": -6.0,
       "treffer": [
         "cyberattack"
       ],
-      "domain": "vanguardngr.com",
-      "url": "https://www.vanguardngr.com/2026/11/fifa-confirms-cyberattack-says-hackers-stole-personal-business-data/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.7,
-      "treffer": [
-        "opec"
-      ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/opec-may-roll-over-current-oil-output-targets-at-its-sunday-meeting-126112601024_1.html"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "malaysiasun.com",
-      "url": "http://www.malaysiasun.com/news/279456626/spotnews-thailand-bangkok-explosion-oil-refinery-aftermath"
+      "domain": "argentinastar.com",
+      "url": "http://www.argentinastar.com/news/279460322/fifa-faces-cyberattack-limited-set-of-personal-business-information-stolen"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.6,
+      "tonalitaet": -5.5,
       "treffer": [
         "sanctions"
       ],
-      "domain": "moneycontrol.com",
-      "url": "https://www.moneycontrol.com/defence/india-tests-indigenous-bhargavastra-counter-drone-system-demonstrates-capability-to-take-down-enemy-drone-swarms-watch-article-14089788.html"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.2,
-      "treffer": [
-        "tariffs"
-      ],
-      "domain": "wqcs.org",
-      "url": "https://www.wqcs.org/2026-11-26/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -4.1,
-      "treffer": [
-        "central bank"
-      ],
-      "domain": "english.pravda.ru",
-      "url": "https://english.pravda.ru/news/world/174571-brazil-real-rallies-tariff-exposure/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.6,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "aol.co.uk",
-      "url": "https://www.aol.co.uk/articles/m-no-longer-uae-official-123742000.html"
+      "domain": "sbs.com.au",
+      "url": "https://www.sbs.com.au/news/podcast-episode/iran-suspected-of-kuwait-attack-morning-news-bulletin-27-november-2026/g7pdbj0kx"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261126213000; erfolglos: 20261126214500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
