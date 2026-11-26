@@ -1,38 +1,73 @@
 {
-  "erstellt_am": "2026-11-26T09:45:36",
+  "erstellt_am": "2026-11-26T14:45:39",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261126084500",
+  "gkg_stand": "20261126134500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 10,
   "ereignisse": [
     {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
+      "kategorie": "Finanzsystem",
+      "tonalitaet": -7.5,
       "treffer": [
-        "sanctions"
+        "central bank"
       ],
-      "domain": "dominicanrepublicpost.com",
-      "url": "https://dominicanrepublicpost.com/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions/"
+      "domain": "bankingnews.gr",
+      "url": "https://www.bankingnews.gr/analyseis-ektheseis/articles/913420/the-big-crash-is-coming-grim-prophecy-from-scope-when-the-ai-bubble-bursts-nothing-will-be-left-standing%20title="
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -4.7,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "bostonglobe.com",
-      "url": "https://www.bostonglobe.com/2026/11/25/business/us-hike-tariffs-china-eu-brazil/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.5,
+      "tonalitaet": -6.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "nbcphiladelphia.com",
-      "url": "https://www.nbcphiladelphia.com/news/national-international/judge-blocks-fcc-from-early-license-review-for-abc/4503472/"
+      "domain": "en.apa.az",
+      "url": "https://en.apa.az/europe/european-parliament-adopts-another-resolution-against-georgian-authorities-538725"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -6.0,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "thenewsnigeria.com.ng",
+      "url": "https://thenewsnigeria.com.ng/2026/11/26/police-confirm-six-deaths-in-attack-on-omo-ageges-campaign-convoy-vow-sanctions/"
+    },
+    {
+      "kategorie": "Breite",
+      "tonalitaet": -5.9,
+      "treffer": [
+        "cyberattack"
+      ],
+      "domain": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/11/fifa-confirms-cyberattack-says-hackers-stole-personal-business-data/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.7,
+      "treffer": [
+        "opec"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/opec-may-roll-over-current-oil-output-targets-at-its-sunday-meeting-126112601024_1.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "malaysiasun.com",
+      "url": "http://www.malaysiasun.com/news/279456626/spotnews-thailand-bangkok-explosion-oil-refinery-aftermath"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.6,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/defence/india-tests-indigenous-bhargavastra-counter-drone-system-demonstrates-capability-to-take-down-enemy-drone-swarms-watch-article-14089788.html"
     },
     {
       "kategorie": "Policy",
@@ -40,8 +75,8 @@
       "treffer": [
         "tariffs"
       ],
-      "domain": "indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-proposes-tariffs-on-countries-india-china-japan-singapore-vietnam-brazil-react-/articleshow/136181116.cms"
+      "domain": "wqcs.org",
+      "url": "https://www.wqcs.org/2026-11-26/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
     },
     {
       "kategorie": "Finanzsystem",
@@ -49,27 +84,17 @@
       "treffer": [
         "central bank"
       ],
-      "domain": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/south-korea-s-central-bank-raises-key-interest-rate-to-fight-inflation-126112600198_1.html"
+      "domain": "english.pravda.ru",
+      "url": "https://english.pravda.ru/news/world/174571-brazil-real-rallies-tariff-exposure/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.8,
-      "treffer": [
-        "sanctions",
-        "tariffs"
-      ],
-      "domain": "jamaica-gleaner.com",
-      "url": "https://jamaica-gleaner.com/article/world-news/20261126/trump-administration-targets-china-eu-brazil-new-tariffs"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -3.5,
+      "tonalitaet": -3.6,
       "treffer": [
         "sanctions"
       ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/science/health/fssai-vs-bisleri-what-is-bromate-how-does-it-impact-human-body-and-can-it-cause-cancer-explained-11795679072015.html"
+      "domain": "aol.co.uk",
+      "url": "https://www.aol.co.uk/articles/m-no-longer-uae-official-123742000.html"
     }
   ],
   "gkg_alter_stunden": 0.0

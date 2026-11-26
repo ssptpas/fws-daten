@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-26T09:45:01",
+  "erstellt_am": "2026-11-26T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.72",
@@ -12,7 +12,7 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "27.05",
+      "wert": "26.94",
       "beobachtungsdatum": "2026-11-26",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
@@ -290,7 +290,7 @@
       "werte": [
         {
           "datum": "2026-11-26",
-          "wert": 27.05
+          "wert": 26.94
         },
         {
           "datum": "2026-11-25",
@@ -505,9 +505,9 @@
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
-      "wert": -1.5,
-      "markt_datum": "2026-11-23",
-      "leitzins_datum": "2026-11-24",
+      "wert": -1.4,
+      "markt_datum": "2026-11-24",
+      "leitzins_datum": "2026-11-25",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -543,8 +543,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.27",
-      "beobachtungsdatum": "2026-11-25",
+      "wert": "3.30",
+      "beobachtungsdatum": "2026-11-26",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -553,18 +553,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.9847",
-      "beobachtungsdatum": "2026-11-23",
+      "wert": "3.9861",
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.1928",
-      "beobachtungsdatum": "2026-11-23",
+      "wert": "5.1796",
+      "beobachtungsdatum": "2026-11-24",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "4",
-      "beobachtungsdatum": "2026-11-24",
+      "beobachtungsdatum": "2026-11-25",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
@@ -600,12 +600,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 90.7,
+      "wert": 91.26,
       "beobachtungsdatum": "2026-11-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 83.99,
+      "wert": 84.63,
       "beobachtungsdatum": "2026-11-26",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
