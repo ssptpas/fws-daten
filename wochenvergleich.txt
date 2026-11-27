@@ -1,26 +1,26 @@
 Wochenvergleich der Kennzahlen -- auf dem Pi gerechnet, nicht geschaetzt.
-Erzeugt: 2026-11-27T09:45:01
-Vergleich: Lauf vom 2026-10-30T09:45:02 gegen Lauf vom 2026-11-27T09:45:01, tatsaechlicher Abstand 28 Tage
+Erzeugt: 2026-11-27T14:45:01
+Vergleich: Lauf vom 2026-10-30T09:45:02 gegen Lauf vom 2026-11-27T14:45:01, tatsaechlicher Abstand 28 Tage
 Angefragt waren 28 Tage; genommen wurde der naechstgelegene vorhandene Lauf.
 Die Daten in Klammern sind BEOBACHTUNGSDATEN der Werte, nicht die Laufzeitpunkte.
 
 hy_oas                             3.14 (2026-10-28)  ->          3.72 (2026-11-24)   +0.58 Prozentpunkte
 ig_oas                             0.86 (2026-10-28)  ->          0.98 (2026-11-24)   +0.12 Prozentpunkte
-sofr_iorb_bp                        4.0 (2026-10-28)  ->           4.0 (2026-11-24)   +0 bp
+sofr_iorb_bp                        4.0 (2026-10-28)  ->           5.0 (2026-11-25)   +1 bp
 us_rendite_10j                     5.05 (2026-10-28)  ->          4.91 (2026-11-24)   -0.14 Prozentpunkte
 kbe_drawdown_pct                   -7.3 (2026-10-29)  ->          -7.5 (2026-11-25)   -0.2 Prozentpunkte
 kre_drawdown_pct                   -6.5 (2026-10-29)  ->          -7.2 (2026-11-25)   -0.7 Prozentpunkte
 arcc_drawdown_pct                  -5.3 (2026-10-29)  ->          -5.4 (2026-11-25)   -0.1 Prozentpunkte
 bizd_drawdown_pct                  -7.8 (2026-10-29)  ->          -7.3 (2026-11-25)   +0.5 Prozentpunkte
-vix                               18.53 (2026-10-30)  ->         24.92 (2026-11-27)   +6.39 Punkte  (+34.5 % von 18.53)
+vix                               18.53 (2026-10-30)  ->         25.39 (2026-11-27)   +6.86 Punkte  (+37.0 % von 18.53)
 vix_vix3m_ratio                   0.888 (2026-10-29)  ->        1.0761 (2026-11-25)   +0.1881   (+21.2 % von 0.888)
 rsp_spy_ratio                     0.286 (ohne Datum)  ->         0.301 (2026-11-25)   +0.015   (+5.2 % von 0.286)
 brent_spot                        123.1 (2026-10-27)  ->          91.8 (2026-11-24)   -31.3 USD/Barrel  (-25.4 % von 123.1)
-brent_termin                     113.03 (2026-10-30)  ->         92.55 (2026-11-27)   -20.48 USD/Barrel  (-18.1 % von 113.03)
+brent_termin                     113.03 (2026-10-30)  ->          91.6 (2026-11-27)   -21.43 USD/Barrel  (-19.0 % von 113.03)
 diesel_crack                      96.84 (2026-10-27)  ->         70.47 (2026-11-24)   -26.37 USD/Barrel  (-27.2 % von 96.84)
 initial_claims                   194000 (2026-10-24)  ->        189000 (2026-11-21)   -5000 Antraege  (-2.6 % von 194000)
 dollar_index                   121.3202 (2026-10-23)  ->      123.5978 (2026-11-20)   +2.2776 Indexpunkte  (+1.9 % von 121.3202)
-rohoel_lager_usa                 410625 (2026-10-23)  ->        417797 (2026-11-13)   +7172 Tausend Barrel  (+1.7 % von 410625)
+rohoel_lager_usa                 410625 (2026-10-23)  ->        409760 (2026-10-30)   -865 Tausend Barrel  (-0.2 % von 410625)
 
 17 von 19 Groessen vergleichbar.
 Nicht vergleichbar: hormus_transit_ais (damals kein Wert); babelmandeb_transit_ais (damals kein Wert)

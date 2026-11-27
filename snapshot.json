@@ -1,5 +1,5 @@
 {
-  "erstellt_am": "2026-11-27T09:45:01",
+  "erstellt_am": "2026-11-27T14:45:01",
   "reihen": {
     "HY_OAS": {
       "wert": "3.72",
@@ -12,7 +12,7 @@
       "quelle": "FRED"
     },
     "VIX": {
-      "wert": "24.92",
+      "wert": "25.39",
       "beobachtungsdatum": "2026-11-27",
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
@@ -22,13 +22,13 @@
       "quelle": "Yahoo Finance (^VIX/^VIX3M, Cboe-Schluss, tagesaktuell)"
     },
     "Zinskurve_10J_2J": {
-      "wert": "0.24",
-      "beobachtungsdatum": "2026-11-25",
-      "quelle": "FRED"
+      "wert": "nicht verfügbar",
+      "quelle": "FRED",
+      "fehler": "HTTP Error 502: Bad Gateway"
     },
     "SOFR": {
-      "wert": "3.94",
-      "beobachtungsdatum": "2026-11-24",
+      "wert": "3.95",
+      "beobachtungsdatum": "2026-11-25",
       "quelle": "FRED"
     },
     "IORB": {
@@ -92,9 +92,9 @@
       "quelle": "FRED"
     },
     "USD_je_AUD": {
-      "wert": "0.6639",
-      "beobachtungsdatum": "2026-11-20",
-      "quelle": "FRED"
+      "wert": "nicht verfügbar",
+      "quelle": "FRED",
+      "fehler": "HTTP Error 500: Internal Server Error"
     },
     "CHF_je_USD": {
       "wert": "0.8394",
@@ -168,7 +168,7 @@
     },
     "ECB_Einlagesatz": {
       "wert": "2.5",
-      "beobachtungsdatum": "2026-11-26",
+      "beobachtungsdatum": "2026-11-27",
       "quelle": "FRED"
     },
     "Initial_Claims_Historie": {
@@ -289,7 +289,7 @@
       "werte": [
         {
           "datum": "2026-11-27",
-          "wert": 24.92
+          "wert": 25.39
         },
         {
           "datum": "2026-11-26",
@@ -380,8 +380,8 @@
       "hinweis": "fuer die Trend-Alternative '+40 bp in 5 Handelstagen' (bislang nur konzipiert, siehe Spezifikation 4.3)"
     },
     "Rohoel_Lager_USA": {
-      "wert": "417797",
-      "beobachtungsdatum": "2026-11-13",
+      "wert": "409760",
+      "beobachtungsdatum": "2026-10-30",
       "quelle": "EIA",
       "einheit": "MBBL"
     },
@@ -412,6 +412,10 @@
     "SOFR_minus_IORB_Historie": {
       "werte": [
         {
+          "datum": "2026-11-25",
+          "wert": 5.0
+        },
+        {
           "datum": "2026-11-24",
           "wert": 4.0
         },
@@ -426,10 +430,6 @@
         {
           "datum": "2026-11-19",
           "wert": 1.0
-        },
-        {
-          "datum": "2026-11-18",
-          "wert": 0.0
         }
       ],
       "quelle": "FRED (berechnet, letzte 5 gemeinsamen Handelstage)",
@@ -492,21 +492,21 @@
       "hinweis": "KONTEXT, kein Ampel-Kanal (Rueckrechnung 18.10.2026 ohne Nachweis)"
     },
     "SOFR_minus_IORB_bp": {
-      "wert": 4.0,
-      "beobachtungsdatum": "2026-11-24",
+      "wert": 5.0,
+      "beobachtungsdatum": "2026-11-25",
       "quelle": "FRED (berechnet)"
     },
     "EU_Funding_Spread_bp": {
       "wert": -5.5,
       "markt_datum": "2026-11-26",
-      "leitzins_datum": "2026-11-26",
+      "leitzins_datum": "2026-11-27",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
     "UK_Funding_Spread_bp": {
       "wert": -1.4,
-      "markt_datum": "2026-11-24",
-      "leitzins_datum": "2026-11-25",
+      "markt_datum": "2026-11-25",
+      "leitzins_datum": "2026-11-26",
       "hinweis": "Kontext, KEIN Ampel-Kanal -- nicht backtestet",
       "quelle": "FRED/EZB/BoE (berechnet)"
     },
@@ -542,8 +542,8 @@
   },
   "reihen_international": {
     "DE_Rendite_10J": {
-      "wert": "3.30",
-      "beobachtungsdatum": "2026-11-26",
+      "wert": "3.33",
+      "beobachtungsdatum": "2026-11-27",
       "quelle": "SDMX (BBSIS)"
     },
     "EU_STR": {
@@ -552,18 +552,18 @@
       "quelle": "SDMX (EST)"
     },
     "UK_SONIA": {
-      "wert": "3.9861",
-      "beobachtungsdatum": "2026-11-24",
+      "wert": "3.9855",
+      "beobachtungsdatum": "2026-11-25",
       "quelle": "Bank of England IADB"
     },
     "UK_Rendite_10J": {
-      "wert": "5.1796",
-      "beobachtungsdatum": "2026-11-24",
+      "wert": "5.1301",
+      "beobachtungsdatum": "2026-11-25",
       "quelle": "Bank of England IADB"
     },
     "UK_Bank_Rate": {
       "wert": "4",
-      "beobachtungsdatum": "2026-11-25",
+      "beobachtungsdatum": "2026-11-26",
       "quelle": "Bank of England IADB"
     },
     "Japan_Tagesgeldsatz": {
@@ -599,12 +599,12 @@
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "Brent_Terminkurs": {
-      "wert": 92.55,
+      "wert": 91.6,
       "beobachtungsdatum": "2026-11-27",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
     "WTI_Terminkurs": {
-      "wert": 85.99,
+      "wert": 84.61,
       "beobachtungsdatum": "2026-11-27",
       "quelle": "Yahoo Finance (inoffiziell, keine offizielle API)"
     },
