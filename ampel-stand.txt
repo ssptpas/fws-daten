@@ -8,9 +8,9 @@
 # Wer einen Bericht schreibt, MUSS diese Frage ausdruecklich beantworten;
 # ein unbeantworteter Hinweis ist ein Mangel. Siehe die Regeldateien.
 #
-# Geschrieben am: 2026-11-26T22:49:21+01:00
+# Geschrieben am: 2026-11-27T09:49:17+01:00
 
-Snapshot-Stand: 2026-11-26T22:45:01
+Snapshot-Stand: 2026-11-27T09:45:01
 🟡 GESAMTLAGE: GELB (68 %)
   🟡 Kredit: GELB (61 %)
   🟢 Funding: GRUEN (8 %)
@@ -21,10 +21,10 @@ Snapshot-Stand: 2026-11-26T22:45:01
   ⚪ Privater_Kredit: Kontext, stellt keine Ampel
   Vergleichsregeln Volatilitaet (Messfeld, OHNE Ampelwirkung):
     Produktion_K4: an
-    K1: an
+    K1: aus
     Niveau_22: an
     Ampel_laufend: an
-    VIX-Anstieg ueber fuenf Handelstage: -5.8 %
+    VIX-Anstieg ueber fuenf Handelstage: -30.6 %
 Vergleichsregeln: Zeile angehaengt
 Kennzahlen-Verlauf: Zeile angehaengt
 Wochenvergleich: Datei neu geschrieben

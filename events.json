@@ -1,57 +1,93 @@
 {
-  "erstellt_am": "2026-11-26T22:45:36",
+  "erstellt_am": "2026-11-27T09:45:32",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261126213000",
+  "gkg_stand": "20261127083000",
   "veraltet": false,
-  "anzahl": 5,
+  "anzahl": 9,
   "ereignisse": [
     {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -9.2,
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -10.0,
       "treffer": [
-        "drone strike"
+        "hormuz"
       ],
-      "domain": "livemint.com",
-      "url": "https://www.livemint.com/news/kuwait-says-iranian-drone-strike-killed-two-italian-workers-11795725187362.html"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.3,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "el-balad.com",
-      "url": "https://www.el-balad.com/17070281"
-    },
-    {
-      "kategorie": "Finanzsystem",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "insolvency"
-      ],
-      "domain": "chroniclelive.co.uk",
-      "url": "https://www.chroniclelive.co.uk/news/uk-news/tommy-robinsons-ex-wife-avoids-34972609"
-    },
-    {
-      "kategorie": "Breite",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "cyberattack"
-      ],
-      "domain": "argentinastar.com",
-      "url": "http://www.argentinastar.com/news/279460322/fifa-faces-cyberattack-limited-set-of-personal-business-information-stolen"
+      "domain": "upstreamonline.com",
+      "url": "https://www.upstreamonline.com/safety/adnoc-subsidiary-confirms-crew-member-found-dead-after-strait-of-hormuz-attack/2-1-2080506"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -5.5,
+      "tonalitaet": -9.9,
       "treffer": [
         "sanctions"
       ],
-      "domain": "sbs.com.au",
-      "url": "https://www.sbs.com.au/news/podcast-episode/iran-suspected-of-kuwait-attack-morning-news-bulletin-27-november-2026/g7pdbj0kx"
+      "domain": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9399721/families-seek-justice-as-dutertes-icc-trial-to-begin/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -9.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dailyliberal.com.au",
+      "url": "https://www.dailyliberal.com.au/story/9399721/families-seek-justice-as-dutertes-icc-trial-to-begin/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.9,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279464790/muslim-world-league-condemns-houthi-attack-on-saudi-oil-refinery-in-jazan"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/commodities/oil-on-track-to-snap-3-week-losing-streak-over-west-asia-supply-fears-126112700293_1.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.2,
+      "treffer": [
+        "refinery"
+      ],
+      "domain": "heraldglobe.com",
+      "url": "http://www.heraldglobe.com/news/279464916/bahrain-condemns-houthi-attacks-on-saudi-arabia-oil-refinery-in-jazan"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.3,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "cootamundraherald.com.au",
+      "url": "https://www.cootamundraherald.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -5.2,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "merimbulanewsweekly.com.au",
+      "url": "https://www.merimbulanewsweekly.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "faribaultcountyregister.com",
+      "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=403131"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261126213000; erfolglos: 20261126214500: HTTP Error 404: Not Found",
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261127083000; erfolglos: 20261127084500: HTTP Error 404: Not Found",
   "gkg_alter_stunden": 0.3
 }
