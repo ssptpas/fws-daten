@@ -1,102 +1,75 @@
 {
-  "erstellt_am": "2026-11-27T14:45:58",
+  "erstellt_am": "2026-11-27T22:45:41",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261127134500",
+  "gkg_stand": "20261127213000",
   "veraltet": false,
-  "anzahl": 10,
+  "anzahl": 7,
   "ereignisse": [
     {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -8.9,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/news/world/2026/11/27/un-warns-hunger-will-deepen-in-the-middle-east-as-war-fuel-costs-and-aid-cuts-collide/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "perthnow.com.au",
-      "url": "https://www.perthnow.com.au/news/conflict/trumps-friend-remark-for-putin-strange-zelenskiy-c-23223815"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -7.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "juneesoutherncross.com.au",
-      "url": "https://www.juneesoutherncross.com.au/story/9399767/trumps-friend-remark-for-putin-strange-zelenskiy/"
-    },
-    {
       "kategorie": "Policy",
       "tonalitaet": -7.0,
       "treffer": [
         "sanctions"
       ],
-      "domain": "wsls.com",
-      "url": "https://www.wsls.com/news/world/2026/11/27/zelenskyy-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange/"
+      "domain": "texasguardian.com",
+      "url": "http://www.texasguardian.com/news/279467971/wuc-urges-global-action-against-uyghur-forced-labour-after-us-trade-investigation-findings"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "tonalitaet": -6.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "dailyadvertiser.com.au",
-      "url": "https://www.dailyadvertiser.com.au/story/9399767/trumps-friend-remark-for-putin-strange-zelenskiy/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "wxii12.com",
-      "url": "https://www.wxii12.com/article/zelenskyy-urges-us-pressure-putin-trump-my-friend-remark/74548685"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.8,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "warringtonguardian.co.uk",
-      "url": "https://www.warringtonguardian.co.uk/news/national/26769204.putin-aggressor-killer-cannot-trumps-friend-says-zelensky/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.4,
-      "treffer": [
-        "refinery"
-      ],
-      "domain": "qatar-tribune.com",
-      "url": "https://www.qatar-tribune.com/article/266804/latest-news/qatar-strongly-condemns-houthi-attack-on-jazan-refinery-in-saudi-arabia"
+      "domain": "yourdemocracy.net.au",
+      "url": "https://www.yourdemocracy.net.au/drupal/node/62016"
     },
     {
       "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -4.4,
+      "tonalitaet": -6.0,
       "treffer": [
-        "missile",
-        "ballistic"
+        "airstrike"
       ],
-      "domain": "bankingnews.gr",
-      "url": "https://www.bankingnews.gr/diethni/articles/913641/ukrainians-allege-rift-in-putin-kim-axis-over-kn-23-ballistic-missiles-and-artillery-shells"
+      "domain": "klkntv.com",
+      "url": "https://www.klkntv.com/i/yemens-houthis-say-an-airstrike-killed-11-people-including-children-and-other-mideast-news/"
     },
     {
       "kategorie": "Policy",
-      "tonalitaet": -3.2,
+      "tonalitaet": -5.3,
       "treffer": [
         "sanctions"
       ],
-      "domain": "tribuneonlineng.com",
-      "url": "https://tribuneonlineng.com/north-korea-expels-swiss-diplomat-childrens-camp-sanctions/"
+      "domain": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/ukraine-drone-attack-st-petersburg-leningrad-region-1835305"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.1,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "mcall.com",
+      "url": "https://www.mcall.com/2026/11/27/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports/"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -5.0,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "krmg.com",
+      "url": "https://krmg.com/2026/11/27/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports/"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -4.9,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "krmg.com",
+      "url": "https://krmg.com/2026/11/27/zelenskyy-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261127213000; erfolglos: 20261127214500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
