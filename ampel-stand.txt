@@ -8,9 +8,9 @@
 # Wer einen Bericht schreibt, MUSS diese Frage ausdruecklich beantworten;
 # ein unbeantworteter Hinweis ist ein Mangel. Siehe die Regeldateien.
 #
-# Geschrieben am: 2026-11-28T09:48:34+01:00
+# Geschrieben am: 2026-11-28T14:49:17+01:00
 
-Snapshot-Stand: 2026-11-28T09:45:01
+Snapshot-Stand: 2026-11-28T14:45:02
 🟡 GESAMTLAGE: GELB (64 %)
   🟡 Kredit: GELB (64 %)
   🟢 Funding: GRUEN (10 %)

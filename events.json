@@ -1,20 +1,57 @@
 {
-  "erstellt_am": "2026-11-28T09:45:31",
+  "erstellt_am": "2026-11-28T14:45:33",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261128084500",
+  "gkg_stand": "20261128133000",
   "veraltet": false,
-  "anzahl": 1,
+  "anzahl": 5,
   "ereignisse": [
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.2,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "pmnewsnigeria.com",
+      "url": "https://pmnewsnigeria.com/2026/11/25/israel-kills-senior-hamas-security-official-in-airstrike-on-gaza/"
+    },
+    {
+      "kategorie": "Militaer/Grossmaechte",
+      "tonalitaet": -7.0,
+      "treffer": [
+        "airstrike"
+      ],
+      "domain": "moneycontrol.com",
+      "url": "https://www.moneycontrol.com/world/myanmar-school-airstrike-kills-at-least-30-separate-wedding-house-attack-reported-amid-civil-war-article-14090887.html"
+    },
+    {
+      "kategorie": "Energie/Chokepoints",
+      "tonalitaet": -6.4,
+      "treffer": [
+        "red sea"
+      ],
+      "domain": "thegazette.com",
+      "url": "http://www.thegazette.com/news/national/doctors-without-borders-condemns-israeli-strike-that-killed-2-gaza-staff-and-other-mideast-news/article_eec30fc4-06e5-5c21-ab9a-ba8089f59eba.html"
+    },
+    {
+      "kategorie": "Policy",
+      "tonalitaet": -3.5,
+      "treffer": [
+        "sanctions"
+      ],
+      "domain": "dissexpress.co.uk",
+      "url": "https://www.dissexpress.co.uk/national/pensions-and-benefits-services-remain-down-after-cyber-incident-174885/"
+    },
     {
       "kategorie": "Policy",
       "tonalitaet": -3.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "arabnews.com",
-      "url": "https://www.arabnews.com/world/un-rapporteur-to-leave-for-mexico-after-halted-at-costa-rica-airport-3014354"
+      "domain": "dissexpress.co.uk",
+      "url": "https://www.dissexpress.co.uk/national/international-court-rejects-argentina-s-bid-to-block-falklands-oil-drilling-174884/"
     }
   ],
-  "gkg_alter_stunden": 0.0
+  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261128133000; erfolglos: 20261128134500: HTTP Error 404: Not Found",
+  "gkg_alter_stunden": 0.3
 }
