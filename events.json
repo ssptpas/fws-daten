@@ -1,75 +1,20 @@
 {
-  "erstellt_am": "2026-11-27T22:45:41",
+  "erstellt_am": "2026-11-28T09:45:31",
   "quelle": "GDELT GKG",
   "gdelt_verfuegbar": true,
-  "gkg_stand": "20261127213000",
+  "gkg_stand": "20261128084500",
   "veraltet": false,
-  "anzahl": 7,
+  "anzahl": 1,
   "ereignisse": [
     {
       "kategorie": "Policy",
-      "tonalitaet": -7.0,
+      "tonalitaet": -3.2,
       "treffer": [
         "sanctions"
       ],
-      "domain": "texasguardian.com",
-      "url": "http://www.texasguardian.com/news/279467971/wuc-urges-global-action-against-uyghur-forced-labour-after-us-trade-investigation-findings"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -6.2,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "yourdemocracy.net.au",
-      "url": "https://www.yourdemocracy.net.au/drupal/node/62016"
-    },
-    {
-      "kategorie": "Militaer/Grossmaechte",
-      "tonalitaet": -6.0,
-      "treffer": [
-        "airstrike"
-      ],
-      "domain": "klkntv.com",
-      "url": "https://www.klkntv.com/i/yemens-houthis-say-an-airstrike-killed-11-people-including-children-and-other-mideast-news/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -5.3,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "ibtimes.co.uk",
-      "url": "https://www.ibtimes.co.uk/ukraine-drone-attack-st-petersburg-leningrad-region-1835305"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.1,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "mcall.com",
-      "url": "https://www.mcall.com/2026/11/27/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports/"
-    },
-    {
-      "kategorie": "Energie/Chokepoints",
-      "tonalitaet": -5.0,
-      "treffer": [
-        "red sea"
-      ],
-      "domain": "krmg.com",
-      "url": "https://krmg.com/2026/11/27/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports/"
-    },
-    {
-      "kategorie": "Policy",
-      "tonalitaet": -4.9,
-      "treffer": [
-        "sanctions"
-      ],
-      "domain": "krmg.com",
-      "url": "https://krmg.com/2026/11/27/zelenskyy-urges-the-us-to-pressure-putin-calling-trumps-my-friend-remark-strange/"
+      "domain": "arabnews.com",
+      "url": "https://www.arabnews.com/world/un-rapporteur-to-leave-for-mexico-after-halted-at-costa-rica-airport-3014354"
     }
   ],
-  "rueckfall": "angekuendigte Datei nicht ausgeliefert, Rueckfall um 1 Viertelstunde(n) auf 20261127213000; erfolglos: 20261127214500: HTTP Error 404: Not Found",
-  "gkg_alter_stunden": 0.3
+  "gkg_alter_stunden": 0.0
 }
